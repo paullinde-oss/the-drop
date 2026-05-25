@@ -248,101 +248,78 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
 let allMovies = [];
 let searchTerm = '';
 
-
+// Dark mode
 function toggleDark() {
   const dark = document.body.classList.toggle('dark');
   localStorage.setItem('thedrop_dark', dark ? '1' : '0');
   document.getElementById('darkIcon').className = dark ? 'ti ti-sun' : 'ti ti-moon';
 }
+if (localStorage.getItem('thedrop_dark') === '1') {
+  document.body.classList.add('dark');
+  document.addEventListener('DOMContentLoaded', () => {
+    const el = document.getElementById('darkIcon');
+    if (el) el.className = 'ti ti-sun';
+  });
+}
 
-// Apply saved dark mode on load
-(function(){
-  if (localStorage.getItem('thedrop_dark') === '1') {
-    document.body.classList.add('dark');
-    document.addEventListener('DOMContentLoaded', () => {
-      const icon = document.getElementById('darkIcon');
-      if (icon) icon.className = 'ti ti-sun';
-    });
-  }
-})();
-
-// Auto-load on page open
+// Load movies from movies.json on page open
 window.addEventListener('load', () => loadMovies());
-
-
-
-
-function setStatus(msg, type) {}
-
-function setProgress(val, max) {}
 
 async function loadMovies() {
   document.getElementById('content').innerHTML = '<div class="loading-state"><div class="loading-ring"></div><div class="loading-label">Loading releases…</div></div>';
   document.getElementById('toolbar').classList.remove('visible');
   try {
-    const movies = await fetchAll();
-    allMovies = movies;
-    if (!movies || movies.length === 0) {
-      document.getElementById('content').innerHTML = '<div class="empty-state" style="padding:4rem 2.5rem"><div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:22px;font-weight:700;color:var(--text);margin-bottom:.75rem">Coming soon</div><div style="font-size:13px;color:var(--muted);line-height:1.7">The movie calendar is being built.<br>Check back shortly — it updates automatically every night.</div></div>';
+    const res = await fetch('movies.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allMovies = data.movies || data;
+    if (!allMovies || allMovies.length === 0) {
+      document.getElementById('content').innerHTML = '<div class="empty-state"><div style="font-size:20px;font-weight:700;color:var(--text);margin-bottom:.5rem">Coming soon</div><div style="font-size:13px;color:var(--muted)">The calendar is being built. Check back shortly.</div></div>';
       return;
     }
     document.getElementById('toolbar').classList.add('visible');
     renderMovies();
   } catch(e) {
-    document.getElementById('content').innerHTML = '<div class="empty-state">Could not load movies.<br><small style="color:var(--muted)">' + e.message + '</small></div>';
+    document.getElementById('content').innerHTML = '<div class="empty-state">Could not load movies: ' + e.message + '</div>';
   }
 }
 
-async function fetchAll() {
-  // Fetch pre-built movies.json generated nightly by GitHub Action
-  const res = await fetch('movies.json');
-  if (!res.ok) throw new Error('Could not load movies.json (HTTP ' + res.status + ')');
-  const data = await res.json();
-  // data has { generatedAt, count, movies[] }
-  const movies = data.movies || data;
-  return movies;
-}
-
-function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
-
 const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 const MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-const DAYS_SHORT = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+const DAYS = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
 
 function getWeek(dateStr) {
   const d = new Date(dateStr + 'T12:00:00');
-  const day = d.getDay();
-  const diff = (day + 3) % 7;
+  const diff = (d.getDay() + 3) % 7;
   const thu = new Date(d); thu.setDate(d.getDate() - diff);
   const wed = new Date(thu); wed.setDate(thu.getDate() + 6);
-  return {thu, wed};
+  return { thu, wed };
 }
 
-function fmtWeekHeader(thu, wed) {
-  const fmtD = d => DAYS_SHORT[d.getDay()] + ' ' + MONTHS_SHORT[d.getMonth()] + ' ' + d.getDate();
-  return fmtD(thu) + ' – ' + fmtD(wed);
+function fmtWeek(thu, wed) {
+  const f = d => DAYS[d.getDay()] + ' ' + MONTHS_SHORT[d.getMonth()] + ' ' + d.getDate();
+  return f(thu) + ' – ' + f(wed);
 }
 
-function fmtRelease(str) {
+function fmtDate(str) {
   const d = new Date(str + 'T12:00:00');
   return MONTHS_SHORT[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
 }
 
 function groupMovies(movies) {
-  const filtered = movies.filter(m => {
-    return !searchTerm || m.title.toLowerCase().includes(searchTerm.toLowerCase());
-  });
+  const list = searchTerm
+    ? movies.filter(m => m.title.toLowerCase().includes(searchTerm.toLowerCase()))
+    : movies;
   const tree = {};
-  for (const m of filtered) {
+  for (const m of list) {
     if (!m.releaseDate) continue;
     const d = new Date(m.releaseDate + 'T12:00:00');
     const yr = d.getFullYear(), mo = d.getMonth();
-    const {thu, wed} = getWeek(m.releaseDate);
+    const { thu, wed } = getWeek(m.releaseDate);
     const wk = thu.toISOString().split('T')[0];
-    const wkLabel = fmtWeekHeader(thu, wed);
     if (!tree[yr]) tree[yr] = {};
     if (!tree[yr][mo]) tree[yr][mo] = {};
-    if (!tree[yr][mo][wk]) tree[yr][mo][wk] = {label: wkLabel, movies: []};
+    if (!tree[yr][mo][wk]) tree[yr][mo][wk] = { label: fmtWeek(thu, wed), movies: [] };
     tree[yr][mo][wk].movies.push(m);
   }
   return tree;
@@ -354,155 +331,140 @@ function renderMovies() {
   const curYr = now.getFullYear(), curMo = now.getMonth();
   const years = Object.keys(tree).sort();
   if (!years.length) {
-    document.getElementById('content').innerHTML = '<div class="empty-state">No movies match the current filter.</div>';
+    document.getElementById('content').innerHTML = '<div class="empty-state">No movies found.</div>';
     return;
   }
-
   let html = '';
   for (const yr of years) {
     const yrN = parseInt(yr);
     const isCurYr = yrN === curYr;
-    const totalYr = Object.values(tree[yr]).reduce((s,mo)=>s+Object.values(mo).reduce((ss,wk)=>ss+wk.movies.length,0),0);
-    html += `<div class="year-block">
-      <div class="year-header" onclick="tog('Y${yr}')">
-        <span class="year-name">${yr}</span>
-        <span class="year-count">${totalYr} film${totalYr!==1?'s':''}</span>
-        <i class="ti ti-chevron-down year-toggle ${isCurYr?'open':''}" id="chY${yr}" aria-hidden="true"></i>
-      </div>
-      <div class="year-body ${isCurYr?'open':''}" id="Y${yr}">`;
+    const totalYr = Object.values(tree[yr]).reduce((s, mo) => s + Object.values(mo).reduce((ss, wk) => ss + wk.movies.length, 0), 0);
+    html += '<div class="year-block">'
+      + '<div class="year-header" onclick="tog('Y' + yr + '')">'
+      + '<span class="year-name">' + yr + '</span>'
+      + '<span class="year-count">' + totalYr + ' film' + (totalYr !== 1 ? 's' : '') + '</span>'
+      + '<i class="ti ti-chevron-down year-toggle ' + (isCurYr ? 'open' : '') + '" id="chY' + yr + '" aria-hidden="true"></i>'
+      + '</div>'
+      + '<div class="year-body ' + (isCurYr ? 'open' : '') + '" id="Y' + yr + '">';
 
-    for (const mo of Object.keys(tree[yr]).sort((a,b)=>a-b)) {
+    for (const mo of Object.keys(tree[yr]).sort((a, b) => a - b)) {
       const moN = parseInt(mo);
       const isCurMo = isCurYr && moN === curMo;
-      const totalMo = Object.values(tree[yr][mo]).reduce((s,wk)=>s+wk.movies.length,0);
-      html += `<div class="month-block">
-        <div class="month-header" onclick="tog('M${yr}_${mo}')">
-          <span class="month-name">${MONTHS[moN]}</span>
-          <span class="month-count">${totalMo} film${totalMo!==1?'s':''}</span>
-          <i class="ti ti-chevron-down month-toggle ${isCurMo?'open':''}" id="chM${yr}_${mo}" aria-hidden="true"></i>
-        </div>
-        <div class="month-body ${isCurMo?'open':''}" id="M${yr}_${mo}">`;
+      const totalMo = Object.values(tree[yr][mo]).reduce((s, wk) => s + wk.movies.length, 0);
+      html += '<div class="month-block">'
+        + '<div class="month-header" onclick="tog('M' + yr + '_' + mo + '')">'
+        + '<span class="month-name">' + MONTHS[moN] + '</span>'
+        + '<span class="month-count">' + totalMo + ' film' + (totalMo !== 1 ? 's' : '') + '</span>'
+        + '<i class="ti ti-chevron-down month-toggle ' + (isCurMo ? 'open' : '') + '" id="chM' + yr + '_' + mo + '" aria-hidden="true"></i>'
+        + '</div>'
+        + '<div class="month-body ' + (isCurMo ? 'open' : '') + '" id="M' + yr + '_' + mo + '">';
 
       for (const wk of Object.keys(tree[yr][mo]).sort()) {
         const wkData = tree[yr][mo][wk];
-        const wkId = 'W' + wk.replace(/-/g,'');
-        html += `<div class="week-block">
-          <div class="week-header" onclick="tog('${wkId}')">
-            <span class="week-dates">${wkData.label}</span>
-            <span class="week-rule"></span>
-            <span class="week-count">${wkData.movies.length} film${wkData.movies.length!==1?'s':''}</span>
-            <i class="ti ti-chevron-down week-toggle open" id="ch${wkId}" aria-hidden="true"></i>
-          </div>
-          <div class="week-body open" id="${wkId}">`;
+        const wkId = 'W' + wk.replace(/-/g, '');
+        html += '<div class="week-block">'
+          + '<div class="week-header" onclick="tog('' + wkId + '')">'
+          + '<span class="week-dates">' + wkData.label + '</span>'
+          + '<span class="week-rule"></span>'
+          + '<span class="week-count">' + wkData.movies.length + ' film' + (wkData.movies.length !== 1 ? 's' : '') + '</span>'
+          + '<i class="ti ti-chevron-down week-toggle open" id="ch' + wkId + '" aria-hidden="true"></i>'
+          + '</div>'
+          + '<div class="week-body open" id="' + wkId + '">';
 
         for (const m of wkData.movies) {
           const fmt = m.format || 'theatrical';
-          const bc = fmt==='theatrical'?'badge-wide':fmt==='streaming'?'badge-streaming':fmt==='digital'?'badge-digital':fmt==='physical'?'badge-physical':'badge-limited';
-          const bl = fmt.charAt(0).toUpperCase()+fmt.slice(1);
-          const lbUrl = 'https://letterboxd.com/search/'+encodeURIComponent(m.title)+'/';
-          const imdbUrl = 'https://www.imdb.com/find/?q='+encodeURIComponent(m.title);
-          const tmdbUrl = 'https://www.themoviedb.org/movie/'+m.id;
-          const dirHTML = m.directorStr ? `<span><span class="credit-label">Dir.</span> <span class="credit-val">${m.directorStr}</span></span>` : '';
-          const stuHTML = m.studioStr ? `<span><span class="credit-label">Studio</span> <span class="credit-val">${m.studioStr}</span></span>` : '';
+          const bc = fmt === 'streaming' ? 'badge-streaming' : fmt === 'digital' ? 'badge-digital' : fmt === 'physical' ? 'badge-physical' : 'badge-theatrical';
+          const bl = fmt.charAt(0).toUpperCase() + fmt.slice(1);
+          const lbUrl = 'https://letterboxd.com/search/' + encodeURIComponent(m.title) + '/';
+          const imdbUrl = 'https://www.imdb.com/find/?q=' + encodeURIComponent(m.title);
+          const safeTitle = m.title.replace(/\/g, '\\').replace(/`/g, "'").replace(/"/g, '&quot;');
+          const dirHTML = m.directorStr ? '<span><span class="credit-label">Dir.</span> <span class="credit-val">' + m.directorStr + '</span></span>' : '';
+          const stuHTML = m.studioStr ? '<span><span class="credit-label">Studio</span> <span class="credit-val">' + m.studioStr + '</span></span>' : '';
 
-          html += `<div class="movie-card">
-            <div class="movie-poster-col">
-              <div class="movie-poster-wrap">
-                ${m.poster
-                  ? `<img class="movie-poster-img" src="${m.poster}" alt="" loading="lazy" onerror="this.parentNode.innerHTML='<i class=\\'ti ti-movie no-poster\\' aria-hidden=\\'true\\'></i>'">`
-                  : `<i class="ti ti-movie no-poster" aria-hidden="true"></i>`}
-              </div>
-            </div>
-            <div class="movie-main">
-              <div class="movie-top">
-                <span class="movie-title" title="${m.title.replace(/"/g,'')}">${m.title}</span>
-                <span class="badge ${bc}">${bl}</span>
-                <span class="movie-date-inline">${fmtRelease(m.releaseDate)}</span>
-              </div>
-              ${(dirHTML||stuHTML) ? `<div class="movie-credits">${dirHTML}${stuHTML}</div>` : ''}
-              <div class="movie-links">
-                <a class="movie-link" href="${lbUrl}" target="_blank" rel="noopener"><i class="ti ti-movie" aria-hidden="true"></i>Letterboxd</a>
-                <a class="movie-link" href="${imdbUrl}" target="_blank" rel="noopener"><i class="ti ti-star" aria-hidden="true"></i>IMDb</a>
-                <button class="movie-link trailer-btn" onclick="openTrailer(${m.id}, \`${m.title.replace(/`/g,"'")}\`)" style="cursor:pointer;background:none"><i class="ti ti-player-play" aria-hidden="true"></i>Trailer</button>
-              </div>
-            </div>
-          </div>`;
+          html += '<div class="movie-card">'
+            + '<div class="movie-poster-col"><div class="movie-poster-wrap">'
+            + (m.poster ? '<img class="movie-poster-img" src="' + m.poster + '" alt="" loading="lazy">' : '<i class="ti ti-movie no-poster" aria-hidden="true"></i>')
+            + '</div></div>'
+            + '<div class="movie-main">'
+            + '<div class="movie-top">'
+            + '<span class="movie-title" title="' + safeTitle + '">' + m.title + '</span>'
+            + '<span class="badge ' + bc + '">' + bl + '</span>'
+            + '<span class="movie-date-inline">' + fmtDate(m.releaseDate) + '</span>'
+            + '</div>'
+            + ((dirHTML || stuHTML) ? '<div class="movie-credits">' + dirHTML + stuHTML + '</div>' : '')
+            + '<div class="movie-links">'
+            + '<a class="movie-link" href="' + lbUrl + '" target="_blank" rel="noopener"><i class="ti ti-movie" aria-hidden="true"></i>Letterboxd</a>'
+            + '<a class="movie-link" href="' + imdbUrl + '" target="_blank" rel="noopener"><i class="ti ti-star" aria-hidden="true"></i>IMDb</a>'
+            + '<button class="movie-link trailer-btn" onclick="openTrailer(' + m.id + ','' + safeTitle + '')" style="cursor:pointer;background:none"><i class="ti ti-player-play" aria-hidden="true"></i>Trailer</button>'
+            + '</div>'
+            + '</div>'
+            + '</div>';
         }
-        html += `</div></div>`;
+        html += '</div></div>';
       }
-      html += `</div></div>`;
+      html += '</div></div>';
     }
-    html += `</div></div>`;
+    html += '</div></div>';
   }
   document.getElementById('content').innerHTML = html;
 }
 
 function tog(id) {
   const body = document.getElementById(id);
-  const chev = document.getElementById('ch'+id);
+  const chev = document.getElementById('ch' + id);
   if (!body) return;
   const open = body.classList.toggle('open');
   if (chev) chev.classList.toggle('open', open);
 }
 
 function toggleAll(open) {
-  document.querySelectorAll('.year-body,.month-body,.week-body').forEach(el=>el.classList.toggle('open',open));
-  document.querySelectorAll('.year-toggle,.month-toggle,.week-toggle').forEach(el=>el.classList.toggle('open',open));
+  document.querySelectorAll('.year-body,.month-body,.week-body').forEach(el => el.classList.toggle('open', open));
+  document.querySelectorAll('.year-toggle,.month-toggle,.week-toggle').forEach(el => el.classList.toggle('open', open));
 }
-
 
 function filterMovies() {
   searchTerm = document.getElementById('searchInput').value;
   renderMovies();
 }
 
-// TRAILER PLAYER
+// Trailer player
 const trailerCache = {};
+const TMDB_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
 
 async function openTrailer(movieId, title) {
   const overlay = document.getElementById('trailerOverlay');
   const frame = document.getElementById('trailerFrame');
   const titleEl = document.getElementById('trailerTitle');
   const loading = document.getElementById('trailerLoading');
-
   titleEl.textContent = title;
   frame.src = '';
   loading.style.display = 'flex';
   loading.textContent = 'Finding trailer…';
   overlay.classList.add('open');
   document.body.style.overflow = 'hidden';
-
   try {
-    let videoKey = trailerCache[movieId];
-    if (!videoKey) {
-      const apiKey = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
-      const url = `https://api.themoviedb.org/3/movie/${movieId}/videos`;
-      const res = await fetch(url, {headers:{'Authorization':'Bearer '+apiKey}});
+    let key = trailerCache[movieId];
+    if (!key) {
+      const res = await fetch('https://api.themoviedb.org/3/movie/' + movieId + '/videos', {
+        headers: { 'Authorization': 'Bearer ' + TMDB_TOKEN }
+      });
       const data = await res.json();
-      const videos = data.results || [];
-
-      // Priority: Official Trailer > Trailer > Teaser > Clip — highest quality (HD preferred)
-      const priority = ['Official Trailer','Trailer','Teaser','Clip','Featurette'];
+      const videos = (data.results || []).filter(v => v.site === 'YouTube');
+      const priority = ['Official Trailer', 'Trailer', 'Teaser', 'Clip', 'Featurette'];
       let best = null;
       for (const type of priority) {
-        const matches = videos.filter(v => v.site === 'YouTube' && v.type === type);
+        const matches = videos.filter(v => v.type === type);
         if (matches.length) {
-          // prefer HD (1080 or 720), then latest
-          best = matches.sort((a,b) => {
-            const qa = a.official ? 1 : 0, qb = b.official ? 1 : 0;
-            if (qa !== qb) return qb - qa;
-            return new Date(b.published_at||0) - new Date(a.published_at||0);
-          })[0];
+          best = matches.sort((a, b) => (b.official ? 1 : 0) - (a.official ? 1 : 0) || new Date(b.published_at || 0) - new Date(a.published_at || 0))[0];
           break;
         }
       }
-      videoKey = best ? best.key : null;
-      trailerCache[movieId] = videoKey;
+      key = best ? best.key : null;
+      trailerCache[movieId] = key;
     }
-
-    if (videoKey) {
+    if (key) {
       loading.style.display = 'none';
-      frame.src = `https://www.youtube.com/embed/${videoKey}?autoplay=1&rel=0&modestbranding=1`;
+      frame.src = 'https://www.youtube.com/embed/' + key + '?autoplay=1&rel=0&modestbranding=1';
     } else {
       loading.textContent = 'No trailer available yet.';
     }
@@ -512,10 +474,8 @@ async function openTrailer(movieId, title) {
 }
 
 function closeTrailerDirect() {
-  const overlay = document.getElementById('trailerOverlay');
-  const frame = document.getElementById('trailerFrame');
-  overlay.classList.remove('open');
-  frame.src = '';
+  document.getElementById('trailerOverlay').classList.remove('open');
+  document.getElementById('trailerFrame').src = '';
   document.body.style.overflow = '';
 }
 
