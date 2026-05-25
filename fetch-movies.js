@@ -178,7 +178,8 @@ async function fetchAllMovies() {
         format,
         directorStr,
         studioStr,
-        prestige
+        prestige,
+        imdbId: m.imdbId || null
       };
     }));
 

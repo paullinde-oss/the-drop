@@ -442,16 +442,26 @@ function renderMovies() {
           const links = document.createElement('div');
           links.className = 'movie-links';
 
+          // Letterboxd slug: lowercase, strip special chars, replace spaces with hyphens
+          // e.g. "The Simpsons Movie 2" -> "the-simpsons-movie-2"
+          const lbSlug = m.title
+            .toLowerCase()
+            .replace(/&/g, 'and')
+            .replace(/[^a-z0-9\s-]/g, '')
+            .trim()
+            .replace(/\s+/g, '-');
           const lbLink = document.createElement('a');
           lbLink.className = 'movie-link';
-          lbLink.href = 'https://letterboxd.com/search/' + encodeURIComponent(m.title) + '/';
+          lbLink.href = 'https://letterboxd.com/film/' + lbSlug + '/';
           lbLink.target = '_blank';
           lbLink.rel = 'noopener';
           lbLink.innerHTML = '<i class="ti ti-movie" aria-hidden="true"></i>Letterboxd';
 
           const imdbLink = document.createElement('a');
           imdbLink.className = 'movie-link';
-          imdbLink.href = 'https://www.imdb.com/find/?q=' + encodeURIComponent(m.title);
+          imdbLink.href = m.imdbId
+            ? 'https://www.imdb.com/title/' + m.imdbId + '/'
+            : 'https://www.imdb.com/find/?q=' + encodeURIComponent(m.title);
           imdbLink.target = '_blank';
           imdbLink.rel = 'noopener';
           imdbLink.innerHTML = '<i class="ti ti-star" aria-hidden="true"></i>IMDb';
