@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T08:18:49.442Z",
-  "count": 230,
+  "generatedAt": "2026-05-25T08:36:41.353Z",
+  "count": 222,
   "movies": [
     {
       "id": 1318413,
@@ -73,18 +73,6 @@
       "studioStr": "Escape Artists / Mattel Studios",
       "prestige": true,
       "imdbId": "tt0427340"
-    },
-    {
-      "id": 1523377,
-      "title": "Garuda: Dare to Dream",
-      "releaseDate": "2026-06-11",
-      "poster": "https://image.tmdb.org/t/p/w92/9HD51PdRXC8prfTIu6qyp6hVPFT.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ronny Gani",
-      "studioStr": "BASE Entertainment / PK Films",
-      "prestige": true,
-      "imdbId": "tt33571304"
     },
     {
       "id": 1280738,
@@ -327,18 +315,6 @@
       "imdbId": null
     },
     {
-      "id": 1122030,
-      "title": "Alpha",
-      "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/iMJPXq0t8XiXrfOm7j9tlaeCQSM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Shiv Rawail",
-      "studioStr": "Yash Raj Films",
-      "prestige": true,
-      "imdbId": "tt28363783"
-    },
-    {
       "id": 1437873,
       "title": "Band Together",
       "releaseDate": "2026-07-16",
@@ -565,18 +541,6 @@
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": "tt39400168"
-    },
-    {
-      "id": 1234139,
-      "title": "Jailer 2",
-      "releaseDate": "2026-08-12",
-      "poster": "https://image.tmdb.org/t/p/w92/9tTHcPNt6OgkTVzGu4gwVQDFRWr.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Nelson Dilipkumar",
-      "studioStr": "Sun Pictures",
-      "prestige": true,
-      "imdbId": "tt33318732"
     },
     {
       "id": 1185806,
@@ -891,18 +855,6 @@
       "imdbId": "tt36841161"
     },
     {
-      "id": 1654566,
-      "title": "Vibe",
-      "releaseDate": "2026-09-18",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kunal Khemu",
-      "studioStr": "Drongo Films / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt40856286"
-    },
-    {
       "id": 1507877,
       "title": "Another Day",
       "releaseDate": "2026-09-23",
@@ -1009,18 +961,6 @@
       "studioStr": "Warner Bros. Pictures / Legendary Pictures",
       "prestige": true,
       "imdbId": "tt31450459"
-    },
-    {
-      "id": 1269325,
-      "title": "Drishyam 3",
-      "releaseDate": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w92/43HEnZBiZ0MZUbtBxMwnrvJNlt.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Abhishek Pathak",
-      "studioStr": "Viacom18 Studios / Panorama Studios",
-      "prestige": true,
-      "imdbId": "tt27050858"
     },
     {
       "id": 1433164,
@@ -1189,18 +1129,6 @@
       "studioStr": "Capcom / Legendary Pictures",
       "prestige": true,
       "imdbId": "tt27419420"
-    },
-    {
-      "id": 1479690,
-      "title": "RaftaaR",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/srvDYDyaYTh27ObUvOcggyT1ZGn.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Aditya Nimbalkar",
-      "studioStr": "Kampa Films / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt34986731"
     },
     {
       "id": 1505487,
@@ -1671,18 +1599,6 @@
       "imdbId": "tt41328385"
     },
     {
-      "id": 1554131,
-      "title": "Sherawali Maa Ka Chuninda : Part I",
-      "releaseDate": "2027-01-13",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ali Abbas Zafar",
-      "studioStr": "Yash Raj Films",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1571904,
       "title": "Die Jahre mit dir",
       "releaseDate": "2027-01-14",
@@ -1717,18 +1633,6 @@
       "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
       "prestige": true,
       "imdbId": "tt6779038"
-    },
-    {
-      "id": 1631474,
-      "title": "Vaasivaadi Tassadiyya",
-      "releaseDate": "2027-01-15",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kalyan Krishna",
-      "studioStr": "Annapurna Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1508855,
