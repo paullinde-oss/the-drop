@@ -79,6 +79,15 @@ function isNoise(m, details) {
   // Exclude documentaries unless high popularity
   if (genres.includes('documentary') && (m.popularity || 0) < 15) return true;
 
+  // Exclude if title has no English variant and original language is not English
+  if (m.original_language !== 'en') {
+    const hasEnglishTitle = details && details.translations &&
+      (details.translations.translations || []).some(t =>
+        t.iso_639_1 === 'en' && t.data && t.data.title && t.data.title.trim() !== ''
+      );
+    if (!hasEnglishTitle) return true;
+  }
+
   return false;
 }
 
@@ -239,7 +248,7 @@ async function fetchAllMovies() {
     const results = await Promise.all(batch.map(async m => {
       try {
         const [details, credits, relDates] = await Promise.all([
-          tmdb('/movie/' + m.id + '?append_to_response=release_dates'),
+          tmdb('/movie/' + m.id + '?append_to_response=release_dates,translations'),
           tmdb('/movie/' + m.id + '/credits'),
           tmdb('/movie/' + m.id + '/release_dates')
         ]);
