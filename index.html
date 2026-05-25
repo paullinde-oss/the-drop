@@ -292,7 +292,7 @@ function toggleDark() {
 })();
 
 // Auto-load movies on page ready
-document.addEventListener('DOMContentLoaded', () => loadMovies());
+window.addEventListener('load', () => loadMovies());
 
 
 
@@ -310,25 +310,19 @@ function setProgress(val, max) {
 }
 
 async function loadMovies() {
-  const key = 'hardcoded';
-  const btn = document.getElementById('loadBtn');
-  btn.disabled = true; btn.textContent = 'Loading…';
-  setStatus('Connecting…', 'loading');
+  setStatus('Loading releases…', 'loading');
   document.getElementById('content').innerHTML = '<div class="loading-state"><div class="loading-ring"></div><div class="loading-label">Fetching upcoming releases…</div></div>';
   document.getElementById('toolbar').classList.remove('visible');
   try {
-    const movies = await fetchAll(key);
+    const movies = await fetchAll();
     allMovies = movies;
     setStatus(movies.length + ' releases loaded · ' + new Date().toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}), 'success');
     document.getElementById('toolbar').classList.add('visible');
-    // Close settings after successful load
-
     renderMovies();
   } catch(e) {
     setStatus('Error: ' + e.message, 'error');
     document.getElementById('content').innerHTML = '<div class="empty-state">Could not load movies.<br><small style="color:var(--muted)">' + e.message + '</small></div>';
   }
-  btn.disabled = false; btn.textContent = 'Reload';
   setProgress(100,100);
 }
 
@@ -351,9 +345,9 @@ function isPrestigeStudio(companiesArr) {
   });
 }
 
-async function fetchAll(key) {
+async function fetchAll() {
   // API token hardcoded — read-only public key
-  key = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
+  const key = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
   const isToken = true;
   const headers = {'Authorization':'Bearer '+key,'Content-Type':'application/json'};
   const today = new Date();
@@ -470,13 +464,13 @@ async function fetchAll(key) {
   movies.sort((a,b) => a.releaseDate.localeCompare(b.releaseDate));
 
   // Fetch director + studio in batches
-  await fetchDetailsInBatches(movies, key, isToken);
+  await fetchDetailsInBatches(movies);
   return movies;
 }
 
-async function fetchDetailsInBatches(movies, key, isToken) {
-  key = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
-  isToken = true;
+async function fetchDetailsInBatches(movies) {
+  const key = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
+  const isToken = true;
   const headers = {'Authorization':'Bearer '+key};
   const batchSize = 8;
   for (let i = 0; i < movies.length; i += batchSize) {
