@@ -330,83 +330,169 @@ function renderMovies() {
   const now = new Date();
   const curYr = now.getFullYear(), curMo = now.getMonth();
   const years = Object.keys(tree).sort();
+  const container = document.getElementById('content');
+  container.innerHTML = '';
   if (!years.length) {
-    document.getElementById('content').innerHTML = '<div class="empty-state">No movies found.</div>';
+    container.innerHTML = '<div class="empty-state">No movies found.</div>';
     return;
   }
-  let html = '';
+
   for (const yr of years) {
     const yrN = parseInt(yr);
     const isCurYr = yrN === curYr;
-    const totalYr = Object.values(tree[yr]).reduce((s, mo) => s + Object.values(mo).reduce((ss, wk) => ss + wk.movies.length, 0), 0);
-    html += '<div class="year-block">'
-      + '<div class="year-header" onclick="tog('Y' + yr + '')">'
-      + '<span class="year-name">' + yr + '</span>'
-      + '<span class="year-count">' + totalYr + ' film' + (totalYr !== 1 ? 's' : '') + '</span>'
-      + '<i class="ti ti-chevron-down year-toggle ' + (isCurYr ? 'open' : '') + '" id="chY' + yr + '" aria-hidden="true"></i>'
-      + '</div>'
-      + '<div class="year-body ' + (isCurYr ? 'open' : '') + '" id="Y' + yr + '">';
+    const totalYr = Object.values(tree[yr]).reduce((s,mo)=>s+Object.values(mo).reduce((ss,wk)=>ss+wk.movies.length,0),0);
 
-    for (const mo of Object.keys(tree[yr]).sort((a, b) => a - b)) {
+    const yBlock = document.createElement('div');
+    yBlock.className = 'year-block';
+
+    const yHead = document.createElement('div');
+    yHead.className = 'year-header';
+    yHead.innerHTML = '<span class="year-name">' + yr + '</span>'
+      + '<span class="year-count">' + totalYr + ' film' + (totalYr!==1?'s':'') + '</span>'
+      + '<i class="ti ti-chevron-down year-toggle ' + (isCurYr?'open':'') + '" id="chY' + yr + '" aria-hidden="true"></i>';
+    yHead.onclick = function(){ tog('Y' + yr); };
+
+    const yBody = document.createElement('div');
+    yBody.className = 'year-body' + (isCurYr?' open':'');
+    yBody.id = 'Y' + yr;
+
+    for (const mo of Object.keys(tree[yr]).sort((a,b)=>a-b)) {
       const moN = parseInt(mo);
       const isCurMo = isCurYr && moN === curMo;
-      const totalMo = Object.values(tree[yr][mo]).reduce((s, wk) => s + wk.movies.length, 0);
-      html += '<div class="month-block">'
-        + '<div class="month-header" onclick="tog('M' + yr + '_' + mo + '')">'
-        + '<span class="month-name">' + MONTHS[moN] + '</span>'
-        + '<span class="month-count">' + totalMo + ' film' + (totalMo !== 1 ? 's' : '') + '</span>'
-        + '<i class="ti ti-chevron-down month-toggle ' + (isCurMo ? 'open' : '') + '" id="chM' + yr + '_' + mo + '" aria-hidden="true"></i>'
-        + '</div>'
-        + '<div class="month-body ' + (isCurMo ? 'open' : '') + '" id="M' + yr + '_' + mo + '">';
+      const totalMo = Object.values(tree[yr][mo]).reduce((s,wk)=>s+wk.movies.length,0);
+
+      const mBlock = document.createElement('div');
+      mBlock.className = 'month-block';
+
+      const mHead = document.createElement('div');
+      mHead.className = 'month-header';
+      mHead.innerHTML = '<span class="month-name">' + MONTHS[moN] + '</span>'
+        + '<span class="month-count">' + totalMo + ' film' + (totalMo!==1?'s':'') + '</span>'
+        + '<i class="ti ti-chevron-down month-toggle ' + (isCurMo?'open':'') + '" id="chM' + yr + '_' + mo + '" aria-hidden="true"></i>';
+      mHead.onclick = function(){ tog('M' + yr + '_' + mo); };
+
+      const mBody = document.createElement('div');
+      mBody.className = 'month-body' + (isCurMo?' open':'');
+      mBody.id = 'M' + yr + '_' + mo;
 
       for (const wk of Object.keys(tree[yr][mo]).sort()) {
         const wkData = tree[yr][mo][wk];
-        const wkId = 'W' + wk.replace(/-/g, '');
-        html += '<div class="week-block">'
-          + '<div class="week-header" onclick="tog('' + wkId + '')">'
-          + '<span class="week-dates">' + wkData.label + '</span>'
+        const wkId = 'W' + wk.replace(/-/g,'');
+
+        const wBlock = document.createElement('div');
+        wBlock.className = 'week-block';
+
+        const wHead = document.createElement('div');
+        wHead.className = 'week-header';
+        wHead.innerHTML = '<span class="week-dates">' + wkData.label + '</span>'
           + '<span class="week-rule"></span>'
-          + '<span class="week-count">' + wkData.movies.length + ' film' + (wkData.movies.length !== 1 ? 's' : '') + '</span>'
-          + '<i class="ti ti-chevron-down week-toggle open" id="ch' + wkId + '" aria-hidden="true"></i>'
-          + '</div>'
-          + '<div class="week-body open" id="' + wkId + '">';
+          + '<span class="week-count">' + wkData.movies.length + ' film' + (wkData.movies.length!==1?'s':'') + '</span>'
+          + '<i class="ti ti-chevron-down week-toggle open" id="ch' + wkId + '" aria-hidden="true"></i>';
+        wHead.onclick = (function(id){ return function(){ tog(id); }; })(wkId);
+
+        const wBody = document.createElement('div');
+        wBody.className = 'week-body open';
+        wBody.id = wkId;
 
         for (const m of wkData.movies) {
           const fmt = m.format || 'theatrical';
-          const bc = fmt === 'streaming' ? 'badge-streaming' : fmt === 'digital' ? 'badge-digital' : fmt === 'physical' ? 'badge-physical' : 'badge-theatrical';
-          const bl = fmt.charAt(0).toUpperCase() + fmt.slice(1);
-          const lbUrl = 'https://letterboxd.com/search/' + encodeURIComponent(m.title) + '/';
-          const imdbUrl = 'https://www.imdb.com/find/?q=' + encodeURIComponent(m.title);
-          const safeTitle = m.title.replace(/\/g, '\\').replace(/`/g, "'").replace(/"/g, '&quot;');
-          const dirHTML = m.directorStr ? '<span><span class="credit-label">Dir.</span> <span class="credit-val">' + m.directorStr + '</span></span>' : '';
-          const stuHTML = m.studioStr ? '<span><span class="credit-label">Studio</span> <span class="credit-val">' + m.studioStr + '</span></span>' : '';
+          const bc = fmt==='streaming'?'badge-streaming':fmt==='digital'?'badge-digital':fmt==='physical'?'badge-physical':'badge-theatrical';
+          const bl = fmt.charAt(0).toUpperCase()+fmt.slice(1);
 
-          html += '<div class="movie-card">'
-            + '<div class="movie-poster-col"><div class="movie-poster-wrap">'
-            + (m.poster ? '<img class="movie-poster-img" src="' + m.poster + '" alt="" loading="lazy">' : '<i class="ti ti-movie no-poster" aria-hidden="true"></i>')
-            + '</div></div>'
-            + '<div class="movie-main">'
-            + '<div class="movie-top">'
-            + '<span class="movie-title" title="' + safeTitle + '">' + m.title + '</span>'
-            + '<span class="badge ' + bc + '">' + bl + '</span>'
-            + '<span class="movie-date-inline">' + fmtDate(m.releaseDate) + '</span>'
-            + '</div>'
-            + ((dirHTML || stuHTML) ? '<div class="movie-credits">' + dirHTML + stuHTML + '</div>' : '')
-            + '<div class="movie-links">'
-            + '<a class="movie-link" href="' + lbUrl + '" target="_blank" rel="noopener"><i class="ti ti-movie" aria-hidden="true"></i>Letterboxd</a>'
-            + '<a class="movie-link" href="' + imdbUrl + '" target="_blank" rel="noopener"><i class="ti ti-star" aria-hidden="true"></i>IMDb</a>'
-            + '<button class="movie-link trailer-btn" onclick="openTrailer(' + m.id + ','' + safeTitle + '')" style="cursor:pointer;background:none"><i class="ti ti-player-play" aria-hidden="true"></i>Trailer</button>'
-            + '</div>'
-            + '</div>'
-            + '</div>';
+          const card = document.createElement('div');
+          card.className = 'movie-card';
+
+          const posterCol = document.createElement('div');
+          posterCol.className = 'movie-poster-col';
+          const posterWrap = document.createElement('div');
+          posterWrap.className = 'movie-poster-wrap';
+          if (m.poster) {
+            const img = document.createElement('img');
+            img.className = 'movie-poster-img';
+            img.src = m.poster;
+            img.alt = '';
+            img.loading = 'lazy';
+            posterWrap.appendChild(img);
+          } else {
+            posterWrap.innerHTML = '<i class="ti ti-movie no-poster" aria-hidden="true"></i>';
+          }
+          posterCol.appendChild(posterWrap);
+
+          const main = document.createElement('div');
+          main.className = 'movie-main';
+
+          const top = document.createElement('div');
+          top.className = 'movie-top';
+          const titleSpan = document.createElement('span');
+          titleSpan.className = 'movie-title';
+          titleSpan.title = m.title;
+          titleSpan.textContent = m.title;
+          const badge = document.createElement('span');
+          badge.className = 'badge ' + bc;
+          badge.textContent = bl;
+          const dateSpan = document.createElement('span');
+          dateSpan.className = 'movie-date-inline';
+          dateSpan.textContent = fmtDate(m.releaseDate);
+          top.appendChild(titleSpan);
+          top.appendChild(badge);
+          top.appendChild(dateSpan);
+
+          const credits = document.createElement('div');
+          credits.className = 'movie-credits';
+          if (m.directorStr) credits.innerHTML += '<span><span class="credit-label">Dir.</span> <span class="credit-val">' + m.directorStr + '</span></span>';
+          if (m.studioStr) credits.innerHTML += '<span><span class="credit-label">Studio</span> <span class="credit-val">' + m.studioStr + '</span></span>';
+
+          const links = document.createElement('div');
+          links.className = 'movie-links';
+
+          const lbLink = document.createElement('a');
+          lbLink.className = 'movie-link';
+          lbLink.href = 'https://letterboxd.com/search/' + encodeURIComponent(m.title) + '/';
+          lbLink.target = '_blank';
+          lbLink.rel = 'noopener';
+          lbLink.innerHTML = '<i class="ti ti-movie" aria-hidden="true"></i>Letterboxd';
+
+          const imdbLink = document.createElement('a');
+          imdbLink.className = 'movie-link';
+          imdbLink.href = 'https://www.imdb.com/find/?q=' + encodeURIComponent(m.title);
+          imdbLink.target = '_blank';
+          imdbLink.rel = 'noopener';
+          imdbLink.innerHTML = '<i class="ti ti-star" aria-hidden="true"></i>IMDb';
+
+          const trailerBtn = document.createElement('button');
+          trailerBtn.className = 'movie-link trailer-btn';
+          trailerBtn.style.cursor = 'pointer';
+          trailerBtn.style.background = 'none';
+          trailerBtn.innerHTML = '<i class="ti ti-player-play" aria-hidden="true"></i>Trailer';
+          trailerBtn.onclick = (function(id, t){ return function(){ openTrailer(id, t); }; })(m.id, m.title);
+
+          links.appendChild(lbLink);
+          links.appendChild(imdbLink);
+          links.appendChild(trailerBtn);
+
+          main.appendChild(top);
+          if (m.directorStr || m.studioStr) main.appendChild(credits);
+          main.appendChild(links);
+
+          card.appendChild(posterCol);
+          card.appendChild(main);
+          wBody.appendChild(card);
         }
-        html += '</div></div>';
+
+        wBlock.appendChild(wHead);
+        wBlock.appendChild(wBody);
+        mBody.appendChild(wBlock);
       }
-      html += '</div></div>';
+
+      mBlock.appendChild(mHead);
+      mBlock.appendChild(mBody);
+      yBody.appendChild(mBlock);
     }
-    html += '</div></div>';
+
+    yBlock.appendChild(yHead);
+    yBlock.appendChild(yBody);
+    container.appendChild(yBlock);
   }
-  document.getElementById('content').innerHTML = html;
 }
 
 function tog(id) {
