@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T05:30:47.631Z",
-  "count": 206,
+  "generatedAt": "2026-05-25T05:51:19.241Z",
+  "count": 264,
   "movies": [
     {
       "id": 1057265,
@@ -2043,6 +2043,126 @@
       "prestige": false
     },
     {
+      "id": 1682648,
+      "title": "The Current",
+      "releaseDate": "2028-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/fwVf2pJf6z2Y9P4NPTPXMAiGAX2.jpg",
+      "format": "digital",
+      "directorStr": "Randy Smith",
+      "studioStr": "Ghost Productions",
+      "prestige": false
+    },
+    {
+      "id": 1657157,
+      "title": "Cuckoo",
+      "releaseDate": "2028-01-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Luke J Carr",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1656677,
+      "title": "Ordinary Heroes",
+      "releaseDate": "2028-01-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Frasier Perez",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1643101,
+      "title": "Untitled Feature Baseball Documentary",
+      "releaseDate": "2028-01-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Josh Matejka",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1436525,
+      "title": "Escape From Letterkenny",
+      "releaseDate": "2028-01-13",
+      "poster": "https://image.tmdb.org/t/p/w92/bTlih7I3pqlRIQ5JcMuXOuPouPW.jpg",
+      "format": "theatrical",
+      "directorStr": "Bill Hazzard",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1671441,
+      "title": "Untitled Longlegs Film",
+      "releaseDate": "2028-01-14",
+      "poster": "https://image.tmdb.org/t/p/w92/5qfQvRmYCgPXHwmZAWGWgEDVNuZ.jpg",
+      "format": "theatrical",
+      "directorStr": "Osgood Perkins",
+      "studioStr": "Phobos / Range Media Partners",
+      "prestige": true
+    },
+    {
+      "id": 1188748,
+      "title": "Murder, She Wrote",
+      "releaseDate": "2028-02-03",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Jason Moore",
+      "studioStr": "Pascal Pictures / Universal Pictures",
+      "prestige": true
+    },
+    {
+      "id": 1625381,
+      "title": "Heart Eyes 2",
+      "releaseDate": "2028-02-10",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Josh Ruben",
+      "studioStr": "Paramount Pictures / Spyglass Media Group",
+      "prestige": true
+    },
+    {
+      "id": 1388496,
+      "title": "Grandgear",
+      "releaseDate": "2028-02-18",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Takashi Yamazaki",
+      "studioStr": "Sony Pictures / Bad Robot",
+      "prestige": true
+    },
+    {
+      "id": 1485839,
+      "title": "Elden Ring",
+      "releaseDate": "2028-03-03",
+      "poster": "https://image.tmdb.org/t/p/w92/3ApvUAl0aw6TKKLkJH3IrEzPpIf.jpg",
+      "format": "theatrical",
+      "directorStr": "Alex Garland",
+      "studioStr": "A24 / DNA Films",
+      "prestige": true
+    },
+    {
+      "id": 1647603,
+      "title": "Ono Ghost Market",
+      "releaseDate": "2028-03-10",
+      "poster": "https://image.tmdb.org/t/p/w92/6Yf4Yn1UaI3eJN6T14dvSluf56H.jpg",
+      "format": "theatrical",
+      "directorStr": "Trevor Jimenez",
+      "studioStr": "Pixar",
+      "prestige": false
+    },
+    {
+      "id": 1696624,
+      "title": "The Creation of Blobs",
+      "releaseDate": "2028-03-15",
+      "poster": "https://image.tmdb.org/t/p/w92/i3rzicrCtOe4WD2Irzyly2ZMkKs.jpg",
+      "format": "theatrical",
+      "directorStr": "Oscar García Tapia",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
       "id": 755679,
       "title": "Fast Forever",
       "releaseDate": "2028-03-16",
@@ -2053,6 +2173,456 @@
       "prestige": true
     },
     {
+      "id": 748865,
+      "title": "Oh, the Places You'll Go!",
+      "releaseDate": "2028-03-16",
+      "poster": "https://image.tmdb.org/t/p/w92/rf0EFUEN4hV41FjaQsbaB274A3g.jpg",
+      "format": "theatrical",
+      "directorStr": "Jon M. Chu, Jill Culton",
+      "studioStr": "Bad Robot / Dr. Seuss Enterprises",
+      "prestige": true
+    },
+    {
+      "id": 1488743,
+      "title": "The Chosen: Resurrection",
+      "releaseDate": "2028-03-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Dallas Jenkins",
+      "studioStr": "5&2 Studios",
+      "prestige": false
+    },
+    {
+      "id": 1247606,
+      "title": "The Beatles: Ringo",
+      "releaseDate": "2028-04-05",
+      "poster": "https://image.tmdb.org/t/p/w92/ovDjgp1ZBDvLY3Yrh6s7qS8Zxgy.jpg",
+      "format": "theatrical",
+      "directorStr": "Sam Mendes",
+      "studioStr": "Sony Pictures / Neal Street Productions",
+      "prestige": true
+    },
+    {
+      "id": 1247605,
+      "title": "The Beatles: Paul",
+      "releaseDate": "2028-04-05",
+      "poster": "https://image.tmdb.org/t/p/w92/cT39aUoRyitmhbB45w5UFKhBRIW.jpg",
+      "format": "theatrical",
+      "directorStr": "Sam Mendes",
+      "studioStr": "Sony Pictures / Apple Corps",
+      "prestige": true
+    },
+    {
+      "id": 1247603,
+      "title": "The Beatles: George",
+      "releaseDate": "2028-04-05",
+      "poster": "https://image.tmdb.org/t/p/w92/8CYUp3jCSc86WvkLRGAQcepImeV.jpg",
+      "format": "theatrical",
+      "directorStr": "Sam Mendes",
+      "studioStr": "Sony Pictures / Neal Street Productions",
+      "prestige": true
+    },
+    {
+      "id": 1247601,
+      "title": "The Beatles: John",
+      "releaseDate": "2028-04-05",
+      "poster": "https://image.tmdb.org/t/p/w92/lx8XZ4HvfEZd82M2YuJUy6qNSUR.jpg",
+      "format": "theatrical",
+      "directorStr": "Sam Mendes",
+      "studioStr": "Sony Pictures / Apple Corps",
+      "prestige": true
+    },
+    {
+      "id": 1280608,
+      "title": "Evil Dead Wrath",
+      "releaseDate": "2028-04-07",
+      "poster": "https://image.tmdb.org/t/p/w92/r10fSbmxDipJG6VOyt9nkX3zEbx.jpg",
+      "format": "theatrical",
+      "directorStr": "Francis Galluppi",
+      "studioStr": "Ghost House Pictures / New Line Cinema",
+      "prestige": true
+    },
+    {
+      "id": 1566914,
+      "title": "The Silver Bandits",
+      "releaseDate": "2028-04-21",
+      "poster": "https://image.tmdb.org/t/p/w92/uhLjwIbZx4UzxwplY2oR6KxDkk7.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Reel Sonata",
+      "prestige": false
+    },
+    {
+      "id": 1505252,
+      "title": "Final Destination 7",
+      "releaseDate": "2028-05-11",
+      "poster": "https://image.tmdb.org/t/p/w92/pSyFYidTEa9mCyfXy5EWaPK9IxV.jpg",
+      "format": "theatrical",
+      "directorStr": "Michiel Blanchart",
+      "studioStr": "Practical Pictures / New Line Cinema",
+      "prestige": true
+    },
+    {
+      "id": 1597817,
+      "title": "Headout",
+      "releaseDate": "2028-05-12",
+      "poster": "https://image.tmdb.org/t/p/w92/xQzicS5SesBbd86ySg44xyGBGns.jpg",
+      "format": "theatrical",
+      "directorStr": "AMA Saint, Yasmina Mohamed",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1467853,
+      "title": "Miami Vice '85",
+      "releaseDate": "2028-05-18",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Joseph Kosinski",
+      "studioStr": "Universal Pictures / Dylan Clark Productions",
+      "prestige": true
+    },
+    {
+      "id": 1615504,
+      "title": "Before the Silence",
+      "releaseDate": "2028-05-19",
+      "poster": "https://image.tmdb.org/t/p/w92/sjIauzvI6o1wpQJj0fQau6z4B8J.jpg",
+      "format": "theatrical",
+      "directorStr": "Ty French",
+      "studioStr": "Blackdoorway Production",
+      "prestige": false
+    },
+    {
+      "id": 1504349,
+      "title": "Lilo & Stitch 2",
+      "releaseDate": "2028-05-25",
+      "poster": "https://image.tmdb.org/t/p/w92/4AtxkITOlRUQaiVa3rS1OZvZLkA.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Walt Disney Pictures",
+      "prestige": true
+    },
+    {
+      "id": 1212489,
+      "title": "The Resurrection of the Christ: Part Two",
+      "releaseDate": "2028-05-25",
+      "poster": "https://image.tmdb.org/t/p/w92/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg",
+      "format": "theatrical",
+      "directorStr": "Mel Gibson",
+      "studioStr": "Icon Productions / Lionsgate",
+      "prestige": true
+    },
+    {
+      "id": 1654623,
+      "title": "The Beast of Gevaudan 5",
+      "releaseDate": "2028-05-29",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Samsh production",
+      "prestige": false
+    },
+    {
+      "id": 1327821,
+      "title": "Incredibles 3",
+      "releaseDate": "2028-06-15",
+      "poster": "https://image.tmdb.org/t/p/w92/por0sU3WKbboM2e1M6oGlPFAEiF.jpg",
+      "format": "theatrical",
+      "directorStr": "Peter Sohn",
+      "studioStr": "Pixar",
+      "prestige": false
+    },
+    {
+      "id": 1519227,
+      "title": "Captain Zero: The Movie",
+      "releaseDate": "2028-06-18",
+      "poster": "https://image.tmdb.org/t/p/w92/cQHTTX5zZTgUCnDXHKydqYcPZPi.jpg",
+      "format": "theatrical",
+      "directorStr": "Z Cher-Aimé, Andre Carl Engco",
+      "studioStr": "Cutting Edge Animation / One Ho Productions",
+      "prestige": false
+    },
+    {
+      "id": 1676300,
+      "title": "Loose Ends: Coup de Grâce",
+      "releaseDate": "2028-06-23",
+      "poster": "https://image.tmdb.org/t/p/w92/pNW8SQyUozDoBjrOD4AGhML1FbO.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Gold-Verse Studios",
+      "prestige": false
+    },
+    {
+      "id": 1540305,
+      "title": "Call of Duty",
+      "releaseDate": "2028-06-28",
+      "poster": "https://image.tmdb.org/t/p/w92/egCSujwhXCKYjRo4IAhWFEKXDB.jpg",
+      "format": "theatrical",
+      "directorStr": "Peter Berg",
+      "studioStr": "Paramount Pictures / Activision Blizzard Studios",
+      "prestige": true
+    },
+    {
+      "id": 1364797,
+      "title": "Dynamic Duo",
+      "releaseDate": "2028-06-29",
+      "poster": "https://image.tmdb.org/t/p/w92/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
+      "format": "theatrical",
+      "directorStr": "Arthur Mintz",
+      "studioStr": "DC Studios / 6th & Idaho Motion Picture Company",
+      "prestige": true
+    },
+    {
+      "id": 1684156,
+      "title": "Fingertips: Reborn",
+      "releaseDate": "2028-07-07",
+      "poster": "https://image.tmdb.org/t/p/w92/r5MxcXCjZpX2LrgqCxurpEMaqDj.jpg",
+      "format": "theatrical",
+      "directorStr": "Jayson X. Kiensler",
+      "studioStr": "Shazampool studios",
+      "prestige": false
+    },
+    {
+      "id": 1619712,
+      "title": "Cast in Blue",
+      "releaseDate": "2028-07-12",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 615127,
+      "title": "Hello Kitty",
+      "releaseDate": "2028-07-20",
+      "poster": "https://image.tmdb.org/t/p/w92/l6iNUNfU0eFooq1ZjUeyrJv7U3X.jpg",
+      "format": "theatrical",
+      "directorStr": "David G. Derrick Jr., John Aoshima",
+      "studioStr": "New Line Cinema / Warner Bros. Pictures Animation",
+      "prestige": true
+    },
+    {
+      "id": 1659924,
+      "title": "PAYNEKILLER",
+      "releaseDate": "2028-07-23",
+      "poster": "https://image.tmdb.org/t/p/w92/iMT2CqQHbMAij12YBw83qcYdVv6.jpg",
+      "format": "digital",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1529259,
+      "title": "The Flood",
+      "releaseDate": "2028-08-10",
+      "poster": "https://image.tmdb.org/t/p/w92/6qq6vbdMXpT91BgfPDeqbDkEWon.jpg",
+      "format": "theatrical",
+      "directorStr": "Zach Cregger",
+      "studioStr": "Subconscious / New Line Cinema",
+      "prestige": true
+    },
+    {
+      "id": 1536556,
+      "title": "Grave Echos",
+      "releaseDate": "2028-08-17",
+      "poster": "https://image.tmdb.org/t/p/w92/bCfw1weZpSKC3fDzbUvo5Cev0Qo.jpg",
+      "format": "digital",
+      "directorStr": "Nick Wright",
+      "studioStr": "SN Pictures / NW Studios",
+      "prestige": false
+    },
+    {
+      "id": 1525218,
+      "title": "Narco Shark 3",
+      "releaseDate": "2028-08-18",
+      "poster": "https://image.tmdb.org/t/p/w92/aD3fm1iwVJjv2Uq1OnH2KKdQEDi.jpg",
+      "format": "theatrical",
+      "directorStr": "Gerardo Preciado",
+      "studioStr": "Musike Di Diable",
+      "prestige": false
+    },
+    {
+      "id": 1529266,
+      "title": "Gladys",
+      "releaseDate": "2028-09-07",
+      "poster": "https://image.tmdb.org/t/p/w92/lfGGTcq07y2fm7wvZOwI7opUH0X.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "New Line Cinema / Subconscious",
+      "prestige": true
+    },
+    {
+      "id": 1626020,
+      "title": "Halmeoni",
+      "releaseDate": "2028-09-16",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Lenny Maréchal",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1690305,
+      "title": "The Incorrect Drug Dealers.",
+      "releaseDate": "2028-10-09",
+      "poster": "https://image.tmdb.org/t/p/w92/mSYfpsWeK5rOng6qAdFEeI7uXtS.jpg",
+      "format": "theatrical",
+      "directorStr": "Harrison Earl",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1653067,
+      "title": "The Young Justice",
+      "releaseDate": "2028-10-13",
+      "poster": "https://image.tmdb.org/t/p/w92/oHuw4ANN7nmVv3TIMPextHnzXoS.jpg",
+      "format": "theatrical",
+      "directorStr": "Jayson X. Kiensler",
+      "studioStr": "Shazampool studios",
+      "prestige": false
+    },
+    {
+      "id": 980571,
+      "title": "Fractured Justice",
+      "releaseDate": "2028-10-20",
+      "poster": "https://image.tmdb.org/t/p/w92/sAJgcw31UpiMwO8CCnvEPWepefu.jpg",
+      "format": "theatrical",
+      "directorStr": "Tom DeNucci",
+      "studioStr": "SkyCity Films",
+      "prestige": false
+    },
+    {
+      "id": 1608956,
+      "title": "Lesai: The Movie",
+      "releaseDate": "2028-10-27",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1225335,
+      "title": "bodybags",
+      "releaseDate": "2028-10-27",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "Anthony Leroy",
+      "studioStr": "Elytra Collective",
+      "prestige": false
+    },
+    {
+      "id": 1701321,
+      "title": "Martyrs 2",
+      "releaseDate": "2028-10-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1138526,
+      "title": "The Lunar Chronicles",
+      "releaseDate": "2028-11-02",
+      "poster": "https://image.tmdb.org/t/p/w92/uHetNUxDujMrd9C4OYkmN2WidNM.jpg",
+      "format": "theatrical",
+      "directorStr": "Noëlle Raffaele",
+      "studioStr": "Locksmith Animation / Warner Bros. Pictures Animation",
+      "prestige": true
+    },
+    {
+      "id": 1639029,
+      "title": "Manson's War",
+      "releaseDate": "2028-11-12",
+      "poster": "https://image.tmdb.org/t/p/w92/5zFhbzNdWlTL7vcz2rr6w5wwaEU.jpg",
+      "format": "theatrical",
+      "directorStr": "Robert LaSardo",
+      "studioStr": "The American Trash",
+      "prestige": false
+    },
+    {
+      "id": 1545226,
+      "title": "Untitled Teenage Mutant Ninja Turtles Film",
+      "releaseDate": "2028-11-16",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Paramount Pictures / Original Film",
+      "prestige": true
+    },
+    {
+      "id": 1357938,
+      "title": "Untitled Joan of Arc Film",
+      "releaseDate": "2028-11-22",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Baz Luhrmann",
+      "studioStr": "Warner Bros. Pictures / Bazmark",
+      "prestige": true
+    },
+    {
+      "id": 1664096,
+      "title": "Cookie Kerfuffle",
+      "releaseDate": "2028-12-01",
+      "poster": "https://image.tmdb.org/t/p/w92/7reLQ4ssCH0zIc4u3ajUhbFE9Gc.jpg",
+      "format": "digital",
+      "directorStr": "Cyrus Linsner",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1468313,
+      "title": "Untitled Sonic Universe Film",
+      "releaseDate": "2028-12-22",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Paramount Pictures / Original Film",
+      "prestige": true
+    },
+    {
+      "id": 1625852,
+      "title": "A Sleigh of One's Own",
+      "releaseDate": "2028-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/z0lBbD64WQ0rLPrzGZLOgVPjqgs.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1684935,
+      "title": "The Crucible",
+      "releaseDate": "2029-10-26",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Owen Gudex",
+      "studioStr": "Gold-Verse Studios",
+      "prestige": false
+    },
+    {
+      "id": 1463621,
+      "title": "Welts",
+      "releaseDate": "2029-11-16",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Lonzo Bentley",
+      "studioStr": "Macha Films",
+      "prestige": false
+    },
+    {
+      "id": 1451567,
+      "title": "Coco 2",
+      "releaseDate": "2029-11-21",
+      "poster": "https://image.tmdb.org/t/p/w92/7YiB8tOQcY8ApdKkCnjQL5jGkIP.jpg",
+      "format": "theatrical",
+      "directorStr": "Lee Unkrich",
+      "studioStr": "Pixar",
+      "prestige": false
+    },
+    {
       "id": 216527,
       "title": "Avatar 4",
       "releaseDate": "2029-12-19",
@@ -2061,6 +2631,16 @@
       "directorStr": "James Cameron",
       "studioStr": "20th Century Studios / Lightstorm Entertainment",
       "prestige": true
+    },
+    {
+      "id": 1696241,
+      "title": "Last Dance",
+      "releaseDate": "2030-07-19",
+      "poster": null,
+      "format": "digital",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
     }
   ]
 }
