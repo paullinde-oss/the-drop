@@ -1,5 +1,2066 @@
 {
-  "generatedAt": "2025-01-01T00:00:00.000Z",
-  "count": 0,
-  "movies": []
+  "generatedAt": "2026-05-25T05:30:47.631Z",
+  "count": 206,
+  "movies": [
+    {
+      "id": 1057265,
+      "title": "Peddi",
+      "releaseDate": "2026-06-03",
+      "poster": "https://image.tmdb.org/t/p/w92/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg",
+      "format": "theatrical",
+      "directorStr": "Buchi Babu Sana",
+      "studioStr": "Sukumar Writings / Vriddhi Cinemas",
+      "prestige": false
+    },
+    {
+      "id": 454639,
+      "title": "Masters of the Universe",
+      "releaseDate": "2026-06-03",
+      "poster": "https://image.tmdb.org/t/p/w92/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
+      "format": "theatrical",
+      "directorStr": "Travis Knight",
+      "studioStr": "Escape Artists / Mattel Studios",
+      "prestige": true
+    },
+    {
+      "id": 1273221,
+      "title": "Scary Movie",
+      "releaseDate": "2026-06-05",
+      "poster": "https://image.tmdb.org/t/p/w92/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
+      "format": "theatrical",
+      "directorStr": "Michael Tiddes",
+      "studioStr": "Miramax / Ugly Baby Productions",
+      "prestige": true
+    },
+    {
+      "id": 1212763,
+      "title": "Evil Dead Burn",
+      "releaseDate": "2026-07-08",
+      "poster": "https://image.tmdb.org/t/p/w92/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "format": "theatrical",
+      "directorStr": "Sébastien Vaniček",
+      "studioStr": "New Line Cinema / Screen Gems",
+      "prestige": true
+    },
+    {
+      "id": 1108427,
+      "title": "Moana",
+      "releaseDate": "2026-07-10",
+      "poster": "https://image.tmdb.org/t/p/w92/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "format": "theatrical",
+      "directorStr": "Thomas Kail",
+      "studioStr": "Walt Disney Pictures / Seven Bucks Productions",
+      "prestige": true
+    },
+    {
+      "id": 1368337,
+      "title": "The Odyssey",
+      "releaseDate": "2026-07-17",
+      "poster": "https://image.tmdb.org/t/p/w92/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg",
+      "format": "theatrical",
+      "directorStr": "Christopher Nolan",
+      "studioStr": "Universal Pictures / Syncopy",
+      "prestige": true
+    },
+    {
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "releaseDate": "2026-07-17",
+      "poster": null,
+      "format": "streaming",
+      "directorStr": "Carlson Young",
+      "studioStr": "Amazon MGM Studios / Ethea Entertainment",
+      "prestige": true
+    },
+    {
+      "id": 1469342,
+      "title": "Her Private Hell",
+      "releaseDate": "2026-07-24",
+      "poster": "https://image.tmdb.org/t/p/w92/kncKYCe4stYQ1YPAmIcvtjpF1Bc.jpg",
+      "format": "theatrical",
+      "directorStr": "Nicolas Winding Refn",
+      "studioStr": "NEON / byNWR",
+      "prestige": true
+    },
+    {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "releaseDate": "2026-07-29",
+      "poster": "https://image.tmdb.org/t/p/w92/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "format": "theatrical",
+      "directorStr": "Destin Daniel Cretton",
+      "studioStr": "Marvel Studios / Columbia Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1232569,
+      "title": "Pinocchio: Unstrung",
+      "releaseDate": "2026-07-31",
+      "poster": "https://image.tmdb.org/t/p/w92/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg",
+      "format": "theatrical",
+      "directorStr": "Rhys Frake-Waterfield",
+      "studioStr": "Jagged Edge Productions / ITN Distribution",
+      "prestige": false
+    },
+    {
+      "id": 1101383,
+      "title": "The End of Oak Street",
+      "releaseDate": "2026-08-14",
+      "poster": "https://image.tmdb.org/t/p/w92/u9jha7bkttIrc5RO1TWeSn7QVyI.jpg",
+      "format": "theatrical",
+      "directorStr": "David Robert Mitchell",
+      "studioStr": "Warner Bros. Pictures / Domain Entertainment",
+      "prestige": true
+    },
+    {
+      "id": 1401459,
+      "title": "Fjord",
+      "releaseDate": "2026-08-19",
+      "poster": "https://image.tmdb.org/t/p/w92/ttCNqwbCoHnfbuQyrlMdr4QG6c0.jpg",
+      "format": "theatrical",
+      "directorStr": "Cristian Mungiu",
+      "studioStr": "Mobra Films / Why Not Productions",
+      "prestige": false
+    },
+    {
+      "id": 1291595,
+      "title": "Insidious: Out of the Further",
+      "releaseDate": "2026-08-19",
+      "poster": "https://image.tmdb.org/t/p/w92/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "format": "theatrical",
+      "directorStr": "Jacob Chase",
+      "studioStr": "Blumhouse Productions / Screen Gems",
+      "prestige": false
+    },
+    {
+      "id": 1288445,
+      "title": "Mutiny",
+      "releaseDate": "2026-08-19",
+      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+      "format": "theatrical",
+      "directorStr": "Jean-François Richet",
+      "studioStr": "Punch Palace Productions / MadRiver Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1384216,
+      "title": "The Dog Stars",
+      "releaseDate": "2026-08-26",
+      "poster": "https://image.tmdb.org/t/p/w92/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
+      "format": "theatrical",
+      "directorStr": "Ridley Scott",
+      "studioStr": "20th Century Studios / Scott Free Productions",
+      "prestige": true
+    },
+    {
+      "id": 1423191,
+      "title": "Resident Evil",
+      "releaseDate": "2026-09-09",
+      "poster": "https://image.tmdb.org/t/p/w92/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
+      "format": "theatrical",
+      "directorStr": "Zach Cregger",
+      "studioStr": "Constantin Film / Subconscious",
+      "prestige": false
+    },
+    {
+      "id": 1260649,
+      "title": "Jumanji: Open World",
+      "releaseDate": "2026-09-11",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Jake Kasdan",
+      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
+      "prestige": false
+    },
+    {
+      "id": 1465063,
+      "title": "Forgotten Island",
+      "releaseDate": "2026-09-23",
+      "poster": "https://image.tmdb.org/t/p/w92/44RMjgvpZmHU3aGmX3IQAaHtEw9.jpg",
+      "format": "theatrical",
+      "directorStr": "Januel Mercado, Joel Crawford",
+      "studioStr": "DreamWorks Animation",
+      "prestige": true
+    },
+    {
+      "id": 1283515,
+      "title": "Verity",
+      "releaseDate": "2026-09-30",
+      "poster": "https://image.tmdb.org/t/p/w92/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+      "format": "theatrical",
+      "directorStr": "Michael Showalter",
+      "studioStr": "Eat the Cat / Semi-Formal Productions",
+      "prestige": true
+    },
+    {
+      "id": 1248832,
+      "title": "Digger",
+      "releaseDate": "2026-09-30",
+      "poster": "https://image.tmdb.org/t/p/w92/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "format": "theatrical",
+      "directorStr": "Alejandro G. Iñárritu",
+      "studioStr": "Warner Bros. Pictures / Legendary Pictures",
+      "prestige": true
+    },
+    {
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "releaseDate": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w92/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+      "format": "digital",
+      "directorStr": "Lauren Montgomery",
+      "studioStr": "Nickelodeon Movies / Paramount Pictures",
+      "prestige": true
+    },
+    {
+      "id": 1153576,
+      "title": "Street Fighter",
+      "releaseDate": "2026-10-14",
+      "poster": "https://image.tmdb.org/t/p/w92/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+      "format": "theatrical",
+      "directorStr": "Kitao Sakurai",
+      "studioStr": "Capcom / Legendary Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1400940,
+      "title": "Clayface",
+      "releaseDate": "2026-10-21",
+      "poster": "https://image.tmdb.org/t/p/w92/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "format": "theatrical",
+      "directorStr": "James Watkins",
+      "studioStr": "DC Studios / Domain Entertainment",
+      "prestige": false
+    },
+    {
+      "id": 791523,
+      "title": "Wildwood",
+      "releaseDate": "2026-10-22",
+      "poster": "https://image.tmdb.org/t/p/w92/lUW6l9N9YVSCy2kSEHuyINrTR2h.jpg",
+      "format": "theatrical",
+      "directorStr": "Travis Knight",
+      "studioStr": "LAIKA",
+      "prestige": false
+    },
+    {
+      "id": 1058424,
+      "title": "Hope",
+      "releaseDate": "2026-11-04",
+      "poster": "https://image.tmdb.org/t/p/w92/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+      "format": "theatrical",
+      "directorStr": "Na Hong-jin",
+      "studioStr": "Forged Films / Plus M Entertainment",
+      "prestige": false
+    },
+    {
+      "id": 1300968,
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "releaseDate": "2026-11-20",
+      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "format": "theatrical",
+      "directorStr": "Francis Lawrence",
+      "studioStr": "Lionsgate / Color Force",
+      "prestige": true
+    },
+    {
+      "id": 1170608,
+      "title": "Dune: Part Three",
+      "releaseDate": "2026-12-18",
+      "poster": "https://image.tmdb.org/t/p/w92/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+      "format": "theatrical",
+      "directorStr": "Denis Villeneuve",
+      "studioStr": "Legendary Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1003596,
+      "title": "Avengers: Doomsday",
+      "releaseDate": "2026-12-18",
+      "poster": "https://image.tmdb.org/t/p/w92/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "format": "theatrical",
+      "directorStr": "Joe Russo, Anthony Russo",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": false
+    },
+    {
+      "id": 1300926,
+      "title": "The Angry Birds Movie 3",
+      "releaseDate": "2026-12-23",
+      "poster": "https://image.tmdb.org/t/p/w92/5WT2fuN2jExUWIATKjP4zvF1Dey.jpg",
+      "format": "theatrical",
+      "directorStr": "John Rice",
+      "studioStr": "Rovio Animation / SEGA of America",
+      "prestige": false
+    },
+    {
+      "id": 1696861,
+      "title": "Toulouse MacDonnell Upcoming project",
+      "releaseDate": "2027-01-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Toulouse MacDonnell",
+      "studioStr": "sk films london",
+      "prestige": false
+    },
+    {
+      "id": 1686519,
+      "title": "Mr. Penguin: The Movie",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/zP8fYad4pRtDSkwZTYQ3zWAGO15.jpg",
+      "format": "theatrical",
+      "directorStr": "Elias Schulz",
+      "studioStr": "MysticPixelStudios",
+      "prestige": false
+    },
+    {
+      "id": 1665183,
+      "title": "Enervo",
+      "releaseDate": "2027-01-01",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "Fiona Fajut",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1659742,
+      "title": "All Legs",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/a0M3MgOgcrs9jMb7VoA6syGahwk.jpg",
+      "format": "digital",
+      "directorStr": "Hayden Buhler",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1658606,
+      "title": "The Heavy End",
+      "releaseDate": "2027-01-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Luke J Carr",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1650906,
+      "title": "Angel",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/IwhhYKHioyNb8eKs5Ya1y5KmP6.jpg",
+      "format": "theatrical",
+      "directorStr": "Eythor Isfeld",
+      "studioStr": "ISFILM",
+      "prestige": false
+    },
+    {
+      "id": 1649678,
+      "title": "I Fought the Law",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/bodXyB9KVvbo5DOxh9oqmVDybfL.jpg",
+      "format": "theatrical",
+      "directorStr": "Julian Farrer",
+      "studioStr": "Crestfallen Gentlemen",
+      "prestige": false
+    },
+    {
+      "id": 1643462,
+      "title": "Ātaahua",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/A13fudi91xxaXwZLm1z6ZMGyUUs.jpg",
+      "format": "theatrical",
+      "directorStr": "Waka Wikaire-James",
+      "studioStr": "Ātaahua Pictures / EYWA Records",
+      "prestige": false
+    },
+    {
+      "id": 1616478,
+      "title": "Brujo",
+      "releaseDate": "2027-01-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Steven Escudero",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1615971,
+      "title": "The Dream of a Ridiculous Man",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/qgpgFkp0EL1ImjmUzmFMIA0RbLO.jpg",
+      "format": "theatrical",
+      "directorStr": "Caleb Fletcher",
+      "studioStr": "1616 Films",
+      "prestige": false
+    },
+    {
+      "id": 1604417,
+      "title": "Get to That Place",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/7aW2ao05IEmvIrOODDe3MwUXLUg.jpg",
+      "format": "theatrical",
+      "directorStr": "Lilah Skaar",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1584437,
+      "title": "The Curse of the Silver Chain",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/qE2ZNYzoCph6daOWXx7IFP5MjkA.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1584430,
+      "title": "The Inmate",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/8WFn0vtg6mXO6vDSauF6aXRuICc.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1566049,
+      "title": "What We Owe to Each Other",
+      "releaseDate": "2027-01-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Presley Eveland",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1557738,
+      "title": "'The Wokinator'",
+      "releaseDate": "2027-01-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Kirsten Paltzat",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1507840,
+      "title": "The Suffering Tenants",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/xgh62bec7m7VuTMNxmh0mP42g2K.jpg",
+      "format": "theatrical",
+      "directorStr": "Ian Kießig",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1505506,
+      "title": "Rocky Wake",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/pGv6LSJKgu1gs5oXJN5u7QwQvix.jpg",
+      "format": "theatrical",
+      "directorStr": "Dylan Anglin",
+      "studioStr": "SmokeyDog Entertainment / Antagonist Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1492198,
+      "title": "Artificial",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/6RKRs1vE0KPQIAtRseP9y6MNJe1.jpg",
+      "format": "theatrical",
+      "directorStr": "Luca Guadagnino",
+      "studioStr": "Heyday Films / Amazon MGM Studios",
+      "prestige": true
+    },
+    {
+      "id": 1380163,
+      "title": "Pendulum",
+      "releaseDate": "2027-01-01",
+      "poster": "https://image.tmdb.org/t/p/w92/oAjHDlaGHHWVZ0OcnadHPm8YIE.jpg",
+      "format": "theatrical",
+      "directorStr": "Mark Heyman",
+      "studioStr": "Protozoa Pictures / Motel Mojave",
+      "prestige": true
+    },
+    {
+      "id": 1683473,
+      "title": "Oh? You Have Money?",
+      "releaseDate": "2027-01-05",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Colby Schoetz",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1680032,
+      "title": "Gone Part Three",
+      "releaseDate": "2027-01-07",
+      "poster": "https://image.tmdb.org/t/p/w92/mO2WAoC8pR3LN9OuFxLwGNVvbbT.jpg",
+      "format": "digital",
+      "directorStr": "gavin grove",
+      "studioStr": "MW films / Audax Studios",
+      "prestige": false
+    },
+    {
+      "id": 1566727,
+      "title": "Zac Power",
+      "releaseDate": "2027-01-07",
+      "poster": "https://image.tmdb.org/t/p/w92/z64ZWd9vMKTCWpVH5EfPJBTDWnn.jpg",
+      "format": "theatrical",
+      "directorStr": "David Webster, Alexs Stadermann",
+      "studioStr": "Flying Bark Productions / Screen Australia",
+      "prestige": false
+    },
+    {
+      "id": 1492972,
+      "title": "Citric Acid",
+      "releaseDate": "2027-01-08",
+      "poster": "https://image.tmdb.org/t/p/w92/6szlKCAZRk20PrB6sVFxs6F0iaa.jpg",
+      "format": "digital",
+      "directorStr": null,
+      "studioStr": "Demonic Iconic",
+      "prestige": false
+    },
+    {
+      "id": 1478893,
+      "title": "You’ve Got Mail",
+      "releaseDate": "2027-01-08",
+      "poster": "https://image.tmdb.org/t/p/w92/uxa5ZMbVjU3843HHABVkD1jF4ok.jpg",
+      "format": "physical",
+      "directorStr": "Declan Sennott",
+      "studioStr": "Just Now! Studios / Sennott-Bates Productions",
+      "prestige": false
+    },
+    {
+      "id": 1440769,
+      "title": "The Beekeeper 2",
+      "releaseDate": "2027-01-14",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Timo Tjahjanto",
+      "studioStr": "Miramax / Punch Palace Productions",
+      "prestige": true
+    },
+    {
+      "id": 621304,
+      "title": "Children of Blood and Bone",
+      "releaseDate": "2027-01-14",
+      "poster": "https://image.tmdb.org/t/p/w92/pCzdQJzDuHgYjVpmVJXsOXPZ11r.jpg",
+      "format": "theatrical",
+      "directorStr": "Gina Prince-Bythewood",
+      "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
+      "prestige": true
+    },
+    {
+      "id": 1671591,
+      "title": "Perrydox",
+      "releaseDate": "2027-01-15",
+      "poster": "https://image.tmdb.org/t/p/w92/yx4mV6jXfXaYQIKTdNIqvn03UA4.jpg",
+      "format": "digital",
+      "directorStr": "Matt Newsom",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1697595,
+      "title": "The Alone Boy",
+      "releaseDate": "2027-01-16",
+      "poster": "https://image.tmdb.org/t/p/w92/igfgYSNcEJShc006eh44tYI0XUm.jpg",
+      "format": "theatrical",
+      "directorStr": "Nefaul Islam",
+      "studioStr": "RST Productions / Tronexa Productions",
+      "prestige": false
+    },
+    {
+      "id": 1559118,
+      "title": "In the Absence of Choice",
+      "releaseDate": "2027-01-20",
+      "poster": "https://image.tmdb.org/t/p/w92/68Jn55wCJ2hlibTD1bi5xZ7ReCw.jpg",
+      "format": "theatrical",
+      "directorStr": "M. C. T.",
+      "studioStr": "Stellarts",
+      "prestige": false
+    },
+    {
+      "id": 1263040,
+      "title": "Chhatrapati Shivaji Maharaj",
+      "releaseDate": "2027-01-21",
+      "poster": "https://image.tmdb.org/t/p/w92/A4DaAilEzMr9FqNdgPz0KHrakK3.jpg",
+      "format": "theatrical",
+      "directorStr": "Sandeep Singh",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1115030,
+      "title": "Animal Friends",
+      "releaseDate": "2027-01-21",
+      "poster": "https://image.tmdb.org/t/p/w92/I65yQ8p6VqDK96JH5tpNZ0Q3DS.jpg",
+      "format": "theatrical",
+      "directorStr": "Peter Atencio",
+      "studioStr": "Legendary Pictures / Maximum Effort",
+      "prestige": true
+    },
+    {
+      "id": 1518403,
+      "title": "Air Bud Returns",
+      "releaseDate": "2027-01-22",
+      "poster": "https://image.tmdb.org/t/p/w92/jn9IycsqyLsLluBPVkcHDyWHdGb.jpg",
+      "format": "theatrical",
+      "directorStr": "Robert Vince",
+      "studioStr": "Air Bud Entertainment",
+      "prestige": false
+    },
+    {
+      "id": 1206628,
+      "title": "The Third Parent",
+      "releaseDate": "2027-01-22",
+      "poster": "https://image.tmdb.org/t/p/w92/p8o3dtzoN5pkkm0oWxu4PuAzOjp.jpg",
+      "format": "theatrical",
+      "directorStr": "David Michaels",
+      "studioStr": "Enfant Terrible Cinema / Walters Media Group",
+      "prestige": false
+    },
+    {
+      "id": 1485138,
+      "title": "Inside That House",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/wGN0bq0yJoKSex6WJiUzMOKRkeF.jpg",
+      "format": "digital",
+      "directorStr": "Brett Petersel",
+      "studioStr": "Double Threat / Ghost",
+      "prestige": false
+    },
+    {
+      "id": 1425472,
+      "title": "The Rescue",
+      "releaseDate": "2027-01-29",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Potsy Ponciroli",
+      "studioStr": "Skydance Media / Hideout Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1490000,
+      "title": "The Stars That Fade",
+      "releaseDate": "2027-01-31",
+      "poster": "https://image.tmdb.org/t/p/w92/zbb24jyihVlCc0a9jyhu6NsnpZB.jpg",
+      "format": "theatrical",
+      "directorStr": "Odysseas Dimakos",
+      "studioStr": "AKTNMST",
+      "prestige": false
+    },
+    {
+      "id": 1579633,
+      "title": "Absolution",
+      "releaseDate": "2027-02-02",
+      "poster": "https://image.tmdb.org/t/p/w92/tjm0pAzv0dxD9XtK8CE1Vy1AQqP.jpg",
+      "format": "theatrical",
+      "directorStr": "Kharis Dunsby",
+      "studioStr": "Against The Grain Indie Film Company",
+      "prestige": false
+    },
+    {
+      "id": 1466228,
+      "title": "The Comeback King",
+      "releaseDate": "2027-02-03",
+      "poster": "https://image.tmdb.org/t/p/w92/eulMF0veRTe7jtDHEqaCAjrO6jY.jpg",
+      "format": "theatrical",
+      "directorStr": "Judd Apatow",
+      "studioStr": "Universal Pictures / Apatow Productions",
+      "prestige": true
+    },
+    {
+      "id": 1612048,
+      "title": "S/H/V",
+      "releaseDate": "2027-02-04",
+      "poster": "https://image.tmdb.org/t/p/w92/cE5XBDB6KkpgyDWslKgZFx8SvTn.jpg",
+      "format": "theatrical",
+      "directorStr": "Søren Stern, Caetano Sheldon, Connor Reitz, Max Pujol",
+      "studioStr": "LETTERSMA STUDIOS",
+      "prestige": false
+    },
+    {
+      "id": 1480503,
+      "title": "CoComelon: The Movie",
+      "releaseDate": "2027-02-04",
+      "poster": "https://image.tmdb.org/t/p/w92/79pBhQn9N5yjbCFb4e1JtFm8BfR.jpg",
+      "format": "theatrical",
+      "directorStr": "Kathleen Good",
+      "studioStr": "Moonbug Entertainment / Flywheel Media",
+      "prestige": true
+    },
+    {
+      "id": 1425859,
+      "title": "Remain",
+      "releaseDate": "2027-02-04",
+      "poster": "https://image.tmdb.org/t/p/w92/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg",
+      "format": "theatrical",
+      "directorStr": "M. Night Shyamalan",
+      "studioStr": "Blinding Edge Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1384758,
+      "title": "Ice Age: Boiling Point",
+      "releaseDate": "2027-02-04",
+      "poster": "https://image.tmdb.org/t/p/w92/yga4pd5kMH7Zpto8biCjEKVkLAh.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "20th Century Animation",
+      "prestige": true
+    },
+    {
+      "id": 1628117,
+      "title": "Untitled Ataraxia Sequel",
+      "releaseDate": "2027-02-05",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Joe Meredith",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1607121,
+      "title": "Triple Bluff",
+      "releaseDate": "2027-02-09",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Santino Benedetto",
+      "studioStr": "Benedetto-Gracey-Khan Productions",
+      "prestige": false
+    },
+    {
+      "id": 1517333,
+      "title": "K-Pop Superstar",
+      "releaseDate": "2027-02-11",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Benson Lee",
+      "studioStr": "Paramount Pictures / HYBE America",
+      "prestige": true
+    },
+    {
+      "id": 458896,
+      "title": "The Nightingale",
+      "releaseDate": "2027-02-11",
+      "poster": "https://image.tmdb.org/t/p/w92/ghcC57Zl7qmOZWFqvc6aPBUC2fA.jpg",
+      "format": "theatrical",
+      "directorStr": "Michael Morris",
+      "studioStr": "The Cantillon Company / TriStar Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1592312,
+      "title": "Slay Day",
+      "releaseDate": "2027-02-12",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "John David Buxton",
+      "studioStr": "CtrlMovie",
+      "prestige": false
+    },
+    {
+      "id": 1514328,
+      "title": "Wishful Thinking",
+      "releaseDate": "2027-02-12",
+      "poster": "https://image.tmdb.org/t/p/w92/36vsIO0FkNNm9CfzDQargqWjktC.jpg",
+      "format": "theatrical",
+      "directorStr": "Graham Parkes",
+      "studioStr": "Highway 10 / Buckwild",
+      "prestige": false
+    },
+    {
+      "id": 1147572,
+      "title": "Narnia: The Magician's Nephew",
+      "releaseDate": "2027-02-12",
+      "poster": "https://image.tmdb.org/t/p/w92/ckKx8XP3ld8x7UGouSdnZTLYJgn.jpg",
+      "format": "digital",
+      "directorStr": "Greta Gerwig",
+      "studioStr": "Pascal Pictures / C.S. Lewis Company",
+      "prestige": false
+    },
+    {
+      "id": 1573756,
+      "title": "The Hollow Season",
+      "releaseDate": "2027-02-25",
+      "poster": "https://image.tmdb.org/t/p/w92/rhmqyB3tfr7jGM1UN9JvoAAHhyc.jpg",
+      "format": "theatrical",
+      "directorStr": "Jackson Fisher",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1397972,
+      "title": "Panic Carefully",
+      "releaseDate": "2027-02-25",
+      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
+      "format": "theatrical",
+      "directorStr": "Sam Esmail",
+      "studioStr": "Warner Bros. Pictures / Esmail Corp",
+      "prestige": true
+    },
+    {
+      "id": 1682438,
+      "title": "The Last Time You Were Real",
+      "releaseDate": "2027-02-26",
+      "poster": "https://image.tmdb.org/t/p/w92/nooESwjxB1Qdyk4tjUjITYdkkmO.jpg",
+      "format": "theatrical",
+      "directorStr": "Parker Liberatore",
+      "studioStr": "Liberator Pictures / Film in a Jar Studios",
+      "prestige": false
+    },
+    {
+      "id": 1657967,
+      "title": "Live Like That",
+      "releaseDate": "2027-02-26",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Dito Montiel",
+      "studioStr": "Affirm Films / Mucho Mas Media",
+      "prestige": false
+    },
+    {
+      "id": 1209628,
+      "title": "Wafflehead",
+      "releaseDate": "2027-02-26",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "Anthony Leroy",
+      "studioStr": "Elytra Collective",
+      "prestige": false
+    },
+    {
+      "id": 1679832,
+      "title": "last night was a movie",
+      "releaseDate": "2027-03-01",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "Julian Farrer",
+      "studioStr": "Slick Dixon’s Pics",
+      "prestige": false
+    },
+    {
+      "id": 1595911,
+      "title": "Puro R.A.P.",
+      "releaseDate": "2027-03-01",
+      "poster": "https://image.tmdb.org/t/p/w92/k1SJr0mGRSWM8MluMrtRInCwG37.jpg",
+      "format": "theatrical",
+      "directorStr": "Angel Arturo Corro",
+      "studioStr": "Extraña Vida",
+      "prestige": false
+    },
+    {
+      "id": 1608653,
+      "title": "Plátano Champion",
+      "releaseDate": "2027-03-02",
+      "poster": "https://image.tmdb.org/t/p/w92/8FilXyOOwKaORGW1XqaTs45UnfO.jpg",
+      "format": "theatrical",
+      "directorStr": "Miguel Vásquez",
+      "studioStr": "Dominican Republic / Metro Films",
+      "prestige": false
+    },
+    {
+      "id": 1497464,
+      "title": "Gatto",
+      "releaseDate": "2027-03-03",
+      "poster": "https://image.tmdb.org/t/p/w92/1ckhy2o9Zv06LvnBKHaNCAjo5bD.jpg",
+      "format": "theatrical",
+      "directorStr": "Enrico Casarosa",
+      "studioStr": "Pixar / Walt Disney Pictures",
+      "prestige": true
+    },
+    {
+      "id": 615121,
+      "title": "The Thomas Crown Affair",
+      "releaseDate": "2027-03-04",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Michael B. Jordan",
+      "studioStr": "Outlier Society / AGBO",
+      "prestige": true
+    },
+    {
+      "id": 1636855,
+      "title": "Fish in a Barrel",
+      "releaseDate": "2027-03-05",
+      "poster": "https://image.tmdb.org/t/p/w92/wRHxxuIRubChdjdNuJfFWg6v6zC.jpg",
+      "format": "digital",
+      "directorStr": "Nolan Morrow",
+      "studioStr": "Luminary Production Company",
+      "prestige": false
+    },
+    {
+      "id": 1189974,
+      "title": "Nemesis",
+      "releaseDate": "2027-03-05",
+      "poster": "https://image.tmdb.org/t/p/w92/eZCCTCHl9e3nNizJjlqao5ovusN.jpg",
+      "format": "digital",
+      "directorStr": "Christian Safford",
+      "studioStr": "None",
+      "prestige": false
+    },
+    {
+      "id": 1401586,
+      "title": "Sonic the Hedgehog 4",
+      "releaseDate": "2027-03-11",
+      "poster": "https://image.tmdb.org/t/p/w92/a0rW7SDCG0RfLb9b5dQe6Qre6x1.jpg",
+      "format": "theatrical",
+      "directorStr": "Jeff Fowler",
+      "studioStr": "Paramount Pictures / Original Film",
+      "prestige": true
+    },
+    {
+      "id": 1487395,
+      "title": "The Chosen: Crucifixion",
+      "releaseDate": "2027-03-12",
+      "poster": "https://image.tmdb.org/t/p/w92/qgJzrvYmpVBH6GYwnFT8N5sWhsB.jpg",
+      "format": "theatrical",
+      "directorStr": "Dallas Jenkins",
+      "studioStr": "5&2 Studios",
+      "prestige": false
+    },
+    {
+      "id": 1297467,
+      "title": "Untitled The Exorcist Film",
+      "releaseDate": "2027-03-12",
+      "poster": "https://image.tmdb.org/t/p/w92/dxgcsMjFSJkNUbSjRpRs8UYui2H.jpg",
+      "format": "theatrical",
+      "directorStr": "Mike Flanagan",
+      "studioStr": "Red Room Pictures / Blumhouse Productions",
+      "prestige": true
+    },
+    {
+      "id": 1407502,
+      "title": "Threnodia",
+      "releaseDate": "2027-03-13",
+      "poster": "https://image.tmdb.org/t/p/w92/ZAjktQxprcxB4JuBRUT3oq1ocw.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Osuda Film",
+      "prestige": false
+    },
+    {
+      "id": 1495044,
+      "title": "BORN SEXY YESTERDAY: Decoding the Enigma of Beauty",
+      "releaseDate": "2027-03-14",
+      "poster": "https://image.tmdb.org/t/p/w92/fzXqKE1645nqc3ncWToKUH5AkPT.jpg",
+      "format": "digital",
+      "directorStr": null,
+      "studioStr": "Little Ant Productions LLC.",
+      "prestige": false
+    },
+    {
+      "id": 1364206,
+      "title": "Street Fighter 8 (Finish Him)",
+      "releaseDate": "2027-03-16",
+      "poster": "https://image.tmdb.org/t/p/w92/aSdQbXMaQIIj6KZFTFnJrRFdAeL.jpg",
+      "format": "theatrical",
+      "directorStr": "Luca Schönhoff",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1398195,
+      "title": "Dive 2: The Journey Continues",
+      "releaseDate": "2027-03-23",
+      "poster": "https://image.tmdb.org/t/p/w92/kYSn0aSLSvOdlwa7tx5scvc1Y3y.jpg",
+      "format": "theatrical",
+      "directorStr": "Vignesh Ganesh",
+      "studioStr": "VigTalks Production",
+      "prestige": false
+    },
+    {
+      "id": 1288438,
+      "title": "Godzilla x Kong: Supernova",
+      "releaseDate": "2027-03-25",
+      "poster": "https://image.tmdb.org/t/p/w92/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
+      "format": "theatrical",
+      "directorStr": "Grant Sputore",
+      "studioStr": "Legendary Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1266643,
+      "title": "Day Drinker",
+      "releaseDate": "2027-03-26",
+      "poster": "https://image.tmdb.org/t/p/w92/ztMNpLBbUS3RnFHmc3c9djKA73m.jpg",
+      "format": "theatrical",
+      "directorStr": "Marc Webb",
+      "studioStr": "Lionsgate / Thunder Road",
+      "prestige": true
+    },
+    {
+      "id": 1636411,
+      "title": "Roadie (Or The Inevitable and Ridiculous Fall of Danny And The Renaissances)",
+      "releaseDate": "2027-03-31",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "Koen Berg, Lucas Resende",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1669970,
+      "title": "After Hours",
+      "releaseDate": "2027-04-02",
+      "poster": "https://image.tmdb.org/t/p/w92/kTIbFErtMyglWkQFP2Gaw1Lh0pL.jpg",
+      "format": "theatrical",
+      "directorStr": "Ty French",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1208917,
+      "title": "Wings of Freedom",
+      "releaseDate": "2027-04-07",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Laurent Zeitoun",
+      "studioStr": "Good Hero / StudioCanal",
+      "prestige": false
+    },
+    {
+      "id": 1533611,
+      "title": "The Revenge of La Llorona",
+      "releaseDate": "2027-04-08",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Santiago Menghini",
+      "studioStr": "Atomic Monster / New Line Cinema",
+      "prestige": true
+    },
+    {
+      "id": 1263022,
+      "title": "Get Lite",
+      "releaseDate": "2027-04-09",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Teyana Taylor",
+      "studioStr": "A Seed & Wings Production (US) / Khalabo Ink Society",
+      "prestige": true
+    },
+    {
+      "id": 1536163,
+      "title": "Rose's Baby",
+      "releaseDate": "2027-04-14",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Trudie Styler",
+      "studioStr": "Maven Screen Media / Tempo Productions",
+      "prestige": false
+    },
+    {
+      "id": 1688308,
+      "title": "Ramon's Revenge",
+      "releaseDate": "2027-04-15",
+      "poster": "https://image.tmdb.org/t/p/w92/4t8akHNGk5VUvOKk34R5TADVu4u.jpg",
+      "format": "theatrical",
+      "directorStr": "Mason Hubbard",
+      "studioStr": "Play These Loud / Two Red Rabbits",
+      "prestige": false
+    },
+    {
+      "id": 1655014,
+      "title": "The 08' Club",
+      "releaseDate": "2027-04-17",
+      "poster": "https://image.tmdb.org/t/p/w92/mH0zj2zFGDyBVimYJ0QpM9Av0qR.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 556682,
+      "title": "F.A.S.T.",
+      "releaseDate": "2027-04-22",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Ben Richardson",
+      "studioStr": "Heyday Films / Bosque Ranch Productions",
+      "prestige": true
+    },
+    {
+      "id": 1306322,
+      "title": "Spaceballs: The New One",
+      "releaseDate": "2027-04-23",
+      "poster": "https://image.tmdb.org/t/p/w92/9NDQsPSPxDLIqlvJIbZLFYDenYt.jpg",
+      "format": "theatrical",
+      "directorStr": "Josh Greenbaum",
+      "studioStr": "Brooksfilms / Imagine Entertainment",
+      "prestige": true
+    },
+    {
+      "id": 1548004,
+      "title": "The Summer I Turned Pretty: The Movie",
+      "releaseDate": "2027-04-27",
+      "poster": "https://image.tmdb.org/t/p/w92/3TuA5sHwVg4Rmg0llFkZr2qdQTf.jpg",
+      "format": "streaming",
+      "directorStr": "Jenny Han",
+      "studioStr": "Amazon MGM Studios / wiip",
+      "prestige": true
+    },
+    {
+      "id": 1589027,
+      "title": "Thomas",
+      "releaseDate": "2027-04-30",
+      "poster": "https://image.tmdb.org/t/p/w92/aU5NibbctLSKpgPHjAFahFvRBiS.jpg",
+      "format": "theatrical",
+      "directorStr": "Brandon Newbury",
+      "studioStr": "BrandonVerse Studios",
+      "prestige": false
+    },
+    {
+      "id": 1177369,
+      "title": "The Legend of Zelda",
+      "releaseDate": "2027-04-30",
+      "poster": "https://image.tmdb.org/t/p/w92/obcEXMMrwSRIloR77egWSwOjZM2.jpg",
+      "format": "theatrical",
+      "directorStr": "Wes Ball",
+      "studioStr": "Nintendo / Arad Productions",
+      "prestige": false
+    },
+    {
+      "id": 1685725,
+      "title": "Transept",
+      "releaseDate": "2027-05-01",
+      "poster": "https://image.tmdb.org/t/p/w92/2Vhea9b6W9CznpM5J1FgPzWWNaD.jpg",
+      "format": "digital",
+      "directorStr": "Janielys Rodriguez",
+      "studioStr": "Time Tiez Productions",
+      "prestige": false
+    },
+    {
+      "id": 1609866,
+      "title": "Drodwel",
+      "releaseDate": "2027-05-05",
+      "poster": "https://image.tmdb.org/t/p/w92/ffR1iQibhEk17RPB86D0q5GYAVk.jpg",
+      "format": "theatrical",
+      "directorStr": "Ethan Nieroda",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1109469,
+      "title": "Beach Read",
+      "releaseDate": "2027-05-06",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Yulin Kuang",
+      "studioStr": "20th Century Studios / Original Film",
+      "prestige": true
+    },
+    {
+      "id": 532652,
+      "title": "The Resurrection of the Christ: Part One",
+      "releaseDate": "2027-05-06",
+      "poster": "https://image.tmdb.org/t/p/w92/3whNFkaetqVQt72bcBboptuwOxU.jpg",
+      "format": "theatrical",
+      "directorStr": "Mel Gibson",
+      "studioStr": "Icon Productions / Lionsgate",
+      "prestige": true
+    },
+    {
+      "id": 1228670,
+      "title": "THE REWIND",
+      "releaseDate": "2027-05-15",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Mads Oliver Stark",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1677482,
+      "title": "Jazz Suave",
+      "releaseDate": "2027-05-20",
+      "poster": "https://image.tmdb.org/t/p/w92/skpQrhVGgkxqMl0dKE064omNIlj.jpg",
+      "format": "theatrical",
+      "directorStr": "José Estella",
+      "studioStr": "SoHo (ES) / A Films USA",
+      "prestige": false
+    },
+    {
+      "id": 1592452,
+      "title": "Paranormal Activity 8",
+      "releaseDate": "2027-05-20",
+      "poster": "https://image.tmdb.org/t/p/w92/5qwFilGZbYaXHLG4I1Kp82bwbGL.jpg",
+      "format": "theatrical",
+      "directorStr": "Ian Tuason",
+      "studioStr": "Atomic Monster / Blumhouse Productions",
+      "prestige": true
+    },
+    {
+      "id": 1138528,
+      "title": "Bad Fairies",
+      "releaseDate": "2027-05-20",
+      "poster": "https://image.tmdb.org/t/p/w92/h0JbLsPVEJModp73t2Os7a3z8Ay.jpg",
+      "format": "theatrical",
+      "directorStr": "Megan Nicole Dong",
+      "studioStr": "Locksmith Animation / DNEG",
+      "prestige": true
+    },
+    {
+      "id": 1273739,
+      "title": "The Catch",
+      "releaseDate": "2027-05-21",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Dave McCary",
+      "studioStr": "Universal Pictures / 21 Laps Entertainment",
+      "prestige": true
+    },
+    {
+      "id": 1417668,
+      "title": "Star Wars: Starfighter",
+      "releaseDate": "2027-05-26",
+      "poster": "https://image.tmdb.org/t/p/w92/dwvXFWUQzivh6mizZGKQhYOPV83.jpg",
+      "format": "theatrical",
+      "directorStr": "Shawn Levy",
+      "studioStr": "Lucasfilm Ltd. / 21 Laps Entertainment",
+      "prestige": false
+    },
+    {
+      "id": 1611600,
+      "title": "English",
+      "releaseDate": "2027-05-27",
+      "poster": "https://image.tmdb.org/t/p/w92/tzi0GVi0cf0uAwrguZBCZ0HJ52b.jpg",
+      "format": "theatrical",
+      "directorStr": "Szilard Pusztai",
+      "studioStr": "Ember Production Limited",
+      "prestige": false
+    },
+    {
+      "id": 1654622,
+      "title": "The Beast of Gevaudan 4",
+      "releaseDate": "2027-05-29",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Samsh production",
+      "prestige": false
+    },
+    {
+      "id": 1617834,
+      "title": "Absence",
+      "releaseDate": "2027-06-01",
+      "poster": "https://image.tmdb.org/t/p/w92/d79SMmEC9mjEAGjeEIoTCC4xnTD.jpg",
+      "format": "theatrical",
+      "directorStr": "Daniel Harper",
+      "studioStr": "DL Studios",
+      "prestige": false
+    },
+    {
+      "id": 1191876,
+      "title": "From the Ashes",
+      "releaseDate": "2027-06-01",
+      "poster": "https://image.tmdb.org/t/p/w92/aEUH2ECoZHvSmoMzJpca0STF2CZ.jpg",
+      "format": "theatrical",
+      "directorStr": "Jeremy Wiles",
+      "studioStr": "KingdomWorks",
+      "prestige": false
+    },
+    {
+      "id": 1688883,
+      "title": "Worse Than Death",
+      "releaseDate": "2027-06-05",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "TE Lara-Powell",
+      "studioStr": "12MARKS",
+      "prestige": false
+    },
+    {
+      "id": 1696664,
+      "title": "Nacrose",
+      "releaseDate": "2027-06-10",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Oscar Herissé",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1458319,
+      "title": "How to Train Your Dragon 2",
+      "releaseDate": "2027-06-10",
+      "poster": "https://image.tmdb.org/t/p/w92/6VlnDSuTmBPW6a45Qxp5qeDINBq.jpg",
+      "format": "theatrical",
+      "directorStr": "Dean DeBlois",
+      "studioStr": "DreamWorks Animation / Marc Platt Productions",
+      "prestige": true
+    },
+    {
+      "id": 645708,
+      "title": "Dragon",
+      "releaseDate": "2027-06-10",
+      "poster": "https://image.tmdb.org/t/p/w92/qKQEdXj8OFqMjj000RmlU7qQHWR.jpg",
+      "format": "theatrical",
+      "directorStr": "Prashanth Neel",
+      "studioStr": "Mythri Movie Makers / N. T. R. Arts",
+      "prestige": false
+    },
+    {
+      "id": 1665172,
+      "title": "ROOMMATES",
+      "releaseDate": "2027-06-11",
+      "poster": "https://image.tmdb.org/t/p/w92/nhJNtZvTYrJPmufJokPNhQJtS9G.jpg",
+      "format": "theatrical",
+      "directorStr": "Omen Ingram",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1623944,
+      "title": "Applause",
+      "releaseDate": "2027-06-11",
+      "poster": "https://image.tmdb.org/t/p/w92/8IEBi5cpilFpij213y6R5fWxnG0.jpg",
+      "format": "theatrical",
+      "directorStr": "Malcolm Gari Love Owens",
+      "studioStr": "Independent House of Film",
+      "prestige": false
+    },
+    {
+      "id": 1690834,
+      "title": "Lonely Road",
+      "releaseDate": "2027-06-12",
+      "poster": "https://image.tmdb.org/t/p/w92/e9piwMFr44OzsfzDQUM4XAd0H0p.jpg",
+      "format": "theatrical",
+      "directorStr": "Brady Domingo",
+      "studioStr": "The Domingo Film Company",
+      "prestige": false
+    },
+    {
+      "id": 1614424,
+      "title": "born blue",
+      "releaseDate": "2027-06-16",
+      "poster": "https://image.tmdb.org/t/p/w92/bF2beCWoene3e2IFIMmA3Zgv00b.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 911916,
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "releaseDate": "2027-06-17",
+      "poster": "https://image.tmdb.org/t/p/w92/9PIhQqqI6Q4a5YjwMjxvzZcPJhf.jpg",
+      "format": "theatrical",
+      "directorStr": "Bob Persichetti, Justin K. Thompson",
+      "studioStr": "Columbia Pictures / Sony Pictures Animation",
+      "prestige": true
+    },
+    {
+      "id": 1697350,
+      "title": "Black Creek: Retribution",
+      "releaseDate": "2027-06-18",
+      "poster": "https://image.tmdb.org/t/p/w92/faBDXj56pGT88AMaJgYe2ldvMqm.jpg",
+      "format": "theatrical",
+      "directorStr": "Luke LaFontaine",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1221973,
+      "title": "Untitled Ocean's Prequel",
+      "releaseDate": "2027-06-24",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Bradley Cooper",
+      "studioStr": "Warner Bros. Pictures / LuckyChap Entertainment",
+      "prestige": true
+    },
+    {
+      "id": 1623967,
+      "title": "Before I Do",
+      "releaseDate": "2027-06-26",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Gary Jaffe",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1611680,
+      "title": "Mondele",
+      "releaseDate": "2027-06-30",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Daniel Kayamba",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 421892,
+      "title": "Shrek 5",
+      "releaseDate": "2027-06-30",
+      "poster": "https://image.tmdb.org/t/p/w92/8XwmMjwiQ91Rm0eU4AcxyFA3XUZ.jpg",
+      "format": "theatrical",
+      "directorStr": "Walt Dohrn, Conrad Vernon",
+      "studioStr": "DreamWorks Animation",
+      "prestige": true
+    },
+    {
+      "id": 1618609,
+      "title": "Joey&Fray",
+      "releaseDate": "2027-07-03",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Ieuan Evans",
+      "studioStr": "Wenus Entertainment",
+      "prestige": false
+    },
+    {
+      "id": 1523140,
+      "title": "Man of Tomorrow",
+      "releaseDate": "2027-07-07",
+      "poster": "https://image.tmdb.org/t/p/w92/dmRLQgs6zqkxKpOHlYkEaIVtOA1.jpg",
+      "format": "theatrical",
+      "directorStr": "James Gunn",
+      "studioStr": "DC Studios",
+      "prestige": false
+    },
+    {
+      "id": 656618,
+      "title": "High in the Clouds",
+      "releaseDate": "2027-07-07",
+      "poster": "https://image.tmdb.org/t/p/w92/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg",
+      "format": "theatrical",
+      "directorStr": "Toby Genkel",
+      "studioStr": "Gaumont / Gaumont Animation",
+      "prestige": false
+    },
+    {
+      "id": 1401835,
+      "title": "To Bontang",
+      "releaseDate": "2027-07-08",
+      "poster": "https://image.tmdb.org/t/p/w92/7uOLiFlvANXF0rxAnhoaQPjQwIt.jpg",
+      "format": "theatrical",
+      "directorStr": "Mustafiz Ahmed",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1458578,
+      "title": "Nexus: 3001",
+      "releaseDate": "2027-07-09",
+      "poster": "https://image.tmdb.org/t/p/w92/vi6nujZ19AtUw6yQk6vSDAoIDyt.jpg",
+      "format": "theatrical",
+      "directorStr": "Noor Ali",
+      "studioStr": "7 productions",
+      "prestige": false
+    },
+    {
+      "id": 1597138,
+      "title": "The Fields of Abbottsville",
+      "releaseDate": "2027-07-11",
+      "poster": "https://image.tmdb.org/t/p/w92/24j5pP9jz05CPyCuzD8ptvZ6IEf.jpg",
+      "format": "digital",
+      "directorStr": "Brennan Abbott",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1643077,
+      "title": "on a madness.",
+      "releaseDate": "2027-07-18",
+      "poster": "https://image.tmdb.org/t/p/w92/2i4S9MOCbdRgJRKpmQ6CWltRNoj.jpg",
+      "format": "theatrical",
+      "directorStr": "Harrison Earl",
+      "studioStr": "Earl's Picks",
+      "prestige": false
+    },
+    {
+      "id": 1461519,
+      "title": "A Minecraft Sequel",
+      "releaseDate": "2027-07-22",
+      "poster": "https://image.tmdb.org/t/p/w92/etAUG9KmbStyEKmbdd4wIvyJpV5.jpg",
+      "format": "theatrical",
+      "directorStr": "Jared Hess",
+      "studioStr": "Warner Bros. Pictures / Legendary Pictures",
+      "prestige": true
+    },
+    {
+      "id": 1528628,
+      "title": "The Shark That Roared",
+      "releaseDate": "2027-07-27",
+      "poster": "https://image.tmdb.org/t/p/w92/v2YODdeJjPtpNyUwoRYgQ246Vlg.jpg",
+      "format": "digital",
+      "directorStr": null,
+      "studioStr": "Voight-Kampff Productions / Mediatif Films",
+      "prestige": false
+    },
+    {
+      "id": 1324923,
+      "title": "A Quiet Place Part III",
+      "releaseDate": "2027-07-28",
+      "poster": "https://image.tmdb.org/t/p/w92/37XcaePjgtaga0gB3dFNSc7QnuS.jpg",
+      "format": "theatrical",
+      "directorStr": "John Krasinski",
+      "studioStr": "Paramount Pictures / Platinum Dunes",
+      "prestige": true
+    },
+    {
+      "id": 1573515,
+      "title": "Gargantuan",
+      "releaseDate": "2027-08-01",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "Jordan Noel",
+      "studioStr": "Mirror Box Films",
+      "prestige": false
+    },
+    {
+      "id": 1305810,
+      "title": "The Auction",
+      "releaseDate": "2027-08-01",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Will Atticus Parker",
+      "studioStr": "River Styx Productions",
+      "prestige": false
+    },
+    {
+      "id": 1403836,
+      "title": "Bluey: The Movie",
+      "releaseDate": "2027-08-05",
+      "poster": "https://image.tmdb.org/t/p/w92/wUiL0OTK3EPRyQfdQkEU4Ma87V2.jpg",
+      "format": "theatrical",
+      "directorStr": "Joe Brumm",
+      "studioStr": "Ludo Studio / BBC Studios",
+      "prestige": true
+    },
+    {
+      "id": 1648434,
+      "title": "The Final Hour",
+      "releaseDate": "2027-08-08",
+      "poster": "https://image.tmdb.org/t/p/w92/31ceMg4HPYlj7ZBavlDCZRdXcHo.jpg",
+      "format": "theatrical",
+      "directorStr": "Ruthvik nandagiri",
+      "studioStr": "Bhadka Productions",
+      "prestige": false
+    },
+    {
+      "id": 1156621,
+      "title": "Untitled Teenage Mutant Ninja Turtles: Mutant Mayhem Sequel",
+      "releaseDate": "2027-08-12",
+      "poster": "https://image.tmdb.org/t/p/w92/yukp9qq3JmgatfMSGnxdyn6jtRX.jpg",
+      "format": "theatrical",
+      "directorStr": "Jeff Rowe",
+      "studioStr": "Point Grey Pictures / Paramount Pictures",
+      "prestige": true
+    },
+    {
+      "id": 1572400,
+      "title": "Shiver",
+      "releaseDate": "2027-08-13",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Tim Miller",
+      "studioStr": "Warner Bros. Pictures / Marv",
+      "prestige": true
+    },
+    {
+      "id": 1617805,
+      "title": "Prompt: Make a Documentary",
+      "releaseDate": "2027-08-31",
+      "poster": "https://image.tmdb.org/t/p/w92/oUCZ15Xdx1z4CchZA0nC3w6MDvq.jpg",
+      "format": "theatrical",
+      "directorStr": "Zeke Morgan-Hind",
+      "studioStr": "Mr Media Creative",
+      "prestige": false
+    },
+    {
+      "id": 1554353,
+      "title": "The Simpsons Movie 2",
+      "releaseDate": "2027-09-01",
+      "poster": "https://image.tmdb.org/t/p/w92/6bWJH0s0X2cTynececEJSnfbNn9.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Gracie Films / 20th Century Animation",
+      "prestige": true
+    },
+    {
+      "id": 1544162,
+      "title": "The Conjuring: First Communion",
+      "releaseDate": "2027-09-09",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Rodrigue Huart",
+      "studioStr": "New Line Cinema / The Safran Company",
+      "prestige": true
+    },
+    {
+      "id": 1421202,
+      "title": "It Is Not Her Fault",
+      "releaseDate": "2027-09-14",
+      "poster": "https://image.tmdb.org/t/p/w92/moHZfyJn1NTXbE6jp83fV8cju5K.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Luminary Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1700211,
+      "title": "THE END. (The Ultimate Hilda Iceberg Finale)",
+      "releaseDate": "2027-09-22",
+      "poster": "https://image.tmdb.org/t/p/w92/sX7T67C3NOvvwjI1cbPfj1gH9C6.jpg",
+      "format": "theatrical",
+      "directorStr": "ReyGGTV",
+      "studioStr": "ReyGGTV Productions",
+      "prestige": false
+    },
+    {
+      "id": 1615229,
+      "title": "Born In Blue",
+      "releaseDate": "2027-09-23",
+      "poster": "https://image.tmdb.org/t/p/w92/EBEEkOyzz7OtAd5Cvfweei11xx.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1380780,
+      "title": "The Last Druid",
+      "releaseDate": "2027-09-24",
+      "poster": "https://image.tmdb.org/t/p/w92/xBlpO2hKSUtszLIb1Ink1kaDPn4.jpg",
+      "format": "theatrical",
+      "directorStr": "William Eubank",
+      "studioStr": "Range Media Partners / 42",
+      "prestige": false
+    },
+    {
+      "id": 1068401,
+      "title": "Terra: Reckoning",
+      "releaseDate": "2027-09-24",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Jaden Scarr",
+      "studioStr": "Override Entertainment",
+      "prestige": false
+    },
+    {
+      "id": 1656148,
+      "title": "I SAW MY FATHER´S SOUL ON TV",
+      "releaseDate": "2027-09-27",
+      "poster": "https://image.tmdb.org/t/p/w92/yIAM2m8dFqBjAXE1Ka7vixGYIY4.jpg",
+      "format": "theatrical",
+      "directorStr": "Will Mascaro, Jessica Lorens",
+      "studioStr": "Frakas Productions",
+      "prestige": false
+    },
+    {
+      "id": 806704,
+      "title": "Untitled The Batman Sequel",
+      "releaseDate": "2027-09-30",
+      "poster": "https://image.tmdb.org/t/p/w92/qv4YTyxvaujP79a5XZJ6F4G8Nyi.jpg",
+      "format": "theatrical",
+      "directorStr": "Matt Reeves",
+      "studioStr": "6th & Idaho Motion Picture Company / DC Studios",
+      "prestige": false
+    },
+    {
+      "id": 1574840,
+      "title": "Untitled The Mummy Sequel",
+      "releaseDate": "2027-10-14",
+      "poster": "https://image.tmdb.org/t/p/w92/ihR2uqtz5Gn37g5gIZ2SEO2n6N1.jpg",
+      "format": "theatrical",
+      "directorStr": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "studioStr": "Universal Pictures / Radio Silence",
+      "prestige": true
+    },
+    {
+      "id": 1589394,
+      "title": "Joshua",
+      "releaseDate": "2027-10-20",
+      "poster": "https://image.tmdb.org/t/p/w92/9U47rZV70QK0v1vrZ4DjpsnOro7.jpg",
+      "format": "theatrical",
+      "directorStr": "Brandon Newbury",
+      "studioStr": "BrandonVerse Studios",
+      "prestige": false
+    },
+    {
+      "id": 1517390,
+      "title": "Saki Sanobashi: Go For A Punch",
+      "releaseDate": "2027-10-21",
+      "poster": null,
+      "format": "physical",
+      "directorStr": "Michael Snead",
+      "studioStr": "Analog Archive",
+      "prestige": false
+    },
+    {
+      "id": 1701671,
+      "title": "Intrigued",
+      "releaseDate": "2027-10-29",
+      "poster": "https://image.tmdb.org/t/p/w92/9ecKadrOlPMdOVxORTwzNJfHrdp.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1202568,
+      "title": "shuteye",
+      "releaseDate": "2027-10-29",
+      "poster": "https://image.tmdb.org/t/p/w92/dRHVocnmLsXLxnAYZqc2fLJf4o1.jpg",
+      "format": "digital",
+      "directorStr": "Anthony Leroy",
+      "studioStr": "Elytra Collective",
+      "prestige": false
+    },
+    {
+      "id": 1587385,
+      "title": "Holiday Horror",
+      "releaseDate": "2027-10-31",
+      "poster": "https://image.tmdb.org/t/p/w92/o4tnB6Ep24mM9WaevYkoKFE02SL.jpg",
+      "format": "theatrical",
+      "directorStr": "Aaron Bartuska",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1564414,
+      "title": "Deviant",
+      "releaseDate": "2027-10-31",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "Lonzo Bentley",
+      "studioStr": "Macha Films",
+      "prestige": false
+    },
+    {
+      "id": 1518763,
+      "title": "[untitled fashion thriller]",
+      "releaseDate": "2027-10-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "David Michael Miller",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1651152,
+      "title": "The Origin of Hide and Seek",
+      "releaseDate": "2027-11-01",
+      "poster": "https://image.tmdb.org/t/p/w92/lkSJhMdNUoaKgYfSheRGzBUeYxI.jpg",
+      "format": "digital",
+      "directorStr": "Randy Smith, Benjamin Johnson",
+      "studioStr": "Ghost Productions",
+      "prestige": false
+    },
+    {
+      "id": 1019685,
+      "title": "Elegy to a Missing Friend",
+      "releaseDate": "2027-11-01",
+      "poster": "https://image.tmdb.org/t/p/w92/xOLTfYWXNKnJzjDe7i6CLxGiCeq.jpg",
+      "format": "theatrical",
+      "directorStr": "Adelaide Sherry",
+      "studioStr": "In Limbo Productions",
+      "prestige": false
+    },
+    {
+      "id": 1290568,
+      "title": "Margie Claus",
+      "releaseDate": "2027-11-04",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Kirk DeMicco",
+      "studioStr": "Warner Bros. Pictures Animation / On the Day",
+      "prestige": true
+    },
+    {
+      "id": 1413533,
+      "title": "Helldivers",
+      "releaseDate": "2027-11-10",
+      "poster": "https://image.tmdb.org/t/p/w92/zDRwl5qTqPJgNoc8pkQkDnXRSYF.jpg",
+      "format": "theatrical",
+      "directorStr": "Justin Lin",
+      "studioStr": "PlayStation Productions / Perfect Storm Entertainment",
+      "prestige": true
+    },
+    {
+      "id": 1580489,
+      "title": "Me and Po Are Very Real",
+      "releaseDate": "2027-11-12",
+      "poster": "https://image.tmdb.org/t/p/w92/wBKIBauGpLOIycI0ffakuprRi3X.jpg",
+      "format": "theatrical",
+      "directorStr": "Bladde",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1423577,
+      "title": "Gremlins: After Midnight",
+      "releaseDate": "2027-11-18",
+      "poster": "https://image.tmdb.org/t/p/w92/lqciTVnO0IQW1BzfMWpwSo12YAO.jpg",
+      "format": "theatrical",
+      "directorStr": "Joe Dante",
+      "studioStr": "Amblin Entertainment / 26th Street Pictures",
+      "prestige": false
+    },
+    {
+      "id": 1230440,
+      "title": "Secrets",
+      "releaseDate": "2027-11-18",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "James Basford",
+      "studioStr": "Shaky Cam Studios / TKSC Productions",
+      "prestige": false
+    },
+    {
+      "id": 1651461,
+      "title": "Untitled Daniels/Universal Event Film",
+      "releaseDate": "2027-11-19",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Daniel Kwan, Daniel Scheinert",
+      "studioStr": "Universal Pictures / Playgrounds",
+      "prestige": true
+    },
+    {
+      "id": 1024604,
+      "title": "Frozen III",
+      "releaseDate": "2027-11-24",
+      "poster": "https://image.tmdb.org/t/p/w92/1gCNk9EXATgTVmWvQgFuYC4tZQd.jpg",
+      "format": "theatrical",
+      "directorStr": "Jennifer Lee",
+      "studioStr": "Walt Disney Animation Studios",
+      "prestige": true
+    },
+    {
+      "id": 1586888,
+      "title": "Hungry Creatures",
+      "releaseDate": "2027-11-26",
+      "poster": "https://image.tmdb.org/t/p/w92/iLnZS8bnLc9KOai0iho0pUIjb4a.jpg",
+      "format": "theatrical",
+      "directorStr": "Coren Helene-Gitomer",
+      "studioStr": "Peoples Cinema",
+      "prestige": false
+    },
+    {
+      "id": 1441622,
+      "title": "Cling Film",
+      "releaseDate": "2027-11-29",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1503687,
+      "title": "Just Plant",
+      "releaseDate": "2027-12-15",
+      "poster": "https://image.tmdb.org/t/p/w92/uEW7NpWOvWXVHvAszjqoLA9kGLL.jpg",
+      "format": "theatrical",
+      "directorStr": "Brea Vallitelli",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1090869,
+      "title": "The Lord of the Rings: The Hunt for Gollum",
+      "releaseDate": "2027-12-15",
+      "poster": "https://image.tmdb.org/t/p/w92/gL7CybVuRKOVNr3UGYqroo4c8i0.jpg",
+      "format": "theatrical",
+      "directorStr": "Andy Serkis",
+      "studioStr": "New Line Cinema / Middle-earth Enterprises",
+      "prestige": true
+    },
+    {
+      "id": 1003598,
+      "title": "Avengers: Secret Wars",
+      "releaseDate": "2027-12-16",
+      "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+      "format": "theatrical",
+      "directorStr": "Joe Russo, Anthony Russo",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": false
+    },
+    {
+      "id": 1611116,
+      "title": "The Housemaid's Secret",
+      "releaseDate": "2027-12-17",
+      "poster": "https://image.tmdb.org/t/p/w92/wN9UPRZ5jbL9n3wIkZSrVov1dC2.jpg",
+      "format": "theatrical",
+      "directorStr": "Paul Feig",
+      "studioStr": "Lionsgate / Hidden Pictures",
+      "prestige": true
+    },
+    {
+      "id": 1189041,
+      "title": "Esther's Comet",
+      "releaseDate": "2027-12-17",
+      "poster": "https://image.tmdb.org/t/p/w92/3UC0GtGwxVZyY8rPJ2MFwiNX9sv.jpg",
+      "format": "theatrical",
+      "directorStr": "Zane Foyle",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1670080,
+      "title": "Buds",
+      "releaseDate": "2027-12-22",
+      "poster": "https://image.tmdb.org/t/p/w92/bUwerUHi2ZbxELYs2uWo6Bsa67L.jpg",
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Sony Pictures Animation",
+      "prestige": true
+    },
+    {
+      "id": 1414788,
+      "title": "Tunes",
+      "releaseDate": "2027-12-24",
+      "poster": "https://image.tmdb.org/t/p/w92/4Nn2cpnnNxO3VlxjIA3V9yHPTfT.jpg",
+      "format": "theatrical",
+      "directorStr": "Kiran H",
+      "studioStr": "Euro Studios",
+      "prestige": false
+    },
+    {
+      "id": 1211637,
+      "title": "Christmas Stalkings",
+      "releaseDate": "2027-12-24",
+      "poster": null,
+      "format": "digital",
+      "directorStr": "Anthony Leroy",
+      "studioStr": "Elytra Collective",
+      "prestige": false
+    },
+    {
+      "id": 1601898,
+      "title": "Untitled Nancy Meyers Film",
+      "releaseDate": "2027-12-25",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Nancy Meyers",
+      "studioStr": "Warner Bros. Pictures / Waverly Films",
+      "prestige": true
+    },
+    {
+      "id": 1516340,
+      "title": "It’s A Good Day For A Jog!",
+      "releaseDate": "2027-12-25",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Aquatique",
+      "prestige": false
+    },
+    {
+      "id": 1214974,
+      "title": "Untitled",
+      "releaseDate": "2027-12-27",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "Frameatic Studios",
+      "prestige": false
+    },
+    {
+      "id": 1696369,
+      "title": "The Fårö Cannibal",
+      "releaseDate": "2027-12-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Gustaf Skarsgård",
+      "studioStr": "Gotlands Filmfond / Film i Väst",
+      "prestige": false
+    },
+    {
+      "id": 1685754,
+      "title": "The Beauty in Boredom",
+      "releaseDate": "2027-12-31",
+      "poster": "https://image.tmdb.org/t/p/w92/1JZo0PgrdlHZ3NBYNVEc8sevKaZ.jpg",
+      "format": "digital",
+      "directorStr": "Aidan J. Pereira",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1418003,
+      "title": "808",
+      "releaseDate": "2027-12-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Stargate",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1418000,
+      "title": "A Family Getting Sick",
+      "releaseDate": "2027-12-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Stargate",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1417593,
+      "title": "Deconstruction of Art History",
+      "releaseDate": "2027-12-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Stargate",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1417592,
+      "title": "A World Without Trees",
+      "releaseDate": "2027-12-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": "Stargate",
+      "studioStr": null,
+      "prestige": false
+    },
+    {
+      "id": 1308261,
+      "title": "Untitled Leave Me Alone Sequel",
+      "releaseDate": "2027-12-31",
+      "poster": null,
+      "format": "theatrical",
+      "directorStr": null,
+      "studioStr": "DLC Studios",
+      "prestige": false
+    },
+    {
+      "id": 1299747,
+      "title": "\"I Don't Wanna Do This Anymore\"",
+      "releaseDate": "2027-12-31",
+      "poster": "https://image.tmdb.org/t/p/w92/jgjP3Lv2qPnnpKyV8TLZmPMN3bQ.jpg",
+      "format": "theatrical",
+      "directorStr": "Jessie Crandall",
+      "studioStr": "Vacancy Visions Productions / Scream Soda Inc.",
+      "prestige": false
+    },
+    {
+      "id": 755679,
+      "title": "Fast Forever",
+      "releaseDate": "2028-03-16",
+      "poster": "https://image.tmdb.org/t/p/w92/xaRzhQZ3zK5lN6vEetG8PD17KPF.jpg",
+      "format": "theatrical",
+      "directorStr": "Louis Leterrier",
+      "studioStr": "Universal Pictures / One Race",
+      "prestige": true
+    },
+    {
+      "id": 216527,
+      "title": "Avatar 4",
+      "releaseDate": "2029-12-19",
+      "poster": "https://image.tmdb.org/t/p/w92/qzMYKnT4MG1d0gnhwytr4cKhUvS.jpg",
+      "format": "theatrical",
+      "directorStr": "James Cameron",
+      "studioStr": "20th Century Studios / Lightstorm Entertainment",
+      "prestige": true
+    }
+  ]
 }
