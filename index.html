@@ -225,10 +225,7 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
 
   <!-- CONTENT -->
   <div class="content" id="content">
-    <div class="welcome-state">
-      <div class="welcome-hed">Five years of upcoming releases</div>
-      <div class="welcome-body">Organized by year, month, and opening week (Thursday–Wednesday). Click <strong>Settings</strong> above to enter your API key and load the calendar.</div>
-    </div>
+    <div class="loading-state"><div class="loading-ring"></div><div class="loading-label">Loading releases…</div></div>
   </div>
 
 </div>
@@ -366,10 +363,14 @@ async function loadMovies() {
   try {
     const movies = await fetchAll();
     allMovies = movies;
+    if (!movies || movies.length === 0) {
+      document.getElementById('content').innerHTML = '<div class="empty-state" style="padding:4rem 2.5rem"><div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:22px;font-weight:700;color:var(--text);margin-bottom:.75rem">Coming soon</div><div style="font-size:13px;color:var(--muted);line-height:1.7">The movie calendar is being built.<br>Check back shortly — it updates automatically every night.</div></div>';
+      return;
+    }
     document.getElementById('toolbar').classList.add('visible');
     renderMovies();
   } catch(e) {
-    document.getElementById('content').innerHTML = '<div class="empty-state">Could not load movies.<br><small>' + e.message + '</small></div>';
+    document.getElementById('content').innerHTML = '<div class="empty-state">Could not load movies.<br><small style="color:var(--muted)">' + e.message + '</small></div>';
   }
 }
 
