@@ -55,22 +55,6 @@ a{color:inherit;text-decoration:none}
 .btn-load:hover{opacity:.88}
 .btn-load:disabled{opacity:.5;cursor:not-allowed}
 
-/* SETTINGS PANEL */
-.settings-panel{background:var(--card);border-bottom:1.5px solid var(--border);padding:1.25rem 2.5rem;display:none;gap:12px;align-items:flex-end;flex-wrap:wrap}
-.settings-panel.open{display:flex}
-.settings-panel label{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);display:block;font-weight:500;margin-bottom:5px}
-.settings-panel input{background:var(--bg);border:1.5px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:13px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;outline:none;width:360px;transition:border-color .15s}
-.settings-panel input:focus{border-color:var(--accent)}
-.settings-hint{font-size:11px;color:var(--muted);margin-top:4px}
-.settings-hint a{color:var(--accent);text-decoration:underline}
-.pin-panel{background:var(--card);border-bottom:1.5px solid var(--border);padding:1.25rem 2.5rem}
-.pin-inner{display:flex;flex-direction:column;gap:8px;max-width:400px}
-.pin-label{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
-.pin-row{display:flex;gap:8px;align-items:center}
-.pin-input{background:var(--bg);border:1.5px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:18px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;outline:none;width:140px;letter-spacing:.3em;transition:border-color .15s}
-.pin-input:focus{border-color:var(--accent)}
-.pin-error{font-size:12px;color:var(--accent);min-height:16px}
-
 /* STATUS */
 .status-bar{padding:.6rem 2.5rem;min-height:32px;display:flex;align-items:center;gap:8px;border-bottom:1px solid var(--border)}
 .status-text{font-size:12px;color:var(--muted);letter-spacing:.02em}
@@ -142,6 +126,10 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
 .badge-wide{background:rgba(45,106,79,.1);color:var(--green);border:1px solid rgba(45,106,79,.25)}
 .badge-limited{background:rgba(181,134,13,.1);color:var(--gold);border:1px solid rgba(181,134,13,.25)}
 .badge-premiere{background:rgba(90,74,138,.1);color:var(--purple);border:1px solid rgba(90,74,138,.25)}
+.badge-theatrical{background:rgba(45,106,79,.1);color:var(--green);border:1px solid rgba(45,106,79,.25)}
+.badge-streaming{background:rgba(93,134,232,.1);color:#5d86e8;border:1px solid rgba(93,134,232,.25)}
+.badge-digital{background:rgba(181,134,13,.1);color:var(--gold);border:1px solid rgba(181,134,13,.25)}
+.badge-physical{background:rgba(90,74,138,.1);color:var(--purple);border:1px solid rgba(90,74,138,.25)}
 .movie-date-inline{font-size:11px;color:var(--muted);margin-left:auto;white-space:nowrap}
 .movie-credits{font-size:11px;color:var(--muted);display:flex;gap:16px;flex-wrap:wrap;margin-top:1px}
 .movie-credits span{display:flex;align-items:center;gap:4px}
@@ -161,6 +149,49 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
 .welcome-hed{font-family:'Helvetica World','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:26px;font-weight:700;letter-spacing:-.5px;color:var(--muted);margin-bottom:.5rem}
 .welcome-body{font-size:13px;color:var(--muted);line-height:1.7;max-width:480px}
 .welcome-body a{color:var(--accent);text-decoration:underline}
+
+/* ── MOBILE RESPONSIVE ── */
+@media(max-width:680px){
+  .site-header{padding:1.25rem 1rem 1rem;flex-wrap:wrap;gap:.75rem;align-items:flex-start}
+  .logo{font-size:36px;letter-spacing:-1.5px}
+  .logo-sub{font-size:10px}
+  .header-right{width:100%;display:flex;gap:8px;align-items:center}
+  .header-search{flex:1;width:auto;min-width:0;font-size:13px}
+  .settings-btn{padding:7px 10px;font-size:11px}
+  .settings-panel{padding:1rem;flex-direction:column;gap:10px}
+  .settings-panel input{width:100%}
+  .pin-panel{padding:1rem}
+  .status-bar{padding:.5rem 1rem}
+  .toolbar{padding:.6rem 1rem;gap:5px}
+  .search-wrap{padding:.6rem 1rem}
+  .year-header{padding:1rem 1rem}
+  .year-name{font-size:26px}
+  .month-header{padding:.75rem 1rem .75rem 1.75rem}
+  .month-body{padding-left:1.75rem}
+  .week-header{padding:.5rem 1rem .5rem 0}
+  .movie-card{grid-template-columns:44px 1fr}
+  .movie-poster-col{width:44px;padding:8px 0}
+  .movie-poster-wrap{width:38px;height:57px}
+  .movie-main{padding:8px 1rem 8px 10px}
+  .movie-title{font-size:14px;max-width:100%}
+  .movie-top{flex-wrap:wrap;gap:6px}
+  .movie-date-inline{margin-left:0;width:100%}
+  .movie-credits{gap:8px}
+  .movie-links{flex-wrap:wrap;gap:4px}
+  .movie-link{font-size:10px;padding:4px 8px}
+  .welcome-state{padding:1.5rem 1rem}
+  .expand-btns{display:none}
+  .trailer-overlay{padding:.5rem}
+  .trailer-box{max-width:100%}
+  .trailer-title{font-size:13px;max-width:calc(100vw - 80px)}
+  .filter-label{display:none}
+  .pill{padding:4px 10px;font-size:10px}
+}
+@media(max-width:400px){
+  .logo{font-size:30px}
+  .movie-card{grid-template-columns:40px 1fr}
+  .movie-poster-wrap{width:34px;height:51px}
+}
 
 /* TRAILER MODAL */
 .trailer-overlay{position:fixed;inset:0;background:rgba(0,0,0,.88);z-index:1000;display:none;align-items:center;justify-content:center;padding:2rem}
@@ -183,45 +214,15 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
   <header class="site-header">
     <div class="logo-area">
       <div class="logo">The Drop</div>
-      <div class="logo-sub">What's dropping in theatres</div>
+      <div class="logo-sub">Know what's dropping, everywhere.</div>
     </div>
     <div class="header-right">
       <input class="header-search" type="text" id="searchInput" placeholder="Search titles…" oninput="filterMovies()" />
       <button class="settings-btn" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode">
         <i class="ti ti-moon" id="darkIcon" aria-hidden="true"></i>
       </button>
-      <button class="settings-btn" id="settingsToggle" onclick="toggleSettings()">
-        <i class="ti ti-settings" aria-hidden="true"></i> Settings
-      </button>
     </div>
   </header>
-
-  <!-- PIN PROMPT -->
-  <div class="pin-panel" id="pinPanel" style="display:none">
-    <div class="pin-inner">
-      <div class="pin-label">Enter PIN to access settings</div>
-      <div class="pin-row">
-        <input type="password" id="pinInput" class="pin-input" maxlength="10" placeholder="&bull;&bull;&bull;&bull;" onkeydown="if(event.key==='Enter')checkPin()" autocomplete="off" />
-        <button class="btn-load" onclick="checkPin()">Unlock</button>
-      </div>
-      <div class="pin-error" id="pinError"></div>
-    </div>
-  </div>
-
-  <!-- SETTINGS PANEL -->
-  <div class="settings-panel" id="settingsPanel">
-    <div>
-      <label for="apiKey">API Key</label>
-      <input type="password" id="apiKey" placeholder="Paste your API key or Read Access Token" autocomplete="off" />
-      <div class="settings-hint">Get a free key at <a href="https://www.themoviedb.org/settings/api" target="_blank">themoviedb.org/settings/api</a> &nbsp;&middot;&nbsp; Use <code>http://localhost</code> as the application URL</div>
-    </div>
-    <div>
-      <label for="newPin">Change PIN</label>
-      <input type="password" id="newPin" placeholder="Leave blank to keep current PIN" maxlength="10" autocomplete="off" style="width:220px" />
-    </div>
-    <button class="btn-load" id="loadBtn" onclick="saveSettings()">Save &amp; Load</button>
-  </div>
-
   <!-- STATUS -->
   <div class="status-bar">
     <span class="status-text" id="statusText"></span>
@@ -230,11 +231,12 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
 
   <!-- TOOLBAR -->
   <div class="toolbar" id="toolbar">
-    <span class="filter-label">Type:</span>
+    <span class="filter-label">Format:</span>
     <button class="pill active" onclick="setFilter('all',this)">All</button>
-    <button class="pill" onclick="setFilter('wide',this)">Wide</button>
-    <button class="pill" onclick="setFilter('limited',this)">Limited</button>
-    <button class="pill" onclick="setFilter('premiere',this)">Premiere</button>
+    <button class="pill" onclick="setFilter('theatrical',this)">Theatrical</button>
+    <button class="pill" onclick="setFilter('digital',this)">Digital</button>
+    <button class="pill" onclick="setFilter('streaming',this)">Streaming</button>
+    <button class="pill" onclick="setFilter('physical',this)">Physical</button>
     <div class="expand-btns">
       <button class="btn-ghost" onclick="toggleAll(true)">Expand all</button>
       <button class="btn-ghost" onclick="toggleAll(false)">Collapse all</button>
@@ -289,48 +291,11 @@ function toggleDark() {
   }
 })();
 
-function toggleSettings() {
-  const pinPanel = document.getElementById('pinPanel');
-  const settingsPanel = document.getElementById('settingsPanel');
-  const btn = document.getElementById('settingsToggle');
-  // If settings already open, close everything
-  if (settingsPanel.classList.contains('open')) {
-    settingsPanel.classList.remove('open');
-    pinPanel.style.display = 'none';
-    btn.classList.remove('active');
-    return;
-  }
-  // Show PIN prompt
-  pinPanel.style.display = 'block';
-  settingsPanel.classList.remove('open');
-  btn.classList.add('active');
-  document.getElementById('pinInput').value = '';
-  document.getElementById('pinError').textContent = '';
-  setTimeout(() => document.getElementById('pinInput').focus(), 50);
-}
+// Auto-load movies on page ready
+document.addEventListener('DOMContentLoaded', () => loadMovies());
 
-function checkPin() {
-  const entered = document.getElementById('pinInput').value;
-  if (entered === currentPin) {
-    document.getElementById('pinPanel').style.display = 'none';
-    document.getElementById('settingsPanel').classList.add('open');
-    document.getElementById('pinError').textContent = '';
-  } else {
-    document.getElementById('pinError').textContent = 'Incorrect PIN. Try again.';
-    document.getElementById('pinInput').value = '';
-    document.getElementById('pinInput').focus();
-  }
-}
 
-function saveSettings() {
-  const newPin = document.getElementById('newPin').value.trim();
-  if (newPin) {
-    currentPin = newPin;
-    localStorage.setItem('thedrop_pin', newPin);
-    document.getElementById('newPin').value = '';
-  }
-  loadMovies();
-}
+
 
 function setStatus(msg, type) {
   document.getElementById('statusText').textContent = msg;
@@ -345,8 +310,7 @@ function setProgress(val, max) {
 }
 
 async function loadMovies() {
-  const key = document.getElementById('apiKey').value.trim();
-  if (!key) { setStatus('Please enter an API key in Settings.', 'error'); return; }
+  const key = 'hardcoded';
   const btn = document.getElementById('loadBtn');
   btn.disabled = true; btn.textContent = 'Loading…';
   setStatus('Connecting…', 'loading');
@@ -358,9 +322,7 @@ async function loadMovies() {
     setStatus(movies.length + ' releases loaded · ' + new Date().toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}), 'success');
     document.getElementById('toolbar').classList.add('visible');
     // Close settings after successful load
-    document.getElementById('settingsPanel').classList.remove('open');
-    document.getElementById('pinPanel').style.display = 'none';
-    document.getElementById('settingsToggle').classList.remove('active');
+
     renderMovies();
   } catch(e) {
     setStatus('Error: ' + e.message, 'error');
@@ -390,8 +352,10 @@ function isPrestigeStudio(companiesArr) {
 }
 
 async function fetchAll(key) {
-  const isToken = key.length > 40;
-  const headers = isToken ? {'Authorization':'Bearer '+key,'Content-Type':'application/json'} : {};
+  // API token hardcoded — read-only public key
+  key = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
+  const isToken = true;
+  const headers = {'Authorization':'Bearer '+key,'Content-Type':'application/json'};
   const today = new Date();
   const fmt = d => d.toISOString().split('T')[0];
   const todayStr = fmt(today);
@@ -421,7 +385,7 @@ async function fetchAll(key) {
         'primary_release_date.gte': gte,
         'primary_release_date.lte': lte,
         sort_by: 'primary_release_date.asc',
-        'with_release_type': '2|3',
+        'with_release_type': '1|2|3|4|5',
         page
       });
       if (!isToken) p.set('api_key', key);
@@ -511,7 +475,9 @@ async function fetchAll(key) {
 }
 
 async function fetchDetailsInBatches(movies, key, isToken) {
-  const headers = isToken ? {'Authorization':'Bearer '+key} : {};
+  key = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
+  isToken = true;
+  const headers = {'Authorization':'Bearer '+key};
   const batchSize = 8;
   for (let i = 0; i < movies.length; i += batchSize) {
     const batch = movies.slice(i, i + batchSize);
@@ -525,7 +491,7 @@ async function fetchDetailsInBatches(movies, key, isToken) {
         const directors = (data.crew || []).filter(c => c.job === 'Director').map(c => c.name);
         m.directorStr = directors.length ? directors.join(', ') : null;
 
-        // Studio from movie details
+        // Studio + format from movie details
         const res2 = await fetch(`https://api.themoviedb.org/3/movie/${m.id}${p}`, {headers: isToken ? headers : {}});
         if (!res2.ok) return;
         const d2 = await res2.json();
@@ -533,6 +499,25 @@ async function fetchDetailsInBatches(movies, key, isToken) {
         const studios = companies.slice(0,2).map(c => c.name);
         m.studioStr = studios.length ? studios.join(' / ') : null;
         m.isPrestige = isPrestigeStudio(companies);
+
+        // Detect format from release_dates for CA region
+        const res3 = await fetch(`https://api.themoviedb.org/3/movie/${m.id}/release_dates${p}`, {headers: isToken ? headers : {}});
+        if (res3.ok) {
+          const rd = await res3.json();
+          const caEntry = (rd.results || []).find(r => r.iso_3166_1 === 'CA') ||
+                          (rd.results || []).find(r => r.iso_3166_1 === 'US');
+          if (caEntry) {
+            const types = (caEntry.release_dates || []).map(d => d.type);
+            // TMDb release types: 1=Premiere,2=Limited,3=Theatrical,4=Digital,5=Physical,6=TV
+            const STREAMING_COMPANIES = ['netflix','amazon','apple','disney','hulu','peacock','paramount+','hbo','max','mubi','shudder','criterion channel','tubi'];
+            const studioLower = (m.studioStr || '').toLowerCase();
+            const isStreamer = STREAMING_COMPANIES.some(s => studioLower.includes(s));
+            if (types.includes(5)) m.format = 'physical';
+            else if (types.includes(4) && isStreamer) m.format = 'streaming';
+            else if (types.includes(4)) m.format = 'digital';
+            else if (types.includes(3) || types.includes(2) || types.includes(1)) m.format = 'theatrical';
+          }
+        }
       } catch(e) {}
     }));
     setStatus('Loading director & studio info… (' + Math.min(i+batchSize, movies.length) + '/' + movies.length + ')', 'loading');
@@ -567,7 +552,7 @@ function fmtRelease(str) {
 
 function groupMovies(movies) {
   const filtered = movies.filter(m => {
-    const t = currentFilter === 'all' || m.releaseType === currentFilter;
+    const t = currentFilter === 'all' || m.format === currentFilter;
     const s = !searchTerm || m.title.toLowerCase().includes(searchTerm.toLowerCase());
     return t && s;
   });
@@ -635,8 +620,9 @@ function renderMovies() {
           <div class="week-body open" id="${wkId}">`;
 
         for (const m of wkData.movies) {
-          const bc = m.releaseType==='wide'?'badge-wide':m.releaseType==='limited'?'badge-limited':'badge-premiere';
-          const bl = m.releaseType.charAt(0).toUpperCase()+m.releaseType.slice(1);
+          const fmt = m.format || 'theatrical';
+          const bc = fmt==='theatrical'?'badge-wide':fmt==='streaming'?'badge-streaming':fmt==='digital'?'badge-digital':fmt==='physical'?'badge-physical':'badge-limited';
+          const bl = fmt.charAt(0).toUpperCase()+fmt.slice(1);
           const lbUrl = 'https://letterboxd.com/search/'+encodeURIComponent(m.title)+'/';
           const imdbUrl = 'https://www.imdb.com/find/?q='+encodeURIComponent(m.title);
           const tmdbUrl = 'https://www.themoviedb.org/movie/'+m.id;
@@ -719,12 +705,9 @@ async function openTrailer(movieId, title) {
   try {
     let videoKey = trailerCache[movieId];
     if (!videoKey) {
-      const apiKey = document.getElementById('apiKey').value.trim();
-      const isToken = apiKey.length > 40;
-      const url = isToken
-        ? `https://api.themoviedb.org/3/movie/${movieId}/videos`
-        : `https://api.themoviedb.org/3/movie/${movieId}/videos?api_key=${apiKey}`;
-      const res = await fetch(url, isToken ? {headers:{'Authorization':'Bearer '+apiKey}} : {});
+      const apiKey = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
+      const url = `https://api.themoviedb.org/3/movie/${movieId}/videos`;
+      const res = await fetch(url, {headers:{'Authorization':'Bearer '+apiKey}});
       const data = await res.json();
       const videos = data.results || [];
 
