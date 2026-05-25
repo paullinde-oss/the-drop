@@ -99,6 +99,7 @@ async function fetchAllMovies() {
   });
 
   // Quality filter — tiered by how far out the release is
+  // Philosophy: the further out, the more inclusive. Don't miss announced titles.
   const filtered = allRaw.filter(m => {
     const pop = m.popularity || 0;
     const votes = m.vote_count || 0;
@@ -107,10 +108,23 @@ async function fetchAllMovies() {
     const releaseYear = parseInt(m.release_date.slice(0, 4));
     const yearsOut = releaseYear - currentYear;
 
-    if (yearsOut >= 2) return pop >= 15 || (isEnglish && pop >= 3);
-    if (yearsOut === 1) return pop >= 5 || isEnglish;
-    // Current year — film buff filter
-    return (isEnglish && pop >= 3) || (avg >= 6.0 && votes >= 15) || pop >= 10;
+    // 2028+ : very inclusive — if TMDb has a release date registered it's probably real
+    // Catches Shrek 5, Simpsons 2, Batman 2, all announced franchise/studio films
+    if (yearsOut >= 3) return pop >= 1 || isEnglish;
+
+    // 2027 : inclusive — any English film or anything with any buzz
+    if (yearsOut === 2) return isEnglish || pop >= 2;
+
+    // 2026 : wide net — English films or anything with some presence
+    if (yearsOut === 1) return isEnglish || pop >= 4;
+
+    // 2025 (current year) : film buff filter — quality signal required for non-English
+    // English studio films: include with minimal presence
+    const notableEnglish = isEnglish && pop >= 3;
+    // Non-English: needs critical recognition or buzz
+    const criticalRec = avg >= 6.0 && votes >= 15;
+    const hasBuzz = pop >= 10;
+    return notableEnglish || criticalRec || hasBuzz;
   });
 
   console.log(`\nFiltered: ${filtered.length} movies from ${allRaw.length} raw`);
