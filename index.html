@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Drop — Theatrical Releases</title>
+<!-- Helvetica World / Helvetica Neue stack — no external font needed -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.44.0/tabler-icons.min.css">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f4f1ec;
+  --bg2:#ede9e2;
+  --bg3:#e5e0d7;
+  --card:#faf8f5;
+  --border:#d8d2c8;
+  --border2:#c8c2b6;
+  --text:#1a1814;
+  --muted:#8a8278;
+  --accent:#c4603a;
+  --accent2:#1a1814;
+  --green:#2d6a4f;
+  --gold:#b5860d;
+  --purple:#5a4a8a;
+  --radius:4px;
+}
+body.dark{
+  --bg:#0f0e0c;
+  --bg2:#181612;
+  --bg3:#201e19;
+  --card:#141210;
+  --border:#2e2b25;
+  --border2:#3a3830;
+  --text:#f0ece4;
+  --muted:#7a7568;
+  --accent:#d4704a;
+  --accent2:#f0ece4;
+  --green:#4aad7a;
+  --gold:#d4a030;
+  --purple:#8a7ac8;
+}
+body{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+a{color:inherit;text-decoration:none}
+
+/* HEADER */
+.site-header{display:flex;align-items:flex-end;justify-content:space-between;padding:2.5rem 2.5rem 1.5rem;border-bottom:2px solid var(--text)}
+.logo-area{}
+.logo{font-family:'Helvetica World','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:48px;font-weight:700;letter-spacing:-2px;line-height:1;color:var(--text)}
+.logo-sub{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:4px;font-weight:400}
+.header-right{display:flex;align-items:center;gap:10px}
+.settings-btn{background:none;border:1.5px solid var(--border2);color:var(--muted);padding:7px 14px;border-radius:var(--radius);font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;cursor:pointer;display:flex;align-items:center;gap:6px;transition:all .15s;letter-spacing:.03em}
+.settings-btn:hover{border-color:var(--text);color:var(--text)}
+.settings-btn.active{background:var(--text);color:var(--bg);border-color:var(--text)}
+.btn-load{background:var(--accent);color:#fff;border:none;padding:8px 18px;border-radius:var(--radius);font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;cursor:pointer;font-weight:500;letter-spacing:.04em;transition:opacity .15s}
+.btn-load:hover{opacity:.88}
+.btn-load:disabled{opacity:.5;cursor:not-allowed}
+
+/* SETTINGS PANEL */
+.settings-panel{background:var(--card);border-bottom:1.5px solid var(--border);padding:1.25rem 2.5rem;display:none;gap:12px;align-items:flex-end;flex-wrap:wrap}
+.settings-panel.open{display:flex}
+.settings-panel label{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);display:block;font-weight:500;margin-bottom:5px}
+.settings-panel input{background:var(--bg);border:1.5px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:13px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;outline:none;width:360px;transition:border-color .15s}
+.settings-panel input:focus{border-color:var(--accent)}
+.settings-hint{font-size:11px;color:var(--muted);margin-top:4px}
+.settings-hint a{color:var(--accent);text-decoration:underline}
+.pin-panel{background:var(--card);border-bottom:1.5px solid var(--border);padding:1.25rem 2.5rem}
+.pin-inner{display:flex;flex-direction:column;gap:8px;max-width:400px}
+.pin-label{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+.pin-row{display:flex;gap:8px;align-items:center}
+.pin-input{background:var(--bg);border:1.5px solid var(--border);color:var(--text);padding:8px 12px;border-radius:var(--radius);font-size:18px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;outline:none;width:140px;letter-spacing:.3em;transition:border-color .15s}
+.pin-input:focus{border-color:var(--accent)}
+.pin-error{font-size:12px;color:var(--accent);min-height:16px}
+
+/* STATUS */
+.status-bar{padding:.6rem 2.5rem;min-height:32px;display:flex;align-items:center;gap:8px;border-bottom:1px solid var(--border)}
+.status-text{font-size:12px;color:var(--muted);letter-spacing:.02em}
+progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:block}
+#progressWrap{padding:0 2.5rem;display:none}
+
+/* TOOLBAR */
+.toolbar{display:none;align-items:center;gap:6px;padding:.75rem 2.5rem;border-bottom:1.5px solid var(--border);flex-wrap:wrap}
+.toolbar.visible{display:flex}
+.filter-label{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-right:4px}
+.pill{background:transparent;border:1.5px solid var(--border2);color:var(--muted);padding:4px 14px;border-radius:20px;font-size:11px;letter-spacing:.05em;cursor:pointer;transition:all .15s;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;text-transform:uppercase}
+.pill.active{background:var(--text);border-color:var(--text);color:var(--bg)}
+.pill:hover:not(.active){border-color:var(--text);color:var(--text)}
+.header-search{background:var(--bg2);border:1.5px solid var(--border);color:var(--text);padding:7px 14px;border-radius:var(--radius);font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;outline:none;width:220px;transition:border-color .15s}
+.header-search:focus{border-color:var(--accent)}
+.header-search::placeholder{color:var(--muted)}
+.expand-btns{display:flex;gap:6px}
+.btn-ghost{background:transparent;border:1.5px solid var(--border);color:var(--muted);padding:4px 12px;border-radius:var(--radius);font-size:11px;letter-spacing:.04em;cursor:pointer;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;text-transform:uppercase;transition:all .15s}
+.btn-ghost:hover{border-color:var(--text);color:var(--text)}
+
+/* CONTENT */
+.content{padding:0}
+
+/* YEAR */
+.year-block{border-bottom:2px solid var(--text)}
+.year-header{display:flex;align-items:baseline;gap:16px;padding:1.25rem 2.5rem;cursor:pointer;user-select:none;transition:background .1s}
+.year-header:hover{background:var(--bg2)}
+.year-name{font-family:'Helvetica World','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:32px;font-weight:700;letter-spacing:-1px;color:var(--text);line-height:1}
+.year-count{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+.year-toggle{margin-left:auto;font-size:16px;color:var(--muted);transition:transform .2s}
+.year-toggle.open{transform:rotate(180deg)}
+.year-body{display:none}
+.year-body.open{display:block}
+
+/* MONTH */
+.month-block{border-top:1px solid var(--border2)}
+.month-header{display:flex;align-items:baseline;gap:12px;padding:.9rem 2.5rem .9rem 3.5rem;cursor:pointer;user-select:none;transition:background .1s}
+.month-header:hover{background:var(--bg2)}
+.month-name{font-size:13px;font-weight:500;letter-spacing:.06em;text-transform:uppercase;color:var(--text);font-weight:600}
+.month-count{font-size:11px;color:var(--muted)}
+.month-toggle{margin-left:auto;font-size:13px;color:var(--muted);transition:transform .2s}
+.month-toggle.open{transform:rotate(180deg)}
+.month-body{display:none;padding-left:3.5rem}
+.month-body.open{display:block}
+
+/* WEEK */
+.week-block{border-top:1px solid var(--border)}
+.week-header{display:flex;align-items:center;gap:10px;padding:.6rem 2.5rem .6rem 0;cursor:pointer;user-select:none}
+.week-header:hover .week-dates{color:var(--accent)}
+.week-dates{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);transition:color .1s;font-weight:500}
+.week-rule{flex:1;height:1px;background:var(--border)}
+.week-count{font-size:10px;color:var(--muted);white-space:nowrap}
+.week-toggle{font-size:12px;color:var(--muted);transition:transform .2s;margin-left:4px}
+.week-toggle.open{transform:rotate(180deg)}
+.week-body{display:none;padding-bottom:8px}
+.week-body.open{display:block}
+
+/* MOVIE CARD — poster-inspired */
+.movie-card{display:grid;grid-template-columns:52px 1fr;gap:0;border-top:1px solid var(--border);background:var(--card);margin-bottom:1px;transition:background .1s}
+.movie-card:hover{background:var(--bg2)}
+.movie-poster-col{width:52px;padding:10px 0 10px 0}
+.movie-poster-wrap{width:44px;height:66px;border-radius:2px;overflow:hidden;background:var(--bg3);border:1px solid var(--border);display:flex;align-items:center;justify-content:center;margin:0 auto}
+.movie-poster-img{width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(15%)}
+.no-poster{font-size:18px;color:var(--muted)}
+.movie-main{padding:10px 2.5rem 10px 12px;display:flex;flex-direction:column;gap:3px}
+.movie-top{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.movie-title{font-family:'Helvetica World','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:17px;font-weight:600;letter-spacing:-.3px;color:var(--text);line-height:1.15;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:420px}
+.badge{padding:2px 7px;border-radius:2px;font-size:9px;font-weight:500;text-transform:uppercase;letter-spacing:.08em;white-space:nowrap;align-self:center}
+.badge-wide{background:rgba(45,106,79,.1);color:var(--green);border:1px solid rgba(45,106,79,.25)}
+.badge-limited{background:rgba(181,134,13,.1);color:var(--gold);border:1px solid rgba(181,134,13,.25)}
+.badge-premiere{background:rgba(90,74,138,.1);color:var(--purple);border:1px solid rgba(90,74,138,.25)}
+.movie-date-inline{font-size:11px;color:var(--muted);margin-left:auto;white-space:nowrap}
+.movie-credits{font-size:11px;color:var(--muted);display:flex;gap:16px;flex-wrap:wrap;margin-top:1px}
+.movie-credits span{display:flex;align-items:center;gap:4px}
+.credit-label{font-size:10px;letter-spacing:.07em;text-transform:uppercase;color:var(--border2)}
+.credit-val{color:var(--muted)}
+.movie-links{display:flex;gap:5px;margin-top:4px}
+.movie-link{font-size:10px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);border:1px solid var(--border);padding:3px 9px;border-radius:2px;transition:all .12s;display:inline-flex;align-items:center;gap:4px}
+.movie-link:hover{color:var(--text);border-color:var(--text);background:var(--bg3)}
+
+/* STATES */
+.loading-state{text-align:center;padding:5rem 2rem;color:var(--muted)}
+.loading-ring{display:inline-block;width:24px;height:24px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite;margin-bottom:12px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.loading-label{font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+.empty-state{text-align:center;padding:5rem 2rem;color:var(--muted);font-size:13px}
+.welcome-state{padding:3rem 2.5rem;border-bottom:1px solid var(--border)}
+.welcome-hed{font-family:'Helvetica World','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:26px;font-weight:700;letter-spacing:-.5px;color:var(--muted);margin-bottom:.5rem}
+.welcome-body{font-size:13px;color:var(--muted);line-height:1.7;max-width:480px}
+.welcome-body a{color:var(--accent);text-decoration:underline}
+
+/* TRAILER MODAL */
+.trailer-overlay{position:fixed;inset:0;background:rgba(0,0,0,.88);z-index:1000;display:none;align-items:center;justify-content:center;padding:2rem}
+.trailer-overlay.open{display:flex}
+.trailer-box{position:relative;width:100%;max-width:860px;background:#000;border-radius:6px;overflow:hidden;box-shadow:0 32px 80px rgba(0,0,0,.7)}
+.trailer-ratio{position:relative;padding-bottom:56.25%;height:0}
+.trailer-ratio iframe{position:absolute;inset:0;width:100%;height:100%;border:none}
+.trailer-top{display:flex;align-items:center;justify-content:space-between;padding:.6rem 1rem;background:#111}
+.trailer-title{font-family:'Helvetica World','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;letter-spacing:-.2px;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:680px}
+.trailer-close{background:none;border:none;color:#888;font-size:22px;cursor:pointer;padding:0 4px;line-height:1;transition:color .15s}
+.trailer-close:hover{color:#fff}
+.trailer-loading{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:#111;font-size:13px;color:#666;letter-spacing:.08em;text-transform:uppercase}
+</style>
+</head>
+<body>
+
+<div id="app">
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="logo-area">
+      <div class="logo">The Drop</div>
+      <div class="logo-sub">What's dropping in theatres</div>
+    </div>
+    <div class="header-right">
+      <input class="header-search" type="text" id="searchInput" placeholder="Search titles…" oninput="filterMovies()" />
+      <button class="settings-btn" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode">
+        <i class="ti ti-moon" id="darkIcon" aria-hidden="true"></i>
+      </button>
+      <button class="settings-btn" id="settingsToggle" onclick="toggleSettings()">
+        <i class="ti ti-settings" aria-hidden="true"></i> Settings
+      </button>
+    </div>
+  </header>
+
+  <!-- PIN PROMPT -->
+  <div class="pin-panel" id="pinPanel" style="display:none">
+    <div class="pin-inner">
+      <div class="pin-label">Enter PIN to access settings</div>
+      <div class="pin-row">
+        <input type="password" id="pinInput" class="pin-input" maxlength="10" placeholder="&bull;&bull;&bull;&bull;" onkeydown="if(event.key==='Enter')checkPin()" autocomplete="off" />
+        <button class="btn-load" onclick="checkPin()">Unlock</button>
+      </div>
+      <div class="pin-error" id="pinError"></div>
+    </div>
+  </div>
+
+  <!-- SETTINGS PANEL -->
+  <div class="settings-panel" id="settingsPanel">
+    <div>
+      <label for="apiKey">API Key</label>
+      <input type="password" id="apiKey" placeholder="Paste your API key or Read Access Token" autocomplete="off" />
+      <div class="settings-hint">Get a free key at <a href="https://www.themoviedb.org/settings/api" target="_blank">themoviedb.org/settings/api</a> &nbsp;&middot;&nbsp; Use <code>http://localhost</code> as the application URL</div>
+    </div>
+    <div>
+      <label for="newPin">Change PIN</label>
+      <input type="password" id="newPin" placeholder="Leave blank to keep current PIN" maxlength="10" autocomplete="off" style="width:220px" />
+    </div>
+    <button class="btn-load" id="loadBtn" onclick="saveSettings()">Save &amp; Load</button>
+  </div>
+
+  <!-- STATUS -->
+  <div class="status-bar">
+    <span class="status-text" id="statusText"></span>
+  </div>
+  <div id="progressWrap"><progress id="progressBar" max="100" value="0"></progress></div>
+
+  <!-- TOOLBAR -->
+  <div class="toolbar" id="toolbar">
+    <span class="filter-label">Type:</span>
+    <button class="pill active" onclick="setFilter('all',this)">All</button>
+    <button class="pill" onclick="setFilter('wide',this)">Wide</button>
+    <button class="pill" onclick="setFilter('limited',this)">Limited</button>
+    <button class="pill" onclick="setFilter('premiere',this)">Premiere</button>
+    <div class="expand-btns">
+      <button class="btn-ghost" onclick="toggleAll(true)">Expand all</button>
+      <button class="btn-ghost" onclick="toggleAll(false)">Collapse all</button>
+    </div>
+  </div>
+
+  <!-- CONTENT -->
+  <div class="content" id="content">
+    <div class="welcome-state">
+      <div class="welcome-hed">Five years of upcoming releases</div>
+      <div class="welcome-body">Organized by year, month, and opening week (Thursday–Wednesday). Click <strong>Settings</strong> above to enter your API key and load the calendar.</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- TRAILER MODAL -->
+<div class="trailer-overlay" id="trailerOverlay" onclick="closeTrailer(event)">
+  <div class="trailer-box" id="trailerBox">
+    <div class="trailer-top">
+      <span class="trailer-title" id="trailerTitle"></span>
+      <button class="trailer-close" onclick="closeTrailerDirect()" aria-label="Close trailer"><i class="ti ti-x"></i></button>
+    </div>
+    <div class="trailer-ratio">
+      <div class="trailer-loading" id="trailerLoading">Finding trailer…</div>
+      <iframe id="trailerFrame" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+<script>
+let allMovies = [];
+let currentFilter = 'all';
+let searchTerm = '';
+
+let currentPin = localStorage.getItem('thedrop_pin') || '123';
+
+function toggleDark() {
+  const dark = document.body.classList.toggle('dark');
+  localStorage.setItem('thedrop_dark', dark ? '1' : '0');
+  document.getElementById('darkIcon').className = dark ? 'ti ti-sun' : 'ti ti-moon';
+}
+
+// Apply saved dark mode on load
+(function(){
+  if (localStorage.getItem('thedrop_dark') === '1') {
+    document.body.classList.add('dark');
+    document.addEventListener('DOMContentLoaded', () => {
+      const icon = document.getElementById('darkIcon');
+      if (icon) icon.className = 'ti ti-sun';
+    });
+  }
+})();
+
+function toggleSettings() {
+  const pinPanel = document.getElementById('pinPanel');
+  const settingsPanel = document.getElementById('settingsPanel');
+  const btn = document.getElementById('settingsToggle');
+  // If settings already open, close everything
+  if (settingsPanel.classList.contains('open')) {
+    settingsPanel.classList.remove('open');
+    pinPanel.style.display = 'none';
+    btn.classList.remove('active');
+    return;
+  }
+  // Show PIN prompt
+  pinPanel.style.display = 'block';
+  settingsPanel.classList.remove('open');
+  btn.classList.add('active');
+  document.getElementById('pinInput').value = '';
+  document.getElementById('pinError').textContent = '';
+  setTimeout(() => document.getElementById('pinInput').focus(), 50);
+}
+
+function checkPin() {
+  const entered = document.getElementById('pinInput').value;
+  if (entered === currentPin) {
+    document.getElementById('pinPanel').style.display = 'none';
+    document.getElementById('settingsPanel').classList.add('open');
+    document.getElementById('pinError').textContent = '';
+  } else {
+    document.getElementById('pinError').textContent = 'Incorrect PIN. Try again.';
+    document.getElementById('pinInput').value = '';
+    document.getElementById('pinInput').focus();
+  }
+}
+
+function saveSettings() {
+  const newPin = document.getElementById('newPin').value.trim();
+  if (newPin) {
+    currentPin = newPin;
+    localStorage.setItem('thedrop_pin', newPin);
+    document.getElementById('newPin').value = '';
+  }
+  loadMovies();
+}
+
+function setStatus(msg, type) {
+  document.getElementById('statusText').textContent = msg;
+}
+
+function setProgress(val, max) {
+  const wrap = document.getElementById('progressWrap');
+  const bar = document.getElementById('progressBar');
+  if (val >= max) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  bar.max = max; bar.value = val;
+}
+
+async function loadMovies() {
+  const key = document.getElementById('apiKey').value.trim();
+  if (!key) { setStatus('Please enter an API key in Settings.', 'error'); return; }
+  const btn = document.getElementById('loadBtn');
+  btn.disabled = true; btn.textContent = 'Loading…';
+  setStatus('Connecting…', 'loading');
+  document.getElementById('content').innerHTML = '<div class="loading-state"><div class="loading-ring"></div><div class="loading-label">Fetching upcoming releases…</div></div>';
+  document.getElementById('toolbar').classList.remove('visible');
+  try {
+    const movies = await fetchAll(key);
+    allMovies = movies;
+    setStatus(movies.length + ' releases loaded · ' + new Date().toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}), 'success');
+    document.getElementById('toolbar').classList.add('visible');
+    // Close settings after successful load
+    document.getElementById('settingsPanel').classList.remove('open');
+    document.getElementById('pinPanel').style.display = 'none';
+    document.getElementById('settingsToggle').classList.remove('active');
+    renderMovies();
+  } catch(e) {
+    setStatus('Error: ' + e.message, 'error');
+    document.getElementById('content').innerHTML = '<div class="empty-state">Could not load movies.<br><small style="color:var(--muted)">' + e.message + '</small></div>';
+  }
+  btn.disabled = false; btn.textContent = 'Reload';
+  setProgress(100,100);
+}
+
+// Prestige studios — indie, arthouse, major. If a film is from one of these it's always included.
+const PRESTIGE_STUDIOS = [
+  'a24','neon','searchlight','focus features','mubi','bleecker street',
+  'ifc','lionsgate','sony pictures classics','magnolia','kino lorber',
+  'criterion','universal','warner','disney','paramount','sony','netflix',
+  'apple','amazon','mgm','annapurna','new line','20th century',
+  'dreamworks','miramax','balboa','oscilloscope','strand releasing',
+  'samuel goldwyn','roadside attractions','bien ou bien','good machine',
+  'plan b','black bear','bron','topic studios'
+];
+
+function isPrestigeStudio(companiesArr) {
+  if (!companiesArr) return false;
+  return companiesArr.some(c => {
+    const name = (c.name || '').toLowerCase();
+    return PRESTIGE_STUDIOS.some(s => name.includes(s));
+  });
+}
+
+async function fetchAll(key) {
+  const isToken = key.length > 40;
+  const headers = isToken ? {'Authorization':'Bearer '+key,'Content-Type':'application/json'} : {};
+  const today = new Date();
+  const fmt = d => d.toISOString().split('T')[0];
+  const todayStr = fmt(today);
+  const currentYear = today.getFullYear();
+
+  // One window per month for 5 years = 60 windows
+  const windows = [];
+  const cursor = new Date(today.getFullYear(), today.getMonth(), 1);
+  for (let i = 0; i < 60; i++) {
+    const winStart = new Date(cursor);
+    const winEnd = new Date(cursor.getFullYear(), cursor.getMonth() + 1, 0);
+    windows.push({ gte: fmt(winStart), lte: fmt(winEnd) });
+    cursor.setMonth(cursor.getMonth() + 1);
+  }
+
+  let allRaw = [];
+  const totalWindows = windows.length;
+
+  for (let wi = 0; wi < totalWindows; wi++) {
+    const { gte, lte } = windows[wi];
+    const monthLabel = gte.slice(0, 7);
+    let page = 1, totalPages = 1;
+
+    while (page <= totalPages && page <= 25) {
+      const p = new URLSearchParams({
+        region: 'CA',
+        'primary_release_date.gte': gte,
+        'primary_release_date.lte': lte,
+        sort_by: 'primary_release_date.asc',
+        'with_release_type': '2|3',
+        page
+      });
+      if (!isToken) p.set('api_key', key);
+
+      let res, data;
+      try {
+        res = await fetch('https://api.themoviedb.org/3/discover/movie?' + p, {headers: isToken ? headers : {}});
+        if (!res.ok) {
+          const err = await res.json().catch(()=>({}));
+          throw new Error((err.status_message || 'API error') + ' (HTTP '+res.status+')');
+        }
+        data = await res.json();
+      } catch(e) {
+        // On network error skip this page and continue
+        console.warn('Skipping page', page, 'of', monthLabel, e.message);
+        break;
+      }
+
+      totalPages = Math.min(data.total_pages || 1, 25);
+      setStatus('Fetching ' + monthLabel + ' — page ' + page + '/' + totalPages + ' · month ' + (wi+1) + '/' + totalWindows, 'loading');
+      setProgress(wi, totalWindows);
+
+      for (const m of (data.results || [])) {
+        allRaw.push(m);
+      }
+      page++;
+      if (page <= totalPages) await sleep(40);
+    }
+    await sleep(40);
+  }
+
+  // Dedupe raw results first
+  const seen = new Set();
+  allRaw = allRaw.filter(m => {
+    if (!m.release_date || seen.has(m.id)) return false;
+    seen.add(m.id);
+    return m.release_date >= todayStr;
+  });
+
+  // Now apply tiered quality filter
+  const movies = [];
+  for (const m of allRaw) {
+    const pop = m.popularity || 0;
+    const votes = m.vote_count || 0;
+    const avg = m.vote_average || 0;
+    const isEnglish = m.original_language === 'en';
+    const releaseYear = parseInt(m.release_date.slice(0,4));
+    const yearsOut = releaseYear - currentYear;
+
+    let keep = false;
+
+    if (yearsOut >= 2) {
+      // 2027+ : announced tentpoles, franchises, or any English film with any presence
+      keep = pop >= 15 || (isEnglish && pop >= 3);
+    } else if (yearsOut === 1) {
+      // 2026 : wide net — English films or anything with buzz
+      keep = pop >= 5 || isEnglish;
+    } else {
+      // 2025 (current year) : film buff filter
+      // Any English film with minimal presence
+      const notableEnglish = isEnglish && pop >= 3;
+      // Non-English with critical recognition or real buzz
+      const criticalRec = avg >= 6.0 && votes >= 15;
+      const buzz = pop >= 10;
+      keep = notableEnglish || criticalRec || buzz;
+    }
+
+    if (!keep) continue;
+
+    let releaseType = pop < 8 && votes < 30 ? 'premiere' : pop < 22 && votes < 120 ? 'limited' : 'wide';
+    movies.push({
+      id: m.id,
+      title: m.title,
+      releaseDate: m.release_date,
+      poster: m.poster_path ? 'https://image.tmdb.org/t/p/w92'+m.poster_path : null,
+      releaseType,
+      directorStr: null,
+      studioStr: null
+    });
+  }
+
+  movies.sort((a,b) => a.releaseDate.localeCompare(b.releaseDate));
+
+  // Fetch director + studio in batches
+  await fetchDetailsInBatches(movies, key, isToken);
+  return movies;
+}
+
+async function fetchDetailsInBatches(movies, key, isToken) {
+  const headers = isToken ? {'Authorization':'Bearer '+key} : {};
+  const batchSize = 8;
+  for (let i = 0; i < movies.length; i += batchSize) {
+    const batch = movies.slice(i, i + batchSize);
+    await Promise.all(batch.map(async m => {
+      try {
+        const p = isToken ? '' : '?api_key='+key;
+        const sep = isToken ? '?' : '&';
+        const res = await fetch(`https://api.themoviedb.org/3/movie/${m.id}/credits${p}`, {headers: isToken ? headers : {}});
+        if (!res.ok) return;
+        const data = await res.json();
+        const directors = (data.crew || []).filter(c => c.job === 'Director').map(c => c.name);
+        m.directorStr = directors.length ? directors.join(', ') : null;
+
+        // Studio from movie details
+        const res2 = await fetch(`https://api.themoviedb.org/3/movie/${m.id}${p}`, {headers: isToken ? headers : {}});
+        if (!res2.ok) return;
+        const d2 = await res2.json();
+        const companies = d2.production_companies || [];
+        const studios = companies.slice(0,2).map(c => c.name);
+        m.studioStr = studios.length ? studios.join(' / ') : null;
+        m.isPrestige = isPrestigeStudio(companies);
+      } catch(e) {}
+    }));
+    setStatus('Loading director & studio info… (' + Math.min(i+batchSize, movies.length) + '/' + movies.length + ')', 'loading');
+    if (i + batchSize < movies.length) await sleep(80);
+  }
+}
+
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+const MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const DAYS_SHORT = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+
+function getWeek(dateStr) {
+  const d = new Date(dateStr + 'T12:00:00');
+  const day = d.getDay();
+  const diff = (day + 3) % 7;
+  const thu = new Date(d); thu.setDate(d.getDate() - diff);
+  const wed = new Date(thu); wed.setDate(thu.getDate() + 6);
+  return {thu, wed};
+}
+
+function fmtWeekHeader(thu, wed) {
+  const fmtD = d => DAYS_SHORT[d.getDay()] + ' ' + MONTHS_SHORT[d.getMonth()] + ' ' + d.getDate();
+  return fmtD(thu) + ' – ' + fmtD(wed);
+}
+
+function fmtRelease(str) {
+  const d = new Date(str + 'T12:00:00');
+  return MONTHS_SHORT[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+}
+
+function groupMovies(movies) {
+  const filtered = movies.filter(m => {
+    const t = currentFilter === 'all' || m.releaseType === currentFilter;
+    const s = !searchTerm || m.title.toLowerCase().includes(searchTerm.toLowerCase());
+    return t && s;
+  });
+  const tree = {};
+  for (const m of filtered) {
+    if (!m.releaseDate) continue;
+    const d = new Date(m.releaseDate + 'T12:00:00');
+    const yr = d.getFullYear(), mo = d.getMonth();
+    const {thu, wed} = getWeek(m.releaseDate);
+    const wk = thu.toISOString().split('T')[0];
+    const wkLabel = fmtWeekHeader(thu, wed);
+    if (!tree[yr]) tree[yr] = {};
+    if (!tree[yr][mo]) tree[yr][mo] = {};
+    if (!tree[yr][mo][wk]) tree[yr][mo][wk] = {label: wkLabel, movies: []};
+    tree[yr][mo][wk].movies.push(m);
+  }
+  return tree;
+}
+
+function renderMovies() {
+  const tree = groupMovies(allMovies);
+  const now = new Date();
+  const curYr = now.getFullYear(), curMo = now.getMonth();
+  const years = Object.keys(tree).sort();
+  if (!years.length) {
+    document.getElementById('content').innerHTML = '<div class="empty-state">No movies match the current filter.</div>';
+    return;
+  }
+
+  let html = '';
+  for (const yr of years) {
+    const yrN = parseInt(yr);
+    const isCurYr = yrN === curYr;
+    const totalYr = Object.values(tree[yr]).reduce((s,mo)=>s+Object.values(mo).reduce((ss,wk)=>ss+wk.movies.length,0),0);
+    html += `<div class="year-block">
+      <div class="year-header" onclick="tog('Y${yr}')">
+        <span class="year-name">${yr}</span>
+        <span class="year-count">${totalYr} film${totalYr!==1?'s':''}</span>
+        <i class="ti ti-chevron-down year-toggle ${isCurYr?'open':''}" id="chY${yr}" aria-hidden="true"></i>
+      </div>
+      <div class="year-body ${isCurYr?'open':''}" id="Y${yr}">`;
+
+    for (const mo of Object.keys(tree[yr]).sort((a,b)=>a-b)) {
+      const moN = parseInt(mo);
+      const isCurMo = isCurYr && moN === curMo;
+      const totalMo = Object.values(tree[yr][mo]).reduce((s,wk)=>s+wk.movies.length,0);
+      html += `<div class="month-block">
+        <div class="month-header" onclick="tog('M${yr}_${mo}')">
+          <span class="month-name">${MONTHS[moN]}</span>
+          <span class="month-count">${totalMo} film${totalMo!==1?'s':''}</span>
+          <i class="ti ti-chevron-down month-toggle ${isCurMo?'open':''}" id="chM${yr}_${mo}" aria-hidden="true"></i>
+        </div>
+        <div class="month-body ${isCurMo?'open':''}" id="M${yr}_${mo}">`;
+
+      for (const wk of Object.keys(tree[yr][mo]).sort()) {
+        const wkData = tree[yr][mo][wk];
+        const wkId = 'W' + wk.replace(/-/g,'');
+        html += `<div class="week-block">
+          <div class="week-header" onclick="tog('${wkId}')">
+            <span class="week-dates">${wkData.label}</span>
+            <span class="week-rule"></span>
+            <span class="week-count">${wkData.movies.length} film${wkData.movies.length!==1?'s':''}</span>
+            <i class="ti ti-chevron-down week-toggle open" id="ch${wkId}" aria-hidden="true"></i>
+          </div>
+          <div class="week-body open" id="${wkId}">`;
+
+        for (const m of wkData.movies) {
+          const bc = m.releaseType==='wide'?'badge-wide':m.releaseType==='limited'?'badge-limited':'badge-premiere';
+          const bl = m.releaseType.charAt(0).toUpperCase()+m.releaseType.slice(1);
+          const lbUrl = 'https://letterboxd.com/search/'+encodeURIComponent(m.title)+'/';
+          const imdbUrl = 'https://www.imdb.com/find/?q='+encodeURIComponent(m.title);
+          const tmdbUrl = 'https://www.themoviedb.org/movie/'+m.id;
+          const dirHTML = m.directorStr ? `<span><span class="credit-label">Dir.</span> <span class="credit-val">${m.directorStr}</span></span>` : '';
+          const stuHTML = m.studioStr ? `<span><span class="credit-label">Studio</span> <span class="credit-val">${m.studioStr}</span></span>` : '';
+
+          html += `<div class="movie-card">
+            <div class="movie-poster-col">
+              <div class="movie-poster-wrap">
+                ${m.poster
+                  ? `<img class="movie-poster-img" src="${m.poster}" alt="" loading="lazy" onerror="this.parentNode.innerHTML='<i class=\\'ti ti-movie no-poster\\' aria-hidden=\\'true\\'></i>'">`
+                  : `<i class="ti ti-movie no-poster" aria-hidden="true"></i>`}
+              </div>
+            </div>
+            <div class="movie-main">
+              <div class="movie-top">
+                <span class="movie-title" title="${m.title.replace(/"/g,'')}">${m.title}</span>
+                <span class="badge ${bc}">${bl}</span>
+                <span class="movie-date-inline">${fmtRelease(m.releaseDate)}</span>
+              </div>
+              ${(dirHTML||stuHTML) ? `<div class="movie-credits">${dirHTML}${stuHTML}</div>` : ''}
+              <div class="movie-links">
+                <a class="movie-link" href="${lbUrl}" target="_blank" rel="noopener"><i class="ti ti-movie" aria-hidden="true"></i>Letterboxd</a>
+                <a class="movie-link" href="${imdbUrl}" target="_blank" rel="noopener"><i class="ti ti-star" aria-hidden="true"></i>IMDb</a>
+                <button class="movie-link trailer-btn" onclick="openTrailer(${m.id}, \`${m.title.replace(/`/g,"'")}\`)" style="cursor:pointer;background:none"><i class="ti ti-player-play" aria-hidden="true"></i>Trailer</button>
+              </div>
+            </div>
+          </div>`;
+        }
+        html += `</div></div>`;
+      }
+      html += `</div></div>`;
+    }
+    html += `</div></div>`;
+  }
+  document.getElementById('content').innerHTML = html;
+}
+
+function tog(id) {
+  const body = document.getElementById(id);
+  const chev = document.getElementById('ch'+id);
+  if (!body) return;
+  const open = body.classList.toggle('open');
+  if (chev) chev.classList.toggle('open', open);
+}
+
+function toggleAll(open) {
+  document.querySelectorAll('.year-body,.month-body,.week-body').forEach(el=>el.classList.toggle('open',open));
+  document.querySelectorAll('.year-toggle,.month-toggle,.week-toggle').forEach(el=>el.classList.toggle('open',open));
+}
+
+function setFilter(type, btn) {
+  currentFilter = type;
+  document.querySelectorAll('.pill').forEach(p=>p.classList.remove('active'));
+  btn.classList.add('active');
+  renderMovies();
+}
+
+function filterMovies() {
+  searchTerm = document.getElementById('searchInput').value;
+  renderMovies();
+}
+
+// TRAILER PLAYER
+const trailerCache = {};
+
+async function openTrailer(movieId, title) {
+  const overlay = document.getElementById('trailerOverlay');
+  const frame = document.getElementById('trailerFrame');
+  const titleEl = document.getElementById('trailerTitle');
+  const loading = document.getElementById('trailerLoading');
+
+  titleEl.textContent = title;
+  frame.src = '';
+  loading.style.display = 'flex';
+  loading.textContent = 'Finding trailer…';
+  overlay.classList.add('open');
+  document.body.style.overflow = 'hidden';
+
+  try {
+    let videoKey = trailerCache[movieId];
+    if (!videoKey) {
+      const apiKey = document.getElementById('apiKey').value.trim();
+      const isToken = apiKey.length > 40;
+      const url = isToken
+        ? `https://api.themoviedb.org/3/movie/${movieId}/videos`
+        : `https://api.themoviedb.org/3/movie/${movieId}/videos?api_key=${apiKey}`;
+      const res = await fetch(url, isToken ? {headers:{'Authorization':'Bearer '+apiKey}} : {});
+      const data = await res.json();
+      const videos = data.results || [];
+
+      // Priority: Official Trailer > Trailer > Teaser > Clip — highest quality (HD preferred)
+      const priority = ['Official Trailer','Trailer','Teaser','Clip','Featurette'];
+      let best = null;
+      for (const type of priority) {
+        const matches = videos.filter(v => v.site === 'YouTube' && v.type === type);
+        if (matches.length) {
+          // prefer HD (1080 or 720), then latest
+          best = matches.sort((a,b) => {
+            const qa = a.official ? 1 : 0, qb = b.official ? 1 : 0;
+            if (qa !== qb) return qb - qa;
+            return new Date(b.published_at||0) - new Date(a.published_at||0);
+          })[0];
+          break;
+        }
+      }
+      videoKey = best ? best.key : null;
+      trailerCache[movieId] = videoKey;
+    }
+
+    if (videoKey) {
+      loading.style.display = 'none';
+      frame.src = `https://www.youtube.com/embed/${videoKey}?autoplay=1&rel=0&modestbranding=1`;
+    } else {
+      loading.textContent = 'No trailer available yet.';
+    }
+  } catch(e) {
+    loading.textContent = 'Could not load trailer.';
+  }
+}
+
+function closeTrailerDirect() {
+  const overlay = document.getElementById('trailerOverlay');
+  const frame = document.getElementById('trailerFrame');
+  overlay.classList.remove('open');
+  frame.src = '';
+  document.body.style.overflow = '';
+}
+
+function closeTrailer(e) {
+  if (e.target === document.getElementById('trailerOverlay')) closeTrailerDirect();
+}
+
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeTrailerDirect(); });
+</script>
+</body>
+</html>
