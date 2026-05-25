@@ -291,8 +291,86 @@ function toggleDark() {
   }
 })();
 
+// CACHE LOGIC
+// Load from cache instantly, refresh at 3am PST daily
+const CACHE_KEY = 'thedrop_movies_v1';
+const CACHE_TS_KEY = 'thedrop_cache_ts';
+
+function getNextRefreshTime() {
+  // 3am PST = 11am UTC (or 10am UTC during PDT)
+  const now = new Date();
+  const utcOffset = 11; // PST = UTC-8, so 3am PST = 11am UTC
+  const next3am = new Date(now);
+  next3am.setUTCHours(utcOffset, 0, 0, 0);
+  if (next3am <= now) next3am.setUTCDate(next3am.getUTCDate() + 1);
+  return next3am.getTime();
+}
+
+function isCacheStale() {
+  const ts = localStorage.getItem(CACHE_TS_KEY);
+  if (!ts) return true;
+  const now = Date.now();
+  const lastFetch = parseInt(ts);
+  // Stale if we've passed a 3am PST since last fetch
+  const nextRefresh = getNextRefreshTime();
+  const prevRefresh = nextRefresh - 86400000; // 24hrs ago
+  return lastFetch < prevRefresh;
+}
+
+function loadFromCache() {
+  try {
+    const raw = localStorage.getItem(CACHE_KEY);
+    if (!raw) return null;
+    return JSON.parse(raw);
+  } catch(e) { return null; }
+}
+
+function saveToCache(movies) {
+  try {
+    localStorage.setItem(CACHE_KEY, JSON.stringify(movies));
+    localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
+  } catch(e) {
+    // localStorage full — clear old cache and try again
+    localStorage.removeItem(CACHE_KEY);
+    localStorage.removeItem(CACHE_TS_KEY);
+  }
+}
+
+function scheduleNextRefresh() {
+  const delay = getNextRefreshTime() - Date.now();
+  setTimeout(async () => {
+    setStatus('Refreshing in the background…', 'loading');
+    try {
+      const movies = await fetchAll();
+      allMovies = movies;
+      saveToCache(movies);
+      setStatus(movies.length + ' releases updated · ' + new Date().toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}), 'success');
+      renderMovies();
+    } catch(e) {
+      console.warn('Background refresh failed:', e.message);
+    }
+    scheduleNextRefresh(); // schedule the next day
+  }, delay);
+}
+
 // Auto-load movies on page ready
-window.addEventListener('load', () => loadMovies());
+window.addEventListener('load', async () => {
+  const cached = loadFromCache();
+  if (cached && !isCacheStale()) {
+    // Instant load from cache
+    allMovies = cached;
+    const ts = localStorage.getItem(CACHE_TS_KEY);
+    const d = ts ? new Date(parseInt(ts)).toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}) : '';
+    setStatus(cached.length + ' releases loaded · last updated ' + d, 'success');
+    document.getElementById('toolbar').classList.add('visible');
+    renderMovies();
+    scheduleNextRefresh();
+  } else {
+    // No cache or stale — fetch fresh
+    await loadMovies();
+    scheduleNextRefresh();
+  }
+});
 
 
 
@@ -316,7 +394,8 @@ async function loadMovies() {
   try {
     const movies = await fetchAll();
     allMovies = movies;
-    setStatus(movies.length + ' releases loaded · ' + new Date().toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}), 'success');
+    saveToCache(movies);
+    setStatus(movies.length + ' releases loaded · updated ' + new Date().toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}), 'success');
     document.getElementById('toolbar').classList.add('visible');
     renderMovies();
   } catch(e) {
@@ -326,197 +405,14 @@ async function loadMovies() {
   setProgress(100,100);
 }
 
-// Prestige studios — indie, arthouse, major. If a film is from one of these it's always included.
-const PRESTIGE_STUDIOS = [
-  'a24','neon','searchlight','focus features','mubi','bleecker street',
-  'ifc','lionsgate','sony pictures classics','magnolia','kino lorber',
-  'criterion','universal','warner','disney','paramount','sony','netflix',
-  'apple','amazon','mgm','annapurna','new line','20th century',
-  'dreamworks','miramax','balboa','oscilloscope','strand releasing',
-  'samuel goldwyn','roadside attractions','bien ou bien','good machine',
-  'plan b','black bear','bron','topic studios'
-];
-
-function isPrestigeStudio(companiesArr) {
-  if (!companiesArr) return false;
-  return companiesArr.some(c => {
-    const name = (c.name || '').toLowerCase();
-    return PRESTIGE_STUDIOS.some(s => name.includes(s));
-  });
-}
-
 async function fetchAll() {
-  // API token hardcoded — read-only public key
-  const key = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
-  const isToken = true;
-  const headers = {'Authorization':'Bearer '+key,'Content-Type':'application/json'};
-  const today = new Date();
-  const fmt = d => d.toISOString().split('T')[0];
-  const todayStr = fmt(today);
-  const currentYear = today.getFullYear();
-
-  // One window per month for 5 years = 60 windows
-  const windows = [];
-  const cursor = new Date(today.getFullYear(), today.getMonth(), 1);
-  for (let i = 0; i < 60; i++) {
-    const winStart = new Date(cursor);
-    const winEnd = new Date(cursor.getFullYear(), cursor.getMonth() + 1, 0);
-    windows.push({ gte: fmt(winStart), lte: fmt(winEnd) });
-    cursor.setMonth(cursor.getMonth() + 1);
-  }
-
-  let allRaw = [];
-  const totalWindows = windows.length;
-
-  for (let wi = 0; wi < totalWindows; wi++) {
-    const { gte, lte } = windows[wi];
-    const monthLabel = gte.slice(0, 7);
-    let page = 1, totalPages = 1;
-
-    while (page <= totalPages && page <= 25) {
-      const p = new URLSearchParams({
-        region: 'CA',
-        'primary_release_date.gte': gte,
-        'primary_release_date.lte': lte,
-        sort_by: 'primary_release_date.asc',
-        'with_release_type': '1|2|3|4|5',
-        page
-      });
-      if (!isToken) p.set('api_key', key);
-
-      let res, data;
-      try {
-        res = await fetch('https://api.themoviedb.org/3/discover/movie?' + p, {headers: isToken ? headers : {}});
-        if (!res.ok) {
-          const err = await res.json().catch(()=>({}));
-          throw new Error((err.status_message || 'API error') + ' (HTTP '+res.status+')');
-        }
-        data = await res.json();
-      } catch(e) {
-        // On network error skip this page and continue
-        console.warn('Skipping page', page, 'of', monthLabel, e.message);
-        break;
-      }
-
-      totalPages = Math.min(data.total_pages || 1, 25);
-      setStatus('Fetching ' + monthLabel + ' — page ' + page + '/' + totalPages + ' · month ' + (wi+1) + '/' + totalWindows, 'loading');
-      setProgress(wi, totalWindows);
-
-      for (const m of (data.results || [])) {
-        allRaw.push(m);
-      }
-      page++;
-      if (page <= totalPages) await sleep(40);
-    }
-    await sleep(40);
-  }
-
-  // Dedupe raw results first
-  const seen = new Set();
-  allRaw = allRaw.filter(m => {
-    if (!m.release_date || seen.has(m.id)) return false;
-    seen.add(m.id);
-    return m.release_date >= todayStr;
-  });
-
-  // Now apply tiered quality filter
-  const movies = [];
-  for (const m of allRaw) {
-    const pop = m.popularity || 0;
-    const votes = m.vote_count || 0;
-    const avg = m.vote_average || 0;
-    const isEnglish = m.original_language === 'en';
-    const releaseYear = parseInt(m.release_date.slice(0,4));
-    const yearsOut = releaseYear - currentYear;
-
-    let keep = false;
-
-    if (yearsOut >= 2) {
-      // 2027+ : announced tentpoles, franchises, or any English film with any presence
-      keep = pop >= 15 || (isEnglish && pop >= 3);
-    } else if (yearsOut === 1) {
-      // 2026 : wide net — English films or anything with buzz
-      keep = pop >= 5 || isEnglish;
-    } else {
-      // 2025 (current year) : film buff filter
-      // Any English film with minimal presence
-      const notableEnglish = isEnglish && pop >= 3;
-      // Non-English with critical recognition or real buzz
-      const criticalRec = avg >= 6.0 && votes >= 15;
-      const buzz = pop >= 10;
-      keep = notableEnglish || criticalRec || buzz;
-    }
-
-    if (!keep) continue;
-
-    let releaseType = pop < 8 && votes < 30 ? 'premiere' : pop < 22 && votes < 120 ? 'limited' : 'wide';
-    movies.push({
-      id: m.id,
-      title: m.title,
-      releaseDate: m.release_date,
-      poster: m.poster_path ? 'https://image.tmdb.org/t/p/w92'+m.poster_path : null,
-      releaseType,
-      directorStr: null,
-      studioStr: null
-    });
-  }
-
-  movies.sort((a,b) => a.releaseDate.localeCompare(b.releaseDate));
-
-  // Fetch director + studio in batches
-  await fetchDetailsInBatches(movies);
+  // Fetch pre-built movies.json generated nightly by GitHub Action
+  const res = await fetch('./movies.json?v=' + Date.now());
+  if (!res.ok) throw new Error('Could not load movies.json (HTTP ' + res.status + ')');
+  const data = await res.json();
+  // data has { generatedAt, count, movies[] }
+  const movies = data.movies || data;
   return movies;
-}
-
-async function fetchDetailsInBatches(movies) {
-  const key = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
-  const isToken = true;
-  const headers = {'Authorization':'Bearer '+key};
-  const batchSize = 8;
-  for (let i = 0; i < movies.length; i += batchSize) {
-    const batch = movies.slice(i, i + batchSize);
-    await Promise.all(batch.map(async m => {
-      try {
-        const p = isToken ? '' : '?api_key='+key;
-        const sep = isToken ? '?' : '&';
-        const res = await fetch(`https://api.themoviedb.org/3/movie/${m.id}/credits${p}`, {headers: isToken ? headers : {}});
-        if (!res.ok) return;
-        const data = await res.json();
-        const directors = (data.crew || []).filter(c => c.job === 'Director').map(c => c.name);
-        m.directorStr = directors.length ? directors.join(', ') : null;
-
-        // Studio + format from movie details
-        const res2 = await fetch(`https://api.themoviedb.org/3/movie/${m.id}${p}`, {headers: isToken ? headers : {}});
-        if (!res2.ok) return;
-        const d2 = await res2.json();
-        const companies = d2.production_companies || [];
-        const studios = companies.slice(0,2).map(c => c.name);
-        m.studioStr = studios.length ? studios.join(' / ') : null;
-        m.isPrestige = isPrestigeStudio(companies);
-
-        // Detect format from release_dates for CA region
-        const res3 = await fetch(`https://api.themoviedb.org/3/movie/${m.id}/release_dates${p}`, {headers: isToken ? headers : {}});
-        if (res3.ok) {
-          const rd = await res3.json();
-          const caEntry = (rd.results || []).find(r => r.iso_3166_1 === 'CA') ||
-                          (rd.results || []).find(r => r.iso_3166_1 === 'US');
-          if (caEntry) {
-            const types = (caEntry.release_dates || []).map(d => d.type);
-            // TMDb release types: 1=Premiere,2=Limited,3=Theatrical,4=Digital,5=Physical,6=TV
-            const STREAMING_COMPANIES = ['netflix','amazon','apple','disney','hulu','peacock','paramount+','hbo','max','mubi','shudder','criterion channel','tubi'];
-            const studioLower = (m.studioStr || '').toLowerCase();
-            const isStreamer = STREAMING_COMPANIES.some(s => studioLower.includes(s));
-            if (types.includes(5)) m.format = 'physical';
-            else if (types.includes(4) && isStreamer) m.format = 'streaming';
-            else if (types.includes(4)) m.format = 'digital';
-            else if (types.includes(3) || types.includes(2) || types.includes(1)) m.format = 'theatrical';
-          }
-        }
-      } catch(e) {}
-    }));
-    setStatus('Loading director & studio info… (' + Math.min(i+batchSize, movies.length) + '/' + movies.length + ')', 'loading');
-    if (i + batchSize < movies.length) await sleep(80);
-  }
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }

@@ -1,0 +1,31 @@
+name: Refresh Movies
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 3am PST (11am UTC)
+  workflow_dispatch:       # allow manual trigger from GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch movies from TMDb
+        run: node fetch-movies.js
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+
+      - name: Commit and push movies.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add movies.json
+          git diff --staged --quiet || git commit -m "chore: refresh movies.json $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
