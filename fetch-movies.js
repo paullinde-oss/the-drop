@@ -36,8 +36,7 @@ const STUDIOS = [
   // IP & Franchise
   'lucasfilm','marvel studios','dc studios',
   // International
-  'toho','shochiku','yash raj','viacom18','reliance entertainment',
-  'utv motion pictures','sun pictures','madras talkies','excel entertainment',
+  'toho','shochiku',
   // Common short-forms to catch variants
   'disney','warner','universal','paramount','sony','amazon','apple',
   'dreamworks','20th century','searchlight pictures'
@@ -60,6 +59,12 @@ const EXCLUDE_KEYWORDS = [
 ];
 
 function isNoise(m, details) {
+  // Exclude films with India as country of origin
+  if (details) {
+    const countries = (details.production_countries || []).map(c => c.iso_3166_1);
+    if (countries.length > 0 && countries.every(c => c === 'IN')) return true;
+  }
+
   const title = (m.title || '').toLowerCase();
   const overview = (m.overview || '').toLowerCase();
   const runtime = details ? (details.runtime || 0) : 0;
