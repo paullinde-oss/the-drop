@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T08:36:41.353Z",
-  "count": 222,
+  "generatedAt": "2026-05-25T08:53:41.166Z",
+  "count": 196,
   "movies": [
     {
       "id": 1318413,
@@ -109,18 +109,6 @@
       "studioStr": "Vertical",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1501018,
-      "title": "Une Famille de Bâtards",
-      "releaseDate": "2026-06-12",
-      "poster": "https://image.tmdb.org/t/p/w92/3AyxDfTYWFuPzIu4Ku6zEuwUy1q.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Mourad Winter",
-      "studioStr": "Iconozon / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt36963493"
     },
     {
       "id": 1477317,
@@ -243,18 +231,6 @@
       "imdbId": null
     },
     {
-      "id": 1160017,
-      "title": "Overman: O Filme",
-      "releaseDate": "2026-07-02",
-      "poster": "https://image.tmdb.org/t/p/w92/tEu1mz2NexQ9Cv7e8tdtnAd7qcc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tomás Portella",
-      "studioStr": "Migdal Filmes / Star Original Productions",
-      "prestige": true,
-      "imdbId": "tt29291392"
-    },
-    {
       "id": 1587473,
       "title": "Kuchi ni Kansuru Ankēto",
       "releaseDate": "2026-07-03",
@@ -301,18 +277,6 @@
       "studioStr": "Walt Disney Pictures / Seven Bucks Productions",
       "prestige": true,
       "imdbId": "tt27419466"
-    },
-    {
-      "id": 1632981,
-      "title": "Lo que nos faltaba",
-      "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/vmS5hTZ3heythhOgx79EbpAuI8s.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Marqués",
-      "studioStr": "Sony Pictures Entertainment Iberia",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1437873,
@@ -397,18 +361,6 @@
       "studioStr": "QTORY inc. / CyPic",
       "prestige": true,
       "imdbId": "tt39026173"
-    },
-    {
-      "id": 1498036,
-      "title": "Tres de más",
-      "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/o9zrLUGZVxUZv8UYgIDpVRFGVcC.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Mar Olid",
-      "studioStr": "LAZONA / León Cobarde Films",
-      "prestige": true,
-      "imdbId": "tt37764533"
     },
     {
       "id": 1469342,
@@ -603,18 +555,6 @@
       "imdbId": "tt33070884"
     },
     {
-      "id": 1616146,
-      "title": "The Lights, They Fall",
-      "releaseDate": "2026-08-20",
-      "poster": "https://image.tmdb.org/t/p/w92/pov73UQEaKJ04k3ctnBM0oN8qyh.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Saša Vajda",
-      "studioStr": "Schuldenberg Films / vajda film UG",
-      "prestige": false,
-      "imdbId": "tt39371428"
-    },
-    {
       "id": 1291595,
       "title": "Insidious: Out of the Further",
       "releaseDate": "2026-08-21",
@@ -675,30 +615,6 @@
       "imdbId": "tt36236732"
     },
     {
-      "id": 1446078,
-      "title": "La Malédiction des Tahu'a",
-      "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/3XNLCv7wRDcaR7QAuBedLGhP4DJ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Benjamin Busnel",
-      "studioStr": "Parasomnia Productions / Sony Pictures Entertainment France",
-      "prestige": true,
-      "imdbId": "tt27727995"
-    },
-    {
-      "id": 1523898,
-      "title": "Se Eu Fosse Você 3",
-      "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/blMdOSGF1Q9cfHoWYzSkPtY91ts.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Anita Barbosa",
-      "studioStr": "The Walt Disney Company / Total Entertainment",
-      "prestige": true,
-      "imdbId": "tt2216550"
-    },
-    {
       "id": 1341341,
       "title": "4 Kids Walk Into a Bank",
       "releaseDate": "2026-09-03",
@@ -709,18 +625,6 @@
       "studioStr": "Picturestart / Point Grey Pictures",
       "prestige": true,
       "imdbId": "tt13071984"
-    },
-    {
-      "id": 1228591,
-      "title": "Doutor Monstro",
-      "releaseDate": "2026-09-03",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Marcos Jorge",
-      "studioStr": "Zencrane Filmes / Paramount Pictures Brasil",
-      "prestige": true,
-      "imdbId": "tt30321230"
     },
     {
       "id": 1137844,
@@ -819,18 +723,6 @@
       "imdbId": "tt36983905"
     },
     {
-      "id": 1319525,
-      "title": "50 First Dates",
-      "releaseDate": "2026-09-17",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Mez Tharatorn",
-      "studioStr": "GDH 559 / Sony Pictures International Productions",
-      "prestige": true,
-      "imdbId": "tt37846333"
-    },
-    {
       "id": 1423191,
       "title": "Resident Evil",
       "releaseDate": "2026-09-18",
@@ -877,18 +769,6 @@
       "studioStr": "UFA Fiction / Warner Bros. Film Productions Germany",
       "prestige": true,
       "imdbId": "tt39381622"
-    },
-    {
-      "id": 1419383,
-      "title": "The Other Side",
-      "releaseDate": "2026-09-24",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Mariko Minoguchi",
-      "studioStr": "Trimafilm / Warner Bros. Film Productions Germany",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1465063,
@@ -961,18 +841,6 @@
       "studioStr": "Warner Bros. Pictures / Legendary Pictures",
       "prestige": true,
       "imdbId": "tt31450459"
-    },
-    {
-      "id": 1433164,
-      "title": "Minha Vida com Shurastey",
-      "releaseDate": "2026-10-08",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Diego Freitas",
-      "studioStr": "Paris Entretenimento / Warner Bros. Pictures Brasil",
-      "prestige": true,
-      "imdbId": "tt32558909"
     },
     {
       "id": 1148365,
@@ -1059,18 +927,6 @@
       "imdbId": "tt18259538"
     },
     {
-      "id": 1241803,
-      "title": "Les Misérables",
-      "releaseDate": "2026-10-14",
-      "poster": "https://image.tmdb.org/t/p/w92/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Fred Cavayé",
-      "studioStr": "Curiosa Films / Eskwad",
-      "prestige": true,
-      "imdbId": "tt35518109"
-    },
-    {
       "id": 1477572,
       "title": "Visitation",
       "releaseDate": "2026-10-15",
@@ -1129,18 +985,6 @@
       "studioStr": "Capcom / Legendary Pictures",
       "prestige": true,
       "imdbId": "tt27419420"
-    },
-    {
-      "id": 1505487,
-      "title": "Le Roi du Game",
-      "releaseDate": "2026-10-21",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Éric Judor",
-      "studioStr": "4 Mecs en Baskets / Polaris Film Productions",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1400940,
@@ -1227,18 +1071,6 @@
       "imdbId": "tt35494574"
     },
     {
-      "id": 1447206,
-      "title": "Geister",
-      "releaseDate": "2026-11-05",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Fatih Akin",
-      "studioStr": "Bombero International / Warner Bros. Film Productions Germany",
-      "prestige": true,
-      "imdbId": "tt36501204"
-    },
-    {
       "id": 1381071,
       "title": "Godzilla Minus Zero",
       "releaseDate": "2026-11-06",
@@ -1283,18 +1115,6 @@
       "reRelease": false,
       "directorStr": "Ben Smallbone, Joel Smallbone",
       "studioStr": "Angel Studios / Radiate Films",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
-      "id": 1396056,
-      "title": "Nasza rewolucja",
-      "releaseDate": "2026-11-11",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Piotr Domalewski",
-      "studioStr": "Next Film / TVN Warner Bros. Discovery",
       "prestige": true,
       "imdbId": null
     },
@@ -1371,18 +1191,6 @@
       "imdbId": "tt38077943"
     },
     {
-      "id": 1430815,
-      "title": "Un bon petit soldat",
-      "releaseDate": "2026-11-25",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Stéphane Brizé",
-      "studioStr": "Gaumont",
-      "prestige": true,
-      "imdbId": "tt41802342"
-    },
-    {
       "id": 1400336,
       "title": "Focker-In-Law",
       "releaseDate": "2026-11-25",
@@ -1455,18 +1263,6 @@
       "imdbId": "tt29122074"
     },
     {
-      "id": 1339423,
-      "title": "Cartas para Deus",
-      "releaseDate": "2026-12-10",
-      "poster": "https://image.tmdb.org/t/p/w92/yQRe4toPAYXMFIQi2wUVzOYmVqP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Fernando Ceylão",
-      "studioStr": "RUBI Produtora / Bronze Filmes",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
@@ -1513,18 +1309,6 @@
       "studioStr": "Angel Studios / Kasbah Films",
       "prestige": true,
       "imdbId": "tt34491649"
-    },
-    {
-      "id": 1621673,
-      "title": "SUKIYAKI 上を向いて歩こう",
-      "releaseDate": "2026-12-25",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takahisa Zeze",
-      "studioStr": "TOHO",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1437882,
@@ -1587,30 +1371,6 @@
       "imdbId": "tt37171180"
     },
     {
-      "id": 1429574,
-      "title": "En haut de la pile",
-      "releaseDate": "2027-01-06",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Louis-Julien Petit",
-      "studioStr": "Gaumont / Pictanovo",
-      "prestige": true,
-      "imdbId": "tt41328385"
-    },
-    {
-      "id": 1571904,
-      "title": "Die Jahre mit dir",
-      "releaseDate": "2027-01-14",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Caroline Link",
-      "studioStr": "Warner Bros. Film Productions Germany / Komplizen Film",
-      "prestige": true,
-      "imdbId": "tt38095787"
-    },
-    {
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
@@ -1635,18 +1395,6 @@
       "imdbId": "tt6779038"
     },
     {
-      "id": 1508855,
-      "title": "Nosso Lar 3: Vida Eterna",
-      "releaseDate": "2027-01-21",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Wagner de Assis",
-      "studioStr": "Migdal Filmes / Cinética Filmes e Produções",
-      "prestige": true,
-      "imdbId": "tt34737700"
-    },
-    {
       "id": 1115030,
       "title": "Animal Friends",
       "releaseDate": "2027-01-22",
@@ -1659,18 +1407,6 @@
       "imdbId": "tt16911616"
     },
     {
-      "id": 1472472,
-      "title": "ZOMA",
-      "releaseDate": "2027-01-28",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alireza Golafshan",
-      "studioStr": "Story Garden Productions / StudioCanal",
-      "prestige": true,
-      "imdbId": "tt35705893"
-    },
-    {
       "id": 1425472,
       "title": "The Rescue",
       "releaseDate": "2027-01-29",
@@ -1681,18 +1417,6 @@
       "studioStr": "Skydance Media / Hideout Pictures",
       "prestige": true,
       "imdbId": "tt35606013"
-    },
-    {
-      "id": 1454106,
-      "title": "Somnambule",
-      "releaseDate": "2027-02-03",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tarek Boudali",
-      "studioStr": "Axel Films / TF1 Films Production",
-      "prestige": true,
-      "imdbId": "tt37427511"
     },
     {
       "id": 1466228,
@@ -2175,30 +1899,6 @@
       "imdbId": "tt22408968"
     },
     {
-      "id": 1659540,
-      "title": "Gebt mir noch etwas Zeit",
-      "releaseDate": "2027-10-21",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Katja von Garnier",
-      "studioStr": "Feine Filme / Warner Bros. Film Productions Germany",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
-      "id": 1659311,
-      "title": "Calgary",
-      "releaseDate": "2027-10-28",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Bálint Sipos, Ferenc Zoltán Brichta",
-      "studioStr": "Cineon Studio",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1290568,
       "title": "Margie Claus",
       "releaseDate": "2027-11-05",
@@ -2317,18 +2017,6 @@
       "studioStr": "Phobos / Range Media Partners",
       "prestige": true,
       "imdbId": "tt41786209"
-    },
-    {
-      "id": 1278859,
-      "title": "Woodwalkers 3",
-      "releaseDate": "2028-01-27",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Florian Sigl",
-      "studioStr": "Dor Film / Blue Eyes Fiction",
-      "prestige": true,
-      "imdbId": "tt41663836"
     },
     {
       "id": 1188748,
