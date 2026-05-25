@@ -11,66 +11,127 @@ const HEADERS = {
   'Content-Type': 'application/json'
 };
 
-const PRESTIGE_STUDIOS = [
-  // Major Hollywood studios
-  'walt disney','warner bros','universal pictures','sony pictures',
-  'paramount pictures','amazon mgm','lionsgate','netflix','apple original',
-  // Prestige indie & arthouse
-  'a24','neon','blumhouse','annapurna','ifc','magnolia','vertical',
-  'angel studios','xyz films','legendary','miramax','focus features',
-  'searchlight','columbia pictures','tristar','screen gems',
-  'working title','skydance','laika','aardman',
-  // Legacy & international majors
-  'metro-goldwyn-mayer','mgm','castle rock','rko',
-  'studiocanal','pathe','gaumont','toho','shochiku',
-  // Animation
-  'dreamworks','pixar','lucasfilm','marvel studios','dc studios',
-  'new line cinema',
-  // Indian studios
-  'yash raj','viacom18','reliance entertainment','utv','sun pictures',
-  'madras talkies','excel entertainment',
-  // Catch-all variants
-  'disney','warner','universal','paramount','sony','amazon','apple'
-];
-
-const STREAMING_COMPANIES = [
-  'netflix','amazon','apple','disney','hulu','peacock',
-  'paramount+','hbo','max','mubi','shudder','tubi'
-];
-
-function isPrestige(companies) {
-  if (!companies) return false;
-  return companies.some(c => {
-    const n = (c.name || '').toLowerCase();
-    return PRESTIGE_STUDIOS.some(s => n.includes(s));
-  });
-}
-
-function studioName(companies) {
-  if (!companies || !companies.length) return null;
-  // Prefer a known prestige studio name if available
-  const prestige = companies.find(c => {
-    const n = (c.name || '').toLowerCase();
-    return PRESTIGE_STUDIOS.some(s => n.includes(s));
-  });
-  return prestige ? prestige.name : companies[0].name;
-}
-
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 async function tmdb(path) {
   const res = await fetch('https://api.themoviedb.org/3' + path, { headers: HEADERS });
-  if (!res.ok) throw new Error('TMDb error ' + res.status + ' for ' + path);
+  if (!res.ok) throw new Error('TMDb ' + res.status + ' for ' + path);
   return res.json();
 }
 
+// ── STUDIO WHITELIST ──────────────────────────────────────────────────────────
+const STUDIOS = [
+  // Major Hollywood
+  'walt disney','warner bros','universal pictures','sony pictures',
+  'paramount pictures','new line cinema','columbia pictures','tristar pictures',
+  'screen gems','metro-goldwyn-mayer','mgm','castle rock','rko pictures',
+  // Streaming
+  'netflix','amazon mgm','apple original',
+  // Prestige / Indie / Mini-Majors
+  'lionsgate','a24','neon','blumhouse','annapurna','ifc films','magnolia',
+  'vertical','angel studios','xyz films','legendary','miramax','studiocanal',
+  'pathe','gaumont','focus features','searchlight','working title','skydance',
+  // Animation
+  'dreamworks animation','pixar','laika','aardman',
+  // IP & Franchise
+  'lucasfilm','marvel studios','dc studios',
+  // International
+  'toho','shochiku','yash raj','viacom18','reliance entertainment',
+  'utv motion pictures','sun pictures','madras talkies','excel entertainment',
+  // Common short-forms to catch variants
+  'disney','warner','universal','paramount','sony','amazon','apple',
+  'dreamworks','20th century','searchlight pictures'
+];
+
+function hasWhitelistedStudio(companies) {
+  if (!companies || !companies.length) return false;
+  return companies.some(c => {
+    const n = (c.name || '').toLowerCase();
+    return STUDIOS.some(s => n.includes(s));
+  });
+}
+
+// ── NOISE EXCLUSIONS ──────────────────────────────────────────────────────────
+const EXCLUDE_KEYWORDS = [
+  'student film','student project','test film','test movie','adult film',
+  'xxx','porn','pornographic','amateur','thesis film','film school project',
+  'concert film','live recording','live performance','theatrical recording',
+  'sporting event'
+];
+
+function isNoise(m, details) {
+  const title = (m.title || '').toLowerCase();
+  const overview = (m.overview || '').toLowerCase();
+  const runtime = details ? (details.runtime || 0) : 0;
+  const genres = details ? (details.genres || []).map(g => g.name.toLowerCase()) : [];
+
+  // Exclude short films
+  if (runtime > 0 && runtime < 70) return true;
+
+  // Exclude by keyword in title/overview
+  if (EXCLUDE_KEYWORDS.some(k => title.includes(k) || overview.includes(k))) return true;
+
+  // Exclude documentaries unless high popularity
+  if (genres.includes('documentary') && (m.popularity || 0) < 15) return true;
+
+  return false;
+}
+
+// ── RE-RELEASE DETECTION ─────────────────────────────────────────────────────
+const RERELEASE_KEYWORDS = [
+  're-release','re release','rerelease','anniversary','remaster',
+  'restoration','4k restoration','director','special screening',
+  'limited engagement','special edition','extended cut'
+];
+
+function detectReRelease(relDatesArr) {
+  return relDatesArr.some(d => {
+    const note = (d.note || '').toLowerCase();
+    return RERELEASE_KEYWORDS.some(k => note.includes(k));
+  });
+}
+
+// ── SELECTION CRITERIA (OR logic) ────────────────────────────────────────────
+function meetsSelectionCriteria(m, details, credits) {
+  const pop = m.popularity || 0;
+  const votes = m.vote_count || 0;
+  const companies = details ? (details.production_companies || []) : (m.production_companies || []);
+
+  // 1. Studio whitelist
+  if (hasWhitelistedStudio(companies)) return true;
+
+  // 2. High popularity / anticipation
+  if (pop >= 30) return true;
+  if (votes >= 100) return true;
+
+  // 3. Major director (TMDb popularity of director > 10)
+  if (credits) {
+    const directors = (credits.crew || []).filter(c => c.job === 'Director');
+    if (directors.some(d => (d.popularity || 0) >= 10)) return true;
+  }
+
+  // 4. Star power — top 3 billed cast with popularity > 15
+  if (credits) {
+    const topCast = (credits.cast || []).slice(0, 3);
+    if (topCast.some(c => (c.popularity || 0) >= 15)) return true;
+  }
+
+  // 5. Festival acquisition title — no studio but premiered at major festival
+  const overview = (m.overview || '').toLowerCase();
+  const festivalKeywords = ['sundance','cannes','tiff','venice','telluride','berlin','tribeca'];
+  if (festivalKeywords.some(f => overview.includes(f))) return true;
+
+  return false;
+}
+
+// ── MAIN FETCH ───────────────────────────────────────────────────────────────
 async function fetchAllMovies() {
   const today = new Date();
   const fmt = d => d.toISOString().split('T')[0];
   const todayStr = fmt(today);
   const currentYear = today.getFullYear();
 
-  // Build monthly windows — 5 years = 60 months
+  // Monthly windows — 5 years
   const windows = [];
   const cursor = new Date(today.getFullYear(), today.getMonth(), 1);
   for (let i = 0; i < 60; i++) {
@@ -82,16 +143,16 @@ async function fetchAllMovies() {
 
   let allRaw = [];
 
+  // Pass 1 — Monthly discovery (both US and CA regions)
+  console.log('Pass 1: Monthly discovery...');
   for (let wi = 0; wi < windows.length; wi++) {
     const { gte, lte } = windows[wi];
     const monthLabel = gte.slice(0, 7);
-    let page, totalPages;
 
-    // Query both US and CA regions to catch all releases
     for (const region of ['US', 'CA']) {
-      page = 1; totalPages = 1;
-      while (page <= totalPages && page <= 25) {
-        const params = new URLSearchParams({
+      let page = 1, totalPages = 1;
+      while (page <= totalPages && page <= 50) {
+        const p = new URLSearchParams({
           region,
           'primary_release_date.gte': gte,
           'primary_release_date.lte': lte,
@@ -100,12 +161,12 @@ async function fetchAllMovies() {
           page
         });
         try {
-          const data = await tmdb('/discover/movie?' + params);
+          const data = await tmdb('/discover/movie?' + p);
           totalPages = Math.min(data.total_pages || 1, 50);
-          console.log(`  ${monthLabel} [${region}] page ${page}/${totalPages} (${wi+1}/${windows.length})`);
           allRaw.push(...(data.results || []));
+          console.log(`  ${monthLabel} [${region}] page ${page}/${totalPages}`);
         } catch(e) {
-          console.warn(`  Skipping ${monthLabel} [${region}] page ${page}: ${e.message}`);
+          console.warn(`  Skip ${monthLabel} [${region}] p${page}: ${e.message}`);
           break;
         }
         page++;
@@ -113,20 +174,20 @@ async function fetchAllMovies() {
       }
       await sleep(40);
     }
-    await sleep(40);
   }
 
-  // Studio guarantee pass — search by company ID for each major studio
-  // This catches films that TMDb didn't return in the regional discover query
-  console.log('\nRunning studio guarantee pass...');
+  // Pass 2 — Studio guarantee (search by company ID per studio per year)
+  console.log('\nPass 2: Studio guarantee...');
   const STUDIO_SEARCH_TERMS = [
     'Marvel Studios','DC Studios','Pixar','DreamWorks Animation','Lucasfilm',
     'Blumhouse Productions','A24','Neon','Annapurna Pictures','Universal Pictures',
     'Warner Bros. Pictures','Walt Disney Pictures','Paramount Pictures',
-    'Sony Pictures','Lionsgate','Skydance Media','Legendary Entertainment',
+    'Sony Pictures Entertainment','Lionsgate','Skydance Media','Legendary Entertainment',
     'New Line Cinema','Focus Features','Searchlight Pictures','Apple Original Films',
-    'Amazon MGM Studios','Netflix','Angel Studios','Laika','Aardman Animations'
+    'Amazon MGM Studios','Netflix','Angel Studios','Laika','Aardman Animations',
+    'Working Title Films','Miramax','StudioCanal','Toho','Yash Raj Films'
   ];
+
   for (const studioName of STUDIO_SEARCH_TERMS) {
     try {
       const compRes = await tmdb('/search/company?query=' + encodeURIComponent(studioName));
@@ -158,82 +219,81 @@ async function fetchAllMovies() {
     seen.add(m.id);
     return m.release_date >= todayStr;
   });
+  console.log(`\nRaw after dedupe: ${allRaw.length}`);
 
-  // Include everything from TMDb — no popularity filter
-  // Additionally guarantee every film from our studio whitelist is always included
-  // even if it somehow slipped through the discover query
-  const filtered = allRaw;
-
-  console.log(`\nFiltered: ${filtered.length} movies from ${allRaw.length} raw`);
-
-  // Fetch details (director, studio, format) in batches
+  // Fetch details + apply selection criteria in batches
   const movies = [];
-  const batchSize = 6;
+  const batchSize = 5;
+  const STREAMING_COMPANIES = [
+    'netflix','amazon','apple','disney+','hulu','peacock',
+    'paramount+','hbo','max','mubi','shudder','tubi'
+  ];
 
-  for (let i = 0; i < filtered.length; i += batchSize) {
-    const batch = filtered.slice(i, i + batchSize);
+  for (let i = 0; i < allRaw.length; i += batchSize) {
+    const batch = allRaw.slice(i, i + batchSize);
     const results = await Promise.all(batch.map(async m => {
-      const pop = m.popularity || 0;
-      const votes = m.vote_count || 0;
-
-      let directorStr = null, studioStr = null, format = 'theatrical', prestige = false;
-
       try {
-        // Credits
-        const credits = await tmdb(`/movie/${m.id}/credits`);
-        const directors = (credits.crew || []).filter(c => c.job === 'Director').map(c => c.name);
-        directorStr = directors.length ? directors.join(', ') : null;
+        const [details, credits, relDates] = await Promise.all([
+          tmdb('/movie/' + m.id + '?append_to_response=release_dates'),
+          tmdb('/movie/' + m.id + '/credits'),
+          tmdb('/movie/' + m.id + '/release_dates')
+        ]);
 
-        // Details
-        const details = await tmdb(`/movie/${m.id}`);
+        // Noise check first — exclude junk regardless
+        if (isNoise(m, details)) return null;
+
+        // Selection criteria check
+        if (!meetsSelectionCriteria(m, details, credits)) return null;
+
+        // Director
+        const directors = (credits.crew || []).filter(c => c.job === 'Director').map(c => c.name);
+        const directorStr = directors.length ? directors.join(', ') : null;
+
+        // Studio
         const companies = details.production_companies || [];
-        studioStr = companies.slice(0, 2).map(c => c.name).join(' / ') || null;
-        prestige = isPrestige(companies);
+        const studioStr = companies.slice(0, 2).map(c => c.name).join(' / ') || null;
+        const prestige = hasWhitelistedStudio(companies);
         const studioLower = (studioStr || '').toLowerCase();
         const isStreamer = STREAMING_COMPANIES.some(s => studioLower.includes(s));
 
-        // Release dates for format detection
-        const relDates = await tmdb(`/movie/${m.id}/release_dates`);
-        // Prefer CA release date, fall back to US (most major releases share the same date)
-        const caEntry = (relDates.results || []).find(r => r.iso_3166_1 === 'CA') ||
-                        (relDates.results || []).find(r => r.iso_3166_1 === 'US') ||
-                        (relDates.results || [])[0];
+        // Format from release dates
+        const caEntry = (relDates.results || []).find(r => r.iso_3166_1 === 'CA')
+          || (relDates.results || []).find(r => r.iso_3166_1 === 'US')
+          || (relDates.results || [])[0];
+
+        let format = 'theatrical';
+        let reRelease = false;
         if (caEntry) {
           const relDatesArr = caEntry.release_dates || [];
           const types = relDatesArr.map(d => d.type);
-          // TMDb type 6 = TV, but re-releases are theatrical (type 3) entries
-          // where the note field contains "re-release", "anniversary", "remaster" etc.
-          const reReleaseKeywords = ['re-release', 're release', 'rerelease', 'anniversary', 'remaster', 'restoration', '4k', 'director', 'special screening', 'limited engagement'];
-          const isReRelease = relDatesArr.some(d => {
-            const note = (d.note || '').toLowerCase();
-            return reReleaseKeywords.some(k => note.includes(k));
-          });
-          m.reRelease = isReRelease;
+          reRelease = detectReRelease(relDatesArr);
           if (types.includes(5)) format = 'physical';
           else if (types.includes(4) && isStreamer) format = 'streaming';
           else if (types.includes(4)) format = 'digital';
           else format = 'theatrical';
         }
+
+        return {
+          id: m.id,
+          title: m.title,
+          releaseDate: m.release_date,
+          poster: m.poster_path ? 'https://image.tmdb.org/t/p/w92' + m.poster_path : null,
+          format,
+          reRelease,
+          directorStr,
+          studioStr,
+          prestige,
+          imdbId: details.imdb_id || null
+        };
       } catch(e) {
         console.warn(`  Details failed for ${m.title}: ${e.message}`);
+        return null;
       }
-
-      return {
-        id: m.id,
-        title: m.title,
-        releaseDate: m.release_date,
-        poster: m.poster_path ? 'https://image.tmdb.org/t/p/w92' + m.poster_path : null,
-        format,
-        directorStr,
-        studioStr,
-        prestige,
-        imdbId: m.imdbId || null,
-        reRelease: m.reRelease || false
-      };
     }));
 
-    movies.push(...results);
-    console.log(`  Details: ${Math.min(i + batchSize, filtered.length)}/${filtered.length}`);
+    const valid = results.filter(Boolean);
+    movies.push(...valid);
+    console.log(`  Processed ${Math.min(i + batchSize, allRaw.length)}/${allRaw.length} — kept ${movies.length}`);
     await sleep(80);
   }
 
@@ -242,9 +302,8 @@ async function fetchAllMovies() {
 }
 
 (async () => {
-  console.log('Starting TMDb fetch...');
-  console.log('Today:', new Date().toISOString());
-
+  console.log('Starting The Drop fetch...');
+  console.log('Date:', new Date().toISOString());
   try {
     const movies = await fetchAllMovies();
     const output = {
@@ -253,9 +312,9 @@ async function fetchAllMovies() {
       movies
     };
     fs.writeFileSync('movies.json', JSON.stringify(output, null, 2));
-    console.log(`\nWrote movies.json — ${movies.length} movies`);
+    console.log(`\nDone — wrote ${movies.length} movies to movies.json`);
   } catch(e) {
-    console.error('Fatal error:', e.message);
+    console.error('Fatal:', e.message);
     process.exit(1);
   }
 })();
