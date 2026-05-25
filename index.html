@@ -55,19 +55,12 @@ a{color:inherit;text-decoration:none}
 .btn-load:hover{opacity:.88}
 .btn-load:disabled{opacity:.5;cursor:not-allowed}
 
-/* STATUS */
-.status-bar{padding:.6rem 2.5rem;min-height:32px;display:flex;align-items:center;gap:8px;border-bottom:1px solid var(--border)}
-.status-text{font-size:12px;color:var(--muted);letter-spacing:.02em}
 progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:block}
 #progressWrap{padding:0 2.5rem;display:none}
 
 /* TOOLBAR */
 .toolbar{display:none;align-items:center;gap:6px;padding:.75rem 2.5rem;border-bottom:1.5px solid var(--border);flex-wrap:wrap}
 .toolbar.visible{display:flex}
-.filter-label{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-right:4px}
-.pill{background:transparent;border:1.5px solid var(--border2);color:var(--muted);padding:4px 14px;border-radius:20px;font-size:11px;letter-spacing:.05em;cursor:pointer;transition:all .15s;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;text-transform:uppercase}
-.pill.active{background:var(--text);border-color:var(--text);color:var(--bg)}
-.pill:hover:not(.active){border-color:var(--text);color:var(--text)}
 .header-search{background:var(--bg2);border:1.5px solid var(--border);color:var(--text);padding:7px 14px;border-radius:var(--radius);font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;outline:none;width:220px;transition:border-color .15s}
 .header-search:focus{border-color:var(--accent)}
 .header-search::placeholder{color:var(--muted)}
@@ -161,7 +154,6 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
   .settings-panel{padding:1rem;flex-direction:column;gap:10px}
   .settings-panel input{width:100%}
   .pin-panel{padding:1rem}
-  .status-bar{padding:.5rem 1rem}
   .toolbar{padding:.6rem 1rem;gap:5px}
   .search-wrap{padding:.6rem 1rem}
   .year-header{padding:1rem 1rem}
@@ -184,9 +176,7 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
   .trailer-overlay{padding:.5rem}
   .trailer-box{max-width:100%}
   .trailer-title{font-size:13px;max-width:calc(100vw - 80px)}
-  .filter-label{display:none}
-  .pill{padding:4px 10px;font-size:10px}
-}
+    }
 @media(max-width:400px){
   .logo{font-size:30px}
   .movie-card{grid-template-columns:40px 1fr}
@@ -224,17 +214,9 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
     </div>
   </header>
   <!-- STATUS -->
-  <div id="statusText" style="display:none"></div>
-  <div id="progressWrap" style="display:none"><progress id="progressBar" max="100" value="0"></progress></div>
 
   <!-- TOOLBAR -->
   <div class="toolbar" id="toolbar">
-    <span class="filter-label">Format:</span>
-    <button class="pill active" onclick="setFilter('all',this)">All</button>
-    <button class="pill" onclick="setFilter('theatrical',this)">Theatrical</button>
-    <button class="pill" onclick="setFilter('digital',this)">Digital</button>
-    <button class="pill" onclick="setFilter('streaming',this)">Streaming</button>
-    <button class="pill" onclick="setFilter('physical',this)">Physical</button>
     <div class="expand-btns">
       <button class="btn-ghost" onclick="toggleAll(true)">Expand all</button>
       <button class="btn-ghost" onclick="toggleAll(false)">Collapse all</button>
@@ -267,10 +249,8 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
 
 <script>
 let allMovies = [];
-let currentFilter = 'all';
 let searchTerm = '';
 
-let currentPin = localStorage.getItem('thedrop_pin') || '123';
 
 function toggleDark() {
   const dark = document.body.classList.toggle('dark');
@@ -373,34 +353,24 @@ window.addEventListener('load', async () => {
 
 
 
-function setStatus(msg, type) {
-  document.getElementById('statusText').textContent = msg;
-}
+function setStatus(msg, type) {}
 
-function setProgress(val, max) {
-  const wrap = document.getElementById('progressWrap');
-  const bar = document.getElementById('progressBar');
-  if (val >= max) { wrap.style.display = 'none'; return; }
+function setProgress(val, max) {}
   wrap.style.display = 'block';
   bar.max = max; bar.value = val;
 }
 
 async function loadMovies() {
-  setStatus('Loading releases…', 'loading');
-  document.getElementById('content').innerHTML = '<div class="loading-state"><div class="loading-ring"></div><div class="loading-label">Fetching upcoming releases…</div></div>';
+  document.getElementById('content').innerHTML = '<div class="loading-state"><div class="loading-ring"></div><div class="loading-label">Loading releases…</div></div>';
   document.getElementById('toolbar').classList.remove('visible');
   try {
     const movies = await fetchAll();
     allMovies = movies;
-    saveToCache(movies);
-    setStatus(movies.length + ' releases loaded · updated ' + new Date().toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}), 'success');
     document.getElementById('toolbar').classList.add('visible');
     renderMovies();
   } catch(e) {
-    setStatus('Error: ' + e.message, 'error');
-    document.getElementById('content').innerHTML = '<div class="empty-state">Could not load movies.<br><small style="color:var(--muted)">' + e.message + '</small></div>';
+    document.getElementById('content').innerHTML = '<div class="empty-state">Could not load movies.<br><small>' + e.message + '</small></div>';
   }
-  setProgress(100,100);
 }
 
 async function fetchAll() {
@@ -440,9 +410,7 @@ function fmtRelease(str) {
 
 function groupMovies(movies) {
   const filtered = movies.filter(m => {
-    const t = currentFilter === 'all' || m.format === currentFilter;
-    const s = !searchTerm || m.title.toLowerCase().includes(searchTerm.toLowerCase());
-    return t && s;
+    return !searchTerm || m.title.toLowerCase().includes(searchTerm.toLowerCase());
   });
   const tree = {};
   for (const m of filtered) {
@@ -562,12 +530,6 @@ function toggleAll(open) {
   document.querySelectorAll('.year-toggle,.month-toggle,.week-toggle').forEach(el=>el.classList.toggle('open',open));
 }
 
-function setFilter(type, btn) {
-  currentFilter = type;
-  document.querySelectorAll('.pill').forEach(p=>p.classList.remove('active'));
-  btn.classList.add('active');
-  renderMovies();
-}
 
 function filterMovies() {
   searchTerm = document.getElementById('searchInput').value;
