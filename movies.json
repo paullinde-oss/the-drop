@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T08:53:41.166Z",
+  "generatedAt": "2026-05-25T17:29:21.783Z",
   "count": 196,
   "movies": [
     {
@@ -294,7 +294,7 @@
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pe5cCoX5iIb5IWKPsbPkCwjLFHt.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christopher Nolan",
