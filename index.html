@@ -266,86 +266,8 @@ function toggleDark() {
   }
 })();
 
-// CACHE LOGIC
-// Load from cache instantly, refresh at 3am PST daily
-const CACHE_KEY = 'thedrop_movies_v1';
-const CACHE_TS_KEY = 'thedrop_cache_ts';
-
-function getNextRefreshTime() {
-  // 3am PST = 11am UTC (or 10am UTC during PDT)
-  const now = new Date();
-  const utcOffset = 11; // PST = UTC-8, so 3am PST = 11am UTC
-  const next3am = new Date(now);
-  next3am.setUTCHours(utcOffset, 0, 0, 0);
-  if (next3am <= now) next3am.setUTCDate(next3am.getUTCDate() + 1);
-  return next3am.getTime();
-}
-
-function isCacheStale() {
-  const ts = localStorage.getItem(CACHE_TS_KEY);
-  if (!ts) return true;
-  const now = Date.now();
-  const lastFetch = parseInt(ts);
-  // Stale if we've passed a 3am PST since last fetch
-  const nextRefresh = getNextRefreshTime();
-  const prevRefresh = nextRefresh - 86400000; // 24hrs ago
-  return lastFetch < prevRefresh;
-}
-
-function loadFromCache() {
-  try {
-    const raw = localStorage.getItem(CACHE_KEY);
-    if (!raw) return null;
-    return JSON.parse(raw);
-  } catch(e) { return null; }
-}
-
-function saveToCache(movies) {
-  try {
-    localStorage.setItem(CACHE_KEY, JSON.stringify(movies));
-    localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
-  } catch(e) {
-    // localStorage full — clear old cache and try again
-    localStorage.removeItem(CACHE_KEY);
-    localStorage.removeItem(CACHE_TS_KEY);
-  }
-}
-
-function scheduleNextRefresh() {
-  const delay = getNextRefreshTime() - Date.now();
-  setTimeout(async () => {
-    setStatus('Refreshing in the background…', 'loading');
-    try {
-      const movies = await fetchAll();
-      allMovies = movies;
-      saveToCache(movies);
-      setStatus(movies.length + ' releases updated · ' + new Date().toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}), 'success');
-      renderMovies();
-    } catch(e) {
-      console.warn('Background refresh failed:', e.message);
-    }
-    scheduleNextRefresh(); // schedule the next day
-  }, delay);
-}
-
-// Auto-load movies on page ready
-window.addEventListener('load', async () => {
-  const cached = loadFromCache();
-  if (cached && !isCacheStale()) {
-    // Instant load from cache
-    allMovies = cached;
-    const ts = localStorage.getItem(CACHE_TS_KEY);
-    const d = ts ? new Date(parseInt(ts)).toLocaleDateString('en-CA', {month:'short',day:'numeric',year:'numeric'}) : '';
-    setStatus(cached.length + ' releases loaded · last updated ' + d, 'success');
-    document.getElementById('toolbar').classList.add('visible');
-    renderMovies();
-    scheduleNextRefresh();
-  } else {
-    // No cache or stale — fetch fresh
-    await loadMovies();
-    scheduleNextRefresh();
-  }
-});
+// Auto-load on page open
+window.addEventListener('load', () => loadMovies());
 
 
 
@@ -376,7 +298,7 @@ async function loadMovies() {
 
 async function fetchAll() {
   // Fetch pre-built movies.json generated nightly by GitHub Action
-  const res = await fetch('./movies.json?v=' + Date.now());
+  const res = await fetch('movies.json');
   if (!res.ok) throw new Error('Could not load movies.json (HTTP ' + res.status + ')');
   const data = await res.json();
   // data has { generatedAt, count, movies[] }
