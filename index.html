@@ -275,9 +275,6 @@ window.addEventListener('load', () => loadMovies());
 function setStatus(msg, type) {}
 
 function setProgress(val, max) {}
-  wrap.style.display = 'block';
-  bar.max = max; bar.value = val;
-}
 
 async function loadMovies() {
   document.getElementById('content').innerHTML = '<div class="loading-state"><div class="loading-ring"></div><div class="loading-label">Loading releases…</div></div>';
