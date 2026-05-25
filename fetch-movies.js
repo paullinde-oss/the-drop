@@ -98,33 +98,22 @@ async function fetchAllMovies() {
     return m.release_date >= todayStr;
   });
 
-  // Quality filter — tiered by how far out the release is
-  // Philosophy: the further out, the more inclusive. Don't miss announced titles.
+  // Quality filter — same inclusive standard across ALL years
+  // English films with any TMDb presence + non-English with buzz or critical recognition
   const filtered = allRaw.filter(m => {
     const pop = m.popularity || 0;
     const votes = m.vote_count || 0;
     const avg = m.vote_average || 0;
     const isEnglish = m.original_language === 'en';
-    const releaseYear = parseInt(m.release_date.slice(0, 4));
-    const yearsOut = releaseYear - currentYear;
 
-    // 2028+ : very inclusive — if TMDb has a release date registered it's probably real
-    // Catches Shrek 5, Simpsons 2, Batman 2, all announced franchise/studio films
-    if (yearsOut >= 3) return pop >= 1 || isEnglish;
+    // Any English language film with minimal TMDb presence
+    if (isEnglish && pop >= 2) return true;
 
-    // 2027 : inclusive — any English film or anything with any buzz
-    if (yearsOut === 2) return isEnglish || pop >= 2;
+    // Non-English with real buzz or critical recognition (festival films, international hits)
+    if (pop >= 10) return true;
+    if (avg >= 6.0 && votes >= 15) return true;
 
-    // 2026 : wide net — English films or anything with some presence
-    if (yearsOut === 1) return isEnglish || pop >= 4;
-
-    // 2025 (current year) : film buff filter — quality signal required for non-English
-    // English studio films: include with minimal presence
-    const notableEnglish = isEnglish && pop >= 3;
-    // Non-English: needs critical recognition or buzz
-    const criticalRec = avg >= 6.0 && votes >= 15;
-    const hasBuzz = pop >= 10;
-    return notableEnglish || criticalRec || hasBuzz;
+    return false;
   });
 
   console.log(`\nFiltered: ${filtered.length} movies from ${allRaw.length} raw`);
@@ -160,7 +149,16 @@ async function fetchAllMovies() {
         const caEntry = (relDates.results || []).find(r => r.iso_3166_1 === 'CA') ||
                         (relDates.results || []).find(r => r.iso_3166_1 === 'US');
         if (caEntry) {
-          const types = (caEntry.release_dates || []).map(d => d.type);
+          const relDatesArr = caEntry.release_dates || [];
+          const types = relDatesArr.map(d => d.type);
+          // TMDb type 6 = TV, but re-releases are theatrical (type 3) entries
+          // where the note field contains "re-release", "anniversary", "remaster" etc.
+          const reReleaseKeywords = ['re-release', 're release', 'rerelease', 'anniversary', 'remaster', 'restoration', '4k', 'director', 'special screening', 'limited engagement'];
+          const isReRelease = relDatesArr.some(d => {
+            const note = (d.note || '').toLowerCase();
+            return reReleaseKeywords.some(k => note.includes(k));
+          });
+          m.reRelease = isReRelease;
           if (types.includes(5)) format = 'physical';
           else if (types.includes(4) && isStreamer) format = 'streaming';
           else if (types.includes(4)) format = 'digital';
@@ -179,7 +177,8 @@ async function fetchAllMovies() {
         directorStr,
         studioStr,
         prestige,
-        imdbId: m.imdbId || null
+        imdbId: m.imdbId || null,
+        reRelease: m.reRelease || false
       };
     }));
 

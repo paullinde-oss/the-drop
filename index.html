@@ -120,6 +120,7 @@ progress{height:2px;width:100%;accent-color:var(--accent);border:none;display:bl
 .badge-limited{background:rgba(181,134,13,.1);color:var(--gold);border:1px solid rgba(181,134,13,.25)}
 .badge-premiere{background:rgba(90,74,138,.1);color:var(--purple);border:1px solid rgba(90,74,138,.25)}
 .badge-theatrical{background:rgba(45,106,79,.1);color:var(--green);border:1px solid rgba(45,106,79,.25)}
+.badge-rerelease{background:rgba(196,96,58,.1);color:var(--accent);border:1px solid rgba(196,96,58,.35);font-style:italic}
 .badge-streaming{background:rgba(93,134,232,.1);color:#5d86e8;border:1px solid rgba(93,134,232,.25)}
 .badge-digital{background:rgba(181,134,13,.1);color:var(--gold);border:1px solid rgba(181,134,13,.25)}
 .badge-physical{background:rgba(90,74,138,.1);color:var(--purple);border:1px solid rgba(90,74,138,.25)}
@@ -432,6 +433,12 @@ function renderMovies() {
           dateSpan.className = 'movie-date-inline';
           dateSpan.textContent = fmtDate(m.releaseDate);
           top.appendChild(titleSpan);
+          if (m.reRelease) {
+            const rrBadge = document.createElement('span');
+            rrBadge.className = 'badge badge-rerelease';
+            rrBadge.textContent = 'Re-release';
+            top.appendChild(rrBadge);
+          }
           top.appendChild(dateSpan);
 
           const credits = document.createElement('div');
