@@ -460,10 +460,8 @@ function renderMovies() {
           trailerBtn.className = 'movie-link trailer-btn';
           trailerBtn.style.cursor = 'pointer';
           trailerBtn.style.background = 'none';
-          trailerBtn.style.display = 'none';
           trailerBtn.innerHTML = '<i class="ti ti-player-play" aria-hidden="true"></i>Trailer';
           trailerBtn.onclick = (function(id, t){ return function(){ openTrailer(id, t); }; })(m.id, m.title);
-          checkTrailer(m.id, trailerBtn);
 
           links.appendChild(lbLink);
           links.appendChild(imdbLink);
@@ -515,27 +513,6 @@ function filterMovies() {
 // Trailer player
 const trailerCache = {};
 
-async function checkTrailer(movieId, btn) {
-  try {
-    const res = await fetch('https://api.themoviedb.org/3/movie/' + movieId + '/videos', {
-      headers: { 'Authorization': 'Bearer ' + TMDB_TOKEN }
-    });
-    const data = await res.json();
-    const videos = (data.results || []).filter(v => v.site === 'YouTube');
-    const priority = ['Official Trailer', 'Trailer', 'Teaser', 'Clip', 'Featurette'];
-    let key = null;
-    for (const type of priority) {
-      const matches = videos.filter(v => v.type === type);
-      if (matches.length) {
-        const best = matches.sort((a,b) => (b.official?1:0)-(a.official?1:0) || new Date(b.published_at||0)-new Date(a.published_at||0))[0];
-        key = best.key;
-        break;
-      }
-    }
-    trailerCache[movieId] = key;
-    if (key) btn.style.display = '';
-  } catch(e) {}
-}
 const TMDB_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODM0ZjgxNjE4ZjEyMjE2NzdkMWFlMmJjYzhmYWZlOSIsIm5iZiI6MTc3OTY3OTk3MC4zNTM5OTk5LCJzdWIiOiI2YTEzYzJlMjQwN2FkZWFjYzNkYjYwYTUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.vs6dCrFpQtDBN4on6mR9GGqLI3sOebu3WfteSS-lFA8';
 
 async function openTrailer(movieId, title) {
