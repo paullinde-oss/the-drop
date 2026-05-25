@@ -12,13 +12,25 @@ const HEADERS = {
 };
 
 const PRESTIGE_STUDIOS = [
-  'a24','neon','searchlight','focus features','mubi','bleecker street',
-  'ifc','lionsgate','sony pictures classics','magnolia','kino lorber',
-  'criterion','universal','warner','disney','paramount','sony','netflix',
-  'apple','amazon','mgm','annapurna','new line','20th century',
-  'dreamworks','miramax','oscilloscope','strand releasing',
-  'samuel goldwyn','roadside attractions','good machine',
-  'plan b','black bear','topic studios'
+  // Major Hollywood studios
+  'walt disney','warner bros','universal pictures','sony pictures',
+  'paramount pictures','amazon mgm','lionsgate','netflix','apple original',
+  // Prestige indie & arthouse
+  'a24','neon','blumhouse','annapurna','ifc','magnolia','vertical',
+  'angel studios','xyz films','legendary','miramax','focus features',
+  'searchlight','columbia pictures','tristar','screen gems',
+  'working title','skydance','laika','aardman',
+  // Legacy & international majors
+  'metro-goldwyn-mayer','mgm','castle rock','rko',
+  'studiocanal','pathe','gaumont','toho','shochiku',
+  // Animation
+  'dreamworks','pixar','lucasfilm','marvel studios','dc studios',
+  'new line cinema',
+  // Indian studios
+  'yash raj','viacom18','reliance entertainment','utv','sun pictures',
+  'madras talkies','excel entertainment',
+  // Catch-all variants
+  'disney','warner','universal','paramount','sony','amazon','apple'
 ];
 
 const STREAMING_COMPANIES = [
@@ -32,6 +44,16 @@ function isPrestige(companies) {
     const n = (c.name || '').toLowerCase();
     return PRESTIGE_STUDIOS.some(s => n.includes(s));
   });
+}
+
+function studioName(companies) {
+  if (!companies || !companies.length) return null;
+  // Prefer a known prestige studio name if available
+  const prestige = companies.find(c => {
+    const n = (c.name || '').toLowerCase();
+    return PRESTIGE_STUDIOS.some(s => n.includes(s));
+  });
+  return prestige ? prestige.name : companies[0].name;
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
@@ -63,31 +85,70 @@ async function fetchAllMovies() {
   for (let wi = 0; wi < windows.length; wi++) {
     const { gte, lte } = windows[wi];
     const monthLabel = gte.slice(0, 7);
-    let page = 1, totalPages = 1;
+    let page, totalPages;
 
-    while (page <= totalPages && page <= 25) {
-      const params = new URLSearchParams({
-        region: 'CA',
-        'primary_release_date.gte': gte,
-        'primary_release_date.lte': lte,
-        sort_by: 'primary_release_date.asc',
-        'with_release_type': '1|2|3|4|5',
-        page
-      });
-
-      try {
-        const data = await tmdb('/discover/movie?' + params);
-        totalPages = Math.min(data.total_pages || 1, 25);
-        console.log(`  ${monthLabel} page ${page}/${totalPages} (${wi+1}/${windows.length})`);
-        allRaw.push(...(data.results || []));
-      } catch(e) {
-        console.warn(`  Skipping ${monthLabel} page ${page}: ${e.message}`);
-        break;
+    // Query both US and CA regions to catch all releases
+    for (const region of ['US', 'CA']) {
+      page = 1; totalPages = 1;
+      while (page <= totalPages && page <= 25) {
+        const params = new URLSearchParams({
+          region,
+          'primary_release_date.gte': gte,
+          'primary_release_date.lte': lte,
+          sort_by: 'primary_release_date.asc',
+          'with_release_type': '1|2|3|4|5',
+          page
+        });
+        try {
+          const data = await tmdb('/discover/movie?' + params);
+          totalPages = Math.min(data.total_pages || 1, 50);
+          console.log(`  ${monthLabel} [${region}] page ${page}/${totalPages} (${wi+1}/${windows.length})`);
+          allRaw.push(...(data.results || []));
+        } catch(e) {
+          console.warn(`  Skipping ${monthLabel} [${region}] page ${page}: ${e.message}`);
+          break;
+        }
+        page++;
+        if (page <= totalPages) await sleep(40);
       }
-      page++;
-      if (page <= totalPages) await sleep(40);
+      await sleep(40);
     }
     await sleep(40);
+  }
+
+  // Studio guarantee pass — search by company ID for each major studio
+  // This catches films that TMDb didn't return in the regional discover query
+  console.log('\nRunning studio guarantee pass...');
+  const STUDIO_SEARCH_TERMS = [
+    'Marvel Studios','DC Studios','Pixar','DreamWorks Animation','Lucasfilm',
+    'Blumhouse Productions','A24','Neon','Annapurna Pictures','Universal Pictures',
+    'Warner Bros. Pictures','Walt Disney Pictures','Paramount Pictures',
+    'Sony Pictures','Lionsgate','Skydance Media','Legendary Entertainment',
+    'New Line Cinema','Focus Features','Searchlight Pictures','Apple Original Films',
+    'Amazon MGM Studios','Netflix','Angel Studios','Laika','Aardman Animations'
+  ];
+  for (const studioName of STUDIO_SEARCH_TERMS) {
+    try {
+      const compRes = await tmdb('/search/company?query=' + encodeURIComponent(studioName));
+      const comp = (compRes.results || [])[0];
+      if (!comp) continue;
+      for (let yr = currentYear; yr <= currentYear + 4; yr++) {
+        const p = new URLSearchParams({
+          'primary_release_date.gte': yr + '-01-01',
+          'primary_release_date.lte': yr + '-12-31',
+          sort_by: 'primary_release_date.asc',
+          with_companies: comp.id,
+          page: 1
+        });
+        const res = await tmdb('/discover/movie?' + p);
+        const results = res.results || [];
+        if (results.length) console.log(`  ${studioName} ${yr}: +${results.length}`);
+        allRaw.push(...results);
+        await sleep(40);
+      }
+    } catch(e) {
+      console.warn(`  Studio pass skipped ${studioName}: ${e.message}`);
+    }
   }
 
   // Dedupe + filter to today onwards
@@ -98,23 +159,10 @@ async function fetchAllMovies() {
     return m.release_date >= todayStr;
   });
 
-  // Quality filter — same inclusive standard across ALL years
-  // English films with any TMDb presence + non-English with buzz or critical recognition
-  const filtered = allRaw.filter(m => {
-    const pop = m.popularity || 0;
-    const votes = m.vote_count || 0;
-    const avg = m.vote_average || 0;
-    const isEnglish = m.original_language === 'en';
-
-    // Any English language film with minimal TMDb presence
-    if (isEnglish && pop >= 2) return true;
-
-    // Non-English with real buzz or critical recognition (festival films, international hits)
-    if (pop >= 10) return true;
-    if (avg >= 6.0 && votes >= 15) return true;
-
-    return false;
-  });
+  // Include everything from TMDb — no popularity filter
+  // Additionally guarantee every film from our studio whitelist is always included
+  // even if it somehow slipped through the discover query
+  const filtered = allRaw;
 
   console.log(`\nFiltered: ${filtered.length} movies from ${allRaw.length} raw`);
 
@@ -146,8 +194,10 @@ async function fetchAllMovies() {
 
         // Release dates for format detection
         const relDates = await tmdb(`/movie/${m.id}/release_dates`);
+        // Prefer CA release date, fall back to US (most major releases share the same date)
         const caEntry = (relDates.results || []).find(r => r.iso_3166_1 === 'CA') ||
-                        (relDates.results || []).find(r => r.iso_3166_1 === 'US');
+                        (relDates.results || []).find(r => r.iso_3166_1 === 'US') ||
+                        (relDates.results || [])[0];
         if (caEntry) {
           const relDatesArr = caEntry.release_dates || [];
           const types = relDatesArr.map(d => d.type);
