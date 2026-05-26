@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-05-25T17:29:21.783Z",
-  "count": 196,
+  "generatedAt": "2026-05-26T19:37:05.840Z",
+  "count": 194,
   "movies": [
-    {
-      "id": 1318413,
-      "title": "Pressure",
-      "releaseDate": "2026-05-25",
-      "poster": "https://image.tmdb.org/t/p/w92/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Anthony Maras",
-      "studioStr": "Working Title Films / StudioCanal UK",
-      "prestige": true,
-      "imdbId": "tt32547691"
-    },
     {
       "id": 880067,
       "title": "Strung",
@@ -24,7 +12,7 @@
       "directorStr": "Malcolm D. Lee",
       "studioStr": "Blumhouse Productions / Peachtree & Vine",
       "prestige": true,
-      "imdbId": "tt36972754"
+      "imdbId": "tt15532464"
     },
     {
       "id": 1553969,
@@ -75,6 +63,18 @@
       "imdbId": "tt0427340"
     },
     {
+      "id": 1358005,
+      "title": "Office Romance",
+      "releaseDate": "2026-06-05",
+      "poster": "https://image.tmdb.org/t/p/w92/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Ol Parker",
+      "studioStr": "Ryder Picture Company / Nuyorican Productions",
+      "prestige": true,
+      "imdbId": "tt33397980"
+    },
+    {
       "id": 1280738,
       "title": "The Furious",
       "releaseDate": "2026-06-12",
@@ -90,7 +90,7 @@
       "id": 1275779,
       "title": "Disclosure Day",
       "releaseDate": "2026-06-12",
-      "poster": "https://image.tmdb.org/t/p/w92/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aMt9tWMgtsRBfCh0b46MzbRn3ya.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Steven Spielberg",
@@ -159,6 +159,18 @@
       "imdbId": null
     },
     {
+      "id": 1684283,
+      "title": "Tana",
+      "releaseDate": "2026-06-22",
+      "poster": "https://image.tmdb.org/t/p/w92/4WXXQwQpEfz7426GNGilMnZtjWt.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Zhao Ji, Keer Zhu",
+      "studioStr": "Warner Bros. China",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1081003,
       "title": "Supergirl",
       "releaseDate": "2026-06-26",
@@ -183,18 +195,6 @@
       "imdbId": "tt14173636"
     },
     {
-      "id": 1408170,
-      "title": "Lenin",
-      "releaseDate": "2026-06-26",
-      "poster": "https://image.tmdb.org/t/p/w92/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Murali Kishor Abburu",
-      "studioStr": "Sithara Entertainments / Manam Enterprises",
-      "prestige": true,
-      "imdbId": "tt5256640"
-    },
-    {
       "id": 1315772,
       "title": "Minions & Monsters",
       "releaseDate": "2026-07-01",
@@ -210,7 +210,7 @@
       "id": 1202033,
       "title": "Enola Holmes 3",
       "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/Aln88lF7gAlsXoAbfkI2H8BWqdA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/by8Xm0fNsTFcBfsjQSKLGvjBk1E.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Philip Barantini",
@@ -246,7 +246,7 @@
       "id": 1308767,
       "title": "Young Washington",
       "releaseDate": "2026-07-03",
-      "poster": "https://image.tmdb.org/t/p/w92/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sOglmM6VNC3qKQl7FKYRqQYj7Jq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jon Erwin",
@@ -294,7 +294,7 @@
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/pe5cCoX5iIb5IWKPsbPkCwjLFHt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christopher Nolan",
@@ -978,7 +978,7 @@
       "id": 1153576,
       "title": "Street Fighter",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rOH0hMRFJZCMzf6zTUldrbjAmSO.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kitao Sakurai",
@@ -1045,18 +1045,6 @@
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1058424,
-      "title": "Hope",
-      "releaseDate": "2026-11-04",
-      "poster": "https://image.tmdb.org/t/p/w92/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Na Hong-jin",
-      "studioStr": "Forged Films / Plus M Entertainment",
-      "prestige": false,
-      "imdbId": "tt27369017"
     },
     {
       "id": 1003494,
@@ -1158,7 +1146,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -1194,7 +1182,7 @@
       "id": 1400336,
       "title": "Focker-In-Law",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John Hamburg",
@@ -1326,7 +1314,7 @@
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/on63QRbOPVpmPqaCSRkpi6e67x2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/80dcSFTyC97dkgvskEb4fJvlfrl.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Robert Eggers",
@@ -1357,18 +1345,6 @@
       "studioStr": "Studio Soi / X Filme Creative Pool",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1492198,
-      "title": "Artificial",
-      "releaseDate": "2027-01-01",
-      "poster": "https://image.tmdb.org/t/p/w92/6RKRs1vE0KPQIAtRseP9y6MNJe1.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Luca Guadagnino",
-      "studioStr": "Heyday Films / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt37171180"
     },
     {
       "id": 1440769,
@@ -1614,7 +1590,7 @@
       "id": 1306322,
       "title": "Spaceballs: The New One",
       "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/9NDQsPSPxDLIqlvJIbZLFYDenYt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/cb9y8JiwXoC1iss4yUjuspJcpsJ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Josh Greenbaum",
@@ -1770,7 +1746,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/dmRLQgs6zqkxKpOHlYkEaIVtOA1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6z8ph9ZTs1qloAKuHbEZFNz4w2v.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
