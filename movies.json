@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:37:05.840Z",
+  "generatedAt": "2026-05-27T19:42:57.372Z",
   "count": 194,
   "movies": [
     {
@@ -90,7 +90,7 @@
       "id": 1275779,
       "title": "Disclosure Day",
       "releaseDate": "2026-06-12",
-      "poster": "https://image.tmdb.org/t/p/w92/aMt9tWMgtsRBfCh0b46MzbRn3ya.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Steven Spielberg",
@@ -181,18 +181,6 @@
       "studioStr": "DC Studios / Troll Court Entertainment",
       "prestige": true,
       "imdbId": "tt8814476"
-    },
-    {
-      "id": 950028,
-      "title": "The Invite",
-      "releaseDate": "2026-06-26",
-      "poster": "https://image.tmdb.org/t/p/w92/amxSk5CAVZ907gDEdgyiRZNjiwU.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Olivia Wilde",
-      "studioStr": "Annapurna Pictures / FilmNation Entertainment",
-      "prestige": true,
-      "imdbId": "tt14173636"
     },
     {
       "id": 1315772,
@@ -891,6 +879,18 @@
       "imdbId": "tt39850240"
     },
     {
+      "id": 1623608,
+      "title": "Ashes",
+      "releaseDate": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w92/utQMSJZL1zUfMY1iFBtuAbaepby.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Diego Luna",
+      "studioStr": "La Corriente del Golfo / Animal de Luz Films",
+      "prestige": false,
+      "imdbId": "tt35717186"
+    },
+    {
       "id": 1590933,
       "title": "You, Like a Star",
       "releaseDate": "2026-10-09",
@@ -1026,7 +1026,7 @@
       "id": 858035,
       "title": "Klara and the Sun",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/gRp3IynkpWsmwP7TgkXCkXLgpWh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/k8T3CHeykqrRVNCmYSgz4kacP9K.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Taika Waititi",
@@ -1053,7 +1053,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1158,7 +1158,7 @@
       "id": 1457866,
       "title": "The Adventures of Cliff Booth",
       "releaseDate": "2026-11-24",
-      "poster": "https://image.tmdb.org/t/p/w92/2XAlL7hnyHykwOYNTJqBrSxXowX.jpg",
+      "poster": null,
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
