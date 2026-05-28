@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-05-27T19:42:57.372Z",
-  "count": 194,
+  "generatedAt": "2026-05-28T20:02:55.987Z",
+  "count": 190,
   "movies": [
     {
-      "id": 880067,
-      "title": "Strung",
-      "releaseDate": "2026-05-27",
-      "poster": "https://image.tmdb.org/t/p/w92/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
-      "format": "digital",
+      "id": 1212763,
+      "title": "Evil Dead Burn",
+      "releaseDate": "2026-05-28",
+      "poster": "https://image.tmdb.org/t/p/w92/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Malcolm D. Lee",
-      "studioStr": "Blumhouse Productions / Peachtree & Vine",
+      "directorStr": "Sébastien Vaniček",
+      "studioStr": "New Line Cinema / Screen Gems",
       "prestige": true,
-      "imdbId": "tt15532464"
+      "imdbId": "tt31170389"
     },
     {
       "id": 1553969,
@@ -147,33 +147,9 @@
       "imdbId": "tt29355505"
     },
     {
-      "id": 1000882,
-      "title": "The Sunrise File",
-      "releaseDate": "2026-06-21",
-      "poster": "https://image.tmdb.org/t/p/w92/9YxkcKYvS2wFmVK2eHkbDNSfr8x.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Rupert Wyatt, Emilie Phuong",
-      "studioStr": "Superprod Animation / Melusine Productions",
-      "prestige": false,
-      "imdbId": null
-    },
-    {
-      "id": 1684283,
-      "title": "Tana",
-      "releaseDate": "2026-06-22",
-      "poster": "https://image.tmdb.org/t/p/w92/4WXXQwQpEfz7426GNGilMnZtjWt.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Zhao Ji, Keer Zhu",
-      "studioStr": "Warner Bros. China",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1081003,
       "title": "Supergirl",
-      "releaseDate": "2026-06-26",
+      "releaseDate": "2026-06-24",
       "poster": "https://image.tmdb.org/t/p/w92/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -183,22 +159,10 @@
       "imdbId": "tt8814476"
     },
     {
-      "id": 1315772,
-      "title": "Minions & Monsters",
-      "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Pierre Coffin",
-      "studioStr": "Universal Pictures / Illumination",
-      "prestige": true,
-      "imdbId": "tt32890033"
-    },
-    {
       "id": 1202033,
       "title": "Enola Holmes 3",
       "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/by8Xm0fNsTFcBfsjQSKLGvjBk1E.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tvq1uc0RHsoHh8hhhjek9ph6ihJ.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Philip Barantini",
@@ -243,18 +207,6 @@
       "imdbId": "tt32104007"
     },
     {
-      "id": 1212763,
-      "title": "Evil Dead Burn",
-      "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sébastien Vaniček",
-      "studioStr": "New Line Cinema / Screen Gems",
-      "prestige": true,
-      "imdbId": "tt31170389"
-    },
-    {
       "id": 1108427,
       "title": "Moana",
       "releaseDate": "2026-07-10",
@@ -265,18 +217,6 @@
       "studioStr": "Walt Disney Pictures / Seven Bucks Productions",
       "prestige": true,
       "imdbId": "tt27419466"
-    },
-    {
-      "id": 1437873,
-      "title": "Band Together",
-      "releaseDate": "2026-07-16",
-      "poster": "https://image.tmdb.org/t/p/w92/b7ANRV59Lvyw5pBeOBpsq3kS39n.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Daniel Sánchez Arévalo",
-      "studioStr": "Bambú Producciones / Mr. Fields and Friends",
-      "prestige": true,
-      "imdbId": "tt29300998"
     },
     {
       "id": 1368337,
@@ -534,7 +474,7 @@
       "id": 192139,
       "title": "The Brink of War",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/5KJdJeKQEiXkr1HiOUwmz5Et8Jw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ubVMXPp9OmLjET8NYbZZHQCFMcx.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michael Russell Gunn",
@@ -666,7 +606,7 @@
       "id": 1386315,
       "title": "The Runner",
       "releaseDate": "2026-09-10",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/kvLYo4M0biVQoPLRCjfH409bdwr.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kevin Macdonald",
@@ -697,6 +637,18 @@
       "studioStr": "Broken Road Productions / AllyCat Entertainment",
       "prestige": true,
       "imdbId": "tt31349844"
+    },
+    {
+      "id": 1375441,
+      "title": "Primetime",
+      "releaseDate": "2026-09-11",
+      "poster": "https://image.tmdb.org/t/p/w92/geAIR3bjA4saOqGMJZoCFSwf5Wq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Lance Oppenheim",
+      "studioStr": "A24 / Icki Eneo Arlo",
+      "prestige": true,
+      "imdbId": "tt34206385"
     },
     {
       "id": 977942,
@@ -1053,7 +1005,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1470,7 +1422,7 @@
       "id": 1497464,
       "title": "Gatto",
       "releaseDate": "2027-03-05",
-      "poster": "https://image.tmdb.org/t/p/w92/1ckhy2o9Zv06LvnBKHaNCAjo5bD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pNKkqTMh67ac8iZOyapCDsjZFL6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Enrico Casarosa",
@@ -1625,7 +1577,7 @@
     {
       "id": 1109469,
       "title": "Beach Read",
-      "releaseDate": "2027-05-14",
+      "releaseDate": "2027-05-07",
       "poster": null,
       "format": "theatrical",
       "reRelease": false,
@@ -1926,7 +1878,7 @@
       "id": 1090869,
       "title": "The Lord of the Rings: The Hunt for Gollum",
       "releaseDate": "2027-12-17",
-      "poster": "https://image.tmdb.org/t/p/w92/gL7CybVuRKOVNr3UGYqroo4c8i0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aRtIVdlgVNtvcqFUnuhR3V1RQ7o.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Andy Serkis",
