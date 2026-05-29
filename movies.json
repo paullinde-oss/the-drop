@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-05-28T20:02:55.987Z",
-  "count": 190,
+  "generatedAt": "2026-05-29T20:03:39.746Z",
+  "count": 189,
   "movies": [
-    {
-      "id": 1212763,
-      "title": "Evil Dead Burn",
-      "releaseDate": "2026-05-28",
-      "poster": "https://image.tmdb.org/t/p/w92/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sébastien Vaniček",
-      "studioStr": "New Line Cinema / Screen Gems",
-      "prestige": true,
-      "imdbId": "tt31170389"
-    },
     {
       "id": 1553969,
       "title": "Sheep in the Box",
@@ -198,13 +186,25 @@
       "id": 1308767,
       "title": "Young Washington",
       "releaseDate": "2026-07-03",
-      "poster": "https://image.tmdb.org/t/p/w92/sOglmM6VNC3qKQl7FKYRqQYj7Jq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jon Erwin",
       "studioStr": "Angel Studios / 10 Ton Productions",
       "prestige": true,
       "imdbId": "tt32104007"
+    },
+    {
+      "id": 1212763,
+      "title": "Evil Dead Burn",
+      "releaseDate": "2026-07-10",
+      "poster": "https://image.tmdb.org/t/p/w92/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sébastien Vaniček",
+      "studioStr": "New Line Cinema / Screen Gems",
+      "prestige": true,
+      "imdbId": "tt31170389"
     },
     {
       "id": 1108427,
@@ -304,7 +304,7 @@
     },
     {
       "id": 949838,
-      "title": "72 Hours",
+      "title": "72 HOURS",
       "releaseDate": "2026-07-24",
       "poster": "https://image.tmdb.org/t/p/w92/ifuzZizxgZA1HT9sp667BqIqjXe.jpg",
       "format": "digital",
@@ -603,6 +603,18 @@
       "imdbId": "tt34339725"
     },
     {
+      "id": 1284046,
+      "title": "Onslaught",
+      "releaseDate": "2026-09-04",
+      "poster": "https://image.tmdb.org/t/p/w92/wIbBXwv2PgxRzAg4i9n8pOiqlhe.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Adam Wingard",
+      "studioStr": "A24 / Ryder Picture Company",
+      "prestige": true,
+      "imdbId": "tt32268691"
+    },
+    {
       "id": 1386315,
       "title": "The Runner",
       "releaseDate": "2026-09-10",
@@ -642,7 +654,7 @@
       "id": 1375441,
       "title": "Primetime",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/geAIR3bjA4saOqGMJZoCFSwf5Wq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lance Oppenheim",
@@ -762,7 +774,7 @@
       "id": 1283515,
       "title": "Verity",
       "releaseDate": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w92/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michael Showalter",
@@ -831,18 +843,6 @@
       "imdbId": "tt39850240"
     },
     {
-      "id": 1623608,
-      "title": "Ashes",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/utQMSJZL1zUfMY1iFBtuAbaepby.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Diego Luna",
-      "studioStr": "La Corriente del Golfo / Animal de Luz Films",
-      "prestige": false,
-      "imdbId": "tt35717186"
-    },
-    {
       "id": 1590933,
       "title": "You, Like a Star",
       "releaseDate": "2026-10-09",
@@ -889,18 +889,6 @@
       "studioStr": "Ziegler Film / StudioCanal",
       "prestige": true,
       "imdbId": "tt38805050"
-    },
-    {
-      "id": 1284046,
-      "title": "Onslaught",
-      "releaseDate": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w92/wIbBXwv2PgxRzAg4i9n8pOiqlhe.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Adam Wingard",
-      "studioStr": "A24 / Ryder Picture Company",
-      "prestige": true,
-      "imdbId": "tt32268691"
     },
     {
       "id": 1503762,
@@ -1110,7 +1098,7 @@
       "id": 1457866,
       "title": "The Adventures of Cliff Booth",
       "releaseDate": "2026-11-24",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/607EspNdPdnae8gqhlymtfPN0HH.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -1230,7 +1218,7 @@
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/sHVsgvoaDOXx3B8OFg0sqewEmF8.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Kasdan",
