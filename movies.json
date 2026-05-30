@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-05-29T20:03:39.746Z",
-  "count": 189,
+  "generatedAt": "2026-05-30T15:05:10.189Z",
+  "count": 188,
   "movies": [
-    {
-      "id": 1553969,
-      "title": "Sheep in the Box",
-      "releaseDate": "2026-05-29",
-      "poster": "https://image.tmdb.org/t/p/w92/9rOCIYYT8Q76FHgl3Nm5ofuc6TQ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Hirokazu Kore-eda",
-      "studioStr": "Fuji Television Network / GAGA Corporation",
-      "prestige": true,
-      "imdbId": "tt38551209"
-    },
     {
       "id": 1679401,
       "title": "Top Hat - The Musical",
@@ -42,7 +30,7 @@
       "id": 454639,
       "title": "Masters of the Universe",
       "releaseDate": "2026-06-05",
-      "poster": "https://image.tmdb.org/t/p/w92/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/y4xNd1eWv1ea5qoPO6JmLvzHZf0.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -150,7 +138,7 @@
       "id": 1202033,
       "title": "Enola Holmes 3",
       "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/tvq1uc0RHsoHh8hhhjek9ph6ihJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Philip Barantini",
@@ -495,6 +483,18 @@
       "imdbId": "tt32393988"
     },
     {
+      "id": 1288445,
+      "title": "Mutiny",
+      "releaseDate": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jean-François Richet",
+      "studioStr": "Punch Palace Productions / MadRiver Pictures",
+      "prestige": false,
+      "imdbId": "tt32338669"
+    },
+    {
       "id": 1384216,
       "title": "The Dog Stars",
       "releaseDate": "2026-08-28",
@@ -649,18 +649,6 @@
       "studioStr": "Broken Road Productions / AllyCat Entertainment",
       "prestige": true,
       "imdbId": "tt31349844"
-    },
-    {
-      "id": 1375441,
-      "title": "Primetime",
-      "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Lance Oppenheim",
-      "studioStr": "A24 / Icki Eneo Arlo",
-      "prestige": true,
-      "imdbId": "tt34206385"
     },
     {
       "id": 977942,
@@ -942,7 +930,7 @@
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/lUW6l9N9YVSCy2kSEHuyINrTR2h.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/feyEk59rpGXZHKqej9HkUHOnIg2.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -1359,18 +1347,6 @@
       "imdbId": "tt34512981"
     },
     {
-      "id": 1517333,
-      "title": "K-Pop Superstar",
-      "releaseDate": "2027-02-12",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Benson Lee",
-      "studioStr": "Paramount Pictures / HYBE America",
-      "prestige": true,
-      "imdbId": "tt8992304"
-    },
-    {
       "id": 458896,
       "title": "The Nightingale",
       "releaseDate": "2027-02-12",
@@ -1393,6 +1369,18 @@
       "studioStr": "Moonbug Entertainment / Flywheel Media",
       "prestige": true,
       "imdbId": "tt31339071"
+    },
+    {
+      "id": 1517333,
+      "title": "K-Pop: The Debut",
+      "releaseDate": "2027-02-26",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Benson Lee",
+      "studioStr": "Paramount Pictures / HYBE America",
+      "prestige": true,
+      "imdbId": "tt8992304"
     },
     {
       "id": 1397972,
