@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-31T15:59:33.898Z",
-  "count": 188,
+  "generatedAt": "2026-06-01T22:25:46.082Z",
+  "count": 187,
   "movies": [
     {
       "id": 1679401,
@@ -30,7 +30,7 @@
       "id": 454639,
       "title": "Masters of the Universe",
       "releaseDate": "2026-06-05",
-      "poster": "https://image.tmdb.org/t/p/w92/y4xNd1eWv1ea5qoPO6JmLvzHZf0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -99,22 +99,10 @@
       "imdbId": "tt36958376"
     },
     {
-      "id": 1410175,
-      "title": "Slackers",
-      "releaseDate": "2026-06-18",
-      "poster": "https://image.tmdb.org/t/p/w92/tz3QU3HHK1y3opqpxuP7NgrMkvy.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sorina Gajewski",
-      "studioStr": "Deutsche Film- und Fernsehakademie Berlin (DFFB)",
-      "prestige": false,
-      "imdbId": "tt35149269"
-    },
-    {
       "id": 1084244,
       "title": "Toy Story 5",
       "releaseDate": "2026-06-19",
-      "poster": "https://image.tmdb.org/t/p/w92/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Andrew Stanton",
@@ -138,7 +126,7 @@
       "id": 1202033,
       "title": "Enola Holmes 3",
       "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/tvq1uc0RHsoHh8hhhjek9ph6ihJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Philip Barantini",
@@ -256,7 +244,7 @@
     },
     {
       "id": 1658226,
-      "title": "Want to Play with Someone?",
+      "title": "Sana: Play with Me",
       "releaseDate": "2026-07-24",
       "poster": "https://image.tmdb.org/t/p/w92/4D1iIsiLABlrXO7jgIFebTyJoso.jpg",
       "format": "theatrical",
@@ -301,18 +289,6 @@
       "studioStr": "Sony Pictures / Davis Entertainment",
       "prestige": true,
       "imdbId": "tt36304003"
-    },
-    {
-      "id": 1620313,
-      "title": "The Samurai and the Prisoner",
-      "releaseDate": "2026-07-31",
-      "poster": "https://image.tmdb.org/t/p/w92/a1Dfz2LbzMylabjMl4C5QKrEJqQ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kiyoshi Kurosawa",
-      "studioStr": "Shochiku / TBS",
-      "prestige": true,
-      "imdbId": "tt39602215"
     },
     {
       "id": 969681,
@@ -426,7 +402,7 @@
       "id": 1101383,
       "title": "The End of Oak Street",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/u9jha7bkttIrc5RO1TWeSn7QVyI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/60bRdW7JTXTaSMFgLHjcoS1fXHh.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Robert Mitchell",
@@ -570,7 +546,7 @@
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-09-04",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/l9kvjaMg0d5H7H42rzKTGHmwWpC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Leitch",
@@ -606,7 +582,7 @@
       "id": 1284046,
       "title": "Onslaught",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/wIbBXwv2PgxRzAg4i9n8pOiqlhe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3k69IPJEoLBMB3J5FCYehL8NMs2.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Adam Wingard",
@@ -1347,6 +1323,18 @@
       "imdbId": "tt34512981"
     },
     {
+      "id": 1124006,
+      "title": "Lords of War",
+      "releaseDate": "2027-02-05",
+      "poster": "https://image.tmdb.org/t/p/w92/w1nNmvd5nYcoN8kvO55OcCUmE2Z.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Andrew Niccol",
+      "studioStr": "Saturn Films / CAA Media Finance",
+      "prestige": false,
+      "imdbId": "tt27706987"
+    },
+    {
       "id": 458896,
       "title": "The Nightingale",
       "releaseDate": "2027-02-12",
@@ -1398,7 +1386,7 @@
       "id": 1497464,
       "title": "Gatto",
       "releaseDate": "2027-03-05",
-      "poster": "https://image.tmdb.org/t/p/w92/1ckhy2o9Zv06LvnBKHaNCAjo5bD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pNKkqTMh67ac8iZOyapCDsjZFL6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Enrico Casarosa",
@@ -1869,7 +1857,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
