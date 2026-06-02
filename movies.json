@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T22:25:46.082Z",
-  "count": 187,
+  "generatedAt": "2026-06-02T21:45:07.026Z",
+  "count": 190,
   "movies": [
     {
       "id": 1679401,
@@ -87,6 +87,18 @@
       "imdbId": null
     },
     {
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "releaseDate": "2026-06-17",
+      "poster": "https://image.tmdb.org/t/p/w92/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Andrew Stanton",
+      "studioStr": "Pixar",
+      "prestige": true,
+      "imdbId": "tt29355505"
+    },
+    {
       "id": 1477317,
       "title": "Your Fault: London",
       "releaseDate": "2026-06-17",
@@ -97,18 +109,6 @@
       "studioStr": "Pokeepsie Films / 42",
       "prestige": true,
       "imdbId": "tt36958376"
-    },
-    {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "releaseDate": "2026-06-19",
-      "poster": "https://image.tmdb.org/t/p/w92/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Andrew Stanton",
-      "studioStr": "Pixar",
-      "prestige": true,
-      "imdbId": "tt29355505"
     },
     {
       "id": 1081003,
@@ -126,7 +126,7 @@
       "id": 1202033,
       "title": "Enola Holmes 3",
       "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ruKWzLw396yJPDKTJTMjGbGMdkX.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Philip Barantini",
@@ -219,6 +219,18 @@
       "imdbId": "tt34477910"
     },
     {
+      "id": 1656220,
+      "title": "23000 Lives",
+      "releaseDate": "2026-07-17",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Markus Goller",
+      "studioStr": "Flimmer / Flute Film",
+      "prestige": false,
+      "imdbId": null
+    },
+    {
       "id": 1516698,
       "title": "The Last Sunrise",
       "releaseDate": "2026-07-17",
@@ -243,6 +255,18 @@
       "imdbId": "tt37544379"
     },
     {
+      "id": 1469342,
+      "title": "Her Private Hell",
+      "releaseDate": "2026-07-24",
+      "poster": "https://image.tmdb.org/t/p/w92/kncKYCe4stYQ1YPAmIcvtjpF1Bc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nicolas Winding Refn",
+      "studioStr": "NEON / byNWR",
+      "prestige": true,
+      "imdbId": "tt36629891"
+    },
+    {
       "id": 1658226,
       "title": "Sana: Play with Me",
       "releaseDate": "2026-07-24",
@@ -262,21 +286,9 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kei Oikawa",
-      "studioStr": "QTORY inc. / CyPic",
+      "studioStr": "QTORY / CyPic",
       "prestige": true,
       "imdbId": "tt39026173"
-    },
-    {
-      "id": 1469342,
-      "title": "Her Private Hell",
-      "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/kncKYCe4stYQ1YPAmIcvtjpF1Bc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Nicolas Winding Refn",
-      "studioStr": "NEON / byNWR",
-      "prestige": true,
-      "imdbId": "tt36629891"
     },
     {
       "id": 949838,
@@ -318,7 +330,7 @@
       "id": 1477712,
       "title": "Ice Cream Man",
       "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/uuQv2MDvfym1UluVyC5mRE86eFJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zEqVUeZjD7lwSHRk3AlF2LPspR3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Eli Roth",
@@ -546,7 +558,7 @@
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/l9kvjaMg0d5H7H42rzKTGHmwWpC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Leitch",
@@ -759,6 +771,18 @@
       "imdbId": "tt31450459"
     },
     {
+      "id": 1706689,
+      "title": "First Voice",
+      "releaseDate": "2026-10-02",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Shochiku",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1148365,
       "title": "Matchbox",
       "releaseDate": "2026-10-08",
@@ -957,7 +981,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1345,6 +1369,18 @@
       "studioStr": "The Cantillon Company / TriStar Pictures",
       "prestige": true,
       "imdbId": "tt4540534"
+    },
+    {
+      "id": 1514328,
+      "title": "Wishful Thinking",
+      "releaseDate": "2027-02-12",
+      "poster": "https://image.tmdb.org/t/p/w92/36vsIO0FkNNm9CfzDQargqWjktC.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Graham Parkes",
+      "studioStr": "Highway 10 / Buckwild",
+      "prestige": true,
+      "imdbId": "tt37599264"
     },
     {
       "id": 1480503,
