@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-02T21:45:07.026Z",
-  "count": 190,
+  "generatedAt": "2026-06-03T21:47:10.664Z",
+  "count": 189,
   "movies": [
     {
       "id": 1679401,
@@ -102,7 +102,7 @@
       "id": 1477317,
       "title": "Your Fault: London",
       "releaseDate": "2026-06-17",
-      "poster": "https://image.tmdb.org/t/p/w92/71K5KFtqK514ALejimxXgf25j9p.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nLxu237EJAisFCYKK48hN9Plobx.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Dani Girdwood, Charlotte Fassler",
@@ -223,7 +223,7 @@
       "title": "23000 Lives",
       "releaseDate": "2026-07-17",
       "poster": null,
-      "format": "theatrical",
+      "format": "digital",
       "reRelease": false,
       "directorStr": "Markus Goller",
       "studioStr": "Flimmer / Flute Film",
@@ -325,18 +325,6 @@
       "studioStr": "TOHO / Shin-Ei Animation",
       "prestige": true,
       "imdbId": "tt41293342"
-    },
-    {
-      "id": 1477712,
-      "title": "Ice Cream Man",
-      "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/zEqVUeZjD7lwSHRk3AlF2LPspR3.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Eli Roth",
-      "studioStr": "The Horror Section / Media Capital Technologies",
-      "prestige": true,
-      "imdbId": "tt36893729"
     },
     {
       "id": 1433367,
@@ -594,7 +582,7 @@
       "id": 1284046,
       "title": "Onslaught",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/3k69IPJEoLBMB3J5FCYehL8NMs2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7z8u7dviOrmKVyZxXyIMNX8Q3JB.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Adam Wingard",
@@ -1626,7 +1614,7 @@
       "id": 1417668,
       "title": "Star Wars: Starfighter",
       "releaseDate": "2027-05-28",
-      "poster": "https://image.tmdb.org/t/p/w92/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/AsCNiwRC2rWSy8cMtl7Kfr1axix.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Shawn Levy",
@@ -1923,6 +1911,18 @@
       "imdbId": "tt37618007"
     },
     {
+      "id": 1188748,
+      "title": "Murder, She Wrote",
+      "releaseDate": "2027-12-22",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jason Moore",
+      "studioStr": "Pascal Pictures / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt33366208"
+    },
+    {
       "id": 1601898,
       "title": "Untitled Nancy Meyers Film",
       "releaseDate": "2027-12-25",
@@ -1945,18 +1945,6 @@
       "studioStr": "Phobos / Range Media Partners",
       "prestige": true,
       "imdbId": "tt41786209"
-    },
-    {
-      "id": 1188748,
-      "title": "Murder, She Wrote",
-      "releaseDate": "2028-02-04",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jason Moore",
-      "studioStr": "Pascal Pictures / Universal Pictures",
-      "prestige": true,
-      "imdbId": "tt33366208"
     },
     {
       "id": 1625381,
@@ -2190,7 +2178,7 @@
       "id": 1529259,
       "title": "The Flood",
       "releaseDate": "2028-08-11",
-      "poster": "https://image.tmdb.org/t/p/w92/6qq6vbdMXpT91BgfPDeqbDkEWon.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Zach Cregger",
@@ -2202,7 +2190,7 @@
       "id": 1529266,
       "title": "Gladys",
       "releaseDate": "2028-09-08",
-      "poster": "https://image.tmdb.org/t/p/w92/lfGGTcq07y2fm7wvZOwI7opUH0X.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": null,
