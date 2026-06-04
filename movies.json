@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T21:47:10.664Z",
-  "count": 189,
+  "generatedAt": "2026-06-04T18:45:10.808Z",
+  "count": 187,
   "movies": [
     {
       "id": 1679401,
@@ -66,7 +66,7 @@
       "id": 1275779,
       "title": "Disclosure Day",
       "releaseDate": "2026-06-12",
-      "poster": "https://image.tmdb.org/t/p/w92/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dgeNkDuOqI3wSJkBk68TFmH0213.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Steven Spielberg",
@@ -114,7 +114,7 @@
       "id": 1081003,
       "title": "Supergirl",
       "releaseDate": "2026-06-24",
-      "poster": "https://image.tmdb.org/t/p/w92/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Craig Gillespie",
@@ -198,7 +198,7 @@
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3WSxhPjc1piCr6ezMhGv9g2EOGA.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christopher Nolan",
@@ -459,18 +459,6 @@
       "imdbId": "tt32393988"
     },
     {
-      "id": 1288445,
-      "title": "Mutiny",
-      "releaseDate": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jean-François Richet",
-      "studioStr": "Punch Palace Productions / MadRiver Pictures",
-      "prestige": false,
-      "imdbId": "tt32338669"
-    },
-    {
       "id": 1384216,
       "title": "The Dog Stars",
       "releaseDate": "2026-08-28",
@@ -582,7 +570,7 @@
       "id": 1284046,
       "title": "Onslaught",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/7z8u7dviOrmKVyZxXyIMNX8Q3JB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3k69IPJEoLBMB3J5FCYehL8NMs2.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Adam Wingard",
@@ -915,6 +903,18 @@
       "imdbId": "tt34890576"
     },
     {
+      "id": 858035,
+      "title": "Klara and the Sun",
+      "releaseDate": "2026-10-23",
+      "poster": "https://image.tmdb.org/t/p/w92/k8T3CHeykqrRVNCmYSgz4kacP9K.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Taika Waititi",
+      "studioStr": "3000 Pictures / Heyday Films",
+      "prestige": true,
+      "imdbId": "tt14371256"
+    },
+    {
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
@@ -939,18 +939,6 @@
       "imdbId": "tt40311603"
     },
     {
-      "id": 858035,
-      "title": "Klara and the Sun",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/k8T3CHeykqrRVNCmYSgz4kacP9K.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Taika Waititi",
-      "studioStr": "3000 Pictures / Heyday Films",
-      "prestige": true,
-      "imdbId": "tt14371256"
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -969,7 +957,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1026,7 +1014,7 @@
       "id": 1288211,
       "title": "The Great Beyond",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/qq3Ynsokc1AtmExfeYoOnUclk3k.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tAcBlP72m0x3ZXZfJV4AGKr4nUo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "J.J. Abrams",
@@ -1326,25 +1314,13 @@
       "id": 1384758,
       "title": "Ice Age: Boiling Point",
       "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/yga4pd5kMH7Zpto8biCjEKVkLAh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hNfEXv5pKWw3raOghlspn8zFjm4.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
+      "directorStr": "John C. Donkin",
       "studioStr": "20th Century Animation",
       "prestige": true,
       "imdbId": "tt34512981"
-    },
-    {
-      "id": 1124006,
-      "title": "Lords of War",
-      "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/w1nNmvd5nYcoN8kvO55OcCUmE2Z.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Andrew Niccol",
-      "studioStr": "Saturn Films / CAA Media Finance",
-      "prestige": false,
-      "imdbId": "tt27706987"
     },
     {
       "id": 458896,
@@ -1881,7 +1857,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
