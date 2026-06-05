@@ -1,28 +1,16 @@
 {
-  "generatedAt": "2026-06-04T18:45:10.808Z",
-  "count": 187,
+  "generatedAt": "2026-06-05T17:39:33.638Z",
+  "count": 189,
   "movies": [
-    {
-      "id": 1679401,
-      "title": "Top Hat - The Musical",
-      "releaseDate": "2026-06-04",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": null,
-      "prestige": false,
-      "imdbId": null
-    },
     {
       "id": 1273221,
       "title": "Scary Movie",
       "releaseDate": "2026-06-05",
-      "poster": "https://image.tmdb.org/t/p/w92/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bqOKJrZFR9KpqWE607dw6KOdKCj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michael Tiddes",
-      "studioStr": "Miramax / Ugly Baby Productions",
+      "studioStr": "Miramax / Wayans Bros. Entertainment",
       "prestige": true,
       "imdbId": "tt32093575"
     },
@@ -42,7 +30,7 @@
       "id": 1358005,
       "title": "Office Romance",
       "releaseDate": "2026-06-05",
-      "poster": "https://image.tmdb.org/t/p/w92/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9As3SeWOa3bzCjz3PZ4BKSuabMf.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Ol Parker",
@@ -66,25 +54,13 @@
       "id": 1275779,
       "title": "Disclosure Day",
       "releaseDate": "2026-06-12",
-      "poster": "https://image.tmdb.org/t/p/w92/dgeNkDuOqI3wSJkBk68TFmH0213.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Steven Spielberg",
       "studioStr": "Universal Pictures / Amblin Entertainment",
       "prestige": true,
       "imdbId": "tt15047880"
-    },
-    {
-      "id": 1691363,
-      "title": "Time of Death",
-      "releaseDate": "2026-06-12",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Will Wernick",
-      "studioStr": "Vertical",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1084244,
@@ -195,10 +171,22 @@
       "imdbId": "tt27419466"
     },
     {
+      "id": 1708577,
+      "title": "Foam of Worlds",
+      "releaseDate": "2026-07-10",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Anna Marziano",
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": null
+    },
+    {
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/3WSxhPjc1piCr6ezMhGv9g2EOGA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christopher Nolan",
@@ -276,7 +264,7 @@
       "directorStr": "Takashi Shimizu",
       "studioStr": "Shochiku",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43380772"
     },
     {
       "id": 1586876,
@@ -318,7 +306,7 @@
       "id": 1598766,
       "title": "Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation",
       "releaseDate": "2026-07-31",
-      "poster": "https://image.tmdb.org/t/p/w92/7rPl18b3pd2f9QbcKaSFaLR8ESa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/15iwqqJVgFfeFh4Y1f8gg9yi2Fw.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Masaki Watanabe",
@@ -457,6 +445,18 @@
       "studioStr": "Blumhouse Productions / Screen Gems",
       "prestige": true,
       "imdbId": "tt32393988"
+    },
+    {
+      "id": 1288445,
+      "title": "Mutiny",
+      "releaseDate": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jean-François Richet",
+      "studioStr": "Punch Palace Productions / MadRiver Pictures",
+      "prestige": false,
+      "imdbId": "tt32338669"
     },
     {
       "id": 1384216,
@@ -642,7 +642,7 @@
       "id": 1477104,
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/ev28R1iempBfLXIzaFDMxQQVfQv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Steve Cox, Matthew Walker",
@@ -957,7 +957,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1314,13 +1314,25 @@
       "id": 1384758,
       "title": "Ice Age: Boiling Point",
       "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/hNfEXv5pKWw3raOghlspn8zFjm4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John C. Donkin",
       "studioStr": "20th Century Animation",
       "prestige": true,
       "imdbId": "tt34512981"
+    },
+    {
+      "id": 1124006,
+      "title": "Lords of War",
+      "releaseDate": "2027-02-05",
+      "poster": "https://image.tmdb.org/t/p/w92/w1nNmvd5nYcoN8kvO55OcCUmE2Z.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Andrew Niccol",
+      "studioStr": "Saturn Films / CAA Media Finance",
+      "prestige": false,
+      "imdbId": "tt27706987"
     },
     {
       "id": 458896,
@@ -1458,7 +1470,7 @@
       "id": 1208917,
       "title": "Wings of Freedom",
       "releaseDate": "2027-04-07",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/btrSOuQSXIhxizgfgJYZXIWhO2B.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Laurent Zeitoun",
@@ -1707,6 +1719,18 @@
       "imdbId": "tt35050152"
     },
     {
+      "id": 1634942,
+      "title": "Jason Statham Stole My Bike",
+      "releaseDate": "2027-08-06",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "Black Bear Pictures / 87North Productions",
+      "prestige": false,
+      "imdbId": "tt39848323"
+    },
+    {
       "id": 1156621,
       "title": "Untitled Teenage Mutant Ninja Turtles: Mutant Mayhem Sequel",
       "releaseDate": "2027-08-13",
@@ -1857,7 +1881,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1887,18 +1911,6 @@
       "imdbId": "tt37618007"
     },
     {
-      "id": 1188748,
-      "title": "Murder, She Wrote",
-      "releaseDate": "2027-12-22",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jason Moore",
-      "studioStr": "Pascal Pictures / Universal Pictures",
-      "prestige": true,
-      "imdbId": "tt33366208"
-    },
-    {
       "id": 1601898,
       "title": "Untitled Nancy Meyers Film",
       "releaseDate": "2027-12-25",
@@ -1921,6 +1933,18 @@
       "studioStr": "Phobos / Range Media Partners",
       "prestige": true,
       "imdbId": "tt41786209"
+    },
+    {
+      "id": 1188748,
+      "title": "Murder, She Wrote",
+      "releaseDate": "2028-02-04",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jason Moore",
+      "studioStr": "Pascal Pictures / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt33366208"
     },
     {
       "id": 1625381,
