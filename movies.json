@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-06-05T17:39:33.638Z",
-  "count": 189,
+  "generatedAt": "2026-06-06T16:00:17.538Z",
+  "count": 184,
   "movies": [
-    {
-      "id": 1273221,
-      "title": "Scary Movie",
-      "releaseDate": "2026-06-05",
-      "poster": "https://image.tmdb.org/t/p/w92/bqOKJrZFR9KpqWE607dw6KOdKCj.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Michael Tiddes",
-      "studioStr": "Miramax / Wayans Bros. Entertainment",
-      "prestige": true,
-      "imdbId": "tt32093575"
-    },
-    {
-      "id": 454639,
-      "title": "Masters of the Universe",
-      "releaseDate": "2026-06-05",
-      "poster": "https://image.tmdb.org/t/p/w92/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Travis Knight",
-      "studioStr": "Escape Artists / Mattel Studios",
-      "prestige": true,
-      "imdbId": "tt0427340"
-    },
-    {
-      "id": 1358005,
-      "title": "Office Romance",
-      "releaseDate": "2026-06-05",
-      "poster": "https://image.tmdb.org/t/p/w92/9As3SeWOa3bzCjz3PZ4BKSuabMf.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Ol Parker",
-      "studioStr": "Ryder Picture Company / Nuyorican Productions",
-      "prestige": true,
-      "imdbId": "tt33397980"
-    },
     {
       "id": 1280738,
       "title": "The Furious",
@@ -186,7 +150,7 @@
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9C9PAnrZcB8x7YHNlBs4PUv0Z7K.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christopher Nolan",
@@ -577,18 +541,6 @@
       "studioStr": "A24 / Ryder Picture Company",
       "prestige": true,
       "imdbId": "tt32268691"
-    },
-    {
-      "id": 1386315,
-      "title": "The Runner",
-      "releaseDate": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w92/kvLYo4M0biVQoPLRCjfH409bdwr.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kevin Macdonald",
-      "studioStr": "Amazon MGM Studios / Rockwood Pictures",
-      "prestige": true,
-      "imdbId": "tt34564059"
     },
     {
       "id": 1302904,
@@ -1014,7 +966,7 @@
       "id": 1288211,
       "title": "The Great Beyond",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/tAcBlP72m0x3ZXZfJV4AGKr4nUo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qq3Ynsokc1AtmExfeYoOnUclk3k.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "J.J. Abrams",
@@ -1050,7 +1002,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/oS1RifY3HtorenHkopxhG68Si7Q.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -1314,25 +1266,13 @@
       "id": 1384758,
       "title": "Ice Age: Boiling Point",
       "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hNfEXv5pKWw3raOghlspn8zFjm4.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John C. Donkin",
       "studioStr": "20th Century Animation",
       "prestige": true,
       "imdbId": "tt34512981"
-    },
-    {
-      "id": 1124006,
-      "title": "Lords of War",
-      "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/w1nNmvd5nYcoN8kvO55OcCUmE2Z.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Andrew Niccol",
-      "studioStr": "Saturn Films / CAA Media Finance",
-      "prestige": false,
-      "imdbId": "tt27706987"
     },
     {
       "id": 458896,
