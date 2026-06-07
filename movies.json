@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-06-06T16:00:17.538Z",
-  "count": 184,
+  "generatedAt": "2026-06-07T15:59:38.534Z",
+  "count": 182,
   "movies": [
-    {
-      "id": 1280738,
-      "title": "The Furious",
-      "releaseDate": "2026-06-12",
-      "poster": "https://image.tmdb.org/t/p/w92/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kenji Tanigaki",
-      "studioStr": "Edko Films / XYZ Films",
-      "prestige": true,
-      "imdbId": "tt33311069"
-    },
-    {
-      "id": 1275779,
-      "title": "Disclosure Day",
-      "releaseDate": "2026-06-12",
-      "poster": "https://image.tmdb.org/t/p/w92/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Steven Spielberg",
-      "studioStr": "Universal Pictures / Amblin Entertainment",
-      "prestige": true,
-      "imdbId": "tt15047880"
-    },
     {
       "id": 1084244,
       "title": "Toy Story 5",
@@ -66,7 +42,7 @@
       "id": 1202033,
       "title": "Enola Holmes 3",
       "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/ruKWzLw396yJPDKTJTMjGbGMdkX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Philip Barantini",
@@ -147,6 +123,18 @@
       "imdbId": null
     },
     {
+      "id": 1656220,
+      "title": "23000 Lives",
+      "releaseDate": "2026-07-17",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Markus Goller",
+      "studioStr": "Flimmer / Flute Film",
+      "prestige": false,
+      "imdbId": null
+    },
+    {
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
@@ -169,18 +157,6 @@
       "studioStr": "Disney Branded Television",
       "prestige": true,
       "imdbId": "tt34477910"
-    },
-    {
-      "id": 1656220,
-      "title": "23000 Lives",
-      "releaseDate": "2026-07-17",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Markus Goller",
-      "studioStr": "Flimmer / Flute Film",
-      "prestige": false,
-      "imdbId": null
     },
     {
       "id": 1516698,
@@ -1002,7 +978,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/oS1RifY3HtorenHkopxhG68Si7Q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
