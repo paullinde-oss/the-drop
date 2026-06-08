@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-07T15:59:38.534Z",
-  "count": 182,
+  "generatedAt": "2026-06-08T19:42:39.375Z",
+  "count": 181,
   "movies": [
     {
       "id": 1084244,
@@ -29,8 +29,8 @@
     {
       "id": 1081003,
       "title": "Supergirl",
-      "releaseDate": "2026-06-24",
-      "poster": "https://image.tmdb.org/t/p/w92/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+      "releaseDate": "2026-06-23",
+      "poster": "https://image.tmdb.org/t/p/w92/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Craig Gillespie",
@@ -150,7 +150,7 @@
       "id": 1318621,
       "title": "Descendants: Wicked Wonderland",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/4Vg3YAFakfbnDs7ubWeokcDEueP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aeO3IjU3AJy4bZh21FhJ2GOCpbl.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Kimmy Gatewood",
@@ -387,22 +387,10 @@
       "imdbId": "tt32393988"
     },
     {
-      "id": 1288445,
-      "title": "Mutiny",
-      "releaseDate": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jean-François Richet",
-      "studioStr": "Punch Palace Productions / MadRiver Pictures",
-      "prestige": false,
-      "imdbId": "tt32338669"
-    },
-    {
       "id": 1384216,
       "title": "The Dog Stars",
       "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/r9aBIUMKgiq79yMfvQWAqP0Zi7V.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ridley Scott",
@@ -640,7 +628,7 @@
     },
     {
       "id": 1633476,
-      "title": "Blink",
+      "title": "Parpadea",
       "releaseDate": "2026-10-01",
       "poster": "https://image.tmdb.org/t/p/w92/A2jIJRUG1ImWBfE1k5BtCQl4WTI.jpg",
       "format": "theatrical",
@@ -885,7 +873,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -963,6 +951,18 @@
       "imdbId": "tt38773219"
     },
     {
+      "id": 1286656,
+      "title": "I Play Rocky",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/9v0QSzKscxuorhk8d9Z11ixzIWE.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Peter Farrelly",
+      "studioStr": "Eden Rock Media / Baha Productions",
+      "prestige": true,
+      "imdbId": "tt11995650"
+    },
+    {
       "id": 1280115,
       "title": "Way of the Warrior Kid",
       "releaseDate": "2026-11-19",
@@ -978,7 +978,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -990,7 +990,7 @@
       "id": 1457866,
       "title": "The Adventures of Cliff Booth",
       "releaseDate": "2026-11-24",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/uPNjR67DntxvYkO7UNFxG8FSjNZ.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -1518,7 +1518,7 @@
       "id": 1417668,
       "title": "Star Wars: Starfighter",
       "releaseDate": "2027-05-28",
-      "poster": "https://image.tmdb.org/t/p/w92/AsCNiwRC2rWSy8cMtl7Kfr1axix.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/e3XYmMMtAPXNF4WaWonGKgcgCWy.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Shawn Levy",
@@ -1633,18 +1633,6 @@
       "studioStr": "Ludo Studio / BBC Studios",
       "prestige": true,
       "imdbId": "tt35050152"
-    },
-    {
-      "id": 1634942,
-      "title": "Jason Statham Stole My Bike",
-      "releaseDate": "2027-08-06",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "Black Bear Pictures / 87North Productions",
-      "prestige": false,
-      "imdbId": "tt39848323"
     },
     {
       "id": 1156621,
