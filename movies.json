@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-08T19:42:39.375Z",
-  "count": 181,
+  "generatedAt": "2026-06-09T18:38:47.499Z",
+  "count": 183,
   "movies": [
     {
       "id": 1084244,
       "title": "Toy Story 5",
       "releaseDate": "2026-06-17",
-      "poster": "https://image.tmdb.org/t/p/w92/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Andrew Stanton",
@@ -30,7 +30,7 @@
       "id": 1081003,
       "title": "Supergirl",
       "releaseDate": "2026-06-23",
-      "poster": "https://image.tmdb.org/t/p/w92/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Craig Gillespie",
@@ -64,9 +64,9 @@
     },
     {
       "id": 1587473,
-      "title": "Kuchi ni Kansuru Ankēto",
+      "title": "The Mouths",
       "releaseDate": "2026-07-03",
-      "poster": "https://image.tmdb.org/t/p/w92/m6kysSik6NOqR1sLS4NdMzNSdX4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/vfVg7yq8vmOndh8LkVtAoVnILX5.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Shimizu",
@@ -85,6 +85,18 @@
       "studioStr": "Angel Studios / 10 Ton Productions",
       "prestige": true,
       "imdbId": "tt32104007"
+    },
+    {
+      "id": 1708581,
+      "title": "Letters from an Inner Exile",
+      "releaseDate": "2026-07-08",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Eloy Enciso Cachafeiro",
+      "studioStr": "Filmika Galaika / Umbracle Cinema",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1212763,
@@ -118,7 +130,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Anna Marziano",
-      "studioStr": null,
+      "studioStr": "Flaneur Films",
       "prestige": false,
       "imdbId": null
     },
@@ -154,7 +166,7 @@
       "format": "digital",
       "reRelease": false,
       "directorStr": "Kimmy Gatewood",
-      "studioStr": "Disney Branded Television",
+      "studioStr": "Disney Branded Television / Suzanne Todd Productions",
       "prestige": true,
       "imdbId": "tt34477910"
     },
@@ -390,7 +402,7 @@
       "id": 1384216,
       "title": "The Dog Stars",
       "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/r9aBIUMKgiq79yMfvQWAqP0Zi7V.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ridley Scott",
@@ -615,6 +627,18 @@
       "imdbId": "tt7526136"
     },
     {
+      "id": 1375441,
+      "title": "Primetime",
+      "releaseDate": "2026-09-25",
+      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Lance Oppenheim",
+      "studioStr": "A24 / Icki Eneo Arlo",
+      "prestige": true,
+      "imdbId": "tt34206385"
+    },
+    {
       "id": 1321666,
       "title": "The Doll",
       "releaseDate": "2026-09-30",
@@ -786,7 +810,7 @@
       "id": 1255833,
       "title": "Whalefall",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/6adMZbYC18Q9ZkW4faM3ERV3P2k.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Brian Duffield",
@@ -978,7 +1002,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -990,7 +1014,7 @@
       "id": 1457866,
       "title": "The Adventures of Cliff Booth",
       "releaseDate": "2026-11-24",
-      "poster": "https://image.tmdb.org/t/p/w92/uPNjR67DntxvYkO7UNFxG8FSjNZ.jpg",
+      "poster": null,
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
