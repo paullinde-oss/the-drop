@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-10T20:01:45.568Z",
-  "count": 182,
+  "generatedAt": "2026-06-11T20:06:46.956Z",
+  "count": 185,
   "movies": [
     {
       "id": 1084244,
@@ -75,6 +75,18 @@
       "imdbId": "tt39029729"
     },
     {
+      "id": 1500890,
+      "title": "Lockbox",
+      "releaseDate": "2026-07-03",
+      "poster": "https://image.tmdb.org/t/p/w92/otyaBZwQcVQWoECszv3qlagwom1.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Daniel Stamm",
+      "studioStr": "Capstone Studios / Brightlight Pictures",
+      "prestige": true,
+      "imdbId": "tt37369064"
+    },
+    {
       "id": 1308767,
       "title": "Young Washington",
       "releaseDate": "2026-07-03",
@@ -114,7 +126,7 @@
       "id": 1108427,
       "title": "Moana",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rQ0f1Y3t9w3DxVxuVydkgqQ2Hji.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Thomas Kail",
@@ -246,7 +258,7 @@
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "releaseDate": "2026-07-31",
-      "poster": "https://image.tmdb.org/t/p/w92/zp1nJcLxWDhDEQu5iZi4TAnRaSc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Destin Daniel Cretton",
@@ -471,18 +483,6 @@
       "imdbId": "tt28014327"
     },
     {
-      "id": 1437511,
-      "title": "How to Rob a Bank",
-      "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "87North Productions / Imagine Entertainment",
-      "prestige": true,
-      "imdbId": "tt35866986"
-    },
-    {
       "id": 1621964,
       "title": "The Swan and the Bat",
       "releaseDate": "2026-09-04",
@@ -591,6 +591,18 @@
       "imdbId": "tt38584405"
     },
     {
+      "id": 1032863,
+      "title": "The Love Hypothesis",
+      "releaseDate": "2026-09-23",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Claire Scanlon",
+      "studioStr": "MRC / Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt22526100"
+    },
+    {
       "id": 1426805,
       "title": "Emil and the Detectives",
       "releaseDate": "2026-09-24",
@@ -618,7 +630,7 @@
       "id": 1263337,
       "title": "Heart of the Beast",
       "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/A1X9d9TmkywsslB2EJU5LR6SsXZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9NR82Tot1POr8qZ7DdHokLs73ZC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Ayer",
@@ -714,7 +726,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/8UjHIzPvV6h7co8XbkhGVyLhzfe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kHXzAm0ERUX8yZxe5xFSMsJsf3t.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -807,6 +819,18 @@
       "imdbId": "tt37439146"
     },
     {
+      "id": 1255833,
+      "title": "Whalefall",
+      "releaseDate": "2026-10-16",
+      "poster": "https://image.tmdb.org/t/p/w92/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Brian Duffield",
+      "studioStr": "Imagine Entertainment / 3 Arts Entertainment",
+      "prestige": true,
+      "imdbId": "tt28535715"
+    },
+    {
       "id": 1153576,
       "title": "Street Fighter",
       "releaseDate": "2026-10-16",
@@ -885,7 +909,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1239,6 +1263,18 @@
       "imdbId": "tt35606013"
     },
     {
+      "id": 1340208,
+      "title": "Karoshi",
+      "releaseDate": "2027-01-29",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Takashi Doscher",
+      "studioStr": "87Eleven / Lionsgate",
+      "prestige": true,
+      "imdbId": "tt33295857"
+    },
+    {
       "id": 1466228,
       "title": "The Comeback King",
       "releaseDate": "2027-02-05",
@@ -1326,7 +1362,7 @@
       "id": 1497464,
       "title": "Gatto",
       "releaseDate": "2027-03-05",
-      "poster": "https://image.tmdb.org/t/p/w92/pNKkqTMh67ac8iZOyapCDsjZFL6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/cGhz1fUFyqkTJBswpO2nXdHUssd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Enrico Casarosa",
