@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-11T20:06:46.956Z",
-  "count": 185,
+  "generatedAt": "2026-06-12T18:27:46.191Z",
+  "count": 186,
   "movies": [
     {
       "id": 1084244,
@@ -258,7 +258,7 @@
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "releaseDate": "2026-07-31",
-      "poster": "https://image.tmdb.org/t/p/w92/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zp1nJcLxWDhDEQu5iZi4TAnRaSc.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Destin Daniel Cretton",
@@ -481,6 +481,18 @@
       "studioStr": "Skydance Media / Maximum Effort",
       "prestige": true,
       "imdbId": "tt28014327"
+    },
+    {
+      "id": 1437511,
+      "title": "How to Rob a Bank",
+      "releaseDate": "2026-09-04",
+      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "87North Productions / Imagine Entertainment",
+      "prestige": true,
+      "imdbId": "tt35866986"
     },
     {
       "id": 1621964,
@@ -909,7 +921,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1290,7 +1302,7 @@
       "id": 1384758,
       "title": "Ice Age: Boiling Point",
       "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/hNfEXv5pKWw3raOghlspn8zFjm4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/r4JaX8MQoBj2wq4BY3lfU1yx5CB.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John C. Donkin",
@@ -1362,7 +1374,7 @@
       "id": 1497464,
       "title": "Gatto",
       "releaseDate": "2027-03-05",
-      "poster": "https://image.tmdb.org/t/p/w92/cGhz1fUFyqkTJBswpO2nXdHUssd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Enrico Casarosa",
