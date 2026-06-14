@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-13T16:11:26.578Z",
-  "count": 187,
+  "generatedAt": "2026-06-14T16:17:13.926Z",
+  "count": 191,
   "movies": [
     {
       "id": 1084244,
@@ -99,6 +99,18 @@
       "imdbId": "tt32104007"
     },
     {
+      "id": 1714257,
+      "title": "Marcus James: The Movie 2",
+      "releaseDate": "2026-07-08",
+      "poster": "https://image.tmdb.org/t/p/w92/4zNYsbXm1u43bqSzwUVwBC0m31v.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Universal Pictures / Marcus James Studios",
+      "prestige": true,
+      "imdbId": "tt37675216"
+    },
+    {
       "id": 1708581,
       "title": "Letters from an Inner Exile",
       "releaseDate": "2026-07-08",
@@ -126,7 +138,7 @@
       "id": 1108427,
       "title": "Moana",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/jDrtrBDIFGDmwSJ52F987wz2Gkn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bzHHSpbV7uSkNfYsXRoBKxD1P8Y.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Thomas Kail",
@@ -258,7 +270,7 @@
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "releaseDate": "2026-07-31",
-      "poster": "https://image.tmdb.org/t/p/w92/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ghF1JYv7P5BgWHYfq9dqhqqNfz8.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Destin Daniel Cretton",
@@ -337,6 +349,18 @@
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": "tt39400168"
+    },
+    {
+      "id": 1620290,
+      "title": "Kenan & Kel Meet Frankenstein",
+      "releaseDate": "2026-08-07",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Artists for Artists / Range Media Partners",
+      "prestige": true,
+      "imdbId": "tt39384130"
     },
     {
       "id": 1185806,
@@ -999,6 +1023,18 @@
       "imdbId": "tt38773219"
     },
     {
+      "id": 1714273,
+      "title": "Christmas Scissors: The Movie",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/jZryXBFLohFpqPsNqhzAdoKMBjv.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Universal Pictures / Marcus James Studios",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1286656,
       "title": "I Play Rocky",
       "releaseDate": "2026-11-13",
@@ -1659,6 +1695,18 @@
       "imdbId": "tt37833661"
     },
     {
+      "id": 487560,
+      "title": "Last Friday",
+      "releaseDate": "2027-07-09",
+      "poster": "https://image.tmdb.org/t/p/w92/eGgnsFXAmDXdxdTvw4fntX8dGCM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Cube Vision / New Line Cinema",
+      "prestige": true,
+      "imdbId": "tt6914708"
+    },
+    {
       "id": 1461519,
       "title": "A Minecraft Movie Squared",
       "releaseDate": "2027-07-23",
@@ -1845,7 +1893,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
