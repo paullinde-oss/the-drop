@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-14T16:17:13.926Z",
-  "count": 191,
+  "generatedAt": "2026-06-15T21:43:36.606Z",
+  "count": 192,
   "movies": [
     {
       "id": 1084244,
@@ -99,18 +99,6 @@
       "imdbId": "tt32104007"
     },
     {
-      "id": 1714257,
-      "title": "Marcus James: The Movie 2",
-      "releaseDate": "2026-07-08",
-      "poster": "https://image.tmdb.org/t/p/w92/4zNYsbXm1u43bqSzwUVwBC0m31v.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Universal Pictures / Marcus James Studios",
-      "prestige": true,
-      "imdbId": "tt37675216"
-    },
-    {
       "id": 1708581,
       "title": "Letters from an Inner Exile",
       "releaseDate": "2026-07-08",
@@ -138,7 +126,7 @@
       "id": 1108427,
       "title": "Moana",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/bzHHSpbV7uSkNfYsXRoBKxD1P8Y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rQ0f1Y3t9w3DxVxuVydkgqQ2Hji.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Thomas Kail",
@@ -157,6 +145,18 @@
       "studioStr": "Flaneur Films",
       "prestige": false,
       "imdbId": null
+    },
+    {
+      "id": 1408170,
+      "title": "Lenin",
+      "releaseDate": "2026-07-10",
+      "poster": "https://image.tmdb.org/t/p/w92/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Murali Kishor Abburu",
+      "studioStr": "Sithara Entertainments / Manam Enterprises",
+      "prestige": true,
+      "imdbId": "tt5256640"
     },
     {
       "id": 1656220,
@@ -366,7 +366,7 @@
       "id": 1185806,
       "title": "PAW Patrol: The Dino Movie",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/3US9zyWBUbLTASwNwMSuZ0fO6hC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Cal Brunker",
@@ -637,6 +637,18 @@
       "studioStr": "MRC / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt22526100"
+    },
+    {
+      "id": 1436369,
+      "title": "The Tailcoat Collector",
+      "releaseDate": "2026-09-24",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Tomás Portella",
+      "studioStr": "Ukbar Filmes / Gullane Entretenimento",
+      "prestige": true,
+      "imdbId": "tt36539653"
     },
     {
       "id": 1426805,
@@ -945,7 +957,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1021,18 +1033,6 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
-    },
-    {
-      "id": 1714273,
-      "title": "Christmas Scissors: The Movie",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/jZryXBFLohFpqPsNqhzAdoKMBjv.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Universal Pictures / Marcus James Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1286656,
@@ -1167,6 +1167,18 @@
       "imdbId": "tt29122074"
     },
     {
+      "id": 1408207,
+      "title": "Zero A.D.",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/i0of8BcqZ1BTzbZqyFkdpoLpiFx.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alejandro Monteverde",
+      "studioStr": "Angel Studios / Kasbah Films",
+      "prestige": true,
+      "imdbId": "tt34491649"
+    },
+    {
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
@@ -1203,18 +1215,6 @@
       "imdbId": "tt26735127"
     },
     {
-      "id": 1408207,
-      "title": "Zero A.D.",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/i0of8BcqZ1BTzbZqyFkdpoLpiFx.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alejandro Monteverde",
-      "studioStr": "Angel Studios / Kasbah Films",
-      "prestige": true,
-      "imdbId": "tt34491649"
-    },
-    {
       "id": 1437882,
       "title": "A Place in Hell",
       "releaseDate": "2026-12-25",
@@ -1230,7 +1230,7 @@
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/80dcSFTyC97dkgvskEb4fJvlfrl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/AruqkWyv8IvK6ElGrqVWPAQ3NcU.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Robert Eggers",
@@ -1413,7 +1413,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Enrico Casarosa",
+      "directorStr": "Enrico Casarosa, Jimmy Donaldson",
       "studioStr": "Pixar / Walt Disney Pictures",
       "prestige": true,
       "imdbId": "tt26443610"
@@ -1446,7 +1446,7 @@
       "id": 1401586,
       "title": "Sonic the Hedgehog 4",
       "releaseDate": "2027-03-19",
-      "poster": "https://image.tmdb.org/t/p/w92/a0rW7SDCG0RfLb9b5dQe6Qre6x1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jeff Fowler",
@@ -1513,6 +1513,18 @@
       "studioStr": "A Seed & Wings Production (US) / Khalabo Ink Society",
       "prestige": true,
       "imdbId": "tt13655056"
+    },
+    {
+      "id": 945956,
+      "title": "I Am Legend 2",
+      "releaseDate": "2027-04-09",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Steven Caple Jr.",
+      "studioStr": "Outlier Society / Westbrook",
+      "prestige": true,
+      "imdbId": "tt18412222"
     },
     {
       "id": 556682,
@@ -1806,7 +1818,7 @@
       "id": 806704,
       "title": "The Batman: Part II",
       "releaseDate": "2027-10-01",
-      "poster": "https://image.tmdb.org/t/p/w92/qv4YTyxvaujP79a5XZJ6F4G8Nyi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/r5fl4aMsmTjgc8DdDqQaM84roWp.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Matt Reeves",
