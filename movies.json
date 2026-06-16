@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:43:36.606Z",
-  "count": 192,
+  "generatedAt": "2026-06-16T21:43:33.174Z",
+  "count": 193,
   "movies": [
     {
       "id": 1084244,
@@ -114,7 +114,7 @@
       "id": 1212763,
       "title": "Evil Dead Burn",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/syGSQh7bqPHCFRhwHewHdR5EqjD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sébastien Vaniček",
@@ -174,7 +174,7 @@
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/9C9PAnrZcB8x7YHNlBs4PUv0Z7K.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christopher Nolan",
@@ -190,7 +190,7 @@
       "format": "digital",
       "reRelease": false,
       "directorStr": "Kimmy Gatewood",
-      "studioStr": "Disney Branded Television / Suzanne Todd Productions",
+      "studioStr": "Suzanne Todd Productions / Potato Monkey Productions",
       "prestige": true,
       "imdbId": "tt34477910"
     },
@@ -351,18 +351,6 @@
       "imdbId": "tt39400168"
     },
     {
-      "id": 1620290,
-      "title": "Kenan & Kel Meet Frankenstein",
-      "releaseDate": "2026-08-07",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Artists for Artists / Range Media Partners",
-      "prestige": true,
-      "imdbId": "tt39384130"
-    },
-    {
       "id": 1185806,
       "title": "PAW Patrol: The Dino Movie",
       "releaseDate": "2026-08-14",
@@ -394,7 +382,7 @@
       "format": "digital",
       "reRelease": false,
       "directorStr": "Veronica Rodriguez",
-      "studioStr": "Disney Branded Television / Copper Cup Entertainment",
+      "studioStr": "Copper Cup Entertainment / Oops Doughnuts Productions",
       "prestige": true,
       "imdbId": "tt6743524"
     },
@@ -433,6 +421,18 @@
       "studioStr": "Blumhouse Productions / Screen Gems",
       "prestige": true,
       "imdbId": "tt32393988"
+    },
+    {
+      "id": 1560520,
+      "title": "Batman: Knightfall Part 1: Knightfall",
+      "releaseDate": "2026-08-25",
+      "poster": "https://image.tmdb.org/t/p/w92/g6yVTaUO9KIRtzPIy9UnoQaNuED.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Jeff Wamester",
+      "studioStr": "Warner Bros. Animation / DC",
+      "prestige": true,
+      "imdbId": "tt32333324"
     },
     {
       "id": 1384216,
@@ -481,18 +481,6 @@
       "studioStr": "Sony Pictures / TIME",
       "prestige": true,
       "imdbId": "tt36236732"
-    },
-    {
-      "id": 1341341,
-      "title": "4 Kids Walk Into a Bank",
-      "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/lQXsh3LCs7NjLPMCkWvI0xV4r0I.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Frankie Shaw",
-      "studioStr": "Picturestart / Point Grey Pictures",
-      "prestige": true,
-      "imdbId": "tt13071984"
     },
     {
       "id": 1137844,
@@ -957,7 +945,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -990,7 +978,7 @@
       "id": 1117898,
       "title": "The Cat in the Hat",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Erica Rivinoja, Alessandro Carloni",
@@ -1086,7 +1074,7 @@
       "id": 1538497,
       "title": "Hexed",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/5YowGwH2vvA0R0eIq5HAQODf6cG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/g0f2mzRzwbIrzpieftY98W97muf.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jason Hand, Fawn Veerasunthorn",
@@ -1153,6 +1141,18 @@
       "studioStr": "87North Productions / Universal Pictures",
       "prestige": true,
       "imdbId": "tt32432428"
+    },
+    {
+      "id": 1566920,
+      "title": "The Apothecary Diaries Movie",
+      "releaseDate": "2026-12-04",
+      "poster": "https://image.tmdb.org/t/p/w92/aMQnlYqfKU9JZTwtlhVtDQ69hpe.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Norihiro Naganuma",
+      "studioStr": "TOHO animation STUDIO / OLM",
+      "prestige": true,
+      "imdbId": "tt39110207"
     },
     {
       "id": 1421967,
@@ -1413,7 +1413,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Enrico Casarosa, Jimmy Donaldson",
+      "directorStr": "Enrico Casarosa",
       "studioStr": "Pixar / Walt Disney Pictures",
       "prestige": true,
       "imdbId": "tt26443610"
@@ -1650,7 +1650,7 @@
       "id": 911916,
       "title": "Spider-Man: Beyond the Spider-Verse",
       "releaseDate": "2027-06-25",
-      "poster": "https://image.tmdb.org/t/p/w92/9PIhQqqI6Q4a5YjwMjxvzZcPJhf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7j03O1XEdvYUxN2oWXOxjEJicwN.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Bob Persichetti, Justin K. Thompson",
@@ -1818,7 +1818,7 @@
       "id": 806704,
       "title": "The Batman: Part II",
       "releaseDate": "2027-10-01",
-      "poster": "https://image.tmdb.org/t/p/w92/r5fl4aMsmTjgc8DdDqQaM84roWp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qv4YTyxvaujP79a5XZJ6F4G8Nyi.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Matt Reeves",
@@ -2245,6 +2245,18 @@
       "studioStr": "Locksmith Animation / Warner Bros. Pictures Animation",
       "prestige": true,
       "imdbId": "tt17423726"
+    },
+    {
+      "id": 1715249,
+      "title": "Untitled Duffer Brothers Movie",
+      "releaseDate": "2028-11-03",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ross Duffer, Matt Duffer",
+      "studioStr": "Paramount Pictures / Upside Down Pictures",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1545226,
