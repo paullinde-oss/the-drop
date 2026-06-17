@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T21:43:33.174Z",
-  "count": 193,
+  "generatedAt": "2026-06-17T19:37:25.228Z",
+  "count": 194,
   "movies": [
     {
       "id": 1084244,
@@ -25,6 +25,18 @@
       "studioStr": "Pokeepsie Films / 42",
       "prestige": true,
       "imdbId": "tt36958376"
+    },
+    {
+      "id": 880067,
+      "title": "Strung",
+      "releaseDate": "2026-06-18",
+      "poster": "https://image.tmdb.org/t/p/w92/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Malcolm D. Lee",
+      "studioStr": "Blumhouse Productions / Peachtree & Vine",
+      "prestige": true,
+      "imdbId": "tt15532464"
     },
     {
       "id": 1081003,
@@ -174,7 +186,7 @@
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pe5cCoX5iIb5IWKPsbPkCwjLFHt.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christopher Nolan",
@@ -270,7 +282,7 @@
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "releaseDate": "2026-07-31",
-      "poster": "https://image.tmdb.org/t/p/w92/ghF1JYv7P5BgWHYfq9dqhqqNfz8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Destin Daniel Cretton",
@@ -507,6 +519,18 @@
       "imdbId": "tt35866986"
     },
     {
+      "id": 1284046,
+      "title": "Onslaught",
+      "releaseDate": "2026-09-04",
+      "poster": "https://image.tmdb.org/t/p/w92/3k69IPJEoLBMB3J5FCYehL8NMs2.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Adam Wingard",
+      "studioStr": "A24 / Ryder Picture Company",
+      "prestige": true,
+      "imdbId": "tt32268691"
+    },
+    {
       "id": 1621964,
       "title": "The Swan and the Bat",
       "releaseDate": "2026-09-04",
@@ -529,18 +553,6 @@
       "studioStr": "Excel Entertainment / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt34339725"
-    },
-    {
-      "id": 1284046,
-      "title": "Onslaught",
-      "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/3k69IPJEoLBMB3J5FCYehL8NMs2.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Adam Wingard",
-      "studioStr": "A24 / Ryder Picture Company",
-      "prestige": true,
-      "imdbId": "tt32268691"
     },
     {
       "id": 1302904,
@@ -945,7 +957,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1062,7 +1074,7 @@
       "id": 1457866,
       "title": "The Adventures of Cliff Booth",
       "releaseDate": "2026-11-24",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/607EspNdPdnae8gqhlymtfPN0HH.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -1649,7 +1661,7 @@
     {
       "id": 911916,
       "title": "Spider-Man: Beyond the Spider-Verse",
-      "releaseDate": "2027-06-25",
+      "releaseDate": "2027-06-18",
       "poster": "https://image.tmdb.org/t/p/w92/7j03O1XEdvYUxN2oWXOxjEJicwN.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -1674,7 +1686,7 @@
       "id": 421892,
       "title": "Shrek 5",
       "releaseDate": "2027-06-30",
-      "poster": "https://image.tmdb.org/t/p/w92/8XwmMjwiQ91Rm0eU4AcxyFA3XUZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aRntI6gNBMu4B6YozI7rxXRPyQo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Walt Dohrn, Conrad Vernon",
@@ -1698,7 +1710,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tJXsiqHqPcNSNX2ccdGn3bN7KrW.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
