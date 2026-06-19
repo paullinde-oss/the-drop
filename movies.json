@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-06-18T19:43:26.832Z",
-  "count": 194,
+  "generatedAt": "2026-06-19T14:06:29.436Z",
+  "count": 195,
   "movies": [
-    {
-      "id": 880067,
-      "title": "Strung",
-      "releaseDate": "2026-06-18",
-      "poster": "https://image.tmdb.org/t/p/w92/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Malcolm D. Lee",
-      "studioStr": "Blumhouse Productions / Peachtree & Vine",
-      "prestige": true,
-      "imdbId": "tt15532464"
-    },
     {
       "id": 1081003,
       "title": "Supergirl",
       "releaseDate": "2026-06-23",
-      "poster": "https://image.tmdb.org/t/p/w92/6CDfEftzqo5qjZAzyW0W6lFVGl0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Craig Gillespie",
       "studioStr": "DC Studios / Troll Court Entertainment",
       "prestige": true,
       "imdbId": "tt8814476"
+    },
+    {
+      "id": 1315772,
+      "title": "Minions & Monsters",
+      "releaseDate": "2026-06-24",
+      "poster": "https://image.tmdb.org/t/p/w92/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Pierre Coffin",
+      "studioStr": "Universal Pictures / Illumination",
+      "prestige": true,
+      "imdbId": "tt32890033"
     },
     {
       "id": 1202033,
@@ -339,6 +339,18 @@
       "imdbId": "tt39400168"
     },
     {
+      "id": 1341341,
+      "title": "4 Kids Walk Into a Bank",
+      "releaseDate": "2026-08-07",
+      "poster": "https://image.tmdb.org/t/p/w92/lQXsh3LCs7NjLPMCkWvI0xV4r0I.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Frankie Shaw",
+      "studioStr": "Picturestart / Point Grey Pictures",
+      "prestige": true,
+      "imdbId": "tt13071984"
+    },
+    {
       "id": 1185806,
       "title": "PAW Patrol: The Dino Movie",
       "releaseDate": "2026-08-14",
@@ -423,18 +435,6 @@
       "imdbId": "tt32333324"
     },
     {
-      "id": 1384216,
-      "title": "The Dog Stars",
-      "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ridley Scott",
-      "studioStr": "20th Century Studios / Scott Free Productions",
-      "prestige": true,
-      "imdbId": "tt21285562"
-    },
-    {
       "id": 1204680,
       "title": "Coyote vs ACME",
       "releaseDate": "2026-08-28",
@@ -445,6 +445,18 @@
       "studioStr": "Troll Court Entertainment / Keylight Pictures",
       "prestige": true,
       "imdbId": "tt1756855"
+    },
+    {
+      "id": 1384216,
+      "title": "The Dog Stars",
+      "releaseDate": "2026-08-28",
+      "poster": "https://image.tmdb.org/t/p/w92/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ridley Scott",
+      "studioStr": "20th Century Studios / Scott Free Productions",
+      "prestige": true,
+      "imdbId": "tt21285562"
     },
     {
       "id": 1629199,
@@ -945,7 +957,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -997,6 +1009,18 @@
       "studioStr": "Angel Studios / Radiate Films",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1084409,
+      "title": "A Talent for Murder",
+      "releaseDate": "2026-11-12",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Anton Corbijn",
+      "studioStr": "Lunar Pictures / Lucky Red",
+      "prestige": true,
+      "imdbId": "tt14129116"
     },
     {
       "id": 1288211,
@@ -1062,7 +1086,7 @@
       "id": 1457866,
       "title": "The Adventures of Cliff Booth",
       "releaseDate": "2026-11-24",
-      "poster": "https://image.tmdb.org/t/p/w92/607EspNdPdnae8gqhlymtfPN0HH.jpg",
+      "poster": null,
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -1527,18 +1551,6 @@
       "imdbId": "tt13655056"
     },
     {
-      "id": 945956,
-      "title": "I Am Legend 2",
-      "releaseDate": "2027-04-09",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Steven Caple Jr.",
-      "studioStr": "Outlier Society / Westbrook",
-      "prestige": true,
-      "imdbId": "tt18412222"
-    },
-    {
       "id": 556682,
       "title": "F.A.S.T.",
       "releaseDate": "2027-04-23",
@@ -1719,18 +1731,6 @@
       "imdbId": "tt37833661"
     },
     {
-      "id": 487560,
-      "title": "Last Friday",
-      "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/eGgnsFXAmDXdxdTvw4fntX8dGCM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Cube Vision / New Line Cinema",
-      "prestige": true,
-      "imdbId": "tt6914708"
-    },
-    {
       "id": 1461519,
       "title": "A Minecraft Movie Squared",
       "releaseDate": "2027-07-23",
@@ -1767,8 +1767,20 @@
       "imdbId": "tt35050152"
     },
     {
+      "id": 1572400,
+      "title": "Shiver",
+      "releaseDate": "2027-08-13",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Tim Miller",
+      "studioStr": "Warner Bros. Pictures / Marv",
+      "prestige": true,
+      "imdbId": "tt38810776"
+    },
+    {
       "id": 1156621,
-      "title": "Untitled Teenage Mutant Ninja Turtles: Mutant Mayhem Sequel",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
       "releaseDate": "2027-08-13",
       "poster": "https://image.tmdb.org/t/p/w92/yukp9qq3JmgatfMSGnxdyn6jtRX.jpg",
       "format": "theatrical",
@@ -1777,18 +1789,6 @@
       "studioStr": "Point Grey Pictures / Paramount Pictures",
       "prestige": true,
       "imdbId": "tt31512072"
-    },
-    {
-      "id": 1572400,
-      "title": "Shiver",
-      "releaseDate": "2027-08-13",
-      "poster": "https://image.tmdb.org/t/p/w92/k3oHGaeXCa2u1ZwJbUF0rrvMZhJ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tim Miller",
-      "studioStr": "Warner Bros. Pictures / Marv",
-      "prestige": true,
-      "imdbId": "tt38810776"
     },
     {
       "id": 1554353,
@@ -1873,6 +1873,18 @@
       "studioStr": "PlayStation Productions / Perfect Storm Entertainment",
       "prestige": true,
       "imdbId": "tt39089420"
+    },
+    {
+      "id": 1284510,
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "releaseDate": "2027-11-12",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sian Heder",
+      "studioStr": "Paramount Pictures / Temple Hill Entertainment",
+      "prestige": true,
+      "imdbId": "tt14014196"
     },
     {
       "id": 1651461,
