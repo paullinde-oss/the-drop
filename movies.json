@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T13:09:10.644Z",
-  "count": 195,
+  "generatedAt": "2026-06-22T15:54:15.749Z",
+  "count": 196,
   "movies": [
     {
       "id": 1081003,
@@ -30,7 +30,7 @@
       "id": 1202033,
       "title": "Enola Holmes 3",
       "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Philip Barantini",
@@ -114,7 +114,7 @@
       "id": 1108427,
       "title": "Moana",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/bzHHSpbV7uSkNfYsXRoBKxD1P8Y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rQ0f1Y3t9w3DxVxuVydkgqQ2Hji.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Thomas Kail",
@@ -957,7 +957,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1026,7 +1026,7 @@
       "id": 1288211,
       "title": "The Great Beyond",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/tAcBlP72m0x3ZXZfJV4AGKr4nUo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qq3Ynsokc1AtmExfeYoOnUclk3k.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "J.J. Abrams",
@@ -1551,6 +1551,18 @@
       "imdbId": "tt13655056"
     },
     {
+      "id": 1718699,
+      "title": "Not Alone",
+      "releaseDate": "2027-04-16",
+      "poster": "https://image.tmdb.org/t/p/w92/gX7OL5uluGy5SevIo1H6LkduUDs.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Eric Guillon, Claire Dodgson, Jonathan del Val",
+      "studioStr": "Illumination / Universal Pictures",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 556682,
       "title": "F.A.S.T.",
       "releaseDate": "2027-04-23",
@@ -1650,7 +1662,7 @@
       "id": 1417668,
       "title": "Star Wars: Starfighter",
       "releaseDate": "2027-05-28",
-      "poster": "https://image.tmdb.org/t/p/w92/e3XYmMMtAPXNF4WaWonGKgcgCWy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Shawn Levy",
@@ -1929,7 +1941,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1969,18 +1981,6 @@
       "studioStr": "Warner Bros. Pictures / Waverly Films",
       "prestige": true,
       "imdbId": "tt39570048"
-    },
-    {
-      "id": 1683192,
-      "title": "Django/Zorro",
-      "releaseDate": "2028-01-01",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Sony Pictures",
-      "prestige": true,
-      "imdbId": "tt10433602"
     },
     {
       "id": 1671441,
@@ -2317,6 +2317,18 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt39085480"
+    },
+    {
+      "id": 1718609,
+      "title": "Love, Lola.",
+      "releaseDate": "2029-04-19",
+      "poster": "https://image.tmdb.org/t/p/w92/eP6nN8mDzR5g08H9fj6dLcadLQZ.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Curry Barker, Ti West",
+      "studioStr": "A24 / The Independent Film Channel Productions",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1451567,
