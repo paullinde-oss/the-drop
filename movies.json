@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-22T15:54:15.749Z",
-  "count": 196,
+  "generatedAt": "2026-06-23T13:45:06.729Z",
+  "count": 194,
   "movies": [
     {
       "id": 1081003,
       "title": "Supergirl",
       "releaseDate": "2026-06-23",
-      "poster": "https://image.tmdb.org/t/p/w92/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Craig Gillespie",
@@ -48,7 +48,7 @@
       "directorStr": "Christoph Otto",
       "studioStr": "Monte Kalk Film / aniamariawanda",
       "prestige": false,
-      "imdbId": null
+      "imdbId": "tt43548253"
     },
     {
       "id": 1587473,
@@ -219,18 +219,6 @@
       "imdbId": "tt36629891"
     },
     {
-      "id": 1659155,
-      "title": "The Truthers",
-      "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/hGAoaY7ZgI6TldkhWJpRH2rMZWh.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Roger Gual",
-      "studioStr": "El Desorden Crea / Netflix",
-      "prestige": true,
-      "imdbId": "tt41111628"
-    },
-    {
       "id": 1658226,
       "title": "Sana: Play with Me",
       "releaseDate": "2026-07-24",
@@ -265,6 +253,18 @@
       "studioStr": "Sony Pictures / Davis Entertainment",
       "prestige": true,
       "imdbId": "tt36304003"
+    },
+    {
+      "id": 1620682,
+      "title": "Ahebak Min Zaman",
+      "releaseDate": "2026-07-27",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Netflix",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 969681,
@@ -903,18 +903,6 @@
       "imdbId": "tt34890576"
     },
     {
-      "id": 858035,
-      "title": "Klara and the Sun",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/4B8f9c3zxe4Sey2ps0taHFNvcUC.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Taika Waititi",
-      "studioStr": "3000 Pictures / Heyday Films",
-      "prestige": true,
-      "imdbId": "tt14371256"
-    },
-    {
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
@@ -957,7 +945,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1554,13 +1542,13 @@
       "id": 1718699,
       "title": "Not Alone",
       "releaseDate": "2027-04-16",
-      "poster": "https://image.tmdb.org/t/p/w92/gX7OL5uluGy5SevIo1H6LkduUDs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/v9DnLSylT6erhKsxZXlnsx2UI4c.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Eric Guillon, Claire Dodgson, Jonathan del Val",
       "studioStr": "Illumination / Universal Pictures",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43609889"
     },
     {
       "id": 556682,
@@ -1941,7 +1929,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2317,18 +2305,6 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt39085480"
-    },
-    {
-      "id": 1718609,
-      "title": "Love, Lola.",
-      "releaseDate": "2029-04-19",
-      "poster": "https://image.tmdb.org/t/p/w92/eP6nN8mDzR5g08H9fj6dLcadLQZ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Curry Barker, Ti West",
-      "studioStr": "A24 / The Independent Film Channel Productions",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1451567,
