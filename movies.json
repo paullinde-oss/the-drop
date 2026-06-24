@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-06-23T13:45:06.729Z",
-  "count": 194,
+  "generatedAt": "2026-06-24T13:20:16.268Z",
+  "count": 192,
   "movies": [
-    {
-      "id": 1081003,
-      "title": "Supergirl",
-      "releaseDate": "2026-06-23",
-      "poster": "https://image.tmdb.org/t/p/w92/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Craig Gillespie",
-      "studioStr": "DC Studios / Troll Court Entertainment",
-      "prestige": true,
-      "imdbId": "tt8814476"
-    },
     {
       "id": 1315772,
       "title": "Minions & Monsters",
@@ -114,7 +102,7 @@
       "id": 1108427,
       "title": "Moana",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/rQ0f1Y3t9w3DxVxuVydkgqQ2Hji.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Thomas Kail",
@@ -253,18 +241,6 @@
       "studioStr": "Sony Pictures / Davis Entertainment",
       "prestige": true,
       "imdbId": "tt36304003"
-    },
-    {
-      "id": 1620682,
-      "title": "Ahebak Min Zaman",
-      "releaseDate": "2026-07-27",
-      "poster": null,
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Netflix",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 969681,
@@ -421,18 +397,6 @@
       "studioStr": "Blumhouse Productions / Screen Gems",
       "prestige": true,
       "imdbId": "tt32393988"
-    },
-    {
-      "id": 1560520,
-      "title": "Batman: Knightfall Part 1: Knightfall",
-      "releaseDate": "2026-08-25",
-      "poster": "https://image.tmdb.org/t/p/w92/g6yVTaUO9KIRtzPIy9UnoQaNuED.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Jeff Wamester",
-      "studioStr": "Warner Bros. Animation / DC",
-      "prestige": true,
-      "imdbId": "tt32333324"
     },
     {
       "id": 1204680,
@@ -945,7 +909,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1230,7 +1194,7 @@
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Kasdan",
@@ -1278,7 +1242,7 @@
       "id": 1619903,
       "title": "The Unicorn That Said No",
       "releaseDate": "2027-01-01",
-      "poster": "https://image.tmdb.org/t/p/w92/ysqRP2qoTQ7LPnvXicdNqK9zP56.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wKrim5jP9EEptfXQ2wpvVeD9O1y.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Marc-Uwe Kling",
@@ -1438,7 +1402,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Enrico Casarosa",
-      "studioStr": "Pixar / Walt Disney Pictures",
+      "studioStr": "Pixar",
       "prestige": true,
       "imdbId": "tt26443610"
     },
@@ -1545,7 +1509,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/v9DnLSylT6erhKsxZXlnsx2UI4c.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Eric Guillon, Claire Dodgson, Jonathan del Val",
+      "directorStr": "Eric Guillon",
       "studioStr": "Illumination / Universal Pictures",
       "prestige": true,
       "imdbId": "tt43609889"
@@ -1698,7 +1662,7 @@
       "id": 421892,
       "title": "Shrek 5",
       "releaseDate": "2027-06-30",
-      "poster": "https://image.tmdb.org/t/p/w92/aRntI6gNBMu4B6YozI7rxXRPyQo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Walt Dohrn, Conrad Vernon",
@@ -1813,6 +1777,18 @@
       "studioStr": "New Line Cinema / The Safran Company",
       "prestige": true,
       "imdbId": "tt39372868"
+    },
+    {
+      "id": 1122220,
+      "title": "Untitled Blair Witch Film",
+      "releaseDate": "2027-09-24",
+      "poster": "https://image.tmdb.org/t/p/w92/1mi6QRfUaSoe9pTvSY4L9AHdazh.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Dylan Clark",
+      "studioStr": "Blumhouse Productions / Lionsgate",
+      "prestige": true,
+      "imdbId": "tt32082826"
     },
     {
       "id": 1262687,
