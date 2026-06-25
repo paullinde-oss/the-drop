@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-06-24T13:20:16.268Z",
-  "count": 192,
+  "generatedAt": "2026-06-25T13:20:04.204Z",
+  "count": 194,
   "movies": [
-    {
-      "id": 1315772,
-      "title": "Minions & Monsters",
-      "releaseDate": "2026-06-24",
-      "poster": "https://image.tmdb.org/t/p/w92/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Pierre Coffin",
-      "studioStr": "Universal Pictures / Illumination",
-      "prestige": true,
-      "imdbId": "tt32890033"
-    },
     {
       "id": 1202033,
       "title": "Enola Holmes 3",
@@ -138,13 +126,13 @@
       "id": 1656220,
       "title": "23 000 Lives",
       "releaseDate": "2026-07-17",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/3hFZwYDgpQbn1zBSmZX6mV0GwzM.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Markus Goller",
       "studioStr": "Flimmer / Flute Film",
       "prestige": false,
-      "imdbId": null
+      "imdbId": "tt41983440"
     },
     {
       "id": 1368337,
@@ -486,7 +474,7 @@
       "id": 1378537,
       "title": "Mirzapur: The Movie",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jbmZPjSfCdIHo269QZK203WZSm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Gurmmeet Singh",
@@ -618,7 +606,7 @@
       "id": 1465063,
       "title": "Forgotten Island",
       "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/44RMjgvpZmHU3aGmX3IQAaHtEw9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Januel Mercado, Joel Crawford",
@@ -810,13 +798,13 @@
       "id": 1503762,
       "title": "Sense and Sensibility",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/tmufrxW8c8uuhq9uuK9q8rsa9V4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sztQ1tbDWzMKJQTvUvoyE8a8Zyf.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Georgia Oakley",
       "studioStr": "Focus Features / Working Title Films",
       "prestige": true,
-      "imdbId": "tt37439146"
+      "imdbId": "tt13609648"
     },
     {
       "id": 1255833,
@@ -909,7 +897,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -964,7 +952,7 @@
     },
     {
       "id": 1084409,
-      "title": "A Talent for Murder",
+      "title": "A Talent for a Murder",
       "releaseDate": "2026-11-12",
       "poster": null,
       "format": "theatrical",
@@ -1033,6 +1021,18 @@
       "studioStr": "Lionsgate / Color Force",
       "prestige": true,
       "imdbId": "tt32558705"
+    },
+    {
+      "id": 1595124,
+      "title": "Steps",
+      "releaseDate": "2026-11-20",
+      "poster": "https://image.tmdb.org/t/p/w92/1lFeV1wOJyEvIcJFJoJjyXPN7GN.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Alyce Tzue",
+      "studioStr": "Netflix Animation Studios / Paper Kite Productions",
+      "prestige": true,
+      "imdbId": "tt14413964"
     },
     {
       "id": 1457866,
@@ -1191,6 +1191,18 @@
       "imdbId": "tt21357150"
     },
     {
+      "id": 940009,
+      "title": "Ray Gunn",
+      "releaseDate": "2026-12-18",
+      "poster": "https://image.tmdb.org/t/p/w92/qXexEAo999wlEp5rMsFnVSRaTSM.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Brad Bird",
+      "studioStr": "Skydance Animation / Cinesite Animation",
+      "prestige": true,
+      "imdbId": "tt18270542"
+    },
+    {
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
@@ -1345,6 +1357,18 @@
       "studioStr": "The Cantillon Company / TriStar Pictures",
       "prestige": true,
       "imdbId": "tt4540534"
+    },
+    {
+      "id": 1534061,
+      "title": "The Young People",
+      "releaseDate": "2027-02-12",
+      "poster": "https://image.tmdb.org/t/p/w92/AgdCv5eXc1FkEKPx2DSKT7ehzGM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Osgood Perkins",
+      "studioStr": "Phobos / NEON",
+      "prestige": true,
+      "imdbId": "tt38066158"
     },
     {
       "id": 1514328,
@@ -1506,7 +1530,7 @@
       "id": 1718699,
       "title": "Not Alone",
       "releaseDate": "2027-04-16",
-      "poster": "https://image.tmdb.org/t/p/w92/v9DnLSylT6erhKsxZXlnsx2UI4c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/gX7OL5uluGy5SevIo1H6LkduUDs.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Eric Guillon",
@@ -1614,7 +1638,7 @@
       "id": 1417668,
       "title": "Star Wars: Starfighter",
       "releaseDate": "2027-05-28",
-      "poster": "https://image.tmdb.org/t/p/w92/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/AsCNiwRC2rWSy8cMtl7Kfr1axix.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Shawn Levy",
