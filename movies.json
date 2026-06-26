@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T13:20:04.204Z",
-  "count": 194,
+  "generatedAt": "2026-06-26T13:13:21.797Z",
+  "count": 200,
   "movies": [
     {
       "id": 1202033,
@@ -63,6 +63,18 @@
       "imdbId": "tt32104007"
     },
     {
+      "id": 1720716,
+      "title": "Jeff Arcuri: Nice to Meet You",
+      "releaseDate": "2026-07-07",
+      "poster": "https://image.tmdb.org/t/p/w92/725w1VbMmQKQuS80mxUSfVNaQ2g.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Netflix",
+      "prestige": true,
+      "imdbId": "tt43616650"
+    },
+    {
       "id": 1708581,
       "title": "Letters from an Inner Exile",
       "releaseDate": "2026-07-08",
@@ -121,6 +133,18 @@
       "studioStr": "Sithara Entertainments / Manam Enterprises",
       "prestige": true,
       "imdbId": "tt5256640"
+    },
+    {
+      "id": 1715473,
+      "title": "I Can't Say No to Myself",
+      "releaseDate": "2026-07-11",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Hadas Ben Aroya",
+      "studioStr": "United King Films / Port au Prince Films",
+      "prestige": false,
+      "imdbId": null
     },
     {
       "id": 1656220,
@@ -402,7 +426,7 @@
       "id": 1384216,
       "title": "The Dog Stars",
       "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ridley Scott",
@@ -795,10 +819,22 @@
       "imdbId": "tt38805050"
     },
     {
+      "id": 1288069,
+      "title": "Tenzing",
+      "releaseDate": "2026-10-15",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jennifer Peedom",
+      "studioStr": "Cross City Films / See-Saw Films",
+      "prestige": true,
+      "imdbId": "tt6262770"
+    },
+    {
       "id": 1503762,
       "title": "Sense and Sensibility",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/sztQ1tbDWzMKJQTvUvoyE8a8Zyf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Georgia Oakley",
@@ -1045,6 +1081,18 @@
       "studioStr": "Heyday Films / Netflix",
       "prestige": true,
       "imdbId": "tt36408401"
+    },
+    {
+      "id": 1720486,
+      "title": "Lilo & Scratch",
+      "releaseDate": "2026-11-25",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Walt Disney Pictures",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1538497,
@@ -2175,6 +2223,18 @@
       "imdbId": "tt37452825"
     },
     {
+      "id": 1720841,
+      "title": "Jurassic World: Liberation",
+      "releaseDate": "2028-06-09",
+      "poster": "https://image.tmdb.org/t/p/w92/7WtteFZnNic9uhqyFUgSvlhcmh0.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Gareth Edwards",
+      "studioStr": "Universal",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1327821,
       "title": "Incredibles 3",
       "releaseDate": "2028-06-16",
@@ -2209,6 +2269,18 @@
       "studioStr": "DC Studios / 6th & Idaho Motion Picture Company",
       "prestige": true,
       "imdbId": "tt33549695"
+    },
+    {
+      "id": 1110132,
+      "title": "Donkey",
+      "releaseDate": "2028-06-30",
+      "poster": "https://image.tmdb.org/t/p/w92/fvsSEJXkUV2tIh6kuCVk2icfFYw.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Charlie Bean",
+      "studioStr": "DreamWorks Animation / Universal Pictures",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 615127,
