@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T13:13:21.797Z",
-  "count": 200,
+  "generatedAt": "2026-06-27T12:13:25.147Z",
+  "count": 199,
   "movies": [
     {
       "id": 1202033,
@@ -150,7 +150,7 @@
       "id": 1656220,
       "title": "23 000 Lives",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/3hFZwYDgpQbn1zBSmZX6mV0GwzM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Markus Goller",
@@ -246,7 +246,7 @@
       "id": 949838,
       "title": "72 HOURS",
       "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/ifuzZizxgZA1HT9sp667BqIqjXe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/t6qY1a0ude3ShnYtsaBgk8gzds6.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Tim Story",
@@ -795,6 +795,18 @@
       "imdbId": "tt36462731"
     },
     {
+      "id": 1288069,
+      "title": "Tenzing",
+      "releaseDate": "2026-10-09",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Jennifer Peedom",
+      "studioStr": "Cross City Films / See-Saw Films",
+      "prestige": true,
+      "imdbId": "tt6262770"
+    },
+    {
       "id": 980431,
       "title": "Avatar Aang: The Last Airbender",
       "releaseDate": "2026-10-09",
@@ -817,18 +829,6 @@
       "studioStr": "Ziegler Film / StudioCanal",
       "prestige": true,
       "imdbId": "tt38805050"
-    },
-    {
-      "id": 1288069,
-      "title": "Tenzing",
-      "releaseDate": "2026-10-15",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jennifer Peedom",
-      "studioStr": "Cross City Films / See-Saw Films",
-      "prestige": true,
-      "imdbId": "tt6262770"
     },
     {
       "id": 1503762,
@@ -1086,11 +1086,11 @@
       "id": 1720486,
       "title": "Lilo & Scratch",
       "releaseDate": "2026-11-25",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/cgDFMeqMM3wvWh36iNpiUCrYtWb.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Walt Disney Pictures",
+      "directorStr": "Fawn Veerasunthorn, Malcon Pierce",
+      "studioStr": "Walt Disney Pictures / Walt Disney Animation Studios",
       "prestige": true,
       "imdbId": null
     },
@@ -1278,7 +1278,7 @@
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/80dcSFTyC97dkgvskEb4fJvlfrl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lLyum4KQyWqGxPRU3KAaGukyytm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Robert Eggers",
@@ -1407,18 +1407,6 @@
       "imdbId": "tt4540534"
     },
     {
-      "id": 1534061,
-      "title": "The Young People",
-      "releaseDate": "2027-02-12",
-      "poster": "https://image.tmdb.org/t/p/w92/AgdCv5eXc1FkEKPx2DSKT7ehzGM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Osgood Perkins",
-      "studioStr": "Phobos / NEON",
-      "prestige": true,
-      "imdbId": "tt38066158"
-    },
-    {
       "id": 1514328,
       "title": "Wishful Thinking",
       "releaseDate": "2027-02-12",
@@ -1492,7 +1480,7 @@
     },
     {
       "id": 1297467,
-      "title": "Untitled The Exorcist Film",
+      "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
       "poster": "https://image.tmdb.org/t/p/w92/dxgcsMjFSJkNUbSjRpRs8UYui2H.jpg",
       "format": "theatrical",
@@ -1977,7 +1965,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2280,7 +2268,7 @@
       "directorStr": "Charlie Bean",
       "studioStr": "DreamWorks Animation / Universal Pictures",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43619974"
     },
     {
       "id": 615127,
