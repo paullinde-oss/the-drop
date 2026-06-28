@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-27T12:13:25.147Z",
-  "count": 199,
+  "generatedAt": "2026-06-28T12:21:20.015Z",
+  "count": 202,
   "movies": [
     {
       "id": 1202033,
@@ -18,7 +18,7 @@
       "id": 1700881,
       "title": "The Ballad from Wednesday to Thursday",
       "releaseDate": "2026-07-02",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/84XOE0B6KWuYiEDZ11QeMl6CGB2.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christoph Otto",
@@ -183,18 +183,6 @@
       "imdbId": "tt34477910"
     },
     {
-      "id": 1516698,
-      "title": "The Last Sunrise",
-      "releaseDate": "2026-07-17",
-      "poster": null,
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Carlson Young",
-      "studioStr": "Amazon MGM Studios / Ethea Entertainment",
-      "prestige": true,
-      "imdbId": "tt36694271"
-    },
-    {
       "id": 1511675,
       "title": "Kingdom 5",
       "releaseDate": "2026-07-17",
@@ -246,7 +234,7 @@
       "id": 949838,
       "title": "72 HOURS",
       "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/t6qY1a0ude3ShnYtsaBgk8gzds6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3wbkfYfmFAzybaq2TjVUbJrOrvV.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Tim Story",
@@ -265,6 +253,18 @@
       "studioStr": "Marvel Studios / Columbia Pictures",
       "prestige": true,
       "imdbId": "tt22084616"
+    },
+    {
+      "id": 1722167,
+      "title": "Mickey's Country Farm",
+      "releaseDate": "2026-07-31",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Disney Television Animation",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1598766,
@@ -409,6 +409,18 @@
       "studioStr": "Blumhouse Productions / Screen Gems",
       "prestige": true,
       "imdbId": "tt32393988"
+    },
+    {
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "releaseDate": "2026-08-26",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Carlson Young",
+      "studioStr": "Amazon MGM Studios / Ethea Entertainment",
+      "prestige": true,
+      "imdbId": "tt36694271"
     },
     {
       "id": 1204680,
@@ -594,7 +606,7 @@
       "id": 1032863,
       "title": "The Love Hypothesis",
       "releaseDate": "2026-09-23",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/mSeGcWakOmhPd1n0QcinqIIUu1B.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Claire Scanlon",
@@ -933,7 +945,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1092,7 +1104,7 @@
       "directorStr": "Fawn Veerasunthorn, Malcon Pierce",
       "studioStr": "Walt Disney Pictures / Walt Disney Animation Studios",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43621069"
     },
     {
       "id": 1538497,
@@ -1165,6 +1177,18 @@
       "studioStr": "Grey Matter Productions / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt16995302"
+    },
+    {
+      "id": 1198746,
+      "title": "Above the Below",
+      "releaseDate": "2026-12-03",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Martin Owen, Idris Elba",
+      "studioStr": "Future Artists Entertainment / Lionsgate",
+      "prestige": true,
+      "imdbId": "tt29634374"
     },
     {
       "id": 1078446,
@@ -1419,6 +1443,18 @@
       "imdbId": "tt37599264"
     },
     {
+      "id": 1647522,
+      "title": "Love Me Love Me 2",
+      "releaseDate": "2027-02-13",
+      "poster": "https://image.tmdb.org/t/p/w92/8sxyPUOGbI3VG6vcF4CzBUuaQbK.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Roger Kumble",
+      "studioStr": "Lotus Production / Leone Film Group",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1480503,
       "title": "CoComelon: The Movie",
       "releaseDate": "2027-02-19",
@@ -1482,7 +1518,7 @@
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
-      "poster": "https://image.tmdb.org/t/p/w92/dxgcsMjFSJkNUbSjRpRs8UYui2H.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mike Flanagan",
@@ -1965,7 +2001,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2301,7 +2337,7 @@
       "poster": null,
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
+      "directorStr": "Zach Cregger",
       "studioStr": "New Line Cinema / Subconscious",
       "prestige": true,
       "imdbId": "tt38487331"
@@ -2320,12 +2356,12 @@
     },
     {
       "id": 1715249,
-      "title": "Untitled Duffer Brothers Movie",
+      "title": "Untitled Duffer Brothers Film",
       "releaseDate": "2028-11-03",
       "poster": null,
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Ross Duffer, Matt Duffer",
+      "directorStr": "Matt Duffer, Ross Duffer",
       "studioStr": "Paramount Pictures / Upside Down Pictures",
       "prestige": true,
       "imdbId": null
