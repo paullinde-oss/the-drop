@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-28T12:21:20.015Z",
-  "count": 202,
+  "generatedAt": "2026-06-29T14:51:00.538Z",
+  "count": 198,
   "movies": [
     {
       "id": 1202033,
@@ -63,18 +63,6 @@
       "imdbId": "tt32104007"
     },
     {
-      "id": 1720716,
-      "title": "Jeff Arcuri: Nice to Meet You",
-      "releaseDate": "2026-07-07",
-      "poster": "https://image.tmdb.org/t/p/w92/725w1VbMmQKQuS80mxUSfVNaQ2g.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Netflix",
-      "prestige": true,
-      "imdbId": "tt43616650"
-    },
-    {
       "id": 1708581,
       "title": "Letters from an Inner Exile",
       "releaseDate": "2026-07-08",
@@ -90,7 +78,7 @@
       "id": 1212763,
       "title": "Evil Dead Burn",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/syGSQh7bqPHCFRhwHewHdR5EqjD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sébastien Vaniček",
@@ -414,7 +402,7 @@
       "id": 1516698,
       "title": "The Last Sunrise",
       "releaseDate": "2026-08-26",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/f8r9owi7TBLHwGMqwWjmPJSFG0J.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Carlson Young",
@@ -879,18 +867,6 @@
       "imdbId": "tt27419420"
     },
     {
-      "id": 1458099,
-      "title": "The Only Living Pickpocket in New York",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/otJsgLxFhsa43dTknU9NqxdkdP4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Noah Segan",
-      "studioStr": "MRC / T-Street",
-      "prestige": true,
-      "imdbId": "tt36482679"
-    },
-    {
       "id": 1400940,
       "title": "Clayface",
       "releaseDate": "2026-10-23",
@@ -945,7 +921,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -997,18 +973,6 @@
       "studioStr": "Angel Studios / Radiate Films",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1084409,
-      "title": "A Talent for a Murder",
-      "releaseDate": "2026-11-12",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Anton Corbijn",
-      "studioStr": "Lunar Pictures / Lucky Red",
-      "prestige": true,
-      "imdbId": "tt14129116"
     },
     {
       "id": 1288211,
@@ -1102,7 +1066,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Fawn Veerasunthorn, Malcon Pierce",
-      "studioStr": "Walt Disney Pictures / Walt Disney Animation Studios",
+      "studioStr": "Walt Disney Animation Studios",
       "prestige": true,
       "imdbId": "tt43621069"
     },
@@ -1110,7 +1074,7 @@
       "id": 1538497,
       "title": "Hexed",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/g0f2mzRzwbIrzpieftY98W97muf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7QI8EAmNB0F2ijzP4eyyEiQhfKi.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jason Hand, Fawn Veerasunthorn",
@@ -1179,18 +1143,6 @@
       "imdbId": "tt16995302"
     },
     {
-      "id": 1198746,
-      "title": "Above the Below",
-      "releaseDate": "2026-12-03",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Martin Owen, Idris Elba",
-      "studioStr": "Future Artists Entertainment / Lionsgate",
-      "prestige": true,
-      "imdbId": "tt29634374"
-    },
-    {
       "id": 1078446,
       "title": "Violent Night 2",
       "releaseDate": "2026-12-04",
@@ -1201,6 +1153,18 @@
       "studioStr": "87North Productions / Universal Pictures",
       "prestige": true,
       "imdbId": "tt32432428"
+    },
+    {
+      "id": 1198746,
+      "title": "Above the Below",
+      "releaseDate": "2026-12-04",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Martin Owen, Idris Elba",
+      "studioStr": "Future Artists Entertainment / Lionsgate",
+      "prestige": true,
+      "imdbId": "tt29634374"
     },
     {
       "id": 1566920,
@@ -1302,7 +1266,7 @@
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/lLyum4KQyWqGxPRU3KAaGukyytm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/y0YXMAdeWeznRM8A8npcQZS3AMn.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Robert Eggers",
@@ -1431,18 +1395,6 @@
       "imdbId": "tt4540534"
     },
     {
-      "id": 1514328,
-      "title": "Wishful Thinking",
-      "releaseDate": "2027-02-12",
-      "poster": "https://image.tmdb.org/t/p/w92/36vsIO0FkNNm9CfzDQargqWjktC.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Graham Parkes",
-      "studioStr": "Highway 10 / Buckwild",
-      "prestige": true,
-      "imdbId": "tt37599264"
-    },
-    {
       "id": 1647522,
       "title": "Love Me Love Me 2",
       "releaseDate": "2027-02-13",
@@ -1458,7 +1410,7 @@
       "id": 1480503,
       "title": "CoComelon: The Movie",
       "releaseDate": "2027-02-19",
-      "poster": "https://image.tmdb.org/t/p/w92/79pBhQn9N5yjbCFb4e1JtFm8BfR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ePmeaJOLEdCTsPRhVy7db8URbky.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kathleen Good",
@@ -1602,7 +1554,7 @@
       "id": 1718699,
       "title": "Not Alone",
       "releaseDate": "2027-04-16",
-      "poster": "https://image.tmdb.org/t/p/w92/gX7OL5uluGy5SevIo1H6LkduUDs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/v9DnLSylT6erhKsxZXlnsx2UI4c.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Eric Guillon",
@@ -2310,7 +2262,7 @@
       "id": 615127,
       "title": "Hello Kitty",
       "releaseDate": "2028-07-21",
-      "poster": "https://image.tmdb.org/t/p/w92/l6iNUNfU0eFooq1ZjUeyrJv7U3X.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jV4vQ8M3BN8XzDXOfMVwMrVJ5x1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David G. Derrick Jr., John Aoshima",
