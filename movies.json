@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-29T14:51:00.538Z",
-  "count": 198,
+  "generatedAt": "2026-06-30T13:14:46.519Z",
+  "count": 203,
   "movies": [
     {
       "id": 1202033,
@@ -229,6 +229,18 @@
       "studioStr": "Sony Pictures / Davis Entertainment",
       "prestige": true,
       "imdbId": "tt36304003"
+    },
+    {
+      "id": 1481343,
+      "title": "The Devil's Mouth",
+      "releaseDate": "2026-07-29",
+      "poster": "https://image.tmdb.org/t/p/w92/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Jeff Wadlow",
+      "studioStr": "Amazon MGM Studios / Thunder Road",
+      "prestige": true,
+      "imdbId": "tt36958312"
     },
     {
       "id": 969681,
@@ -505,6 +517,18 @@
       "studioStr": "Excel Entertainment / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt34339725"
+    },
+    {
+      "id": 1723064,
+      "title": "Drawn Together",
+      "releaseDate": "2026-09-09",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt43622495"
     },
     {
       "id": 1302904,
@@ -921,7 +945,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -973,6 +997,18 @@
       "studioStr": "Angel Studios / Radiate Films",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1084409,
+      "title": "A Talent for a Murder",
+      "releaseDate": "2026-11-12",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Anton Corbijn",
+      "studioStr": "Lunar Pictures / Lucky Red",
+      "prestige": true,
+      "imdbId": "tt14129116"
     },
     {
       "id": 1288211,
@@ -1357,6 +1393,18 @@
       "studioStr": "87Eleven / Lionsgate",
       "prestige": true,
       "imdbId": "tt33295857"
+    },
+    {
+      "id": 1139422,
+      "title": "The Riders",
+      "releaseDate": "2027-02-04",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Edward Berger",
+      "studioStr": "Nine Hours / Scott Free Productions",
+      "prestige": true,
+      "imdbId": "tt9148786"
     },
     {
       "id": 1466228,
@@ -2353,6 +2401,18 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt39085480"
+    },
+    {
+      "id": 1723463,
+      "title": "Untitled Justin Hammer Biopic",
+      "releaseDate": "2028-12-25",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Matt Johnson",
+      "studioStr": "A24 / Marvel Studios",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1451567,
