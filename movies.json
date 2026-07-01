@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-06-30T13:14:46.519Z",
+  "generatedAt": "2026-07-01T13:40:59.193Z",
   "count": 203,
   "movies": [
-    {
-      "id": 1202033,
-      "title": "Enola Holmes 3",
-      "releaseDate": "2026-07-01",
-      "poster": "https://image.tmdb.org/t/p/w92/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Philip Barantini",
-      "studioStr": "Legendary Pictures / PCMA Productions",
-      "prestige": true,
-      "imdbId": "tt32278481"
-    },
     {
       "id": 1700881,
       "title": "The Ballad from Wednesday to Thursday",
@@ -594,7 +582,7 @@
       "id": 1716622,
       "title": "The Village of Eight Gravestones",
       "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/3xLSVAQZAs1DEUNm1TKYzx0kiLT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/llfPc2aDY8hvTaqlB7R7iZNdN6t.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Shimizu",
@@ -945,7 +933,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1045,6 +1033,30 @@
       "studioStr": "Eden Rock Media / Baha Productions",
       "prestige": true,
       "imdbId": "tt11995650"
+    },
+    {
+      "id": 1723807,
+      "title": "The Rainbow Fish",
+      "releaseDate": "2026-11-19",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Florian Moch",
+      "studioStr": "StudioCanal UK / Claussen+Putz Filmproduktion",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
+      "id": 1625344,
+      "title": "The Rainbow Fish",
+      "releaseDate": "2026-11-19",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Florian Moch",
+      "studioStr": "Claussen+Putz Filmproduktion / StudioCanal",
+      "prestige": true,
+      "imdbId": "tt43632661"
     },
     {
       "id": 1280115,
@@ -1602,7 +1614,7 @@
       "id": 1718699,
       "title": "Not Alone",
       "releaseDate": "2027-04-16",
-      "poster": "https://image.tmdb.org/t/p/w92/v9DnLSylT6erhKsxZXlnsx2UI4c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9HqA8Hxwd7KNs6ttYqRbXtYHLpv.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Eric Guillon",
@@ -2001,7 +2013,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2033,7 +2045,7 @@
     {
       "id": 1601898,
       "title": "Untitled Nancy Meyers Film",
-      "releaseDate": "2027-12-25",
+      "releaseDate": "2027-12-24",
       "poster": null,
       "format": "theatrical",
       "reRelease": false,
@@ -2343,18 +2355,6 @@
       "imdbId": "tt38487331"
     },
     {
-      "id": 1138526,
-      "title": "The Lunar Chronicles",
-      "releaseDate": "2028-11-03",
-      "poster": "https://image.tmdb.org/t/p/w92/uHetNUxDujMrd9C4OYkmN2WidNM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Noëlle Raffaele",
-      "studioStr": "Locksmith Animation / Warner Bros. Pictures Animation",
-      "prestige": true,
-      "imdbId": "tt17423726"
-    },
-    {
       "id": 1715249,
       "title": "Untitled Duffer Brothers Film",
       "releaseDate": "2028-11-03",
@@ -2367,8 +2367,20 @@
       "imdbId": null
     },
     {
+      "id": 1138526,
+      "title": "The Lunar Chronicles",
+      "releaseDate": "2028-11-03",
+      "poster": "https://image.tmdb.org/t/p/w92/uHetNUxDujMrd9C4OYkmN2WidNM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Noëlle Raffaele",
+      "studioStr": "Locksmith Animation / Warner Bros. Pictures Animation",
+      "prestige": true,
+      "imdbId": "tt17423726"
+    },
+    {
       "id": 1545226,
-      "title": "Untitled Teenage Mutant Ninja Turtles Film",
+      "title": "Untitled hybrid live-action Teenage Mutant Ninja Turtles",
       "releaseDate": "2028-11-17",
       "poster": null,
       "format": "theatrical",
@@ -2401,18 +2413,6 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt39085480"
-    },
-    {
-      "id": 1723463,
-      "title": "Untitled Justin Hammer Biopic",
-      "releaseDate": "2028-12-25",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Matt Johnson",
-      "studioStr": "A24 / Marvel Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1451567,
