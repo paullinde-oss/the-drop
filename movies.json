@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01T13:40:59.193Z",
-  "count": 203,
+  "generatedAt": "2026-07-02T13:03:02.304Z",
+  "count": 205,
   "movies": [
     {
       "id": 1700881,
@@ -138,7 +138,7 @@
       "id": 1368337,
       "title": "The Odyssey",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Christopher Nolan",
@@ -174,7 +174,7 @@
       "id": 1469342,
       "title": "Her Private Hell",
       "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/kncKYCe4stYQ1YPAmIcvtjpF1Bc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Nicolas Winding Refn",
@@ -210,13 +210,25 @@
       "id": 949838,
       "title": "72 HOURS",
       "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/3wbkfYfmFAzybaq2TjVUbJrOrvV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/i2Yf13nLAr3WVS9lsjfbWlcfeBr.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Tim Story",
       "studioStr": "Sony Pictures / Davis Entertainment",
       "prestige": true,
       "imdbId": "tt36304003"
+    },
+    {
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "releaseDate": "2026-07-25",
+      "poster": "https://image.tmdb.org/t/p/w92/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Lauren Montgomery",
+      "studioStr": "Nickelodeon Movies / Paramount Pictures",
+      "prestige": true,
+      "imdbId": "tt18259538"
     },
     {
       "id": 1481343,
@@ -354,7 +366,7 @@
       "id": 1493400,
       "title": "Camp Rock 3",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/b0fqynwXBahk9ohFH3BXc2x4Ae0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/x6Qq8IPd9KKQQRKzdSJJ5cN6jqq.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Veronica Rodriguez",
@@ -397,6 +409,18 @@
       "studioStr": "Blumhouse Productions / Screen Gems",
       "prestige": true,
       "imdbId": "tt32393988"
+    },
+    {
+      "id": 1288445,
+      "title": "Mutiny",
+      "releaseDate": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jean-François Richet",
+      "studioStr": "Punch Palace Productions / MadRiver Pictures",
+      "prestige": false,
+      "imdbId": "tt32338669"
     },
     {
       "id": 1516698,
@@ -750,7 +774,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/kHXzAm0ERUX8yZxe5xFSMsJsf3t.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -817,18 +841,6 @@
       "studioStr": "Cross City Films / See-Saw Films",
       "prestige": true,
       "imdbId": "tt6262770"
-    },
-    {
-      "id": 980431,
-      "title": "Avatar Aang: The Last Airbender",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Lauren Montgomery",
-      "studioStr": "Nickelodeon Movies / Paramount Pictures",
-      "prestige": true,
-      "imdbId": "tt18259538"
     },
     {
       "id": 1477572,
@@ -933,7 +945,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1131,6 +1143,18 @@
       "imdbId": "tt38077943"
     },
     {
+      "id": 1461490,
+      "title": "Hershey",
+      "releaseDate": "2026-11-25",
+      "poster": "https://image.tmdb.org/t/p/w92/4iuKFMlFPCjIvL4j0GFwPZvpvfR.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Mark Waters",
+      "studioStr": "Dandelion Media / Hershey Entities",
+      "prestige": true,
+      "imdbId": "tt17055444"
+    },
+    {
       "id": 1400336,
       "title": "Focker-In-Law",
       "releaseDate": "2026-11-25",
@@ -1141,18 +1165,6 @@
       "studioStr": "Universal Pictures / Tribeca Productions",
       "prestige": true,
       "imdbId": "tt34966140"
-    },
-    {
-      "id": 1461490,
-      "title": "Hershey",
-      "releaseDate": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/4iuKFMlFPCjIvL4j0GFwPZvpvfR.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Mark Waters",
-      "studioStr": "Dandelion Media / Hershey Entities",
-      "prestige": true,
-      "imdbId": "tt17055444"
     },
     {
       "id": 1131943,
@@ -1213,18 +1225,6 @@
       "studioStr": "Future Artists Entertainment / Lionsgate",
       "prestige": true,
       "imdbId": "tt29634374"
-    },
-    {
-      "id": 1566920,
-      "title": "The Apothecary Diaries Movie",
-      "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/aMQnlYqfKU9JZTwtlhVtDQ69hpe.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Norihiro Naganuma",
-      "studioStr": "TOHO animation STUDIO / OLM",
-      "prestige": true,
-      "imdbId": "tt39110207"
     },
     {
       "id": 1421967,
@@ -1314,7 +1314,7 @@
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/y0YXMAdeWeznRM8A8npcQZS3AMn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qXqCece01iDhDoeX1V3y6rbPkNK.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Robert Eggers",
@@ -1827,6 +1827,18 @@
       "imdbId": "tt36495786"
     },
     {
+      "id": 1658611,
+      "title": "The Comebacker",
+      "releaseDate": "2027-07-30",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Marielle Heller",
+      "studioStr": "Sony Pictures / Playtone",
+      "prestige": true,
+      "imdbId": "tt41857193"
+    },
+    {
       "id": 1403836,
       "title": "Bluey: The Movie",
       "releaseDate": "2027-08-06",
@@ -1837,6 +1849,18 @@
       "studioStr": "Ludo Studio / BBC Studios",
       "prestige": true,
       "imdbId": "tt35050152"
+    },
+    {
+      "id": 1634942,
+      "title": "Jason Statham Stole My Bike",
+      "releaseDate": "2027-08-06",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "Black Bear Pictures / 87North Productions",
+      "prestige": false,
+      "imdbId": "tt39848323"
     },
     {
       "id": 1572400,
@@ -2349,7 +2373,7 @@
       "poster": null,
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Zach Cregger",
+      "directorStr": null,
       "studioStr": "New Line Cinema / Subconscious",
       "prestige": true,
       "imdbId": "tt38487331"
