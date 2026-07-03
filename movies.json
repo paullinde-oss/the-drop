@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-07-02T13:03:02.304Z",
-  "count": 205,
+  "generatedAt": "2026-07-03T13:01:17.266Z",
+  "count": 206,
   "movies": [
-    {
-      "id": 1700881,
-      "title": "The Ballad from Wednesday to Thursday",
-      "releaseDate": "2026-07-02",
-      "poster": "https://image.tmdb.org/t/p/w92/84XOE0B6KWuYiEDZ11QeMl6CGB2.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Christoph Otto",
-      "studioStr": "Monte Kalk Film / aniamariawanda",
-      "prestige": false,
-      "imdbId": "tt43548253"
-    },
     {
       "id": 1587473,
       "title": "The Mouths",
@@ -169,6 +157,18 @@
       "studioStr": "TOHO / CREDEUS",
       "prestige": true,
       "imdbId": "tt37544379"
+    },
+    {
+      "id": 1248230,
+      "title": "Splash City",
+      "releaseDate": "2026-07-20",
+      "poster": "https://image.tmdb.org/t/p/w92/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alex Ferrufino",
+      "studioStr": "4 Ways Entertainment / Lionsgate",
+      "prestige": true,
+      "imdbId": "tt27666105"
     },
     {
       "id": 1469342,
@@ -366,7 +366,7 @@
       "id": 1493400,
       "title": "Camp Rock 3",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/x6Qq8IPd9KKQQRKzdSJJ5cN6jqq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/1w2SIg1TiqqvXSmDsqj104m2UGM.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Veronica Rodriguez",
@@ -378,7 +378,7 @@
       "id": 1226699,
       "title": "The Wrong Girls",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/rwLgmo32j1O91D2xPXOrGUcyzn5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lDYmh3IzTmSkoFD1wdOtMtTFeZG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dylan Meyer",
@@ -834,7 +834,7 @@
       "id": 1288069,
       "title": "Tenzing",
       "releaseDate": "2026-10-09",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/btJ6Y8NGMEC5cTyxnIKwa3ugxaB.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Jennifer Peedom",
@@ -1239,6 +1239,18 @@
       "imdbId": "tt29122074"
     },
     {
+      "id": 1566920,
+      "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/aMQnlYqfKU9JZTwtlhVtDQ69hpe.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Norihiro Naganuma",
+      "studioStr": "TOHO animation STUDIO / OLM",
+      "prestige": true,
+      "imdbId": "tt39110207"
+    },
+    {
       "id": 1408207,
       "title": "Zero A.D.",
       "releaseDate": "2026-12-11",
@@ -1434,7 +1446,7 @@
       "id": 1384758,
       "title": "Ice Age: Boiling Point",
       "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/hNfEXv5pKWw3raOghlspn8zFjm4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John C. Donkin",
@@ -1620,7 +1632,7 @@
       "directorStr": "Eric Guillon",
       "studioStr": "Illumination / Universal Pictures",
       "prestige": true,
-      "imdbId": "tt43609889"
+      "imdbId": "tt43609247"
     },
     {
       "id": 556682,
@@ -1722,7 +1734,7 @@
       "id": 1417668,
       "title": "Star Wars: Starfighter",
       "releaseDate": "2027-05-28",
-      "poster": "https://image.tmdb.org/t/p/w92/AsCNiwRC2rWSy8cMtl7Kfr1axix.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Shawn Levy",
@@ -2037,7 +2049,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2319,18 +2331,6 @@
       "imdbId": "tt8009732"
     },
     {
-      "id": 1364797,
-      "title": "Dynamic Duo",
-      "releaseDate": "2028-06-30",
-      "poster": "https://image.tmdb.org/t/p/w92/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Arthur Mintz",
-      "studioStr": "DC Studios / 6th & Idaho Motion Picture Company",
-      "prestige": true,
-      "imdbId": "tt33549695"
-    },
-    {
       "id": 1110132,
       "title": "Donkey",
       "releaseDate": "2028-06-30",
@@ -2341,6 +2341,18 @@
       "studioStr": "DreamWorks Animation / Universal Pictures",
       "prestige": true,
       "imdbId": "tt43619974"
+    },
+    {
+      "id": 1364797,
+      "title": "Dynamic Duo",
+      "releaseDate": "2028-06-30",
+      "poster": "https://image.tmdb.org/t/p/w92/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Arthur Mintz",
+      "studioStr": "DC Studios / 6th & Idaho Motion Picture Company",
+      "prestige": true,
+      "imdbId": "tt33549695"
     },
     {
       "id": 615127,
