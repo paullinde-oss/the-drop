@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T12:11:27.984Z",
-  "count": 203,
+  "generatedAt": "2026-07-05T12:18:28.061Z",
+  "count": 201,
   "movies": [
     {
       "id": 1708581,
@@ -195,6 +195,18 @@
       "imdbId": "tt18259538"
     },
     {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "releaseDate": "2026-07-29",
+      "poster": "https://image.tmdb.org/t/p/w92/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Destin Daniel Cretton",
+      "studioStr": "Marvel Studios / Columbia Pictures",
+      "prestige": true,
+      "imdbId": "tt22084616"
+    },
+    {
       "id": 1481343,
       "title": "The Devil's Mouth",
       "releaseDate": "2026-07-29",
@@ -205,30 +217,6 @@
       "studioStr": "Amazon MGM Studios / Thunder Road",
       "prestige": true,
       "imdbId": "tt36958312"
-    },
-    {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "releaseDate": "2026-07-31",
-      "poster": "https://image.tmdb.org/t/p/w92/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Destin Daniel Cretton",
-      "studioStr": "Marvel Studios / Columbia Pictures",
-      "prestige": true,
-      "imdbId": "tt22084616"
-    },
-    {
-      "id": 1722167,
-      "title": "Mickey's Country Farm",
-      "releaseDate": "2026-07-31",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Disney Television Animation",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1598766,
@@ -318,7 +306,7 @@
       "id": 1493400,
       "title": "Camp Rock 3",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/1w2SIg1TiqqvXSmDsqj104m2UGM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/iylZEsTi65akvTM9brScfrLrkpI.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Veronica Rodriguez",
@@ -481,18 +469,6 @@
       "studioStr": "Excel Entertainment / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt34339725"
-    },
-    {
-      "id": 1723064,
-      "title": "Drawn Together",
-      "releaseDate": "2026-09-09",
-      "poster": null,
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt43622495"
     },
     {
       "id": 1302904,
@@ -1071,18 +1047,6 @@
       "imdbId": "tt14413964"
     },
     {
-      "id": 1457866,
-      "title": "The Adventures of Cliff Booth",
-      "releaseDate": "2026-11-24",
-      "poster": null,
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "David Fincher",
-      "studioStr": "Heyday Films / Netflix",
-      "prestige": true,
-      "imdbId": "tt36408401"
-    },
-    {
       "id": 1720486,
       "title": "Lilo & Scratch",
       "releaseDate": "2026-11-25",
@@ -1117,6 +1081,18 @@
       "studioStr": "Dandelion Media / Hershey Entities",
       "prestige": true,
       "imdbId": "tt17055444"
+    },
+    {
+      "id": 1457866,
+      "title": "The Adventures of Cliff Booth",
+      "releaseDate": "2026-11-25",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "David Fincher",
+      "studioStr": "Heyday Films / Netflix",
+      "prestige": true,
+      "imdbId": "tt36408401"
     },
     {
       "id": 1400336,
@@ -1914,7 +1890,7 @@
       "id": 806704,
       "title": "The Batman: Part II",
       "releaseDate": "2027-10-01",
-      "poster": "https://image.tmdb.org/t/p/w92/qv4YTyxvaujP79a5XZJ6F4G8Nyi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/r5fl4aMsmTjgc8DdDqQaM84roWp.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Matt Reeves",
