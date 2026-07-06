@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:18:28.061Z",
+  "generatedAt": "2026-07-06T14:28:50.110Z",
   "count": 201,
   "movies": [
     {
@@ -171,18 +171,6 @@
       "imdbId": "tt39026173"
     },
     {
-      "id": 949838,
-      "title": "72 HOURS",
-      "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/i2Yf13nLAr3WVS9lsjfbWlcfeBr.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Tim Story",
-      "studioStr": "Sony Pictures / Davis Entertainment",
-      "prestige": true,
-      "imdbId": "tt36304003"
-    },
-    {
       "id": 980431,
       "title": "Avatar Aang: The Last Airbender",
       "releaseDate": "2026-07-25",
@@ -234,7 +222,7 @@
       "id": 1433367,
       "title": "One Night Only",
       "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/gzy1L7wqkFRznQPv4WrdPQ9bCJ8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Will Gluck",
@@ -282,7 +270,7 @@
       "id": 1623376,
       "title": "Blue Lock",
       "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/fqyroNCIAUCUFIHx8F7L642BBW8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mMNJWZ0G1eMBo3nE07pDcHWi6By.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Yusuke Taki",
@@ -558,7 +546,7 @@
       "id": 1032863,
       "title": "The Love Hypothesis",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/mSeGcWakOmhPd1n0QcinqIIUu1B.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5UShSrySBgiNU7l5NsVK1iKBQpZ.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Claire Scanlon",
@@ -939,6 +927,18 @@
       "imdbId": null
     },
     {
+      "id": 1620290,
+      "title": "Kenan & Kel Meet Frankenstein",
+      "releaseDate": "2026-11-06",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Artists for Artists / Range Media Partners",
+      "prestige": true,
+      "imdbId": "tt39384130"
+    },
+    {
       "id": 1084409,
       "title": "A Talent for a Murder",
       "releaseDate": "2026-11-12",
@@ -949,6 +949,18 @@
       "studioStr": "Lunar Pictures / Lucky Red",
       "prestige": true,
       "imdbId": "tt14129116"
+    },
+    {
+      "id": 1286656,
+      "title": "I Play Rocky",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/9v0QSzKscxuorhk8d9Z11ixzIWE.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Peter Farrelly",
+      "studioStr": "Eden Rock Media / Baha Productions",
+      "prestige": true,
+      "imdbId": "tt11995650"
     },
     {
       "id": 1288211,
@@ -973,18 +985,6 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
-    },
-    {
-      "id": 1286656,
-      "title": "I Play Rocky",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/9v0QSzKscxuorhk8d9Z11ixzIWE.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Peter Farrelly",
-      "studioStr": "Eden Rock Media / Baha Productions",
-      "prestige": true,
-      "imdbId": "tt11995650"
     },
     {
       "id": 1723807,
@@ -1050,7 +1050,7 @@
       "id": 1720486,
       "title": "Lilo & Scratch",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/cgDFMeqMM3wvWh36iNpiUCrYtWb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sCqet6JlBUu2YLGdOAJyMwvLM8U.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Fawn Veerasunthorn, Malcon Pierce",
@@ -1062,7 +1062,7 @@
       "id": 1538497,
       "title": "Hexed",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/7QI8EAmNB0F2ijzP4eyyEiQhfKi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jason Hand, Fawn Veerasunthorn",
@@ -1563,18 +1563,6 @@
       "imdbId": "tt13655056"
     },
     {
-      "id": 1718699,
-      "title": "Not Alone",
-      "releaseDate": "2027-04-16",
-      "poster": "https://image.tmdb.org/t/p/w92/9HqA8Hxwd7KNs6ttYqRbXtYHLpv.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Eric Guillon",
-      "studioStr": "Illumination",
-      "prestige": false,
-      "imdbId": "tt43609247"
-    },
-    {
       "id": 556682,
       "title": "F.A.S.T.",
       "releaseDate": "2027-04-23",
@@ -1717,6 +1705,18 @@
       "studioStr": "Warner Bros. Pictures / LuckyChap Entertainment",
       "prestige": true,
       "imdbId": "tt20374502"
+    },
+    {
+      "id": 1726759,
+      "title": "Michael: Part Two",
+      "releaseDate": "2027-06-25",
+      "poster": "https://image.tmdb.org/t/p/w92/b0aVPGGu1jNQqHGgwJj3alByCKz.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Lionsgate / GK Films",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 421892,
@@ -2236,7 +2236,7 @@
     },
     {
       "id": 1720841,
-      "title": "Jurassic World: Liberation",
+      "title": "Untitled Jurassic World Rebirth Sequel",
       "releaseDate": "2028-06-09",
       "poster": "https://image.tmdb.org/t/p/w92/7WtteFZnNic9uhqyFUgSvlhcmh0.jpg",
       "format": "theatrical",
