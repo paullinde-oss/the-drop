@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T14:28:50.110Z",
-  "count": 201,
+  "generatedAt": "2026-07-07T13:21:56.056Z",
+  "count": 198,
   "movies": [
     {
       "id": 1708581,
@@ -30,7 +30,7 @@
       "id": 1108427,
       "title": "Moana",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rQ0f1Y3t9w3DxVxuVydkgqQ2Hji.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Thomas Kail",
@@ -137,7 +137,7 @@
     {
       "id": 1469342,
       "title": "Her Private Hell",
-      "releaseDate": "2026-07-24",
+      "releaseDate": "2026-07-23",
       "poster": "https://image.tmdb.org/t/p/w92/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -145,18 +145,6 @@
       "studioStr": "NEON / byNWR",
       "prestige": true,
       "imdbId": "tt36629891"
-    },
-    {
-      "id": 1658226,
-      "title": "Sana: Play with Me",
-      "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/4D1iIsiLABlrXO7jgIFebTyJoso.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takashi Shimizu",
-      "studioStr": "Shochiku",
-      "prestige": true,
-      "imdbId": "tt43380772"
     },
     {
       "id": 1586876,
@@ -169,18 +157,6 @@
       "studioStr": "QTORY / CyPic",
       "prestige": true,
       "imdbId": "tt39026173"
-    },
-    {
-      "id": 980431,
-      "title": "Avatar Aang: The Last Airbender",
-      "releaseDate": "2026-07-25",
-      "poster": "https://image.tmdb.org/t/p/w92/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Lauren Montgomery",
-      "studioStr": "Nickelodeon Movies / Paramount Pictures",
-      "prestige": true,
-      "imdbId": "tt18259538"
     },
     {
       "id": 969681,
@@ -231,18 +207,6 @@
       "imdbId": "tt37853455"
     },
     {
-      "id": 1329016,
-      "title": "Tony",
-      "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Matt Johnson",
-      "studioStr": "Star Thrower Entertainment / Zapruder Films",
-      "prestige": true,
-      "imdbId": "tt33095251"
-    },
-    {
       "id": 675871,
       "title": "Super Troopers 3",
       "releaseDate": "2026-08-07",
@@ -279,10 +243,22 @@
       "imdbId": "tt39400168"
     },
     {
+      "id": 1329016,
+      "title": "Tony",
+      "releaseDate": "2026-08-07",
+      "poster": "https://image.tmdb.org/t/p/w92/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Matt Johnson",
+      "studioStr": "Star Thrower Entertainment / Zapruder Films",
+      "prestige": true,
+      "imdbId": "tt33095251"
+    },
+    {
       "id": 1101383,
       "title": "The End of Oak Street",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/60bRdW7JTXTaSMFgLHjcoS1fXHh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Robert Mitchell",
@@ -337,18 +313,6 @@
       "studioStr": "Blumhouse Productions / Screen Gems",
       "prestige": true,
       "imdbId": "tt32393988"
-    },
-    {
-      "id": 1288445,
-      "title": "Mutiny",
-      "releaseDate": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jean-François Richet",
-      "studioStr": "Punch Palace Productions / MadRiver Pictures",
-      "prestige": false,
-      "imdbId": "tt32338669"
     },
     {
       "id": 1516698,
@@ -585,7 +549,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -771,6 +735,18 @@
       "imdbId": "tt6262770"
     },
     {
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "releaseDate": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w92/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Lauren Montgomery",
+      "studioStr": "Nickelodeon Movies / Paramount Pictures",
+      "prestige": true,
+      "imdbId": "tt18259538"
+    },
+    {
       "id": 1477572,
       "title": "Visitation",
       "releaseDate": "2026-10-15",
@@ -927,18 +903,6 @@
       "imdbId": null
     },
     {
-      "id": 1620290,
-      "title": "Kenan & Kel Meet Frankenstein",
-      "releaseDate": "2026-11-06",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Artists for Artists / Range Media Partners",
-      "prestige": true,
-      "imdbId": "tt39384130"
-    },
-    {
       "id": 1084409,
       "title": "A Talent for a Murder",
       "releaseDate": "2026-11-12",
@@ -1021,6 +985,18 @@
       "studioStr": "Skydance Media / Indivisible Productions",
       "prestige": true,
       "imdbId": "tt32213169"
+    },
+    {
+      "id": 1185542,
+      "title": "Agnes & Amir",
+      "releaseDate": "2026-11-19",
+      "poster": "https://image.tmdb.org/t/p/w92/iVkuKithMCmlo62NqLeoO7YfSHc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Helena Hufnagel",
+      "studioStr": "Nordpolaris / StudioCanal",
+      "prestige": true,
+      "imdbId": "tt43598591"
     },
     {
       "id": 1300968,
@@ -1803,18 +1779,6 @@
       "imdbId": "tt35050152"
     },
     {
-      "id": 1634942,
-      "title": "Jason Statham Stole My Bike",
-      "releaseDate": "2027-08-06",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "Black Bear Pictures / 87North Productions",
-      "prestige": false,
-      "imdbId": "tt39848323"
-    },
-    {
       "id": 1572400,
       "title": "Shiver",
       "releaseDate": "2027-08-13",
@@ -1948,7 +1912,7 @@
     },
     {
       "id": 1651461,
-      "title": "Thasnagar",
+      "title": "Untitled Daniels Event Film",
       "releaseDate": "2027-11-19",
       "poster": null,
       "format": "theatrical",
