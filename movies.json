@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T13:21:56.056Z",
-  "count": 198,
+  "generatedAt": "2026-07-08T12:22:54.858Z",
+  "count": 200,
   "movies": [
     {
       "id": 1708581,
@@ -30,7 +30,7 @@
       "id": 1108427,
       "title": "Moana",
       "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/rQ0f1Y3t9w3DxVxuVydkgqQ2Hji.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Thomas Kail",
@@ -145,6 +145,18 @@
       "studioStr": "NEON / byNWR",
       "prestige": true,
       "imdbId": "tt36629891"
+    },
+    {
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "releaseDate": "2026-07-24",
+      "poster": "https://image.tmdb.org/t/p/w92/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Lauren Montgomery",
+      "studioStr": "Nickelodeon Movies / Paramount Pictures",
+      "prestige": true,
+      "imdbId": "tt18259538"
     },
     {
       "id": 1586876,
@@ -315,6 +327,18 @@
       "imdbId": "tt32393988"
     },
     {
+      "id": 1288445,
+      "title": "Mutiny",
+      "releaseDate": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jean-François Richet",
+      "studioStr": "Punch Palace Productions / MadRiver Pictures",
+      "prestige": false,
+      "imdbId": "tt32338669"
+    },
+    {
       "id": 1516698,
       "title": "The Last Sunrise",
       "releaseDate": "2026-08-26",
@@ -421,6 +445,18 @@
       "studioStr": "Excel Entertainment / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt34339725"
+    },
+    {
+      "id": 1050981,
+      "title": "Being Heumann",
+      "releaseDate": "2026-09-10",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sian Heder",
+      "studioStr": "Permut Presentations / Gravity Squared Entertainment",
+      "prestige": true,
+      "imdbId": "tt15095848"
     },
     {
       "id": 1302904,
@@ -735,18 +771,6 @@
       "imdbId": "tt6262770"
     },
     {
-      "id": 980431,
-      "title": "Avatar Aang: The Last Airbender",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Lauren Montgomery",
-      "studioStr": "Nickelodeon Movies / Paramount Pictures",
-      "prestige": true,
-      "imdbId": "tt18259538"
-    },
-    {
       "id": 1477572,
       "title": "Visitation",
       "releaseDate": "2026-10-15",
@@ -1050,7 +1074,7 @@
       "id": 1461490,
       "title": "Hershey",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/4iuKFMlFPCjIvL4j0GFwPZvpvfR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hx2ojNQYhcSiNMk98w0yrnd0evu.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mark Waters",
@@ -1155,6 +1179,18 @@
       "imdbId": "tt29122074"
     },
     {
+      "id": 1260649,
+      "title": "Jumanji: Open World",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jake Kasdan",
+      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
+      "prestige": true,
+      "imdbId": "tt26735127"
+    },
+    {
       "id": 1566920,
       "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
       "releaseDate": "2026-12-11",
@@ -1168,7 +1204,7 @@
     },
     {
       "id": 1408207,
-      "title": "Zero A.D.",
+      "title": "Zero A.D.: The Birth of Christ",
       "releaseDate": "2026-12-11",
       "poster": "https://image.tmdb.org/t/p/w92/i0of8BcqZ1BTzbZqyFkdpoLpiFx.jpg",
       "format": "theatrical",
@@ -1213,18 +1249,6 @@
       "studioStr": "Skydance Animation / Cinesite Animation",
       "prestige": true,
       "imdbId": "tt18270542"
-    },
-    {
-      "id": 1260649,
-      "title": "Jumanji: Open World",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jake Kasdan",
-      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
-      "prestige": true,
-      "imdbId": "tt26735127"
     },
     {
       "id": 1437882,
@@ -1563,18 +1587,6 @@
       "imdbId": "tt32659463"
     },
     {
-      "id": 1548004,
-      "title": "The Summer I Turned Pretty: The Movie",
-      "releaseDate": "2027-04-27",
-      "poster": "https://image.tmdb.org/t/p/w92/fdxqrRCaQtRh8Z6Tuol31y5JEy.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Jenny Han",
-      "studioStr": "Amazon MGM Studios / wiip",
-      "prestige": true,
-      "imdbId": "tt38353629"
-    },
-    {
       "id": 532652,
       "title": "The Resurrection of the Christ: Part One",
       "releaseDate": "2027-05-06",
@@ -1683,18 +1695,6 @@
       "imdbId": "tt20374502"
     },
     {
-      "id": 1726759,
-      "title": "Michael: Part Two",
-      "releaseDate": "2027-06-25",
-      "poster": "https://image.tmdb.org/t/p/w92/b0aVPGGu1jNQqHGgwJj3alByCKz.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Lionsgate / GK Films",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 421892,
       "title": "Shrek 5",
       "releaseDate": "2027-06-30",
@@ -1779,6 +1779,18 @@
       "imdbId": "tt35050152"
     },
     {
+      "id": 1634942,
+      "title": "Jason Statham Stole My Bike",
+      "releaseDate": "2027-08-06",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "Black Bear Pictures / 87North Productions",
+      "prestige": false,
+      "imdbId": "tt39848323"
+    },
+    {
       "id": 1572400,
       "title": "Shiver",
       "releaseDate": "2027-08-13",
@@ -1801,6 +1813,18 @@
       "studioStr": "Point Grey Pictures / Paramount Pictures",
       "prestige": true,
       "imdbId": "tt31512072"
+    },
+    {
+      "id": 1685097,
+      "title": "Michael 2",
+      "releaseDate": "2027-08-29",
+      "poster": "https://image.tmdb.org/t/p/w92/fWlCy8L9QX7kYBV2on8yROhtvHA.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Antoine Fuqua",
+      "studioStr": "Lionsgate",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1554353,
