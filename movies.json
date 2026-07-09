@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-07-08T12:22:54.858Z",
-  "count": 200,
+  "generatedAt": "2026-07-09T13:50:43.823Z",
+  "count": 195,
   "movies": [
-    {
-      "id": 1708581,
-      "title": "Letters from an Inner Exile",
-      "releaseDate": "2026-07-08",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Eloy Enciso Cachafeiro",
-      "studioStr": "Filmika Galaika / Umbracle Cinema",
-      "prestige": true,
-      "imdbId": null
-    },
     {
       "id": 1212763,
       "title": "Evil Dead Burn",
@@ -51,18 +39,6 @@
       "imdbId": null
     },
     {
-      "id": 1408170,
-      "title": "Lenin",
-      "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Murali Kishor Abburu",
-      "studioStr": "Sithara Entertainments / Manam Enterprises",
-      "prestige": true,
-      "imdbId": "tt5256640"
-    },
-    {
       "id": 1715473,
       "title": "I Can't Say No to Myself",
       "releaseDate": "2026-07-11",
@@ -72,6 +48,18 @@
       "directorStr": "Hadas Ben Aroya",
       "studioStr": "United King Films / Port au Prince Films",
       "prestige": false,
+      "imdbId": null
+    },
+    {
+      "id": 1616674,
+      "title": "Me Before Me",
+      "releaseDate": "2026-07-16",
+      "poster": "https://image.tmdb.org/t/p/w92/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Gina S. Noer",
+      "studioStr": "Wahana Kreator / Netflix",
+      "prestige": true,
       "imdbId": null
     },
     {
@@ -207,6 +195,18 @@
       "imdbId": "tt41293342"
     },
     {
+      "id": 1307118,
+      "title": "Soulm8te",
+      "releaseDate": "2026-08-01",
+      "poster": "https://image.tmdb.org/t/p/w92/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Kate Dolan",
+      "studioStr": "Blumhouse Productions / Atomic Monster",
+      "prestige": true,
+      "imdbId": "tt32654916"
+    },
+    {
       "id": 1433367,
       "title": "One Night Only",
       "releaseDate": "2026-08-07",
@@ -325,18 +325,6 @@
       "studioStr": "Blumhouse Productions / Screen Gems",
       "prestige": true,
       "imdbId": "tt32393988"
-    },
-    {
-      "id": 1288445,
-      "title": "Mutiny",
-      "releaseDate": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jean-François Richet",
-      "studioStr": "Punch Palace Productions / MadRiver Pictures",
-      "prestige": false,
-      "imdbId": "tt32338669"
     },
     {
       "id": 1516698,
@@ -585,7 +573,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -1218,7 +1206,7 @@
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Denis Villeneuve",
@@ -1405,18 +1393,6 @@
       "studioStr": "The Cantillon Company / TriStar Pictures",
       "prestige": true,
       "imdbId": "tt4540534"
-    },
-    {
-      "id": 1647522,
-      "title": "Love Me Love Me 2",
-      "releaseDate": "2027-02-13",
-      "poster": "https://image.tmdb.org/t/p/w92/8sxyPUOGbI3VG6vcF4CzBUuaQbK.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Roger Kumble",
-      "studioStr": "Lotus Production / Leone Film Group",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1480503,
@@ -1779,18 +1755,6 @@
       "imdbId": "tt35050152"
     },
     {
-      "id": 1634942,
-      "title": "Jason Statham Stole My Bike",
-      "releaseDate": "2027-08-06",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "Black Bear Pictures / 87North Productions",
-      "prestige": false,
-      "imdbId": "tt39848323"
-    },
-    {
       "id": 1572400,
       "title": "Shiver",
       "releaseDate": "2027-08-13",
@@ -1813,18 +1777,6 @@
       "studioStr": "Point Grey Pictures / Paramount Pictures",
       "prestige": true,
       "imdbId": "tt31512072"
-    },
-    {
-      "id": 1685097,
-      "title": "Michael 2",
-      "releaseDate": "2027-08-29",
-      "poster": "https://image.tmdb.org/t/p/w92/fWlCy8L9QX7kYBV2on8yROhtvHA.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Antoine Fuqua",
-      "studioStr": "Lionsgate",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1554353,
@@ -2221,18 +2173,6 @@
       "studioStr": "Walt Disney Pictures / Rideback",
       "prestige": true,
       "imdbId": "tt37452825"
-    },
-    {
-      "id": 1720841,
-      "title": "Untitled Jurassic World Rebirth Sequel",
-      "releaseDate": "2028-06-09",
-      "poster": "https://image.tmdb.org/t/p/w92/7WtteFZnNic9uhqyFUgSvlhcmh0.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Gareth Edwards",
-      "studioStr": "Universal",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1327821,
