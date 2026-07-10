@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T13:50:43.823Z",
-  "count": 195,
+  "generatedAt": "2026-07-10T13:14:13.785Z",
+  "count": 197,
   "movies": [
     {
       "id": 1212763,
@@ -48,18 +48,6 @@
       "directorStr": "Hadas Ben Aroya",
       "studioStr": "United King Films / Port au Prince Films",
       "prestige": false,
-      "imdbId": null
-    },
-    {
-      "id": 1616674,
-      "title": "Me Before Me",
-      "releaseDate": "2026-07-16",
-      "poster": "https://image.tmdb.org/t/p/w92/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Gina S. Noer",
-      "studioStr": "Wahana Kreator / Netflix",
-      "prestige": true,
       "imdbId": null
     },
     {
@@ -135,18 +123,6 @@
       "imdbId": "tt36629891"
     },
     {
-      "id": 980431,
-      "title": "Avatar Aang: The Last Airbender",
-      "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Lauren Montgomery",
-      "studioStr": "Nickelodeon Movies / Paramount Pictures",
-      "prestige": true,
-      "imdbId": "tt18259538"
-    },
-    {
       "id": 1586876,
       "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "releaseDate": "2026-07-24",
@@ -157,6 +133,18 @@
       "studioStr": "QTORY / CyPic",
       "prestige": true,
       "imdbId": "tt39026173"
+    },
+    {
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "releaseDate": "2026-07-25",
+      "poster": "https://image.tmdb.org/t/p/w92/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Lauren Montgomery",
+      "studioStr": "Nickelodeon Movies / Paramount Pictures",
+      "prestige": true,
+      "imdbId": "tt18259538"
     },
     {
       "id": 969681,
@@ -294,7 +282,7 @@
       "id": 1226699,
       "title": "The Wrong Girls",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/lDYmh3IzTmSkoFD1wdOtMtTFeZG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dylan Meyer",
@@ -666,7 +654,7 @@
       "id": 1706689,
       "title": "First Voice",
       "releaseDate": "2026-10-02",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/aN80RRYhhcGJvLzopGcVAtRQnas.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": null,
@@ -807,6 +795,18 @@
       "imdbId": "tt27419420"
     },
     {
+      "id": 1561726,
+      "title": "Masterplan",
+      "releaseDate": "2026-10-16",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Thomas Vincent",
+      "studioStr": "Amazon MGM Studios / Gaumont",
+      "prestige": true,
+      "imdbId": "tt38672588"
+    },
+    {
       "id": 1400940,
       "title": "Clayface",
       "releaseDate": "2026-10-23",
@@ -870,7 +870,7 @@
       "id": 1381071,
       "title": "Godzilla Minus Zero",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/zOeAduPBa1NZyX9TCcWXVpnHy3T.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Yamazaki",
@@ -978,7 +978,7 @@
       "id": 1625344,
       "title": "The Rainbow Fish",
       "releaseDate": "2026-11-19",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/iXKwt7ifWuy0CMMPjXVCPwoJQr4.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Florian Moch",
@@ -1467,6 +1467,18 @@
       "imdbId": "tt32492552"
     },
     {
+      "id": 1085176,
+      "title": "Demons",
+      "releaseDate": "2027-03-18",
+      "poster": "https://image.tmdb.org/t/p/w92/47QH8QAhTAwiyVCYGh2BJVQgzJO.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nataliia Vorozhbyt",
+      "studioStr": "Kristi Films / Ukrainian State Film Agency",
+      "prestige": true,
+      "imdbId": "tt20149536"
+    },
+    {
       "id": 1401586,
       "title": "Sonic the Hedgehog 4",
       "releaseDate": "2027-03-19",
@@ -1542,7 +1554,7 @@
       "id": 556682,
       "title": "F.A.S.T.",
       "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/ri0TxrIvhojA0DTYBgExIZcaihI.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ben Richardson",
@@ -1602,7 +1614,7 @@
       "id": 1138528,
       "title": "Bad Fairies",
       "releaseDate": "2027-05-21",
-      "poster": "https://image.tmdb.org/t/p/w92/h0JbLsPVEJModp73t2Os7a3z8Ay.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qv5bf7IXmVHpGE0TpYKA8tD2NFi.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Megan Nicole Dong",
@@ -1794,7 +1806,7 @@
       "id": 1544162,
       "title": "The Conjuring: First Communion",
       "releaseDate": "2027-09-10",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/dgyJySF7AETucMIxl8dyEsE9oWy.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rodrigue Huart",
@@ -1854,7 +1866,7 @@
       "id": 1290568,
       "title": "Margie Claus",
       "releaseDate": "2027-11-05",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/mpWEBwFLlaSBuEshYnWd0Zm6USo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kirk DeMicco",
@@ -1929,7 +1941,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2058,7 +2070,7 @@
       "id": 748865,
       "title": "Oh, the Places You'll Go!",
       "releaseDate": "2028-03-17",
-      "poster": "https://image.tmdb.org/t/p/w92/rf0EFUEN4hV41FjaQsbaB274A3g.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/vrWq8Yl2CPB6hvVfi8ppxOs0OII.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jon M. Chu, Jill Culton",
@@ -2257,6 +2269,18 @@
       "studioStr": "New Line Cinema / Subconscious",
       "prestige": true,
       "imdbId": "tt38487331"
+    },
+    {
+      "id": 1719306,
+      "title": "Freddy the 13th",
+      "releaseDate": "2028-10-13",
+      "poster": "https://image.tmdb.org/t/p/w92/byfiFcAqop3h6T0P0klI2JLsUa2.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Dan Trachtenberg",
+      "studioStr": "Paramount Animation",
+      "prestige": true,
+      "imdbId": "tt43610781"
     },
     {
       "id": 1715249,
