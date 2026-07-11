@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-07-10T13:14:13.785Z",
-  "count": 197,
+  "generatedAt": "2026-07-11T11:53:27.214Z",
+  "count": 193,
   "movies": [
-    {
-      "id": 1212763,
-      "title": "Evil Dead Burn",
-      "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sébastien Vaniček",
-      "studioStr": "New Line Cinema / Screen Gems",
-      "prestige": true,
-      "imdbId": "tt31170389"
-    },
-    {
-      "id": 1108427,
-      "title": "Moana",
-      "releaseDate": "2026-07-10",
-      "poster": "https://image.tmdb.org/t/p/w92/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Thomas Kail",
-      "studioStr": "Walt Disney Pictures / Seven Bucks Productions",
-      "prestige": true,
-      "imdbId": "tt27419466"
-    },
-    {
-      "id": 1708577,
-      "title": "Foam of Worlds",
-      "releaseDate": "2026-07-10",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Anna Marziano",
-      "studioStr": "Flaneur Films",
-      "prestige": false,
-      "imdbId": null
-    },
     {
       "id": 1715473,
       "title": "I Can't Say No to Myself",
@@ -73,18 +37,6 @@
       "studioStr": "Universal Pictures / Syncopy",
       "prestige": true,
       "imdbId": "tt33764258"
-    },
-    {
-      "id": 1318621,
-      "title": "Descendants: Wicked Wonderland",
-      "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Kimmy Gatewood",
-      "studioStr": "Suzanne Todd Productions / Potato Monkey Productions",
-      "prestige": true,
-      "imdbId": "tt34477910"
     },
     {
       "id": 1511675,
@@ -375,18 +327,6 @@
       "imdbId": "tt28014327"
     },
     {
-      "id": 1437511,
-      "title": "How to Rob a Bank",
-      "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "87North Productions / Imagine Entertainment",
-      "prestige": true,
-      "imdbId": "tt35866986"
-    },
-    {
       "id": 1284046,
       "title": "Onslaught",
       "releaseDate": "2026-09-04",
@@ -606,7 +546,7 @@
       "id": 1321666,
       "title": "The Doll",
       "releaseDate": "2026-09-30",
-      "poster": "https://image.tmdb.org/t/p/w92/4fzO2JQFUyCo7CiGydGejBHJpqN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yQZtwuo1S2N4ixO92mPdL8O1kPD.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Maciej Kawalski",
@@ -961,6 +901,18 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
+    },
+    {
+      "id": 1437511,
+      "title": "How to Rob a Bank",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "87North Productions / Imagine Entertainment",
+      "prestige": true,
+      "imdbId": "tt35866986"
     },
     {
       "id": 1723807,
@@ -1383,18 +1335,6 @@
       "imdbId": "tt34512981"
     },
     {
-      "id": 458896,
-      "title": "The Nightingale",
-      "releaseDate": "2027-02-12",
-      "poster": "https://image.tmdb.org/t/p/w92/ghcC57Zl7qmOZWFqvc6aPBUC2fA.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Michael Morris",
-      "studioStr": "The Cantillon Company / TriStar Pictures",
-      "prestige": true,
-      "imdbId": "tt4540534"
-    },
-    {
       "id": 1480503,
       "title": "CoComelon: The Movie",
       "releaseDate": "2027-02-19",
@@ -1489,6 +1429,18 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt16744566"
+    },
+    {
+      "id": 458896,
+      "title": "The Nightingale",
+      "releaseDate": "2027-03-19",
+      "poster": "https://image.tmdb.org/t/p/w92/ghcC57Zl7qmOZWFqvc6aPBUC2fA.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Michael Morris",
+      "studioStr": "The Cantillon Company / TriStar Pictures",
+      "prestige": true,
+      "imdbId": "tt4540534"
     },
     {
       "id": 1288438,
@@ -1941,7 +1893,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1972,7 +1924,7 @@
     },
     {
       "id": 1601898,
-      "title": "Untitled Nancy Meyers Film",
+      "title": "Paris Paramount",
       "releaseDate": "2027-12-24",
       "poster": null,
       "format": "theatrical",
