@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-11T11:53:27.214Z",
+  "generatedAt": "2026-07-12T12:01:06.083Z",
   "count": 193,
   "movies": [
     {
-      "id": 1715473,
-      "title": "I Can't Say No to Myself",
-      "releaseDate": "2026-07-11",
-      "poster": null,
+      "id": 1368337,
+      "title": "The Odyssey",
+      "releaseDate": "2026-07-15",
+      "poster": "https://image.tmdb.org/t/p/w92/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Hadas Ben Aroya",
-      "studioStr": "United King Films / Port au Prince Films",
-      "prestige": false,
-      "imdbId": null
+      "directorStr": "Christopher Nolan",
+      "studioStr": "Universal Pictures / Syncopy",
+      "prestige": true,
+      "imdbId": "tt33764258"
     },
     {
       "id": 1656220,
@@ -25,18 +25,6 @@
       "studioStr": "Flimmer / Flute Film",
       "prestige": false,
       "imdbId": "tt41983440"
-    },
-    {
-      "id": 1368337,
-      "title": "The Odyssey",
-      "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Christopher Nolan",
-      "studioStr": "Universal Pictures / Syncopy",
-      "prestige": true,
-      "imdbId": "tt33764258"
     },
     {
       "id": 1511675,
@@ -147,6 +135,30 @@
       "imdbId": "tt32654916"
     },
     {
+      "id": 1623376,
+      "title": "Blue Lock",
+      "releaseDate": "2026-08-06",
+      "poster": "https://image.tmdb.org/t/p/w92/mMNJWZ0G1eMBo3nE07pDcHWi6By.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Yusuke Taki",
+      "studioStr": "TOHO",
+      "prestige": true,
+      "imdbId": "tt39400168"
+    },
+    {
+      "id": 1477712,
+      "title": "Ice Cream Man",
+      "releaseDate": "2026-08-07",
+      "poster": "https://image.tmdb.org/t/p/w92/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Eli Roth",
+      "studioStr": "The Horror Section / Media Capital Technologies",
+      "prestige": true,
+      "imdbId": "tt36893729"
+    },
+    {
       "id": 1433367,
       "title": "One Night Only",
       "releaseDate": "2026-08-07",
@@ -181,18 +193,6 @@
       "studioStr": "Shochiku",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1623376,
-      "title": "Blue Lock",
-      "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/mMNJWZ0G1eMBo3nE07pDcHWi6By.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Yusuke Taki",
-      "studioStr": "TOHO",
-      "prestige": true,
-      "imdbId": "tt39400168"
     },
     {
       "id": 1329016,
@@ -387,18 +387,6 @@
       "imdbId": "tt32588798"
     },
     {
-      "id": 1377237,
-      "title": "Runner",
-      "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/gA1UBGxQp0xRaewFF5AE7Xdy1b3.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Scott Waugh",
-      "studioStr": "Broken Road Productions / AllyCat Entertainment",
-      "prestige": true,
-      "imdbId": "tt31349844"
-    },
-    {
       "id": 977942,
       "title": "The Uprising",
       "releaseDate": "2026-09-11",
@@ -409,6 +397,18 @@
       "studioStr": "Blumhouse Productions / Focus Features",
       "prestige": true,
       "imdbId": "tt36983905"
+    },
+    {
+      "id": 1377237,
+      "title": "Runner",
+      "releaseDate": "2026-09-11",
+      "poster": "https://image.tmdb.org/t/p/w92/gA1UBGxQp0xRaewFF5AE7Xdy1b3.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Scott Waugh",
+      "studioStr": "Broken Road Productions / AllyCat Entertainment",
+      "prestige": true,
+      "imdbId": "tt31349844"
     },
     {
       "id": 1423191,
@@ -501,7 +501,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -801,7 +801,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
