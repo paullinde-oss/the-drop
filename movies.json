@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T12:01:06.083Z",
-  "count": 193,
+  "generatedAt": "2026-07-13T13:22:13.910Z",
+  "count": 194,
   "movies": [
     {
       "id": 1368337,
@@ -801,7 +801,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1119,18 +1119,6 @@
       "imdbId": "tt29122074"
     },
     {
-      "id": 1260649,
-      "title": "Jumanji: Open World",
-      "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jake Kasdan",
-      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
-      "prestige": true,
-      "imdbId": "tt26735127"
-    },
-    {
       "id": 1566920,
       "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
       "releaseDate": "2026-12-11",
@@ -1189,6 +1177,18 @@
       "studioStr": "Skydance Animation / Cinesite Animation",
       "prestige": true,
       "imdbId": "tt18270542"
+    },
+    {
+      "id": 1260649,
+      "title": "Jumanji: Open World",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jake Kasdan",
+      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
+      "prestige": true,
+      "imdbId": "tt26735127"
     },
     {
       "id": 1437882,
@@ -1803,6 +1803,18 @@
       "imdbId": "tt19850008"
     },
     {
+      "id": 1689448,
+      "title": "Toy Story 6",
+      "releaseDate": "2027-10-08",
+      "poster": "https://image.tmdb.org/t/p/w92/ArEc0Kd1Bz8NZWqFt8lU0X5AxIu.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Pixar",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1574840,
       "title": "The Mummy 4",
       "releaseDate": "2027-10-15",
@@ -1893,7 +1905,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
