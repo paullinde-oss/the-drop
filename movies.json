@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T13:22:13.910Z",
-  "count": 194,
+  "generatedAt": "2026-07-14T12:14:07.196Z",
+  "count": 196,
   "movies": [
     {
       "id": 1368337,
@@ -66,7 +66,7 @@
       "id": 1586876,
       "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "releaseDate": "2026-07-24",
-      "poster": "https://image.tmdb.org/t/p/w92/cGRFURCtfGjYRLgrIEtLGGbgfVV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/2sapvk8OG1rmaS2PquLnfyoMvOS.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kei Oikawa",
@@ -801,7 +801,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1503,6 +1503,18 @@
       "imdbId": "tt13655056"
     },
     {
+      "id": 1718699,
+      "title": "Not Alone",
+      "releaseDate": "2027-04-16",
+      "poster": "https://image.tmdb.org/t/p/w92/9HqA8Hxwd7KNs6ttYqRbXtYHLpv.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Eric Guillon",
+      "studioStr": "Illumination / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt43609247"
+    },
+    {
       "id": 556682,
       "title": "F.A.S.T.",
       "releaseDate": "2027-04-23",
@@ -1518,7 +1530,7 @@
       "id": 1306322,
       "title": "Spaceballs: The New One",
       "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/cb9y8JiwXoC1iss4yUjuspJcpsJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Josh Greenbaum",
@@ -1666,7 +1678,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
-      "studioStr": "DC Studios",
+      "studioStr": "DC Studios / Troll Court Entertainment",
       "prestige": true,
       "imdbId": "tt37833661"
     },
@@ -1803,14 +1815,14 @@
       "imdbId": "tt19850008"
     },
     {
-      "id": 1689448,
-      "title": "Toy Story 6",
+      "id": 1615938,
+      "title": "The Haunting of Hotel Transylvania",
       "releaseDate": "2027-10-08",
-      "poster": "https://image.tmdb.org/t/p/w92/ArEc0Kd1Bz8NZWqFt8lU0X5AxIu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/uZcB6w6tph9P4nEw2iRXR6fDZga.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Pixar",
+      "directorStr": "Alan Hawkins, Jennifer Kluska",
+      "studioStr": "Sony Pictures Animation / Amazon MGM Studios",
       "prestige": true,
       "imdbId": null
     },
@@ -1921,6 +1933,18 @@
       "studioStr": "Lionsgate / Hidden Pictures",
       "prestige": true,
       "imdbId": "tt39310806"
+    },
+    {
+      "id": 949966,
+      "title": "Untitled Star Wars \"New Jedi Order\" Film",
+      "releaseDate": "2027-12-17",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sharmeen Obaid-Chinoy",
+      "studioStr": "Lucasfilm Ltd.",
+      "prestige": true,
+      "imdbId": "tt10300398"
     },
     {
       "id": 1670080,
