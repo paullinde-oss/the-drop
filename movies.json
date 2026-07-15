@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T12:14:07.196Z",
-  "count": 196,
+  "generatedAt": "2026-07-15T12:18:31.319Z",
+  "count": 198,
   "movies": [
     {
       "id": 1368337,
@@ -315,10 +315,22 @@
       "imdbId": "tt36236732"
     },
     {
+      "id": 1731694,
+      "title": "LEGO Star Wars: The Mandalorian",
+      "releaseDate": "2026-09-02",
+      "poster": "https://image.tmdb.org/t/p/w92/12lS1NvNItj0Ec5kzxmApZEBTnn.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Lucasfilm Ltd. / The LEGO Group",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1137844,
       "title": "Mayday",
       "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/u7awR1pOiXkxXt692nRAbS2Pqdg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kkMnUfG5qO8BfTV9MVPOoH78YS8.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Jonathan Goldstein, John Francis Daley",
@@ -501,7 +513,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -783,6 +795,18 @@
       "imdbId": "tt40311603"
     },
     {
+      "id": 1084409,
+      "title": "A Talent for a Murder",
+      "releaseDate": "2026-10-23",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Anton Corbijn",
+      "studioStr": "Lunar Pictures / Lucky Red",
+      "prestige": true,
+      "imdbId": "tt14129116"
+    },
+    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -801,7 +825,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -853,18 +877,6 @@
       "studioStr": "Angel Studios / Radiate Films",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1084409,
-      "title": "A Talent for a Murder",
-      "releaseDate": "2026-11-12",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Anton Corbijn",
-      "studioStr": "Lunar Pictures / Lucky Red",
-      "prestige": true,
-      "imdbId": "tt14129116"
     },
     {
       "id": 1286656,
@@ -1105,6 +1117,18 @@
       "studioStr": "Future Artists Entertainment / Lionsgate",
       "prestige": true,
       "imdbId": "tt29634374"
+    },
+    {
+      "id": 1452168,
+      "title": "Behemoth!",
+      "releaseDate": "2026-12-04",
+      "poster": "https://image.tmdb.org/t/p/w92/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Tony Gilroy",
+      "studioStr": "Searchlight Pictures / TSG Entertainment",
+      "prestige": true,
+      "imdbId": "tt36415529"
     },
     {
       "id": 1421967,
@@ -1530,7 +1554,7 @@
       "id": 1306322,
       "title": "Spaceballs: The New One",
       "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/AeQhhuQTUairA08N6jqagNHlkIm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Josh Greenbaum",
@@ -1828,7 +1852,7 @@
     },
     {
       "id": 1574840,
-      "title": "The Mummy 4",
+      "title": "Untitled Mummy Sequel",
       "releaseDate": "2027-10-15",
       "poster": "https://image.tmdb.org/t/p/w92/ihR2uqtz5Gn37g5gIZ2SEO2n6N1.jpg",
       "format": "theatrical",
@@ -1917,7 +1941,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
