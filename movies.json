@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-07-15T12:18:31.319Z",
+  "generatedAt": "2026-07-16T12:23:24.389Z",
   "count": 198,
   "movies": [
-    {
-      "id": 1368337,
-      "title": "The Odyssey",
-      "releaseDate": "2026-07-15",
-      "poster": "https://image.tmdb.org/t/p/w92/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Christopher Nolan",
-      "studioStr": "Universal Pictures / Syncopy",
-      "prestige": true,
-      "imdbId": "tt33764258"
-    },
     {
       "id": 1656220,
       "title": "23 000 Lives",
@@ -63,6 +51,18 @@
       "imdbId": "tt36629891"
     },
     {
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "releaseDate": "2026-07-24",
+      "poster": "https://image.tmdb.org/t/p/w92/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Lauren Montgomery",
+      "studioStr": "Nickelodeon Movies / Paramount Pictures",
+      "prestige": true,
+      "imdbId": "tt18259538"
+    },
+    {
       "id": 1586876,
       "title": "Chiikawa the Movie: The Secret of the Mermaid Island",
       "releaseDate": "2026-07-24",
@@ -73,18 +73,6 @@
       "studioStr": "QTORY / CyPic",
       "prestige": true,
       "imdbId": "tt39026173"
-    },
-    {
-      "id": 980431,
-      "title": "Avatar Aang: The Last Airbender",
-      "releaseDate": "2026-07-25",
-      "poster": "https://image.tmdb.org/t/p/w92/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Lauren Montgomery",
-      "studioStr": "Nickelodeon Movies / Paramount Pictures",
-      "prestige": true,
-      "imdbId": "tt18259538"
     },
     {
       "id": 969681,
@@ -294,7 +282,7 @@
       "id": 1384216,
       "title": "The Dog Stars",
       "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5O616X9vmRzQdB68PHzBewPittd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ridley Scott",
@@ -402,7 +390,7 @@
       "id": 977942,
       "title": "The Uprising",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/xBn14Qxc7jYpl5GVVfKRMRE52k8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5h3pjhSXVz673RsWcVWHgJ1SRcf.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Paul Greengrass",
@@ -414,7 +402,7 @@
       "id": 1377237,
       "title": "Runner",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/gA1UBGxQp0xRaewFF5AE7Xdy1b3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/asaoV7qvEvByznm9AASMtM2I1UR.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Scott Waugh",
@@ -474,7 +462,7 @@
       "id": 1032863,
       "title": "The Love Hypothesis",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/5UShSrySBgiNU7l5NsVK1iKBQpZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mSeGcWakOmhPd1n0QcinqIIUu1B.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Claire Scanlon",
@@ -879,28 +867,28 @@
       "imdbId": null
     },
     {
+      "id": 1437511,
+      "title": "How to Rob a Bank",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "87North Productions / Imagine Entertainment",
+      "prestige": true,
+      "imdbId": "tt35866986"
+    },
+    {
       "id": 1286656,
       "title": "I Play Rocky",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/9v0QSzKscxuorhk8d9Z11ixzIWE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bO2rmhFP3yyHMsAAAOTDEqrX6LD.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Peter Farrelly",
       "studioStr": "Eden Rock Media / Baha Productions",
       "prestige": true,
       "imdbId": "tt11995650"
-    },
-    {
-      "id": 1288211,
-      "title": "The Great Beyond",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/qq3Ynsokc1AtmExfeYoOnUclk3k.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "J.J. Abrams",
-      "studioStr": "Warner Bros. Pictures / Bad Robot",
-      "prestige": true,
-      "imdbId": "tt33075482"
     },
     {
       "id": 1567605,
@@ -913,18 +901,6 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
-    },
-    {
-      "id": 1437511,
-      "title": "How to Rob a Bank",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "87North Productions / Imagine Entertainment",
-      "prestige": true,
-      "imdbId": "tt35866986"
     },
     {
       "id": 1723807,
@@ -1383,16 +1359,16 @@
       "imdbId": "tt8992304"
     },
     {
-      "id": 1397972,
-      "title": "Panic Carefully",
+      "id": 1533611,
+      "title": "The Revenge of La Llorona",
       "releaseDate": "2027-02-26",
-      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Sam Esmail",
-      "studioStr": "Warner Bros. Pictures / Esmail Corp",
+      "directorStr": "Santiago Menghini",
+      "studioStr": "Atomic Monster / New Line Cinema",
       "prestige": true,
-      "imdbId": "tt34900169"
+      "imdbId": "tt37897207"
     },
     {
       "id": 1497464,
@@ -1503,16 +1479,16 @@
       "imdbId": "tt26768234"
     },
     {
-      "id": 1533611,
-      "title": "The Revenge of La Llorona",
+      "id": 1397972,
+      "title": "Panic Carefully",
       "releaseDate": "2027-04-09",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Santiago Menghini",
-      "studioStr": "Atomic Monster / New Line Cinema",
+      "directorStr": "Sam Esmail",
+      "studioStr": "Warner Bros. Pictures / Esmail Corp",
       "prestige": true,
-      "imdbId": "tt37897207"
+      "imdbId": "tt34900169"
     },
     {
       "id": 1263022,
@@ -1525,6 +1501,18 @@
       "studioStr": "A Seed & Wings Production (US) / Khalabo Ink Society",
       "prestige": true,
       "imdbId": "tt13655056"
+    },
+    {
+      "id": 1731801,
+      "title": "Boys for Life",
+      "releaseDate": "2027-04-09",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Tyler Falbo",
+      "studioStr": "Almost Friday Media / Paramount Primal",
+      "prestige": true,
+      "imdbId": "tt43677673"
     },
     {
       "id": 1718699,
@@ -1827,16 +1815,16 @@
       "imdbId": "tt29781602"
     },
     {
-      "id": 806704,
-      "title": "The Batman: Part II",
+      "id": 1288211,
+      "title": "The Great Beyond",
       "releaseDate": "2027-10-01",
-      "poster": "https://image.tmdb.org/t/p/w92/r5fl4aMsmTjgc8DdDqQaM84roWp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qq3Ynsokc1AtmExfeYoOnUclk3k.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Matt Reeves",
-      "studioStr": "6th & Idaho Motion Picture Company / DC Studios",
+      "directorStr": "J.J. Abrams",
+      "studioStr": "Warner Bros. Pictures / Bad Robot",
       "prestige": true,
-      "imdbId": "tt19850008"
+      "imdbId": "tt33075482"
     },
     {
       "id": 1615938,
@@ -1848,7 +1836,7 @@
       "directorStr": "Alan Hawkins, Jennifer Kluska",
       "studioStr": "Sony Pictures Animation / Amazon MGM Studios",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43674934"
     },
     {
       "id": 1574840,
@@ -1941,7 +1929,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2041,6 +2029,18 @@
       "studioStr": "Sony Pictures / Bad Robot",
       "prestige": true,
       "imdbId": "tt34622084"
+    },
+    {
+      "id": 806704,
+      "title": "The Batman: Part II",
+      "releaseDate": "2028-02-18",
+      "poster": "https://image.tmdb.org/t/p/w92/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Matt Reeves",
+      "studioStr": "6th & Idaho Motion Picture Company / DC Studios",
+      "prestige": true,
+      "imdbId": "tt19850008"
     },
     {
       "id": 1485839,
