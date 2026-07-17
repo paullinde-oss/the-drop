@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-16T12:23:24.389Z",
-  "count": 198,
+  "generatedAt": "2026-07-17T12:10:43.127Z",
+  "count": 203,
   "movies": [
     {
       "id": 1656220,
       "title": "23 000 Lives",
       "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Markus Goller",
@@ -115,7 +115,7 @@
       "title": "Soulm8te",
       "releaseDate": "2026-08-01",
       "poster": "https://image.tmdb.org/t/p/w92/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
-      "format": "digital",
+      "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kate Dolan",
       "studioStr": "Blumhouse Productions / Atomic Monster",
@@ -150,7 +150,7 @@
       "id": 1433367,
       "title": "One Night Only",
       "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aG0vY0XevpJqsHy9MKIHqhwLUyN.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Will Gluck",
@@ -210,7 +210,7 @@
       "id": 1493400,
       "title": "Camp Rock 3",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/iylZEsTi65akvTM9brScfrLrkpI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Veronica Rodriguez",
@@ -315,6 +315,30 @@
       "imdbId": null
     },
     {
+      "id": 1532610,
+      "title": "Ink",
+      "releaseDate": "2026-09-02",
+      "poster": "https://image.tmdb.org/t/p/w92/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Danny Boyle",
+      "studioStr": "StudioCanal UK / Media Res",
+      "prestige": true,
+      "imdbId": "tt37967547"
+    },
+    {
+      "id": 1386315,
+      "title": "The Runner",
+      "releaseDate": "2026-09-02",
+      "poster": "https://image.tmdb.org/t/p/w92/uqFpk8PyC572leLiCu79spYNjho.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Kevin Macdonald",
+      "studioStr": "Amazon MGM Studios / Rockwood Pictures",
+      "prestige": true,
+      "imdbId": "tt34564059"
+    },
+    {
       "id": 1137844,
       "title": "Mayday",
       "releaseDate": "2026-09-03",
@@ -390,11 +414,11 @@
       "id": 977942,
       "title": "The Uprising",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/5h3pjhSXVz673RsWcVWHgJ1SRcf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Paul Greengrass",
-      "studioStr": "Blumhouse Productions / Focus Features",
+      "studioStr": "Blumhouse Productions / Supernix",
       "prestige": true,
       "imdbId": "tt36983905"
     },
@@ -402,7 +426,7 @@
       "id": 1377237,
       "title": "Runner",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/asaoV7qvEvByznm9AASMtM2I1UR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Scott Waugh",
@@ -687,6 +711,18 @@
       "imdbId": "tt6262770"
     },
     {
+      "id": 1381078,
+      "title": "Love of Your Life",
+      "releaseDate": "2026-10-14",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Rachel Morrison",
+      "studioStr": "Amazon MGM Studios / Open Invite Entertainment",
+      "prestige": true,
+      "imdbId": "tt34384900"
+    },
+    {
       "id": 1477572,
       "title": "Visitation",
       "releaseDate": "2026-10-15",
@@ -813,7 +849,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -867,6 +903,18 @@
       "imdbId": null
     },
     {
+      "id": 1396056,
+      "title": "Our Revolution",
+      "releaseDate": "2026-11-11",
+      "poster": "https://image.tmdb.org/t/p/w92/xKy9qtcumqXJqCv0Kzx3JiM5C90.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Piotr Domalewski",
+      "studioStr": "Next Film / TVN Warner Bros. Discovery",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-11-13",
@@ -882,7 +930,7 @@
       "id": 1286656,
       "title": "I Play Rocky",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/bO2rmhFP3yyHMsAAAOTDEqrX6LD.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Peter Farrelly",
@@ -1002,7 +1050,7 @@
       "id": 1461490,
       "title": "Hershey",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/hx2ojNQYhcSiNMk98w0yrnd0evu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lArPVonBiFphKrpidwtn5lwGTSI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mark Waters",
@@ -1542,7 +1590,7 @@
       "id": 1306322,
       "title": "Spaceballs: The New One",
       "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/AeQhhuQTUairA08N6jqagNHlkIm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Josh Greenbaum",
@@ -1657,6 +1705,18 @@
       "studioStr": "Warner Bros. Pictures / LuckyChap Entertainment",
       "prestige": true,
       "imdbId": "tt20374502"
+    },
+    {
+      "id": 1685097,
+      "title": "Michael: Part Two",
+      "releaseDate": "2027-06-25",
+      "poster": "https://image.tmdb.org/t/p/w92/fWlCy8L9QX7kYBV2on8yROhtvHA.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Antoine Fuqua",
+      "studioStr": "Lionsgate",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 421892,
@@ -1818,7 +1878,7 @@
       "id": 1288211,
       "title": "The Great Beyond",
       "releaseDate": "2027-10-01",
-      "poster": "https://image.tmdb.org/t/p/w92/qq3Ynsokc1AtmExfeYoOnUclk3k.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "J.J. Abrams",
@@ -1929,7 +1989,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2091,6 +2151,18 @@
       "imdbId": "tt13397896"
     },
     {
+      "id": 1280608,
+      "title": "Evil Dead Wrath",
+      "releaseDate": "2028-04-07",
+      "poster": "https://image.tmdb.org/t/p/w92/r10fSbmxDipJG6VOyt9nkX3zEbx.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Francis Galluppi",
+      "studioStr": "Ghost House Pictures / New Line Cinema",
+      "prestige": true,
+      "imdbId": "tt32219574"
+    },
+    {
       "id": 1247606,
       "title": "The Beatles: Ringo",
       "releaseDate": "2028-04-07",
@@ -2137,18 +2209,6 @@
       "studioStr": "Sony Pictures / Apple Corps",
       "prestige": true,
       "imdbId": "tt31419912"
-    },
-    {
-      "id": 1280608,
-      "title": "Evil Dead Wrath",
-      "releaseDate": "2028-04-07",
-      "poster": "https://image.tmdb.org/t/p/w92/r10fSbmxDipJG6VOyt9nkX3zEbx.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Francis Galluppi",
-      "studioStr": "Ghost House Pictures / New Line Cinema",
-      "prestige": true,
-      "imdbId": "tt32219574"
     },
     {
       "id": 1505252,
