@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-07-17T12:10:43.127Z",
-  "count": 203,
+  "generatedAt": "2026-07-18T11:55:36.113Z",
+  "count": 201,
   "movies": [
-    {
-      "id": 1656220,
-      "title": "23 000 Lives",
-      "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Markus Goller",
-      "studioStr": "Flimmer / Flute Film",
-      "prestige": false,
-      "imdbId": "tt41983440"
-    },
-    {
-      "id": 1511675,
-      "title": "Kingdom 5",
-      "releaseDate": "2026-07-17",
-      "poster": "https://image.tmdb.org/t/p/w92/67OK6PDMHOhXK7XeP8KJ9fGam8C.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Shinsuke Sato",
-      "studioStr": "TOHO / CREDEUS",
-      "prestige": true,
-      "imdbId": "tt37544379"
-    },
     {
       "id": 1248230,
       "title": "Splash City",
@@ -99,6 +75,18 @@
       "imdbId": "tt36958312"
     },
     {
+      "id": 1307118,
+      "title": "Soulm8te",
+      "releaseDate": "2026-07-31",
+      "poster": "https://image.tmdb.org/t/p/w92/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Kate Dolan",
+      "studioStr": "Blumhouse Productions / Atomic Monster",
+      "prestige": true,
+      "imdbId": "tt32654916"
+    },
+    {
       "id": 1598766,
       "title": "Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation",
       "releaseDate": "2026-07-31",
@@ -109,18 +97,6 @@
       "studioStr": "TOHO / Shin-Ei Animation",
       "prestige": true,
       "imdbId": "tt41293342"
-    },
-    {
-      "id": 1307118,
-      "title": "Soulm8te",
-      "releaseDate": "2026-08-01",
-      "poster": "https://image.tmdb.org/t/p/w92/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kate Dolan",
-      "studioStr": "Blumhouse Productions / Atomic Monster",
-      "prestige": true,
-      "imdbId": "tt32654916"
     },
     {
       "id": 1623376,
@@ -411,18 +387,6 @@
       "imdbId": "tt32588798"
     },
     {
-      "id": 977942,
-      "title": "The Uprising",
-      "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Paul Greengrass",
-      "studioStr": "Blumhouse Productions / Supernix",
-      "prestige": true,
-      "imdbId": "tt36983905"
-    },
-    {
       "id": 1377237,
       "title": "Runner",
       "releaseDate": "2026-09-11",
@@ -433,6 +397,18 @@
       "studioStr": "Broken Road Productions / AllyCat Entertainment",
       "prestige": true,
       "imdbId": "tt31349844"
+    },
+    {
+      "id": 977942,
+      "title": "The Uprising",
+      "releaseDate": "2026-09-11",
+      "poster": "https://image.tmdb.org/t/p/w92/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Paul Greengrass",
+      "studioStr": "Blumhouse Productions / Supernix",
+      "prestige": true,
+      "imdbId": "tt36983905"
     },
     {
       "id": 1423191,
@@ -714,7 +690,7 @@
       "id": 1381078,
       "title": "Love of Your Life",
       "releaseDate": "2026-10-14",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/rcVgv8l2QNRfFgpLcRTxREjXms8.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Rachel Morrison",
@@ -829,6 +805,18 @@
       "studioStr": "Lunar Pictures / Lucky Red",
       "prestige": true,
       "imdbId": "tt14129116"
+    },
+    {
+      "id": 1506710,
+      "title": "God Laughs",
+      "releaseDate": "2026-10-29",
+      "poster": "https://image.tmdb.org/t/p/w92/lzXRa7v32P7bX56Cgw7ydP1XFIq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Giovanni Veronesi",
+      "studioStr": "Indiana Production / Netflix",
+      "prestige": true,
+      "imdbId": "tt37601990"
     },
     {
       "id": 1687303,
@@ -1050,7 +1038,7 @@
       "id": 1461490,
       "title": "Hershey",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/lArPVonBiFphKrpidwtn5lwGTSI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ojd8Gu2bPsOzdMz6Ip5AYDu4Vki.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mark Waters",
@@ -1347,18 +1335,6 @@
       "imdbId": "tt33295857"
     },
     {
-      "id": 1139422,
-      "title": "The Riders",
-      "releaseDate": "2027-02-04",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Edward Berger",
-      "studioStr": "Nine Hours / Scott Free Productions",
-      "prestige": true,
-      "imdbId": "tt9148786"
-    },
-    {
       "id": 1466228,
       "title": "The Comeback King",
       "releaseDate": "2027-02-05",
@@ -1527,18 +1503,6 @@
       "imdbId": "tt26768234"
     },
     {
-      "id": 1397972,
-      "title": "Panic Carefully",
-      "releaseDate": "2027-04-09",
-      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sam Esmail",
-      "studioStr": "Warner Bros. Pictures / Esmail Corp",
-      "prestige": true,
-      "imdbId": "tt34900169"
-    },
-    {
       "id": 1263022,
       "title": "Get Lite",
       "releaseDate": "2027-04-09",
@@ -1561,6 +1525,18 @@
       "studioStr": "Almost Friday Media / Paramount Primal",
       "prestige": true,
       "imdbId": "tt43677673"
+    },
+    {
+      "id": 1397972,
+      "title": "Panic Carefully",
+      "releaseDate": "2027-04-09",
+      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sam Esmail",
+      "studioStr": "Warner Bros. Pictures / Esmail Corp",
+      "prestige": true,
+      "imdbId": "tt34900169"
     },
     {
       "id": 1718699,
@@ -1602,7 +1578,7 @@
       "id": 532652,
       "title": "The Resurrection of the Christ: Part One",
       "releaseDate": "2027-05-06",
-      "poster": "https://image.tmdb.org/t/p/w92/3whNFkaetqVQt72bcBboptuwOxU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mel Gibson",
@@ -1705,18 +1681,6 @@
       "studioStr": "Warner Bros. Pictures / LuckyChap Entertainment",
       "prestige": true,
       "imdbId": "tt20374502"
-    },
-    {
-      "id": 1685097,
-      "title": "Michael: Part Two",
-      "releaseDate": "2027-06-25",
-      "poster": "https://image.tmdb.org/t/p/w92/fWlCy8L9QX7kYBV2on8yROhtvHA.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Antoine Fuqua",
-      "studioStr": "Lionsgate",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 421892,
@@ -1909,6 +1873,18 @@
       "studioStr": "Universal Pictures / Radio Silence",
       "prestige": true,
       "imdbId": "tt22408968"
+    },
+    {
+      "id": 1685097,
+      "title": "Michael: Part Two",
+      "releaseDate": "2027-10-22",
+      "poster": "https://image.tmdb.org/t/p/w92/fWlCy8L9QX7kYBV2on8yROhtvHA.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Antoine Fuqua",
+      "studioStr": "Lionsgate",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1290568,
