@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T11:55:36.113Z",
-  "count": 201,
+  "generatedAt": "2026-07-19T11:59:27.857Z",
+  "count": 200,
   "movies": [
     {
       "id": 1248230,
@@ -837,7 +837,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -918,7 +918,7 @@
       "id": 1286656,
       "title": "I Play Rocky",
       "releaseDate": "2026-11-13",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/gYnp0VAzcScVfTn4wLGa8nlrgeb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Peter Farrelly",
@@ -1875,18 +1875,6 @@
       "imdbId": "tt22408968"
     },
     {
-      "id": 1685097,
-      "title": "Michael: Part Two",
-      "releaseDate": "2027-10-22",
-      "poster": "https://image.tmdb.org/t/p/w92/fWlCy8L9QX7kYBV2on8yROhtvHA.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Antoine Fuqua",
-      "studioStr": "Lionsgate",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1290568,
       "title": "Margie Claus",
       "releaseDate": "2027-11-05",
@@ -1965,7 +1953,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
