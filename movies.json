@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T11:59:27.857Z",
-  "count": 200,
+  "generatedAt": "2026-07-20T13:09:35.404Z",
+  "count": 198,
   "movies": [
     {
       "id": 1248230,
@@ -53,8 +53,8 @@
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
-      "releaseDate": "2026-07-29",
-      "poster": "https://image.tmdb.org/t/p/w92/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "releaseDate": "2026-07-28",
+      "poster": "https://image.tmdb.org/t/p/w92/x19dchU8e38vQfW4epzOsQNLuZ2.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Destin Daniel Cretton",
@@ -267,18 +267,6 @@
       "imdbId": "tt21285562"
     },
     {
-      "id": 1410587,
-      "title": "The Brightest Sun",
-      "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/l6HnJ4ZVK2oT20MaYTznAU1dkMH.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tetsuya Nakashima",
-      "studioStr": "Sony Pictures / TIME",
-      "prestige": true,
-      "imdbId": "tt36236732"
-    },
-    {
       "id": 1731694,
       "title": "LEGO Star Wars: The Mandalorian",
       "releaseDate": "2026-09-02",
@@ -288,7 +276,7 @@
       "directorStr": null,
       "studioStr": "Lucasfilm Ltd. / The LEGO Group",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43679852"
     },
     {
       "id": 1532610,
@@ -346,7 +334,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Yoshiyuki Kishi",
-      "studioStr": "Shochiku",
+      "studioStr": "Shochiku / TV Man Union",
       "prestige": true,
       "imdbId": null
     },
@@ -807,18 +795,6 @@
       "imdbId": "tt14129116"
     },
     {
-      "id": 1506710,
-      "title": "God Laughs",
-      "releaseDate": "2026-10-29",
-      "poster": "https://image.tmdb.org/t/p/w92/lzXRa7v32P7bX56Cgw7ydP1XFIq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Giovanni Veronesi",
-      "studioStr": "Indiana Production / Netflix",
-      "prestige": true,
-      "imdbId": "tt37601990"
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -913,18 +889,6 @@
       "studioStr": "87North Productions / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt35866986"
-    },
-    {
-      "id": 1286656,
-      "title": "I Play Rocky",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/gYnp0VAzcScVfTn4wLGa8nlrgeb.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Peter Farrelly",
-      "studioStr": "Eden Rock Media / Baha Productions",
-      "prestige": true,
-      "imdbId": "tt11995650"
     },
     {
       "id": 1567605,
@@ -1158,7 +1122,7 @@
       "id": 1566920,
       "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/aMQnlYqfKU9JZTwtlhVtDQ69hpe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tDFTMv5XT50WpVRWJsGKWslz6LG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Norihiro Naganuma",
@@ -1335,6 +1299,18 @@
       "imdbId": "tt33295857"
     },
     {
+      "id": 1139422,
+      "title": "The Riders",
+      "releaseDate": "2027-02-04",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Edward Berger",
+      "studioStr": "Nine Hours / Scott Free Productions",
+      "prestige": true,
+      "imdbId": "tt9148786"
+    },
+    {
       "id": 1466228,
       "title": "The Comeback King",
       "releaseDate": "2027-02-05",
@@ -1371,18 +1347,6 @@
       "imdbId": "tt31339071"
     },
     {
-      "id": 1517333,
-      "title": "K-Pop: The Debut",
-      "releaseDate": "2027-02-26",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Benson Lee",
-      "studioStr": "Paramount Pictures / HYBE America",
-      "prestige": true,
-      "imdbId": "tt8992304"
-    },
-    {
       "id": 1533611,
       "title": "The Revenge of La Llorona",
       "releaseDate": "2027-02-26",
@@ -1393,6 +1357,18 @@
       "studioStr": "Atomic Monster / New Line Cinema",
       "prestige": true,
       "imdbId": "tt37897207"
+    },
+    {
+      "id": 1517333,
+      "title": "K-Pop: The Debut",
+      "releaseDate": "2027-02-26",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Benson Lee",
+      "studioStr": "Paramount Pictures / HYBE America",
+      "prestige": true,
+      "imdbId": "tt8992304"
     },
     {
       "id": 1497464,
@@ -1503,6 +1479,18 @@
       "imdbId": "tt26768234"
     },
     {
+      "id": 1397972,
+      "title": "Panic Carefully",
+      "releaseDate": "2027-04-09",
+      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sam Esmail",
+      "studioStr": "Warner Bros. Pictures / Esmail Corp",
+      "prestige": true,
+      "imdbId": "tt34900169"
+    },
+    {
       "id": 1263022,
       "title": "Get Lite",
       "releaseDate": "2027-04-09",
@@ -1525,18 +1513,6 @@
       "studioStr": "Almost Friday Media / Paramount Primal",
       "prestige": true,
       "imdbId": "tt43677673"
-    },
-    {
-      "id": 1397972,
-      "title": "Panic Carefully",
-      "releaseDate": "2027-04-09",
-      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sam Esmail",
-      "studioStr": "Warner Bros. Pictures / Esmail Corp",
-      "prestige": true,
-      "imdbId": "tt34900169"
     },
     {
       "id": 1718699,
@@ -1953,7 +1929,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2356,7 +2332,7 @@
     },
     {
       "id": 1357938,
-      "title": "Untitled Joan of Arc Film",
+      "title": "Jehanne D’arc",
       "releaseDate": "2028-11-22",
       "poster": null,
       "format": "theatrical",
