@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-07-20T13:09:35.404Z",
-  "count": 198,
+  "generatedAt": "2026-07-21T12:28:45.206Z",
+  "count": 196,
   "movies": [
-    {
-      "id": 1248230,
-      "title": "Splash City",
-      "releaseDate": "2026-07-20",
-      "poster": "https://image.tmdb.org/t/p/w92/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alex Ferrufino",
-      "studioStr": "4 Ways Entertainment / Lionsgate",
-      "prestige": true,
-      "imdbId": "tt27666105"
-    },
     {
       "id": 1469342,
       "title": "Her Private Hell",
@@ -306,7 +294,7 @@
       "id": 1137844,
       "title": "Mayday",
       "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/kkMnUfG5qO8BfTV9MVPOoH78YS8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hyenJuiOPuyHqASGF8GLiYEfjET.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Jonathan Goldstein, John Francis Daley",
@@ -349,18 +337,6 @@
       "studioStr": "Excel Entertainment / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt34339725"
-    },
-    {
-      "id": 1050981,
-      "title": "Being Heumann",
-      "releaseDate": "2026-09-10",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sian Heder",
-      "studioStr": "Permut Presentations / Gravity Squared Entertainment",
-      "prestige": true,
-      "imdbId": "tt15095848"
     },
     {
       "id": 1302904,
@@ -879,6 +855,18 @@
       "imdbId": null
     },
     {
+      "id": 1050981,
+      "title": "Being Heumann",
+      "releaseDate": "2026-11-12",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sian Heder",
+      "studioStr": "Permut Presentations / Gravity Squared Entertainment",
+      "prestige": true,
+      "imdbId": "tt15095848"
+    },
+    {
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-11-13",
@@ -903,18 +891,6 @@
       "imdbId": "tt38773219"
     },
     {
-      "id": 1723807,
-      "title": "The Rainbow Fish",
-      "releaseDate": "2026-11-19",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Florian Moch",
-      "studioStr": "StudioCanal UK / Claussen+Putz Filmproduktion",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1625344,
       "title": "The Rainbow Fish",
       "releaseDate": "2026-11-19",
@@ -925,18 +901,6 @@
       "studioStr": "Claussen+Putz Filmproduktion / StudioCanal",
       "prestige": true,
       "imdbId": "tt43632661"
-    },
-    {
-      "id": 1280115,
-      "title": "Way of the Warrior Kid",
-      "releaseDate": "2026-11-19",
-      "poster": "https://image.tmdb.org/t/p/w92/onZIFslULiG6aKgGFMZkAAWy2QV.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "McG",
-      "studioStr": "Skydance Media / Indivisible Productions",
-      "prestige": true,
-      "imdbId": "tt32213169"
     },
     {
       "id": 1185542,
@@ -973,6 +937,18 @@
       "studioStr": "Netflix Animation Studios / Paper Kite Productions",
       "prestige": true,
       "imdbId": "tt14413964"
+    },
+    {
+      "id": 1280115,
+      "title": "Way of the Warrior Kid",
+      "releaseDate": "2026-11-24",
+      "poster": "https://image.tmdb.org/t/p/w92/onZIFslULiG6aKgGFMZkAAWy2QV.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "McG",
+      "studioStr": "Skydance Media / Indivisible Productions",
+      "prestige": true,
+      "imdbId": "tt32213169"
     },
     {
       "id": 1720486,
@@ -1083,18 +1059,6 @@
       "imdbId": "tt32432428"
     },
     {
-      "id": 1198746,
-      "title": "Above the Below",
-      "releaseDate": "2026-12-04",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Martin Owen, Idris Elba",
-      "studioStr": "Future Artists Entertainment / Lionsgate",
-      "prestige": true,
-      "imdbId": "tt29634374"
-    },
-    {
       "id": 1452168,
       "title": "Behemoth!",
       "releaseDate": "2026-12-04",
@@ -1105,6 +1069,18 @@
       "studioStr": "Searchlight Pictures / TSG Entertainment",
       "prestige": true,
       "imdbId": "tt36415529"
+    },
+    {
+      "id": 1198746,
+      "title": "Above the Below",
+      "releaseDate": "2026-12-04",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Martin Owen, Idris Elba",
+      "studioStr": "Future Artists Entertainment / Lionsgate",
+      "prestige": true,
+      "imdbId": "tt29634374"
     },
     {
       "id": 1421967,
@@ -1158,7 +1134,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -1929,7 +1905,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
