@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T12:28:45.206Z",
-  "count": 196,
+  "generatedAt": "2026-07-22T12:30:59.662Z",
+  "count": 197,
   "movies": [
     {
       "id": 1469342,
@@ -42,13 +42,25 @@
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "releaseDate": "2026-07-28",
-      "poster": "https://image.tmdb.org/t/p/w92/x19dchU8e38vQfW4epzOsQNLuZ2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Destin Daniel Cretton",
       "studioStr": "Marvel Studios / Columbia Pictures",
       "prestige": true,
       "imdbId": "tt22084616"
+    },
+    {
+      "id": 1433367,
+      "title": "One Night Only",
+      "releaseDate": "2026-07-28",
+      "poster": "https://image.tmdb.org/t/p/w92/aG0vY0XevpJqsHy9MKIHqhwLUyN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Will Gluck",
+      "studioStr": "Universal Pictures / Olive Bridge Entertainment",
+      "prestige": true,
+      "imdbId": "tt37853455"
     },
     {
       "id": 1481343,
@@ -109,18 +121,6 @@
       "studioStr": "The Horror Section / Media Capital Technologies",
       "prestige": true,
       "imdbId": "tt36893729"
-    },
-    {
-      "id": 1433367,
-      "title": "One Night Only",
-      "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/aG0vY0XevpJqsHy9MKIHqhwLUyN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Will Gluck",
-      "studioStr": "Universal Pictures / Olive Bridge Entertainment",
-      "prestige": true,
-      "imdbId": "tt37853455"
     },
     {
       "id": 675871,
@@ -465,7 +465,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -594,7 +594,7 @@
       "id": 1400837,
       "title": "Other Mommy",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/aAtsAukFvHWsQFaBn2HqR0rd3RJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8CXwxpyvQiz9COMLZov4Oae8NKb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rob Savage",
@@ -789,7 +789,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -858,8 +858,8 @@
       "id": 1050981,
       "title": "Being Heumann",
       "releaseDate": "2026-11-12",
-      "poster": null,
-      "format": "theatrical",
+      "poster": "https://image.tmdb.org/t/p/w92/jctGiSU69ELojgDCTba0fCJ0JUV.jpg",
+      "format": "digital",
       "reRelease": false,
       "directorStr": "Sian Heder",
       "studioStr": "Permut Presentations / Gravity Squared Entertainment",
@@ -1155,18 +1155,6 @@
       "imdbId": "tt18270542"
     },
     {
-      "id": 1260649,
-      "title": "Jumanji: Open World",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jake Kasdan",
-      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
-      "prestige": true,
-      "imdbId": "tt26735127"
-    },
-    {
       "id": 1437882,
       "title": "A Place in Hell",
       "releaseDate": "2026-12-25",
@@ -1201,6 +1189,18 @@
       "studioStr": "Skydance Sports / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt30093348"
+    },
+    {
+      "id": 1260649,
+      "title": "Jumanji: Open World",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jake Kasdan",
+      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
+      "prestige": true,
+      "imdbId": "tt26735127"
     },
     {
       "id": 1619903,
@@ -1719,6 +1719,18 @@
       "imdbId": "tt35050152"
     },
     {
+      "id": 1477483,
+      "title": "Snoop",
+      "releaseDate": "2027-08-06",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Craig Brewer",
+      "studioStr": "Death Row Pictures / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt30094801"
+    },
+    {
       "id": 1572400,
       "title": "Shiver",
       "releaseDate": "2027-08-13",
@@ -1905,7 +1917,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1921,18 +1933,6 @@
       "studioStr": "Lionsgate / Hidden Pictures",
       "prestige": true,
       "imdbId": "tt39310806"
-    },
-    {
-      "id": 949966,
-      "title": "Untitled Star Wars \"New Jedi Order\" Film",
-      "releaseDate": "2027-12-17",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sharmeen Obaid-Chinoy",
-      "studioStr": "Lucasfilm Ltd.",
-      "prestige": true,
-      "imdbId": "tt10300398"
     },
     {
       "id": 1670080,
@@ -2317,6 +2317,18 @@
       "studioStr": "Warner Bros. Pictures / Bazmark",
       "prestige": true,
       "imdbId": "tt33397805"
+    },
+    {
+      "id": 1735857,
+      "title": "The Family business",
+      "releaseDate": "2028-11-26",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Lionsgate",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1468313,
