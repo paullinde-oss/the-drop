@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T12:30:59.662Z",
-  "count": 197,
+  "generatedAt": "2026-07-23T12:28:05.821Z",
+  "count": 202,
   "movies": [
     {
       "id": 1469342,
@@ -63,6 +63,18 @@
       "imdbId": "tt37853455"
     },
     {
+      "id": 1307118,
+      "title": "Soulm8te",
+      "releaseDate": "2026-07-29",
+      "poster": "https://image.tmdb.org/t/p/w92/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Kate Dolan",
+      "studioStr": "Blumhouse Productions / Atomic Monster",
+      "prestige": true,
+      "imdbId": "tt32654916"
+    },
+    {
       "id": 1481343,
       "title": "The Devil's Mouth",
       "releaseDate": "2026-07-29",
@@ -73,18 +85,6 @@
       "studioStr": "Amazon MGM Studios / Thunder Road",
       "prestige": true,
       "imdbId": "tt36958312"
-    },
-    {
-      "id": 1307118,
-      "title": "Soulm8te",
-      "releaseDate": "2026-07-31",
-      "poster": "https://image.tmdb.org/t/p/w92/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Kate Dolan",
-      "studioStr": "Blumhouse Productions / Atomic Monster",
-      "prestige": true,
-      "imdbId": "tt32654916"
     },
     {
       "id": 1598766,
@@ -150,7 +150,7 @@
       "id": 1329016,
       "title": "Tony",
       "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/z39nccQLIc9LnhJOusvN03KvMpb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Matt Johnson",
@@ -162,7 +162,7 @@
       "id": 1101383,
       "title": "The End of Oak Street",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Robert Mitchell",
@@ -217,6 +217,18 @@
       "studioStr": "Blumhouse Productions / Screen Gems",
       "prestige": true,
       "imdbId": "tt32393988"
+    },
+    {
+      "id": 1288445,
+      "title": "Mutiny",
+      "releaseDate": "2026-08-21",
+      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jean-François Richet",
+      "studioStr": "Punch Palace Productions / MadRiver Pictures",
+      "prestige": false,
+      "imdbId": "tt32338669"
     },
     {
       "id": 1516698,
@@ -282,7 +294,7 @@
       "id": 1386315,
       "title": "The Runner",
       "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/uqFpk8PyC572leLiCu79spYNjho.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Kevin Macdonald",
@@ -339,6 +351,18 @@
       "imdbId": "tt34339725"
     },
     {
+      "id": 1284186,
+      "title": "Sacrifice",
+      "releaseDate": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w92/n7KgiuuGO6AX1EeLA7c8K6RQ1T5.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Romain Gavras",
+      "studioStr": "Mid March Media / Heretic",
+      "prestige": false,
+      "imdbId": "tt32268992"
+    },
+    {
       "id": 1302904,
       "title": "Practical Magic 2",
       "releaseDate": "2026-09-11",
@@ -373,6 +397,18 @@
       "studioStr": "Blumhouse Productions / Supernix",
       "prestige": true,
       "imdbId": "tt36983905"
+    },
+    {
+      "id": 1319525,
+      "title": "Henry's First Dates",
+      "releaseDate": "2026-09-17",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Mez Tharatorn",
+      "studioStr": "GDH 559 / Sony Pictures International Productions",
+      "prestige": true,
+      "imdbId": "tt37846333"
     },
     {
       "id": 1423191,
@@ -465,7 +501,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -735,6 +771,18 @@
       "imdbId": "tt34890576"
     },
     {
+      "id": 1727734,
+      "title": "Ali G: Who Iz I?",
+      "releaseDate": "2026-10-23",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sacha Baron Cohen",
+      "studioStr": "Four by Two / Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt43702710"
+    },
+    {
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
@@ -745,6 +793,18 @@
       "studioStr": "LAIKA",
       "prestige": true,
       "imdbId": "tt2056785"
+    },
+    {
+      "id": 1689329,
+      "title": "Lions in Winter",
+      "releaseDate": "2026-10-23",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Albert Pintó",
+      "studioStr": "RTVE / Crea SGR",
+      "prestige": true,
+      "imdbId": "tt39583295"
     },
     {
       "id": 1643567,
@@ -789,7 +849,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1707,16 +1767,16 @@
       "imdbId": "tt41857193"
     },
     {
-      "id": 1403836,
-      "title": "Bluey: The Movie",
+      "id": 1634942,
+      "title": "Jason Statham Stole My Bike",
       "releaseDate": "2027-08-06",
-      "poster": "https://image.tmdb.org/t/p/w92/wUiL0OTK3EPRyQfdQkEU4Ma87V2.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Brumm",
-      "studioStr": "Ludo Studio / BBC Studios",
-      "prestige": true,
-      "imdbId": "tt35050152"
+      "directorStr": "David Leitch",
+      "studioStr": "Black Bear Pictures / 87North Productions",
+      "prestige": false,
+      "imdbId": "tt39848323"
     },
     {
       "id": 1477483,
@@ -1917,7 +1977,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2320,13 +2380,13 @@
     },
     {
       "id": 1735857,
-      "title": "The Family business",
+      "title": "Blood Ties: Family Business",
       "releaseDate": "2028-11-26",
-      "poster": null,
-      "format": "theatrical",
+      "poster": "https://image.tmdb.org/t/p/w92/wRtoqyr5fVcqy0YA22QgQUu92d0.jpg",
+      "format": "streaming",
       "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Lionsgate",
+      "directorStr": "Antoine Fuqua",
+      "studioStr": "Lionsgate / Netflix",
       "prestige": true,
       "imdbId": null
     },
