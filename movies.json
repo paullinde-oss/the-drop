@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-07-23T12:28:05.821Z",
+  "generatedAt": "2026-07-24T12:23:55.126Z",
   "count": 202,
   "movies": [
-    {
-      "id": 1469342,
-      "title": "Her Private Hell",
-      "releaseDate": "2026-07-23",
-      "poster": "https://image.tmdb.org/t/p/w92/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Nicolas Winding Refn",
-      "studioStr": "NEON / byNWR",
-      "prestige": true,
-      "imdbId": "tt36629891"
-    },
     {
       "id": 980431,
       "title": "Avatar Aang: The Last Airbender",
@@ -49,18 +37,6 @@
       "studioStr": "Marvel Studios / Columbia Pictures",
       "prestige": true,
       "imdbId": "tt22084616"
-    },
-    {
-      "id": 1433367,
-      "title": "One Night Only",
-      "releaseDate": "2026-07-28",
-      "poster": "https://image.tmdb.org/t/p/w92/aG0vY0XevpJqsHy9MKIHqhwLUyN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Will Gluck",
-      "studioStr": "Universal Pictures / Olive Bridge Entertainment",
-      "prestige": true,
-      "imdbId": "tt37853455"
     },
     {
       "id": 1307118,
@@ -121,6 +97,18 @@
       "studioStr": "The Horror Section / Media Capital Technologies",
       "prestige": true,
       "imdbId": "tt36893729"
+    },
+    {
+      "id": 1433367,
+      "title": "One Night Only",
+      "releaseDate": "2026-08-07",
+      "poster": "https://image.tmdb.org/t/p/w92/aG0vY0XevpJqsHy9MKIHqhwLUyN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Will Gluck",
+      "studioStr": "Universal Pictures / Olive Bridge Entertainment",
+      "prestige": true,
+      "imdbId": "tt37853455"
     },
     {
       "id": 675871,
@@ -222,7 +210,7 @@
       "id": 1288445,
       "title": "Mutiny",
       "releaseDate": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jean-François Richet",
@@ -244,7 +232,7 @@
     },
     {
       "id": 1204680,
-      "title": "Coyote vs ACME",
+      "title": "Coyote vs. Acme",
       "releaseDate": "2026-08-28",
       "poster": "https://image.tmdb.org/t/p/w92/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
       "format": "theatrical",
@@ -279,18 +267,6 @@
       "imdbId": "tt43679852"
     },
     {
-      "id": 1532610,
-      "title": "Ink",
-      "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Danny Boyle",
-      "studioStr": "StudioCanal UK / Media Res",
-      "prestige": true,
-      "imdbId": "tt37967547"
-    },
-    {
       "id": 1386315,
       "title": "The Runner",
       "releaseDate": "2026-09-02",
@@ -301,6 +277,18 @@
       "studioStr": "Amazon MGM Studios / Rockwood Pictures",
       "prestige": true,
       "imdbId": "tt34564059"
+    },
+    {
+      "id": 1506560,
+      "title": "Clash of the Thundermans",
+      "releaseDate": "2026-09-03",
+      "poster": "https://image.tmdb.org/t/p/w92/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Trevor Kirschner",
+      "studioStr": "Paramount Television Studios",
+      "prestige": true,
+      "imdbId": "tt37752275"
     },
     {
       "id": 1137844,
@@ -501,7 +489,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -675,6 +663,18 @@
       "imdbId": "tt36462731"
     },
     {
+      "id": 1381221,
+      "title": "Misty Green",
+      "releaseDate": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w92/qOFIOfZzteCoiOFjXDvqTgBnUTz.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Chris Rock",
+      "studioStr": "MACRO / Confluential Films",
+      "prestige": true,
+      "imdbId": "tt34385184"
+    },
+    {
       "id": 1288069,
       "title": "Tenzing",
       "releaseDate": "2026-10-09",
@@ -771,22 +771,10 @@
       "imdbId": "tt34890576"
     },
     {
-      "id": 1727734,
-      "title": "Ali G: Who Iz I?",
-      "releaseDate": "2026-10-23",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sacha Baron Cohen",
-      "studioStr": "Four by Two / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt43702710"
-    },
-    {
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/feyEk59rpGXZHKqej9HkUHOnIg2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/2nHPVmDxSZhtjdJWtl4G0CaVORj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -853,6 +841,18 @@
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
+    },
+    {
+      "id": 1649403,
+      "title": "George Michael: The Faith Tour",
+      "releaseDate": "2026-11-05",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Andy Morahan, David Austin",
+      "studioStr": "Mercury Studios / George Michael Entertainment",
+      "prestige": true,
+      "imdbId": "tt40564737"
     },
     {
       "id": 1381071,
@@ -927,6 +927,18 @@
       "imdbId": "tt15095848"
     },
     {
+      "id": 1567605,
+      "title": "Ebenezer",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ti West",
+      "studioStr": "Paramount Pictures / Domain Entertainment",
+      "prestige": true,
+      "imdbId": "tt38773219"
+    },
+    {
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-11-13",
@@ -937,18 +949,6 @@
       "studioStr": "87North Productions / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt35866986"
-    },
-    {
-      "id": 1567605,
-      "title": "Ebenezer: A Christmas Carol",
-      "releaseDate": "2026-11-13",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ti West",
-      "studioStr": "Paramount Pictures / Domain Entertainment",
-      "prestige": true,
-      "imdbId": "tt38773219"
     },
     {
       "id": 1625344,
@@ -990,7 +990,7 @@
       "id": 1595124,
       "title": "Steps",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/1lFeV1wOJyEvIcJFJoJjyXPN7GN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7Tgrk6RI6cyRFmmipU325WE3pht.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Alyce Tzue",
@@ -1062,7 +1062,7 @@
       "id": 1400336,
       "title": "Focker-In-Law",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John Hamburg",
@@ -1206,7 +1206,7 @@
       "id": 940009,
       "title": "Ray Gunn",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/qXexEAo999wlEp5rMsFnVSRaTSM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/e6eujC5Oq0C6y9tSUystGvS4Sh6.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Brad Bird",
@@ -1254,7 +1254,7 @@
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Kasdan",
@@ -1273,6 +1273,18 @@
       "studioStr": "Studio Soi / X Filme Creative Pool",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1532610,
+      "title": "Ink",
+      "releaseDate": "2027-01-08",
+      "poster": "https://image.tmdb.org/t/p/w92/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Danny Boyle",
+      "studioStr": "StudioCanal UK / Media Res",
+      "prestige": true,
+      "imdbId": "tt37967547"
     },
     {
       "id": 1440769,
@@ -2377,18 +2389,6 @@
       "studioStr": "Warner Bros. Pictures / Bazmark",
       "prestige": true,
       "imdbId": "tt33397805"
-    },
-    {
-      "id": 1735857,
-      "title": "Blood Ties: Family Business",
-      "releaseDate": "2028-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/wRtoqyr5fVcqy0YA22QgQUu92d0.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Antoine Fuqua",
-      "studioStr": "Lionsgate / Netflix",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1468313,
