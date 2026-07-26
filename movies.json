@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T12:06:53.179Z",
-  "count": 200,
+  "generatedAt": "2026-07-26T12:05:51.650Z",
+  "count": 201,
   "movies": [
     {
       "id": 969681,
@@ -138,7 +138,7 @@
       "id": 1101383,
       "title": "The End of Oak Street",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Robert Mitchell",
@@ -174,7 +174,7 @@
       "id": 192139,
       "title": "The Brink of War",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/ubVMXPp9OmLjET8NYbZZHQCFMcx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mWv5dRbs7GxSfpZNXfU75mhVOI9.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michael Russell Gunn",
@@ -216,7 +216,7 @@
       "directorStr": "Carlson Young",
       "studioStr": "Amazon MGM Studios / Ethea Entertainment",
       "prestige": true,
-      "imdbId": "tt36694271"
+      "imdbId": "tt37654096"
     },
     {
       "id": 1204680,
@@ -234,7 +234,7 @@
       "id": 1384216,
       "title": "The Dog Stars",
       "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/l2ZiywIMPdlONXoGH7KJHvQ6wWj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ridley Scott",
@@ -294,7 +294,7 @@
       "id": 1284046,
       "title": "Onslaught",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/3k69IPJEoLBMB3J5FCYehL8NMs2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Adam Wingard",
@@ -465,7 +465,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -498,7 +498,7 @@
       "id": 1375441,
       "title": "Primetime",
       "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/pKHeSpUfl4ff9wYIr0OMyZWBiQn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lance Oppenheim",
@@ -568,9 +568,9 @@
     },
     {
       "id": 1148365,
-      "title": "Matchbox",
+      "title": "Matchbox: The Movie",
       "releaseDate": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w92/nR6GyhyS1skt36VM4TKyqtUyQN3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Sam Hargrave",
@@ -1371,18 +1371,6 @@
       "imdbId": "tt31339071"
     },
     {
-      "id": 1533611,
-      "title": "The Revenge of La Llorona",
-      "releaseDate": "2027-02-26",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Santiago Menghini",
-      "studioStr": "Atomic Monster / New Line Cinema",
-      "prestige": true,
-      "imdbId": "tt37897207"
-    },
-    {
       "id": 1517333,
       "title": "K-Pop: The Debut",
       "releaseDate": "2027-02-26",
@@ -1393,6 +1381,18 @@
       "studioStr": "Paramount Pictures / HYBE America",
       "prestige": true,
       "imdbId": "tt8992304"
+    },
+    {
+      "id": 1397972,
+      "title": "Panic Carefully",
+      "releaseDate": "2027-02-26",
+      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sam Esmail",
+      "studioStr": "Warner Bros. Pictures / Esmail Corp",
+      "prestige": true,
+      "imdbId": "tt34900169"
     },
     {
       "id": 1497464,
@@ -1503,16 +1503,16 @@
       "imdbId": "tt26768234"
     },
     {
-      "id": 1397972,
-      "title": "Panic Carefully",
+      "id": 1533611,
+      "title": "The Revenge of La Llorona",
       "releaseDate": "2027-04-09",
-      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Sam Esmail",
-      "studioStr": "Warner Bros. Pictures / Esmail Corp",
+      "directorStr": "Santiago Menghini",
+      "studioStr": "Atomic Monster / New Line Cinema",
       "prestige": true,
-      "imdbId": "tt34900169"
+      "imdbId": "tt37897207"
     },
     {
       "id": 1263022,
@@ -1950,7 +1950,7 @@
       "id": 1090869,
       "title": "The Lord of the Rings: The Hunt for Gollum",
       "releaseDate": "2027-12-17",
-      "poster": "https://image.tmdb.org/t/p/w92/gL7CybVuRKOVNr3UGYqroo4c8i0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aRtIVdlgVNtvcqFUnuhR3V1RQ7o.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Andy Serkis",
@@ -1965,7 +1965,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2034,7 +2034,7 @@
       "id": 1625381,
       "title": "Heart Eyes 2",
       "releaseDate": "2028-02-11",
-      "poster": "https://image.tmdb.org/t/p/w92/r0btyELemirUN2EGFOCuOPuKY8r.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Josh Ruben",
@@ -2365,6 +2365,18 @@
       "studioStr": "Warner Bros. Pictures / Bazmark",
       "prestige": true,
       "imdbId": "tt33397805"
+    },
+    {
+      "id": 1386618,
+      "title": "Black Panther 3",
+      "releaseDate": "2028-12-15",
+      "poster": "https://image.tmdb.org/t/p/w92/ymuBXn4yGWQypurCNs1AFYAMDJK.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ryan Coogler",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": true,
+      "imdbId": "tt37884905"
     },
     {
       "id": 1468313,
