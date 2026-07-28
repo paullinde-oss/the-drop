@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T13:43:56.744Z",
-  "count": 202,
+  "generatedAt": "2026-07-28T12:58:40.553Z",
+  "count": 204,
   "movies": [
     {
       "id": 969681,
@@ -786,7 +786,7 @@
       "id": 1643567,
       "title": "Ghosts: The Possession of Button House",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/gKrq4tpyIHP2MNU4E1l7lb31PDk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kjzYVTBZ5OxpdeJkeMkdHtWKqWB.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Simon Hynd",
@@ -825,7 +825,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1035,6 +1035,18 @@
       "imdbId": "tt17055444"
     },
     {
+      "id": 1430815,
+      "title": "Good Little Solider",
+      "releaseDate": "2026-11-25",
+      "poster": "https://image.tmdb.org/t/p/w92/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Stéphane Brizé",
+      "studioStr": "Gaumont",
+      "prestige": true,
+      "imdbId": "tt41802342"
+    },
+    {
       "id": 1400336,
       "title": "Focker-In-Law",
       "releaseDate": "2026-11-25",
@@ -1201,18 +1213,6 @@
       "studioStr": "Skydance Animation / Cinesite Animation",
       "prestige": true,
       "imdbId": "tt18270542"
-    },
-    {
-      "id": 1437882,
-      "title": "A Place in Hell",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Chloe Domont",
-      "studioStr": "T-Street / MRC",
-      "prestige": true,
-      "imdbId": "tt36931184"
     },
     {
       "id": 1421903,
@@ -1407,6 +1407,18 @@
       "imdbId": "tt34900169"
     },
     {
+      "id": 1533611,
+      "title": "The Revenge of La Llorona",
+      "releaseDate": "2027-02-26",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Santiago Menghini",
+      "studioStr": "Atomic Monster / New Line Cinema",
+      "prestige": true,
+      "imdbId": "tt37897207"
+    },
+    {
       "id": 1497464,
       "title": "Gatto",
       "releaseDate": "2027-03-05",
@@ -1515,18 +1527,6 @@
       "imdbId": "tt26768234"
     },
     {
-      "id": 1533611,
-      "title": "The Revenge of La Llorona",
-      "releaseDate": "2027-04-09",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Santiago Menghini",
-      "studioStr": "Atomic Monster / New Line Cinema",
-      "prestige": true,
-      "imdbId": "tt37897207"
-    },
-    {
       "id": 1263022,
       "title": "Get Lite",
       "releaseDate": "2027-04-09",
@@ -1561,6 +1561,18 @@
       "studioStr": "Illumination / Universal Pictures",
       "prestige": true,
       "imdbId": "tt43609247"
+    },
+    {
+      "id": 1437882,
+      "title": "A Place in Hell",
+      "releaseDate": "2027-04-23",
+      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Chloe Domont",
+      "studioStr": "T-Street / MRC",
+      "prestige": true,
+      "imdbId": "tt36931184"
     },
     {
       "id": 556682,
@@ -1722,7 +1734,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/gTu4Yw8b72Lr99dGzRDg94i4S2l.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
@@ -1984,7 +1996,7 @@
     },
     {
       "id": 1611116,
-      "title": "The Housemaid's Secret",
+      "title": "The Housemaid's Secret Tits",
       "releaseDate": "2027-12-17",
       "poster": "https://image.tmdb.org/t/p/w92/wN9UPRZ5jbL9n3wIkZSrVov1dC2.jpg",
       "format": "theatrical",
@@ -2377,6 +2389,18 @@
       "studioStr": "Warner Bros. Pictures / Bazmark",
       "prestige": true,
       "imdbId": "tt33397805"
+    },
+    {
+      "id": 1738010,
+      "title": "Ghost Rider",
+      "releaseDate": "2028-12-01",
+      "poster": "https://image.tmdb.org/t/p/w92/zgC1zo3lyujoEiIMnUrHltvPmZg.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Shawn Levy",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": true,
+      "imdbId": "tt43711959"
     },
     {
       "id": 1386618,
