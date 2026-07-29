@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-07-28T12:58:40.553Z",
-  "count": 204,
+  "generatedAt": "2026-07-29T13:05:23.383Z",
+  "count": 205,
   "movies": [
-    {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "releaseDate": "2026-07-28",
-      "poster": "https://image.tmdb.org/t/p/w92/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Destin Daniel Cretton",
-      "studioStr": "Marvel Studios / Columbia Pictures",
-      "prestige": true,
-      "imdbId": "tt22084616"
-    },
     {
       "id": 1307118,
       "title": "Soulm8te",
@@ -138,7 +126,7 @@
       "id": 1101383,
       "title": "The End of Oak Street",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/rnfyioOdFyMXnqikTa6KPAKzCZf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Robert Mitchell",
@@ -150,7 +138,7 @@
       "id": 1493400,
       "title": "Camp Rock 3",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/1w2SIg1TiqqvXSmDsqj104m2UGM.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Veronica Rodriguez",
@@ -198,7 +186,7 @@
       "id": 1288445,
       "title": "Mutiny",
       "releaseDate": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w92/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jean-François Richet",
@@ -210,7 +198,7 @@
       "id": 1516698,
       "title": "The Last Sunrise",
       "releaseDate": "2026-08-26",
-      "poster": "https://image.tmdb.org/t/p/w92/f8r9owi7TBLHwGMqwWjmPJSFG0J.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Carlson Young",
@@ -483,18 +471,6 @@
       "imdbId": "tt36583977"
     },
     {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Ayer",
-      "studioStr": "Paramount Pictures / Wild Chickens Productions",
-      "prestige": true,
-      "imdbId": "tt7526136"
-    },
-    {
       "id": 1375441,
       "title": "Primetime",
       "releaseDate": "2026-09-25",
@@ -505,6 +481,18 @@
       "studioStr": "A24 / Icki Eneo Arlo",
       "prestige": true,
       "imdbId": "tt34206385"
+    },
+    {
+      "id": 1263337,
+      "title": "Heart of the Beast",
+      "releaseDate": "2026-09-25",
+      "poster": "https://image.tmdb.org/t/p/w92/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Ayer",
+      "studioStr": "Paramount Pictures / Wild Chickens Productions",
+      "prestige": true,
+      "imdbId": "tt7526136"
     },
     {
       "id": 1321666,
@@ -790,7 +778,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Simon Hynd",
-      "studioStr": "Lionsgate Television / BBC Film",
+      "studioStr": "BBC Film / BBC Studios",
       "prestige": true,
       "imdbId": "tt40311603"
     },
@@ -922,7 +910,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ti West",
-      "studioStr": "Paramount Pictures",
+      "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
     },
@@ -973,6 +961,18 @@
       "studioStr": "Lionsgate / Color Force",
       "prestige": true,
       "imdbId": "tt32558705"
+    },
+    {
+      "id": 1599230,
+      "title": "Elsinore",
+      "releaseDate": "2026-11-20",
+      "poster": "https://image.tmdb.org/t/p/w92/oX1wG1oO5kHnI8T5oxybjpR3prS.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Simon Stone",
+      "studioStr": "Lucky Red / LD Entertainment",
+      "prestige": true,
+      "imdbId": "tt37363222"
     },
     {
       "id": 1595124,
@@ -1170,7 +1170,7 @@
       "id": 1408207,
       "title": "Zero A.D.",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/i0of8BcqZ1BTzbZqyFkdpoLpiFx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/2Gu5GJ3pKkNLXU7pAmUQpUO28iq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Alejandro Monteverde",
@@ -1215,6 +1215,18 @@
       "imdbId": "tt18270542"
     },
     {
+      "id": 1260649,
+      "title": "Jumanji: Open World",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jake Kasdan",
+      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
+      "prestige": true,
+      "imdbId": "tt26735127"
+    },
+    {
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
@@ -1237,18 +1249,6 @@
       "studioStr": "Skydance Sports / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt30093348"
-    },
-    {
-      "id": 1260649,
-      "title": "Jumanji: Open World",
-      "releaseDate": "2026-12-25",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jake Kasdan",
-      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
-      "prestige": true,
-      "imdbId": "tt26735127"
     },
     {
       "id": 1619903,
@@ -1275,6 +1275,18 @@
       "imdbId": "tt37967547"
     },
     {
+      "id": 621304,
+      "title": "Children of Blood and Bone",
+      "releaseDate": "2027-01-15",
+      "poster": "https://image.tmdb.org/t/p/w92/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Gina Prince-Bythewood",
+      "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
+      "prestige": true,
+      "imdbId": "tt6779038"
+    },
+    {
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
@@ -1285,18 +1297,6 @@
       "studioStr": "Miramax / Punch Palace Productions",
       "prestige": true,
       "imdbId": "tt35935357"
-    },
-    {
-      "id": 621304,
-      "title": "Children of Blood and Bone",
-      "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/pCzdQJzDuHgYjVpmVJXsOXPZ11r.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Gina Prince-Bythewood",
-      "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
-      "prestige": true,
-      "imdbId": "tt6779038"
     },
     {
       "id": 1115030,
@@ -1434,7 +1434,7 @@
       "id": 615121,
       "title": "The Thomas Crown Affair",
       "releaseDate": "2027-03-05",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michael B. Jordan",
@@ -1686,7 +1686,7 @@
       "id": 911916,
       "title": "Spider-Man: Beyond the Spider-Verse",
       "releaseDate": "2027-06-18",
-      "poster": "https://image.tmdb.org/t/p/w92/9PIhQqqI6Q4a5YjwMjxvzZcPJhf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Bob Persichetti, Justin K. Thompson",
@@ -1887,6 +1887,18 @@
       "imdbId": "tt33075482"
     },
     {
+      "id": 1724981,
+      "title": "The Kings of None",
+      "releaseDate": "2027-10-07",
+      "poster": "https://image.tmdb.org/t/p/w92/x7vr6762mzQduPEqvGWdZ6wM2AW.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": null
+    },
+    {
       "id": 1615938,
       "title": "The Haunting of Hotel Transylvania",
       "releaseDate": "2027-10-08",
@@ -1921,6 +1933,18 @@
       "studioStr": "Warner Bros. Pictures Animation / On the Day",
       "prestige": true,
       "imdbId": "tt7008874"
+    },
+    {
+      "id": 1215281,
+      "title": "Naughty",
+      "releaseDate": "2027-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/seM81lJJmKyGMOYxWtgLM702TNX.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Olivia Wilde",
+      "studioStr": "LuckyChap Entertainment / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt30343245"
     },
     {
       "id": 1413533,
@@ -1996,7 +2020,7 @@
     },
     {
       "id": 1611116,
-      "title": "The Housemaid's Secret Tits",
+      "title": "The Housemaid's Secret",
       "releaseDate": "2027-12-17",
       "poster": "https://image.tmdb.org/t/p/w92/wN9UPRZ5jbL9n3wIkZSrVov1dC2.jpg",
       "format": "theatrical",
@@ -2389,18 +2413,6 @@
       "studioStr": "Warner Bros. Pictures / Bazmark",
       "prestige": true,
       "imdbId": "tt33397805"
-    },
-    {
-      "id": 1738010,
-      "title": "Ghost Rider",
-      "releaseDate": "2028-12-01",
-      "poster": "https://image.tmdb.org/t/p/w92/zgC1zo3lyujoEiIMnUrHltvPmZg.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Shawn Levy",
-      "studioStr": "Marvel Studios / Kevin Feige Productions",
-      "prestige": true,
-      "imdbId": "tt43711959"
     },
     {
       "id": 1386618,
