@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T12:34:57.193Z",
-  "count": 202,
+  "generatedAt": "2026-07-31T12:59:35.955Z",
+  "count": 206,
   "movies": [
     {
       "id": 1598766,
@@ -150,7 +150,7 @@
       "id": 1288445,
       "title": "Mutiny",
       "releaseDate": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w92/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jean-François Richet",
@@ -205,6 +205,18 @@
       "studioStr": "Lucasfilm Ltd. / The LEGO Group",
       "prestige": true,
       "imdbId": "tt43679852"
+    },
+    {
+      "id": 1101412,
+      "title": "Fall 2: Deadpoint",
+      "releaseDate": "2026-09-02",
+      "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Peter Spierig, Michael Spierig",
+      "studioStr": "Tea Shop Productions / Capstone Pictures",
+      "prestige": false,
+      "imdbId": "tt31192372"
     },
     {
       "id": 1386315,
@@ -330,7 +342,7 @@
       "id": 1423191,
       "title": "Resident Evil",
       "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Zach Cregger",
@@ -546,7 +558,7 @@
       "id": 1400837,
       "title": "Other Mommy",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/8CXwxpyvQiz9COMLZov4Oae8NKb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kNxRgcTeqeU5jauBackTERoO2De.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rob Savage",
@@ -711,6 +723,18 @@
       "imdbId": "tt43702710"
     },
     {
+      "id": 1084409,
+      "title": "A Talent for a Murder",
+      "releaseDate": "2026-10-23",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Anton Corbijn",
+      "studioStr": "Lunar Pictures / Lucky Red",
+      "prestige": true,
+      "imdbId": "tt14129116"
+    },
+    {
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
@@ -745,18 +769,6 @@
       "studioStr": "BBC Film / BBC Studios",
       "prestige": true,
       "imdbId": "tt40311603"
-    },
-    {
-      "id": 1084409,
-      "title": "A Talent for a Murder",
-      "releaseDate": "2026-10-23",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Anton Corbijn",
-      "studioStr": "Lunar Pictures / Lucky Red",
-      "prestige": true,
-      "imdbId": "tt14129116"
     },
     {
       "id": 1687303,
@@ -889,6 +901,18 @@
       "studioStr": "87North Productions / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt35866986"
+    },
+    {
+      "id": 1737072,
+      "title": "Noroi no Smartphone",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/zk66AyIitRdjrUfGiw3jiTsVsBP.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Kan Yamamoto",
+      "studioStr": "LesPros Entertainment / Shochiku",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1625344,
@@ -1047,6 +1071,18 @@
       "imdbId": "tt24818230"
     },
     {
+      "id": 1739765,
+      "title": "Kimi no Hanashi",
+      "releaseDate": "2026-11-27",
+      "poster": "https://image.tmdb.org/t/p/w92/8H0YN4J0iuPyC4SjtU5fdooLciH.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ryutaro Nakagawa",
+      "studioStr": "Shochiku",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1716604,
       "title": "A Proud Family Wizmas",
       "releaseDate": "2026-11-27",
@@ -1134,7 +1170,7 @@
       "id": 1408207,
       "title": "Zero A.D.",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/2Gu5GJ3pKkNLXU7pAmUQpUO28iq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Alejandro Monteverde",
@@ -1170,7 +1206,7 @@
       "id": 940009,
       "title": "Ray Gunn",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/e6eujC5Oq0C6y9tSUystGvS4Sh6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qXexEAo999wlEp5rMsFnVSRaTSM.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Brad Bird",
@@ -1698,13 +1734,25 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rWvIlkc2ehGluYfn8uRBwZOXSWh.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
       "studioStr": "DC Studios / Troll Court Entertainment",
       "prestige": true,
       "imdbId": "tt37833661"
+    },
+    {
+      "id": 1646360,
+      "title": "Fake Skating",
+      "releaseDate": "2027-07-16",
+      "poster": "https://image.tmdb.org/t/p/w92/yBNzgpErvRokh0G8QZzrz0ZNaJD.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Josh Boone",
+      "studioStr": "Sony Pictures / Olive Bridge Entertainment",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1461519,
