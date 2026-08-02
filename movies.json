@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T12:06:10.434Z",
-  "count": 204,
+  "generatedAt": "2026-08-02T12:05:27.181Z",
+  "count": 206,
   "movies": [
     {
       "id": 1623376,
@@ -417,7 +417,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -903,6 +903,18 @@
       "imdbId": null
     },
     {
+      "id": 1381273,
+      "title": "Paper Tiger",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/7XhTjNP3BL8pTtCLcsvIssR9hSf.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "James Gray",
+      "studioStr": "RT Features / Leone Film Group",
+      "prestige": false,
+      "imdbId": "tt34385689"
+    },
+    {
       "id": 1625344,
       "title": "The Rainbow Fish",
       "releaseDate": "2026-11-19",
@@ -1038,7 +1050,7 @@
       "id": 1457866,
       "title": "The Adventures of Cliff Booth",
       "releaseDate": "2026-11-26",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/qudwprZ9CGn9vay0boXcyrEEUQr.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -1539,6 +1551,18 @@
       "imdbId": "tt43677673"
     },
     {
+      "id": 487560,
+      "title": "Last Friday",
+      "releaseDate": "2027-04-09",
+      "poster": "https://image.tmdb.org/t/p/w92/eGgnsFXAmDXdxdTvw4fntX8dGCM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Cube Vision / New Line Cinema",
+      "prestige": true,
+      "imdbId": "tt6914708"
+    },
+    {
       "id": 1718699,
       "title": "Not Alone",
       "releaseDate": "2027-04-16",
@@ -1740,7 +1764,7 @@
       "directorStr": "Josh Boone",
       "studioStr": "Sony Pictures / Olive Bridge Entertainment",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt40424282"
     },
     {
       "id": 1461519,
@@ -2001,7 +2025,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
