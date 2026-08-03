@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T12:05:27.181Z",
-  "count": 206,
+  "generatedAt": "2026-08-03T13:43:51.669Z",
+  "count": 207,
   "movies": [
     {
       "id": 1623376,
@@ -258,7 +258,7 @@
       "id": 1621964,
       "title": "The Swan and the Bat",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/jSsDr0mMwTS4lhG62QulaQJv9N5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jIEyBR9gCrDMEQ7UcxWmJVj2zDi.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Yoshiyuki Kishi",
@@ -417,7 +417,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -570,7 +570,7 @@
       "id": 1590933,
       "title": "You, Like a Star",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/Ar5PyREFNhsius7ndEAnUxtHRvM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nRoVOvMPOEM9GuHu5FKGigbXzVT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michihito Fujii",
@@ -1036,7 +1036,7 @@
     },
     {
       "id": 1400336,
-      "title": "Focker-In-Law",
+      "title": "Focker-in-Law",
       "releaseDate": "2026-11-25",
       "poster": "https://image.tmdb.org/t/p/w92/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
       "format": "theatrical",
@@ -1218,13 +1218,25 @@
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6cjXqoR3Deh29nnRHntbBLgadsC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Kasdan",
       "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
       "prestige": true,
       "imdbId": "tt26735127"
+    },
+    {
+      "id": 1437882,
+      "title": "A Place in Hell",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Chloe Domont",
+      "studioStr": "T-Street / MRC",
+      "prestige": true,
+      "imdbId": "tt36931184"
     },
     {
       "id": 1421903,
@@ -1573,18 +1585,6 @@
       "studioStr": "Illumination / Universal Pictures",
       "prestige": true,
       "imdbId": "tt43609247"
-    },
-    {
-      "id": 1437882,
-      "title": "A Place in Hell",
-      "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Chloe Domont",
-      "studioStr": "T-Street / MRC",
-      "prestige": true,
-      "imdbId": "tt36931184"
     },
     {
       "id": 556682,
@@ -2025,7 +2025,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2077,6 +2077,18 @@
       "studioStr": "Phobos / Range Media Partners",
       "prestige": true,
       "imdbId": "tt41786209"
+    },
+    {
+      "id": 1571245,
+      "title": "Viva la Madness",
+      "releaseDate": "2028-01-21",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Guy Ritchie",
+      "studioStr": "Black Bear Pictures / Lumina Studios",
+      "prestige": false,
+      "imdbId": "tt38795701"
     },
     {
       "id": 1188748,
