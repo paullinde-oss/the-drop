@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T13:43:51.669Z",
-  "count": 207,
+  "generatedAt": "2026-08-04T13:03:38.346Z",
+  "count": 211,
   "movies": [
     {
       "id": 1623376,
@@ -13,18 +13,6 @@
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": "tt39400168"
-    },
-    {
-      "id": 1477712,
-      "title": "Ice Cream Man",
-      "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Eli Roth",
-      "studioStr": "The Horror Section / Media Capital Technologies",
-      "prestige": true,
-      "imdbId": "tt36893729"
     },
     {
       "id": 675871,
@@ -313,6 +301,18 @@
       "studioStr": "Blumhouse Productions / Supernix",
       "prestige": true,
       "imdbId": "tt36983905"
+    },
+    {
+      "id": 607833,
+      "title": "The Intern",
+      "releaseDate": "2026-09-16",
+      "poster": "https://image.tmdb.org/t/p/w92/kRHjgsICPISgEClloeARkPHP96M.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Kim Do-young",
+      "studioStr": "Anthology Studios / Warner Bros. Korea",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1319525,
@@ -759,6 +759,18 @@
       "imdbId": "tt40311603"
     },
     {
+      "id": 1583250,
+      "title": "Untitled A24 Horror Film",
+      "releaseDate": "2026-10-23",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Arkasha Stevenson",
+      "studioStr": "A24 / Square Peg",
+      "prestige": true,
+      "imdbId": "tt38977831"
+    },
+    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -777,7 +789,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -870,7 +882,7 @@
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/wbTHJ5VzOjEq02PYHkLAL7yhhBn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ti West",
@@ -1155,6 +1167,18 @@
       "imdbId": "tt29122074"
     },
     {
+      "id": 1391239,
+      "title": "The Debut",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jesse Eisenberg",
+      "studioStr": "Topic Studios / Fruit Tree",
+      "prestige": true,
+      "imdbId": "tt34718200"
+    },
+    {
       "id": 1566920,
       "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
       "releaseDate": "2026-12-11",
@@ -1218,25 +1242,13 @@
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/6cjXqoR3Deh29nnRHntbBLgadsC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Kasdan",
       "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
       "prestige": true,
       "imdbId": "tt26735127"
-    },
-    {
-      "id": 1437882,
-      "title": "A Place in Hell",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Chloe Domont",
-      "studioStr": "T-Street / MRC",
-      "prestige": true,
-      "imdbId": "tt36931184"
     },
     {
       "id": 1421903,
@@ -1261,6 +1273,18 @@
       "studioStr": "Skydance Sports / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt30093348"
+    },
+    {
+      "id": 934372,
+      "title": "Any Other Night",
+      "releaseDate": "2026-12-31",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Michiel ten Horn",
+      "studioStr": "XYZ Films / Lithium Studios",
+      "prestige": true,
+      "imdbId": "tt14658038"
     },
     {
       "id": 1619903,
@@ -1587,16 +1611,16 @@
       "imdbId": "tt43609247"
     },
     {
-      "id": 556682,
-      "title": "F.A.S.T.",
+      "id": 1437882,
+      "title": "A Place in Hell",
       "releaseDate": "2027-04-23",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Ben Richardson",
-      "studioStr": "Heyday Films / Bosque Ranch Productions",
+      "directorStr": "Chloe Domont",
+      "studioStr": "T-Street / MRC",
       "prestige": true,
-      "imdbId": "tt9198366"
+      "imdbId": "tt36931184"
     },
     {
       "id": 1306322,
@@ -1633,6 +1657,18 @@
       "studioStr": "20th Century Studios / Original Film",
       "prestige": true,
       "imdbId": "tt27435653"
+    },
+    {
+      "id": 556682,
+      "title": "F.A.S.T.",
+      "releaseDate": "2027-05-14",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ben Richardson",
+      "studioStr": "Heyday Films / Bosque Ranch Productions",
+      "prestige": true,
+      "imdbId": "tt9198366"
     },
     {
       "id": 1592452,
@@ -1758,7 +1794,7 @@
       "id": 1646360,
       "title": "Fake Skating",
       "releaseDate": "2027-07-16",
-      "poster": "https://image.tmdb.org/t/p/w92/yBNzgpErvRokh0G8QZzrz0ZNaJD.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Josh Boone",
@@ -1923,6 +1959,18 @@
       "imdbId": "tt43674934"
     },
     {
+      "id": 1540936,
+      "title": "Anything but Ghosts",
+      "releaseDate": "2027-10-08",
+      "poster": "https://image.tmdb.org/t/p/w92/4WuJW245c5j1XqNM2TWbLByw8YZ.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Curry Barker",
+      "studioStr": "Spooky Pictures / Divide / Conquer",
+      "prestige": true,
+      "imdbId": "tt38120758"
+    },
+    {
       "id": 1574840,
       "title": "Untitled Mummy Sequel",
       "releaseDate": "2027-10-15",
@@ -2007,18 +2055,6 @@
       "imdbId": "tt26680923"
     },
     {
-      "id": 1090869,
-      "title": "The Lord of the Rings: The Hunt for Gollum",
-      "releaseDate": "2027-12-17",
-      "poster": "https://image.tmdb.org/t/p/w92/aRtIVdlgVNtvcqFUnuhR3V1RQ7o.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Andy Serkis",
-      "studioStr": "New Line Cinema / Middle-earth Enterprises",
-      "prestige": true,
-      "imdbId": "tt32328541"
-    },
-    {
       "id": 1003598,
       "title": "Avengers: Secret Wars",
       "releaseDate": "2027-12-17",
@@ -2029,6 +2065,18 @@
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
+    },
+    {
+      "id": 1090869,
+      "title": "The Lord of the Rings: The Hunt for Gollum",
+      "releaseDate": "2027-12-17",
+      "poster": "https://image.tmdb.org/t/p/w92/aRtIVdlgVNtvcqFUnuhR3V1RQ7o.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Andy Serkis",
+      "studioStr": "New Line Cinema / Middle-earth Enterprises",
+      "prestige": true,
+      "imdbId": "tt32328541"
     },
     {
       "id": 1611116,
