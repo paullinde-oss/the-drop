@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-04T13:03:38.346Z",
-  "count": 211,
+  "generatedAt": "2026-08-05T12:57:56.643Z",
+  "count": 209,
   "movies": [
     {
       "id": 1623376,
       "title": "Blue Lock",
       "releaseDate": "2026-08-06",
-      "poster": "https://image.tmdb.org/t/p/w92/mMNJWZ0G1eMBo3nE07pDcHWi6By.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/leuvuh2NCdZBUqvogJY3xCWWgzz.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Yusuke Taki",
@@ -189,7 +189,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Michael Spierig, Peter Spierig",
+      "directorStr": "Peter Spierig, Michael Spierig",
       "studioStr": "Tea Shop Productions / Capstone Pictures",
       "prestige": false,
       "imdbId": "tt31192372"
@@ -759,18 +759,6 @@
       "imdbId": "tt40311603"
     },
     {
-      "id": 1583250,
-      "title": "Untitled A24 Horror Film",
-      "releaseDate": "2026-10-23",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Arkasha Stevenson",
-      "studioStr": "A24 / Square Peg",
-      "prestige": true,
-      "imdbId": "tt38977831"
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -789,7 +777,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1122,7 +1110,7 @@
       "id": 1078446,
       "title": "Violent Night 2",
       "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/sI9m5PUoZT6upungDXVTSPTtfgX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wKgTxSjVZBjtTzK1wEXkLffaWC1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Tommy Wirkola",
@@ -1585,18 +1573,6 @@
       "studioStr": "Almost Friday Media / Paramount Primal",
       "prestige": true,
       "imdbId": "tt43677673"
-    },
-    {
-      "id": 487560,
-      "title": "Last Friday",
-      "releaseDate": "2027-04-09",
-      "poster": "https://image.tmdb.org/t/p/w92/eGgnsFXAmDXdxdTvw4fntX8dGCM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Cube Vision / New Line Cinema",
-      "prestige": true,
-      "imdbId": "tt6914708"
     },
     {
       "id": 1718699,
