@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T12:57:56.643Z",
-  "count": 209,
+  "generatedAt": "2026-08-06T13:01:56.832Z",
+  "count": 210,
   "movies": [
     {
       "id": 1623376,
@@ -18,7 +18,7 @@
       "id": 675871,
       "title": "Super Troopers 3",
       "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/eV2Uhn8A93V4ELySlrBGvBuQJLj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jay Chandrasekhar",
@@ -150,25 +150,13 @@
       "id": 1204680,
       "title": "Coyote vs. Acme",
       "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave Green",
       "studioStr": "Troll Court Entertainment / Keylight Pictures",
       "prestige": true,
       "imdbId": "tt1756855"
-    },
-    {
-      "id": 1384216,
-      "title": "The Dog Stars",
-      "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ridley Scott",
-      "studioStr": "20th Century Studios / Scott Free Productions",
-      "prestige": true,
-      "imdbId": "tt21285562"
     },
     {
       "id": 1731694,
@@ -363,6 +351,18 @@
       "imdbId": null
     },
     {
+      "id": 1693902,
+      "title": "Jhingedaau 2",
+      "releaseDate": "2026-09-18",
+      "poster": "https://image.tmdb.org/t/p/w92/9GhyuqIrjKRaWeXjGCHGjthUJD8.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Gyanendra Bahadur Deuja",
+      "studioStr": "Kapangadhi Cinema Pvt. Ltd. / Film Crew Nepal Pvt. Ltd.",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1507877,
       "title": "Another Day",
       "releaseDate": "2026-09-23",
@@ -378,7 +378,7 @@
       "id": 1032863,
       "title": "The Love Hypothesis",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/mSeGcWakOmhPd1n0QcinqIIUu1B.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/y3RQhcGjEVj9Q55lQjVDG1bEsgW.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Claire Scanlon",
@@ -417,7 +417,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -438,7 +438,7 @@
       "id": 1375441,
       "title": "Primetime",
       "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lance Oppenheim",
@@ -687,6 +687,18 @@
       "imdbId": "tt38672588"
     },
     {
+      "id": 1729134,
+      "title": "Holiday Touchdown: A Bears Love Story",
+      "releaseDate": "2026-10-17",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Dustin Rikert",
+      "studioStr": "Skydance Sports / Synthetic Cinema International",
+      "prestige": true,
+      "imdbId": "tt43662087"
+    },
+    {
       "id": 1400940,
       "title": "Clayface",
       "releaseDate": "2026-10-23",
@@ -726,7 +738,7 @@
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/2nHPVmDxSZhtjdJWtl4G0CaVORj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -1050,7 +1062,7 @@
       "id": 1457866,
       "title": "The Adventures of Cliff Booth",
       "releaseDate": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/qudwprZ9CGn9vay0boXcyrEEUQr.jpg",
+      "poster": null,
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
