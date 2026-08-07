@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-08-06T13:01:56.832Z",
-  "count": 210,
+  "generatedAt": "2026-08-07T11:47:45.459Z",
+  "count": 209,
   "movies": [
-    {
-      "id": 1623376,
-      "title": "Blue Lock",
-      "releaseDate": "2026-08-06",
-      "poster": "https://image.tmdb.org/t/p/w92/leuvuh2NCdZBUqvogJY3xCWWgzz.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Yusuke Taki",
-      "studioStr": "TOHO",
-      "prestige": true,
-      "imdbId": "tt39400168"
-    },
     {
       "id": 675871,
       "title": "Super Troopers 3",
@@ -177,7 +165,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Peter Spierig, Michael Spierig",
+      "directorStr": "Michael Spierig, Peter Spierig",
       "studioStr": "Tea Shop Productions / Capstone Pictures",
       "prestige": false,
       "imdbId": "tt31192372"
@@ -417,7 +405,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -438,7 +426,7 @@
       "id": 1375441,
       "title": "Primetime",
       "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lance Oppenheim",
@@ -738,7 +726,7 @@
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -927,6 +915,18 @@
       "imdbId": "tt34385689"
     },
     {
+      "id": 1131943,
+      "title": "Madden",
+      "releaseDate": "2026-11-18",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "David O. Russell",
+      "studioStr": "Escape Artists / SMAC Entertainment",
+      "prestige": true,
+      "imdbId": "tt24818230"
+    },
+    {
       "id": 1625344,
       "title": "The Rainbow Fish",
       "releaseDate": "2026-11-19",
@@ -1069,18 +1069,6 @@
       "studioStr": "Heyday Films / Netflix",
       "prestige": true,
       "imdbId": "tt36408401"
-    },
-    {
-      "id": 1131943,
-      "title": "Madden",
-      "releaseDate": "2026-11-26",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "David O. Russell",
-      "studioStr": "Escape Artists / SMAC Entertainment",
-      "prestige": true,
-      "imdbId": "tt24818230"
     },
     {
       "id": 1739765,
@@ -1410,7 +1398,7 @@
       "id": 1480503,
       "title": "CoComelon: The Movie",
       "releaseDate": "2027-02-19",
-      "poster": "https://image.tmdb.org/t/p/w92/ePmeaJOLEdCTsPRhVy7db8URbky.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dDYSKF9VWmcgOy2sruIJkHs5DDG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kathleen Good",
@@ -2158,7 +2146,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Yamazaki",
-      "studioStr": "Sony Pictures / Bad Robot",
+      "studioStr": "Bad Robot / Zipper Bros Films",
       "prestige": true,
       "imdbId": "tt34622084"
     },
