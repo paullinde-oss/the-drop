@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-08-07T11:47:45.459Z",
-  "count": 209,
+  "generatedAt": "2026-08-08T11:29:48.905Z",
+  "count": 205,
   "movies": [
-    {
-      "id": 675871,
-      "title": "Super Troopers 3",
-      "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jay Chandrasekhar",
-      "studioStr": "Broken Lizard Industries / Searchlight Pictures",
-      "prestige": true,
-      "imdbId": "tt8820258"
-    },
-    {
-      "id": 1638776,
-      "title": "Till We Meet Again on the Starry Hill",
-      "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/kdvka2RxNHGmARwXRv8yclu5t6L.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takehiko Shinjo",
-      "studioStr": "Shochiku",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
-      "id": 1329016,
-      "title": "Tony",
-      "releaseDate": "2026-08-07",
-      "poster": "https://image.tmdb.org/t/p/w92/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Matt Johnson",
-      "studioStr": "Star Thrower Entertainment / Zapruder Films",
-      "prestige": true,
-      "imdbId": "tt33095251"
-    },
     {
       "id": 1307247,
       "title": "OK! Madam: Bon Voyage",
@@ -101,7 +65,7 @@
     {
       "id": 1291595,
       "title": "Insidious: Out of the Further",
-      "releaseDate": "2026-08-21",
+      "releaseDate": "2026-08-19",
       "poster": "https://image.tmdb.org/t/p/w92/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -111,16 +75,16 @@
       "imdbId": "tt32393988"
     },
     {
-      "id": 1288445,
-      "title": "Mutiny",
-      "releaseDate": "2026-08-21",
-      "poster": "https://image.tmdb.org/t/p/w92/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "releaseDate": "2026-08-20",
+      "poster": "https://image.tmdb.org/t/p/w92/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Jean-François Richet",
-      "studioStr": "Punch Palace Productions / MadRiver Pictures",
-      "prestige": false,
-      "imdbId": "tt32338669"
+      "directorStr": "Dave Green",
+      "studioStr": "Troll Court Entertainment / Keylight Pictures",
+      "prestige": true,
+      "imdbId": "tt1756855"
     },
     {
       "id": 1516698,
@@ -135,16 +99,16 @@
       "imdbId": "tt37654096"
     },
     {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
+      "id": 1631807,
+      "title": "The Secret Woman",
       "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
-      "format": "theatrical",
+      "poster": "https://image.tmdb.org/t/p/w92/dIl3cGBcR9AwOjWhEbMuagXdVtG.jpg",
+      "format": "streaming",
       "reRelease": false,
-      "directorStr": "Dave Green",
-      "studioStr": "Troll Court Entertainment / Keylight Pictures",
+      "directorStr": "Barbara Topsøe-Rothenborg",
+      "studioStr": "Netflix",
       "prestige": true,
-      "imdbId": "tt1756855"
+      "imdbId": "tt37275992"
     },
     {
       "id": 1731694,
@@ -165,7 +129,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Michael Spierig, Peter Spierig",
+      "directorStr": "Peter Spierig, Michael Spierig",
       "studioStr": "Tea Shop Productions / Capstone Pictures",
       "prestige": false,
       "imdbId": "tt31192372"
@@ -426,7 +390,7 @@
       "id": 1375441,
       "title": "Primetime",
       "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lance Oppenheim",
@@ -795,6 +759,18 @@
       "imdbId": "tt40564737"
     },
     {
+      "id": 1117898,
+      "title": "The Cat in the Hat",
+      "releaseDate": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w92/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Erica Rivinoja, Alessandro Carloni",
+      "studioStr": "DNEG / Dr. Seuss Enterprises",
+      "prestige": true,
+      "imdbId": "tt2321555"
+    },
+    {
       "id": 1381071,
       "title": "Godzilla Minus Zero",
       "releaseDate": "2026-11-06",
@@ -817,18 +793,6 @@
       "studioStr": "Searchlight Pictures / Blueprint Pictures",
       "prestige": true,
       "imdbId": "tt15799564"
-    },
-    {
-      "id": 1117898,
-      "title": "The Cat in the Hat",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Erica Rivinoja, Alessandro Carloni",
-      "studioStr": "DNEG / Dr. Seuss Enterprises",
-      "prestige": true,
-      "imdbId": "tt2321555"
     },
     {
       "id": 1697911,
@@ -901,18 +865,6 @@
       "studioStr": "LesPros Entertainment / Shochiku",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1381273,
-      "title": "Paper Tiger",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/7XhTjNP3BL8pTtCLcsvIssR9hSf.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "James Gray",
-      "studioStr": "RT Features / Leone Film Group",
-      "prestige": false,
-      "imdbId": "tt34385689"
     },
     {
       "id": 1131943,
@@ -1206,7 +1158,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -1581,7 +1533,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/9HqA8Hxwd7KNs6ttYqRbXtYHLpv.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Eric Guillon",
+      "directorStr": "Eric Guillon, Claire Dodgson, Jonathan del Val",
       "studioStr": "Illumination / Universal Pictures",
       "prestige": true,
       "imdbId": "tt43609247"
@@ -1686,7 +1638,7 @@
       "id": 1417668,
       "title": "Star Wars: Starfighter",
       "releaseDate": "2027-05-28",
-      "poster": "https://image.tmdb.org/t/p/w92/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/AsCNiwRC2rWSy8cMtl7Kfr1axix.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Shawn Levy",
@@ -2388,7 +2340,7 @@
       "directorStr": "Zach Cregger",
       "studioStr": "Subconscious / New Line Cinema",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt38581828"
     },
     {
       "id": 1529266,
