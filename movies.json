@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:29:48.905Z",
+  "generatedAt": "2026-08-09T11:31:11.666Z",
   "count": 205,
   "movies": [
     {
@@ -210,7 +210,7 @@
       "id": 1302904,
       "title": "Practical Magic 2",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/uA8ytJv17alSiREcUthbYAdiPCX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Susanne Bier",
@@ -369,22 +369,10 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
-    },
-    {
-      "id": 1465063,
-      "title": "Forgotten Island",
-      "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Januel Mercado, Joel Crawford",
-      "studioStr": "DreamWorks Animation",
-      "prestige": true,
-      "imdbId": "tt36583977"
     },
     {
       "id": 1375441,
@@ -397,6 +385,18 @@
       "studioStr": "A24 / Icki Eneo Arlo",
       "prestige": true,
       "imdbId": "tt34206385"
+    },
+    {
+      "id": 1465063,
+      "title": "Forgotten Island",
+      "releaseDate": "2026-09-25",
+      "poster": "https://image.tmdb.org/t/p/w92/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Januel Mercado, Joel Crawford",
+      "studioStr": "DreamWorks Animation",
+      "prestige": true,
+      "imdbId": "tt36583977"
     },
     {
       "id": 1263337,
@@ -1767,18 +1767,6 @@
       "imdbId": "tt41857193"
     },
     {
-      "id": 1634942,
-      "title": "Jason Statham Stole My Bike",
-      "releaseDate": "2027-08-06",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "Black Bear Pictures / 87North Productions",
-      "prestige": false,
-      "imdbId": "tt39848323"
-    },
-    {
       "id": 1477483,
       "title": "Snoop",
       "releaseDate": "2027-08-06",
@@ -1789,6 +1777,18 @@
       "studioStr": "Death Row Pictures / Universal Pictures",
       "prestige": true,
       "imdbId": "tt30094801"
+    },
+    {
+      "id": 1634942,
+      "title": "Jason Statham Stole My Bike",
+      "releaseDate": "2027-08-06",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "Black Bear Pictures / 87North Productions",
+      "prestige": false,
+      "imdbId": "tt39848323"
     },
     {
       "id": 1572400,
