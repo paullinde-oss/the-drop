@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-09T11:31:11.666Z",
-  "count": 205,
+  "generatedAt": "2026-08-10T11:51:14.543Z",
+  "count": 204,
   "movies": [
     {
       "id": 1307247,
       "title": "OK! Madam: Bon Voyage",
       "releaseDate": "2026-08-12",
-      "poster": "https://image.tmdb.org/t/p/w92/xDbrWXB9yb5aEdt4peVy8OWNP2Y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/Amd33xd3vQPd88wHq5K5Odnltt6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lee Cheol-ha",
@@ -30,7 +30,7 @@
       "id": 1493400,
       "title": "Camp Rock 3",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/1w2SIg1TiqqvXSmDsqj104m2UGM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Veronica Rodriguez",
@@ -78,7 +78,7 @@
       "id": 1204680,
       "title": "Coyote vs. Acme",
       "releaseDate": "2026-08-20",
-      "poster": "https://image.tmdb.org/t/p/w92/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave Green",
@@ -99,18 +99,6 @@
       "imdbId": "tt37654096"
     },
     {
-      "id": 1631807,
-      "title": "The Secret Woman",
-      "releaseDate": "2026-08-28",
-      "poster": "https://image.tmdb.org/t/p/w92/dIl3cGBcR9AwOjWhEbMuagXdVtG.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Barbara Topsøe-Rothenborg",
-      "studioStr": "Netflix",
-      "prestige": true,
-      "imdbId": "tt37275992"
-    },
-    {
       "id": 1731694,
       "title": "LEGO Star Wars: The Mandalorian",
       "releaseDate": "2026-09-02",
@@ -129,7 +117,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Peter Spierig, Michael Spierig",
+      "directorStr": "Michael Spierig, Peter Spierig",
       "studioStr": "Tea Shop Productions / Capstone Pictures",
       "prestige": false,
       "imdbId": "tt31192372"
@@ -369,7 +357,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
