@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T11:51:14.543Z",
-  "count": 204,
+  "generatedAt": "2026-08-11T11:46:48.685Z",
+  "count": 205,
   "movies": [
     {
       "id": 1307247,
@@ -51,18 +51,6 @@
       "imdbId": "tt35060353"
     },
     {
-      "id": 192139,
-      "title": "The Brink of War",
-      "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Michael Russell Gunn",
-      "studioStr": "2521 Entertainment / SK Global Entertainment",
-      "prestige": true,
-      "imdbId": "tt33070884"
-    },
-    {
       "id": 1291595,
       "title": "Insidious: Out of the Further",
       "releaseDate": "2026-08-19",
@@ -78,7 +66,7 @@
       "id": 1204680,
       "title": "Coyote vs. Acme",
       "releaseDate": "2026-08-20",
-      "poster": "https://image.tmdb.org/t/p/w92/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave Green",
@@ -87,16 +75,16 @@
       "imdbId": "tt1756855"
     },
     {
-      "id": 1516698,
-      "title": "The Last Sunrise",
-      "releaseDate": "2026-08-26",
-      "poster": "https://image.tmdb.org/t/p/w92/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
-      "format": "streaming",
+      "id": 1620290,
+      "title": "Kenan & Kel Meet Frankenstein",
+      "releaseDate": "2026-08-21",
+      "poster": null,
+      "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Carlson Young",
-      "studioStr": "Amazon MGM Studios / Ethea Entertainment",
+      "directorStr": null,
+      "studioStr": "Artists for Artists / Range Media Partners",
       "prestige": true,
-      "imdbId": "tt37654096"
+      "imdbId": "tt39384130"
     },
     {
       "id": 1731694,
@@ -117,7 +105,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Michael Spierig, Peter Spierig",
+      "directorStr": "Peter Spierig, Michael Spierig",
       "studioStr": "Tea Shop Productions / Capstone Pictures",
       "prestige": false,
       "imdbId": "tt31192372"
@@ -198,7 +186,7 @@
       "id": 1302904,
       "title": "Practical Magic 2",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Susanne Bier",
@@ -357,7 +345,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -397,6 +385,18 @@
       "studioStr": "Paramount Pictures / Wild Chickens Productions",
       "prestige": true,
       "imdbId": "tt7526136"
+    },
+    {
+      "id": 1746650,
+      "title": "Avengers Endgame Encore",
+      "releaseDate": "2026-09-25",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Marvel Studios",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1321666,
@@ -450,7 +450,7 @@
       "id": 1706689,
       "title": "First Voice",
       "releaseDate": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w92/aN80RRYhhcGJvLzopGcVAtRQnas.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/s0BNmv4jtWp2XClygvzGqPQ0TQp.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": null,
@@ -729,7 +729,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -747,16 +747,16 @@
       "imdbId": "tt40564737"
     },
     {
-      "id": 1117898,
-      "title": "The Cat in the Hat",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+      "id": 1481630,
+      "title": "New Eden",
+      "releaseDate": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/h3d9arm0yLdBbAlYUtBxDLXDDI6.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Erica Rivinoja, Alessandro Carloni",
-      "studioStr": "DNEG / Dr. Seuss Enterprises",
+      "directorStr": "Aly Muritiba",
+      "studioStr": "Muritiba Filmes / Grafo Audiovisual",
       "prestige": true,
-      "imdbId": "tt2321555"
+      "imdbId": "tt31340003"
     },
     {
       "id": 1381071,
@@ -781,6 +781,18 @@
       "studioStr": "Searchlight Pictures / Blueprint Pictures",
       "prestige": true,
       "imdbId": "tt15799564"
+    },
+    {
+      "id": 1117898,
+      "title": "The Cat in the Hat",
+      "releaseDate": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w92/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Erica Rivinoja, Alessandro Carloni",
+      "studioStr": "DNEG / Dr. Seuss Enterprises",
+      "prestige": true,
+      "imdbId": "tt2321555"
     },
     {
       "id": 1697911,
@@ -1119,6 +1131,18 @@
       "imdbId": "tt39110207"
     },
     {
+      "id": 1532610,
+      "title": "Ink",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Danny Boyle",
+      "studioStr": "StudioCanal UK / Media Res",
+      "prestige": true,
+      "imdbId": "tt37967547"
+    },
+    {
       "id": 1408207,
       "title": "Zero A.D.",
       "releaseDate": "2026-12-11",
@@ -1225,18 +1249,6 @@
       "studioStr": "Studio Soi / X Filme Creative Pool",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1532610,
-      "title": "Ink",
-      "releaseDate": "2027-01-06",
-      "poster": "https://image.tmdb.org/t/p/w92/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Danny Boyle",
-      "studioStr": "StudioCanal UK / Media Res",
-      "prestige": true,
-      "imdbId": "tt37967547"
     },
     {
       "id": 621304,
@@ -1971,18 +1983,6 @@
       "imdbId": "tt26680923"
     },
     {
-      "id": 1003598,
-      "title": "Avengers: Secret Wars",
-      "releaseDate": "2027-12-17",
-      "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
-      "studioStr": "Marvel Studios / Kevin Feige Productions",
-      "prestige": true,
-      "imdbId": "tt21361444"
-    },
-    {
       "id": 1090869,
       "title": "The Lord of the Rings: The Hunt for Gollum",
       "releaseDate": "2027-12-17",
@@ -1993,6 +1993,18 @@
       "studioStr": "New Line Cinema / Middle-earth Enterprises",
       "prestige": true,
       "imdbId": "tt32328541"
+    },
+    {
+      "id": 1003598,
+      "title": "Avengers: Secret Wars",
+      "releaseDate": "2027-12-17",
+      "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Joe Russo, Anthony Russo",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": true,
+      "imdbId": "tt21361444"
     },
     {
       "id": 1611116,
@@ -2382,7 +2394,7 @@
       "id": 1545226,
       "title": "Untitled hybrid live-action Teenage Mutant Ninja Turtles",
       "releaseDate": "2028-11-17",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/np6pwnasv7gwCM3qcODwfO6pKIv.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": null,
