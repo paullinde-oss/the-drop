@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T11:46:48.685Z",
-  "count": 205,
+  "generatedAt": "2026-08-12T11:49:52.560Z",
+  "count": 208,
   "movies": [
     {
       "id": 1307247,
@@ -174,13 +174,25 @@
       "id": 1378537,
       "title": "Mirzapur: The Movie",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/jbmZPjSfCdIHo269QZK203WZSm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Gurmmeet Singh",
       "studioStr": "Excel Entertainment / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt34339725"
+    },
+    {
+      "id": 1241907,
+      "title": "The Housewife",
+      "releaseDate": "2026-09-10",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ben Shirinian",
+      "studioStr": "Wonder Street / NEON",
+      "prestige": true,
+      "imdbId": "tt31186307"
     },
     {
       "id": 1302904,
@@ -217,6 +229,54 @@
       "studioStr": "Blumhouse Productions / Supernix",
       "prestige": true,
       "imdbId": "tt36983905"
+    },
+    {
+      "id": 1559269,
+      "title": "Everybody Wants to F*ck Me",
+      "releaseDate": "2026-09-11",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jonathan Schey",
+      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
+      "prestige": true,
+      "imdbId": "tt38629979"
+    },
+    {
+      "id": 1747730,
+      "title": "Blindspot Berlin",
+      "releaseDate": "2026-09-13",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Nawrath",
+      "studioStr": "NEUESUPER / ARD Degeto",
+      "prestige": false,
+      "imdbId": null
+    },
+    {
+      "id": 1514333,
+      "title": "Wild Wild East",
+      "releaseDate": "2026-09-14",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jan Holoubek",
+      "studioStr": "TVN Warner Bros. Discovery / Grupa Moderator Studio Filmowe",
+      "prestige": true,
+      "imdbId": "tt37674760"
+    },
+    {
+      "id": 1473439,
+      "title": "Bad Lieutenant: Tokyo",
+      "releaseDate": "2026-09-14",
+      "poster": "https://image.tmdb.org/t/p/w92/kE4xwNN2aKLe8thnTH4EJbzc1JO.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Takashi Miike",
+      "studioStr": "Pressman Film / Nippon Television Network Corporation",
+      "prestige": true,
+      "imdbId": "tt36753615"
     },
     {
       "id": 607833,
@@ -345,7 +405,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -385,18 +445,6 @@
       "studioStr": "Paramount Pictures / Wild Chickens Productions",
       "prestige": true,
       "imdbId": "tt7526136"
-    },
-    {
-      "id": 1746650,
-      "title": "Avengers Endgame Encore",
-      "releaseDate": "2026-09-25",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Marvel Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1321666,
@@ -559,7 +607,7 @@
       "title": "Love of Your Life",
       "releaseDate": "2026-10-14",
       "poster": "https://image.tmdb.org/t/p/w92/rcVgv8l2QNRfFgpLcRTxREjXms8.jpg",
-      "format": "streaming",
+      "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rachel Morrison",
       "studioStr": "Amazon MGM Studios / Open Invite Entertainment",
@@ -988,7 +1036,7 @@
     },
     {
       "id": 1430815,
-      "title": "Good Little Solider",
+      "title": "A Good Little Solider",
       "releaseDate": "2026-11-25",
       "poster": "https://image.tmdb.org/t/p/w92/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg",
       "format": "theatrical",
@@ -1134,8 +1182,8 @@
       "id": 1532610,
       "title": "Ink",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
-      "format": "digital",
+      "poster": "https://image.tmdb.org/t/p/w92/AftyZmiTYohhcwEgaYt4RUNqdAc.jpg",
+      "format": "theatrical",
       "reRelease": false,
       "directorStr": "Danny Boyle",
       "studioStr": "StudioCanal UK / Media Res",
@@ -1885,18 +1933,6 @@
       "studioStr": "Sony Pictures Animation / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt43674934"
-    },
-    {
-      "id": 1540936,
-      "title": "Anything but Ghosts",
-      "releaseDate": "2027-10-08",
-      "poster": "https://image.tmdb.org/t/p/w92/4WuJW245c5j1XqNM2TWbLByw8YZ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Curry Barker",
-      "studioStr": "Spooky Pictures / Divide / Conquer",
-      "prestige": true,
-      "imdbId": "tt38120758"
     },
     {
       "id": 1574840,
