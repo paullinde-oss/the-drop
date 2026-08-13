@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-08-12T11:49:52.560Z",
-  "count": 208,
+  "generatedAt": "2026-08-13T11:49:47.572Z",
+  "count": 207,
   "movies": [
-    {
-      "id": 1307247,
-      "title": "OK! Madam: Bon Voyage",
-      "releaseDate": "2026-08-12",
-      "poster": "https://image.tmdb.org/t/p/w92/Amd33xd3vQPd88wHq5K5Odnltt6.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Lee Cheol-ha",
-      "studioStr": "OAL",
-      "prestige": false,
-      "imdbId": "tt43669175"
-    },
     {
       "id": 1101383,
       "title": "The End of Oak Street",
@@ -25,18 +13,6 @@
       "studioStr": "Warner Bros. Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt27165187"
-    },
-    {
-      "id": 1493400,
-      "title": "Camp Rock 3",
-      "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Veronica Rodriguez",
-      "studioStr": "Copper Cup Entertainment / Oops Doughnuts Productions",
-      "prestige": true,
-      "imdbId": "tt6743524"
     },
     {
       "id": 1226699,
@@ -66,7 +42,7 @@
       "id": 1204680,
       "title": "Coyote vs. Acme",
       "releaseDate": "2026-08-20",
-      "poster": "https://image.tmdb.org/t/p/w92/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave Green",
@@ -75,16 +51,16 @@
       "imdbId": "tt1756855"
     },
     {
-      "id": 1620290,
-      "title": "Kenan & Kel Meet Frankenstein",
-      "releaseDate": "2026-08-21",
-      "poster": null,
-      "format": "theatrical",
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "releaseDate": "2026-08-26",
+      "poster": "https://image.tmdb.org/t/p/w92/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
+      "format": "streaming",
       "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Artists for Artists / Range Media Partners",
+      "directorStr": "Carlson Young",
+      "studioStr": "Amazon MGM Studios / Ethea Entertainment",
       "prestige": true,
-      "imdbId": "tt39384130"
+      "imdbId": "tt37654096"
     },
     {
       "id": 1731694,
@@ -105,7 +81,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Peter Spierig, Michael Spierig",
+      "directorStr": "Michael Spierig, Peter Spierig",
       "studioStr": "Tea Shop Productions / Capstone Pictures",
       "prestige": false,
       "imdbId": "tt31192372"
@@ -306,7 +282,7 @@
       "id": 1423191,
       "title": "Resident Evil",
       "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Zach Cregger",
@@ -546,7 +522,7 @@
       "id": 1669915,
       "title": "Angel and the Badman",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/xaLnjyR6eHnPCtkcG0lJEBwQGfh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/igrWgzlxwHLzuNUrL4agCNmRfDi.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Julio Quintana",
@@ -777,7 +753,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1182,7 +1158,7 @@
       "id": 1532610,
       "title": "Ink",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/AftyZmiTYohhcwEgaYt4RUNqdAc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Danny Boyle",
@@ -1957,6 +1933,18 @@
       "studioStr": "Warner Bros. Pictures Animation / On the Day",
       "prestige": true,
       "imdbId": "tt7008874"
+    },
+    {
+      "id": 1673868,
+      "title": "Charlie vs. the Chocolate Factory",
+      "releaseDate": "2027-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/kEODxjzUwWAxCh2Sm8lVpkguyiy.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Jared Stern, Elaine Bogan",
+      "studioStr": "The Roald Dahl Story Company / Sony Pictures Imageworks",
+      "prestige": true,
+      "imdbId": "tt11998406"
     },
     {
       "id": 1215281,
