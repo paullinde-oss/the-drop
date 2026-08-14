@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-13T11:49:47.572Z",
-  "count": 207,
+  "generatedAt": "2026-08-14T11:46:43.276Z",
+  "count": 209,
   "movies": [
     {
       "id": 1101383,
       "title": "The End of Oak Street",
       "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Robert Mitchell",
@@ -73,18 +73,6 @@
       "studioStr": "Lucasfilm Ltd. / The LEGO Group",
       "prestige": true,
       "imdbId": "tt43679852"
-    },
-    {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Michael Spierig, Peter Spierig",
-      "studioStr": "Tea Shop Productions / Capstone Pictures",
-      "prestige": false,
-      "imdbId": "tt31192372"
     },
     {
       "id": 1386315,
@@ -207,18 +195,6 @@
       "imdbId": "tt36983905"
     },
     {
-      "id": 1559269,
-      "title": "Everybody Wants to F*ck Me",
-      "releaseDate": "2026-09-11",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jonathan Schey",
-      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
-      "prestige": true,
-      "imdbId": "tt38629979"
-    },
-    {
       "id": 1747730,
       "title": "Blindspot Berlin",
       "releaseDate": "2026-09-13",
@@ -264,7 +240,7 @@
       "directorStr": "Kim Do-young",
       "studioStr": "Anthology Studios / Warner Bros. Korea",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43741215"
     },
     {
       "id": 1319525,
@@ -702,7 +678,7 @@
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/a8licXigYz4zOKhtqVzeA17jHxP.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -1131,6 +1107,18 @@
       "imdbId": "tt29122074"
     },
     {
+      "id": 1408207,
+      "title": "Zero A.D.",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alejandro Monteverde",
+      "studioStr": "Angel Studios / Kasbah Films",
+      "prestige": true,
+      "imdbId": "tt34491649"
+    },
+    {
       "id": 1391239,
       "title": "The Debut",
       "releaseDate": "2026-12-11",
@@ -1165,18 +1153,6 @@
       "studioStr": "StudioCanal UK / Media Res",
       "prestige": true,
       "imdbId": "tt37967547"
-    },
-    {
-      "id": 1408207,
-      "title": "Zero A.D.",
-      "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alejandro Monteverde",
-      "studioStr": "Angel Studios / Kasbah Films",
-      "prestige": true,
-      "imdbId": "tt34491649"
     },
     {
       "id": 1170608,
@@ -1443,6 +1419,18 @@
       "imdbId": "tt5500064"
     },
     {
+      "id": 1748350,
+      "title": "Justice Hearts",
+      "releaseDate": "2027-03-12",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Chris Williams",
+      "studioStr": "Netflix / Sony Pictures Animation",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
@@ -1527,6 +1515,18 @@
       "imdbId": "tt26768234"
     },
     {
+      "id": 1731801,
+      "title": "Boys for Life",
+      "releaseDate": "2027-04-09",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Tyler Falbo",
+      "studioStr": "Almost Friday Media / Paramount Primal",
+      "prestige": true,
+      "imdbId": "tt43677673"
+    },
+    {
       "id": 1263022,
       "title": "Get Lite",
       "releaseDate": "2027-04-09",
@@ -1539,16 +1539,16 @@
       "imdbId": "tt13655056"
     },
     {
-      "id": 1731801,
-      "title": "Boys for Life",
-      "releaseDate": "2027-04-09",
+      "id": 1748783,
+      "title": "Justice Hearts: The Dark Empire",
+      "releaseDate": "2027-04-15",
       "poster": null,
-      "format": "theatrical",
+      "format": "streaming",
       "reRelease": false,
-      "directorStr": "Tyler Falbo",
-      "studioStr": "Almost Friday Media / Paramount Primal",
+      "directorStr": "Chris Williams",
+      "studioStr": "Sony Pictures Animation / Netflix",
       "prestige": true,
-      "imdbId": "tt43677673"
+      "imdbId": null
     },
     {
       "id": 1718699,
@@ -1585,6 +1585,18 @@
       "studioStr": "Brooksfilms / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt32659463"
+    },
+    {
+      "id": 1559269,
+      "title": "Everybody Wants to F*ck Me",
+      "releaseDate": "2027-05-06",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jonathan Schey",
+      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
+      "prestige": true,
+      "imdbId": "tt38629979"
     },
     {
       "id": 532652,
@@ -1645,6 +1657,18 @@
       "studioStr": "Locksmith Animation / DNEG",
       "prestige": true,
       "imdbId": "tt28018076"
+    },
+    {
+      "id": 1748823,
+      "title": "Justice Hearts: Battle of the Five Demons",
+      "releaseDate": "2027-05-21",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Chris Williams",
+      "studioStr": "Sony Pictures / Sony Pictures Animation",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1273739,
@@ -1840,7 +1864,7 @@
     },
     {
       "id": 1554353,
-      "title": "The Simpsons Movie 2",
+      "title": "The New Simpsons Movie",
       "releaseDate": "2027-09-03",
       "poster": "https://image.tmdb.org/t/p/w92/6bWJH0s0X2cTynececEJSnfbNn9.jpg",
       "format": "theatrical",
@@ -2016,7 +2040,7 @@
       "directorStr": "Andy Serkis",
       "studioStr": "New Line Cinema / Middle-earth Enterprises",
       "prestige": true,
-      "imdbId": "tt32328541"
+      "imdbId": "tt32328070"
     },
     {
       "id": 1003598,
@@ -2025,7 +2049,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
