@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-08-14T11:46:43.276Z",
-  "count": 209,
+  "generatedAt": "2026-08-15T11:20:57.837Z",
+  "count": 204,
   "movies": [
-    {
-      "id": 1101383,
-      "title": "The End of Oak Street",
-      "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Robert Mitchell",
-      "studioStr": "Warner Bros. Pictures / Domain Entertainment",
-      "prestige": true,
-      "imdbId": "tt27165187"
-    },
-    {
-      "id": 1226699,
-      "title": "The Wrong Girls",
-      "releaseDate": "2026-08-14",
-      "poster": "https://image.tmdb.org/t/p/w92/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Dylan Meyer",
-      "studioStr": "Nevermind / Point Grey Pictures",
-      "prestige": true,
-      "imdbId": "tt35060353"
-    },
     {
       "id": 1291595,
       "title": "Insidious: Out of the Further",
@@ -42,7 +18,7 @@
       "id": 1204680,
       "title": "Coyote vs. Acme",
       "releaseDate": "2026-08-20",
-      "poster": "https://image.tmdb.org/t/p/w92/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave Green",
@@ -69,7 +45,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/12lS1NvNItj0Ec5kzxmApZEBTnn.jpg",
       "format": "digital",
       "reRelease": false,
-      "directorStr": null,
+      "directorStr": "Chris Buckley",
       "studioStr": "Lucasfilm Ltd. / The LEGO Group",
       "prestige": true,
       "imdbId": "tt43679852"
@@ -399,16 +375,16 @@
       "imdbId": "tt7526136"
     },
     {
-      "id": 1321666,
-      "title": "The Doll",
+      "id": 1248832,
+      "title": "Digger",
       "releaseDate": "2026-09-30",
-      "poster": "https://image.tmdb.org/t/p/w92/yQZtwuo1S2N4ixO92mPdL8O1kPD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Maciej Kawalski",
-      "studioStr": "Gigant Films / TVN Warner Bros. Discovery",
+      "directorStr": "Alejandro G. Iñárritu",
+      "studioStr": "Warner Bros. Pictures / Legendary Pictures",
       "prestige": true,
-      "imdbId": "tt37082105"
+      "imdbId": "tt31450459"
     },
     {
       "id": 1633476,
@@ -421,30 +397,6 @@
       "studioStr": "BBC Studios / Sony Pictures",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1283515,
-      "title": "Verity",
-      "releaseDate": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w92/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Michael Showalter",
-      "studioStr": "Eat the Cat / Semi-Formal Productions",
-      "prestige": true,
-      "imdbId": "tt32261958"
-    },
-    {
-      "id": 1248832,
-      "title": "Digger",
-      "releaseDate": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w92/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alejandro G. Iñárritu",
-      "studioStr": "Warner Bros. Pictures / Legendary Pictures",
-      "prestige": true,
-      "imdbId": "tt31450459"
     },
     {
       "id": 1706689,
@@ -516,7 +468,7 @@
       "directorStr": "Michihito Fujii",
       "studioStr": "TOHO",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43738759"
     },
     {
       "id": 1461432,
@@ -729,7 +681,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1419,18 +1371,6 @@
       "imdbId": "tt5500064"
     },
     {
-      "id": 1748350,
-      "title": "Justice Hearts",
-      "releaseDate": "2027-03-12",
-      "poster": null,
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Chris Williams",
-      "studioStr": "Netflix / Sony Pictures Animation",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
@@ -1537,18 +1477,6 @@
       "studioStr": "A Seed & Wings Production (US) / Khalabo Ink Society",
       "prestige": true,
       "imdbId": "tt13655056"
-    },
-    {
-      "id": 1748783,
-      "title": "Justice Hearts: The Dark Empire",
-      "releaseDate": "2027-04-15",
-      "poster": null,
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Chris Williams",
-      "studioStr": "Sony Pictures Animation / Netflix",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1718699,
@@ -1659,18 +1587,6 @@
       "imdbId": "tt28018076"
     },
     {
-      "id": 1748823,
-      "title": "Justice Hearts: Battle of the Five Demons",
-      "releaseDate": "2027-05-21",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Chris Williams",
-      "studioStr": "Sony Pictures / Sony Pictures Animation",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1273739,
       "title": "The Catch",
       "releaseDate": "2027-05-21",
@@ -1686,7 +1602,7 @@
       "id": 1417668,
       "title": "Star Wars: Starfighter",
       "releaseDate": "2027-05-28",
-      "poster": "https://image.tmdb.org/t/p/w92/AsCNiwRC2rWSy8cMtl7Kfr1axix.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6LJetiEQjXUE9kDpXavXpZN1Vjk.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Shawn Levy",
@@ -1866,7 +1782,7 @@
       "id": 1554353,
       "title": "The New Simpsons Movie",
       "releaseDate": "2027-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/6bWJH0s0X2cTynececEJSnfbNn9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/iG1pMw9ufzXXQDTguT2okaZY3xe.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": null,
@@ -2022,7 +1938,7 @@
       "id": 1024604,
       "title": "Frozen III",
       "releaseDate": "2027-11-24",
-      "poster": "https://image.tmdb.org/t/p/w92/1gCNk9EXATgTVmWvQgFuYC4tZQd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qzVuYNqRX7rBBuUdobS2SWEni5R.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jennifer Lee",
@@ -2049,7 +1965,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2176,9 +2092,9 @@
     },
     {
       "id": 1647603,
-      "title": "Ono Ghost Market",
+      "title": "Ghost Market",
       "releaseDate": "2028-03-10",
-      "poster": "https://image.tmdb.org/t/p/w92/6Yf4Yn1UaI3eJN6T14dvSluf56H.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yrArRw51BQMIy1y1z3w1XURA7V7.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Trevor Jimenez",
@@ -2209,6 +2125,18 @@
       "studioStr": "Bad Robot / Dr. Seuss Enterprises",
       "prestige": true,
       "imdbId": "tt13397896"
+    },
+    {
+      "id": 1559978,
+      "title": "Tangled",
+      "releaseDate": "2028-03-31",
+      "poster": "https://image.tmdb.org/t/p/w92/jn6ZjmW2sMOZOjAckPCfkqxbuJm.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Michael Gracey",
+      "studioStr": "Burr! Productions / Walt Disney Pictures",
+      "prestige": true,
+      "imdbId": "tt28994588"
     },
     {
       "id": 1280608,
@@ -2269,6 +2197,18 @@
       "studioStr": "Sony Pictures / Apple Corps",
       "prestige": true,
       "imdbId": "tt31419912"
+    },
+    {
+      "id": 1293690,
+      "title": "Untitled X-Men Film",
+      "releaseDate": "2028-05-05",
+      "poster": "https://image.tmdb.org/t/p/w92/qlzlNVlASmULE11U7d2LkUS1FKm.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jake Schreier",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": true,
+      "imdbId": "tt29347085"
     },
     {
       "id": 1505252,
