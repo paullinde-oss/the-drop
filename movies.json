@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T11:20:57.837Z",
-  "count": 204,
+  "generatedAt": "2026-08-16T11:22:14.809Z",
+  "count": 207,
   "movies": [
     {
       "id": 1291595,
@@ -18,25 +18,13 @@
       "id": 1204680,
       "title": "Coyote vs. Acme",
       "releaseDate": "2026-08-20",
-      "poster": "https://image.tmdb.org/t/p/w92/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave Green",
       "studioStr": "Troll Court Entertainment / Keylight Pictures",
       "prestige": true,
       "imdbId": "tt1756855"
-    },
-    {
-      "id": 1516698,
-      "title": "The Last Sunrise",
-      "releaseDate": "2026-08-26",
-      "poster": "https://image.tmdb.org/t/p/w92/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Carlson Young",
-      "studioStr": "Amazon MGM Studios / Ethea Entertainment",
-      "prestige": true,
-      "imdbId": "tt37654096"
     },
     {
       "id": 1731694,
@@ -681,7 +669,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -756,7 +744,7 @@
       "directorStr": "Ben Smallbone, Joel Smallbone",
       "studioStr": "Angel Studios / Radiate Films",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt10098420"
     },
     {
       "id": 1396056,
@@ -1122,7 +1110,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -1743,6 +1731,18 @@
       "imdbId": "tt30094801"
     },
     {
+      "id": 1403836,
+      "title": "The Bluey Movie",
+      "releaseDate": "2027-08-06",
+      "poster": "https://image.tmdb.org/t/p/w92/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Joe Brumm",
+      "studioStr": "Ludo Studio / BBC Studios",
+      "prestige": true,
+      "imdbId": "tt35050152"
+    },
+    {
       "id": 1634942,
       "title": "Jason Statham Stole My Bike",
       "releaseDate": "2027-08-06",
@@ -1965,7 +1965,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2202,7 +2202,7 @@
       "id": 1293690,
       "title": "Untitled X-Men Film",
       "releaseDate": "2028-05-05",
-      "poster": "https://image.tmdb.org/t/p/w92/qlzlNVlASmULE11U7d2LkUS1FKm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jSn3jOzI91dOx4aVdfMrirWXH6R.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Schreier",
@@ -2262,7 +2262,7 @@
       "id": 1327821,
       "title": "Incredibles 3",
       "releaseDate": "2028-06-16",
-      "poster": "https://image.tmdb.org/t/p/w92/por0sU3WKbboM2e1M6oGlPFAEiF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/4RZF4miSyH5G5UwGD4Utzl87dqi.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Peter Sohn",
@@ -2317,6 +2317,18 @@
       "studioStr": "New Line Cinema / Warner Bros. Pictures Animation",
       "prestige": true,
       "imdbId": "tt38796554"
+    },
+    {
+      "id": 1738010,
+      "title": "Ghost Rider",
+      "releaseDate": "2028-07-28",
+      "poster": "https://image.tmdb.org/t/p/w92/zgC1zo3lyujoEiIMnUrHltvPmZg.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Shawn Levy",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": true,
+      "imdbId": "tt43711959"
     },
     {
       "id": 1529259,
@@ -2389,6 +2401,30 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt38996949"
+    },
+    {
+      "id": 1750457,
+      "title": "Clay",
+      "releaseDate": "2028-11-22",
+      "poster": "https://image.tmdb.org/t/p/w92/xuD254zctkyYOJMY6kdyAiwXcpv.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Walt Disney Pictures / Walt Disney Animation Studios",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
+      "id": 1749880,
+      "title": "Clay",
+      "releaseDate": "2028-11-22",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Fawn Veerasunthorn",
+      "studioStr": "Walt Disney Animation Studios",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1357938,
