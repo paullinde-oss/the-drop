@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T11:22:14.809Z",
-  "count": 207,
+  "generatedAt": "2026-08-17T11:27:32.859Z",
+  "count": 208,
   "movies": [
     {
       "id": 1291595,
@@ -18,7 +18,7 @@
       "id": 1204680,
       "title": "Coyote vs. Acme",
       "releaseDate": "2026-08-20",
-      "poster": "https://image.tmdb.org/t/p/w92/qTDRp8d1vzsFekTEgPC7X0jRRKE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave Green",
@@ -291,6 +291,18 @@
       "imdbId": "tt22526100"
     },
     {
+      "id": 1750432,
+      "title": "Spidey and the Avengers: Halloween Team-Up!",
+      "releaseDate": "2026-09-24",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Marvel Studios / Disney Junior",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1436369,
       "title": "The Tailcoat Collector",
       "releaseDate": "2026-09-24",
@@ -321,7 +333,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
+      "directorStr": "Rebeca Diniz, Pedro Waddington",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -493,6 +505,18 @@
       "studioStr": "Cross City Films / See-Saw Films",
       "prestige": true,
       "imdbId": "tt6262770"
+    },
+    {
+      "id": 1236045,
+      "title": "Animals",
+      "releaseDate": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w92/pzGIIFt33PHYHb2HJwof0WHrJKR.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Ben Affleck",
+      "studioStr": "Artists Equity / Makeready",
+      "prestige": false,
+      "imdbId": "tt31049299"
     },
     {
       "id": 1381078,
@@ -1110,7 +1134,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -1302,7 +1326,7 @@
       "id": 1517333,
       "title": "K-Pop: The Debut",
       "releaseDate": "2027-02-26",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/bGz5IMugwOsoyASG5AwEy0NpZMg.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Benson Lee",
@@ -1647,18 +1671,6 @@
       "imdbId": "tt6113186"
     },
     {
-      "id": 656618,
-      "title": "High in the Clouds",
-      "releaseDate": "2027-07-07",
-      "poster": "https://image.tmdb.org/t/p/w92/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Toby Genkel",
-      "studioStr": "Gaumont / Gaumont Animation",
-      "prestige": true,
-      "imdbId": "tt1458167"
-    },
-    {
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
@@ -1719,18 +1731,6 @@
       "imdbId": "tt41857193"
     },
     {
-      "id": 1477483,
-      "title": "Snoop",
-      "releaseDate": "2027-08-06",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Craig Brewer",
-      "studioStr": "Death Row Pictures / Universal Pictures",
-      "prestige": true,
-      "imdbId": "tt30094801"
-    },
-    {
       "id": 1403836,
       "title": "The Bluey Movie",
       "releaseDate": "2027-08-06",
@@ -1741,6 +1741,18 @@
       "studioStr": "Ludo Studio / BBC Studios",
       "prestige": true,
       "imdbId": "tt35050152"
+    },
+    {
+      "id": 1477483,
+      "title": "Snoop",
+      "releaseDate": "2027-08-06",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Craig Brewer",
+      "studioStr": "Death Row Pictures / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt30094801"
     },
     {
       "id": 1634942,
@@ -1837,6 +1849,18 @@
       "studioStr": "Warner Bros. Pictures / Bad Robot",
       "prestige": true,
       "imdbId": "tt33075482"
+    },
+    {
+      "id": 656618,
+      "title": "High in the Clouds",
+      "releaseDate": "2027-10-07",
+      "poster": "https://image.tmdb.org/t/p/w92/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Toby Genkel",
+      "studioStr": "Gaumont / Gaumont Animation",
+      "prestige": true,
+      "imdbId": "tt1458167"
     },
     {
       "id": 1615938,
@@ -1965,7 +1989,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2262,7 +2286,7 @@
       "id": 1327821,
       "title": "Incredibles 3",
       "releaseDate": "2028-06-16",
-      "poster": "https://image.tmdb.org/t/p/w92/4RZF4miSyH5G5UwGD4Utzl87dqi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/4pGPF8LuneSJKGnfgO70W3zHChF.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Peter Sohn",
@@ -2317,18 +2341,6 @@
       "studioStr": "New Line Cinema / Warner Bros. Pictures Animation",
       "prestige": true,
       "imdbId": "tt38796554"
-    },
-    {
-      "id": 1738010,
-      "title": "Ghost Rider",
-      "releaseDate": "2028-07-28",
-      "poster": "https://image.tmdb.org/t/p/w92/zgC1zo3lyujoEiIMnUrHltvPmZg.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Shawn Levy",
-      "studioStr": "Marvel Studios / Kevin Feige Productions",
-      "prestige": true,
-      "imdbId": "tt43711959"
     },
     {
       "id": 1529259,
@@ -2409,7 +2421,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/xuD254zctkyYOJMY6kdyAiwXcpv.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
+      "directorStr": "Fawn Veerasunthorn",
       "studioStr": "Walt Disney Pictures / Walt Disney Animation Studios",
       "prestige": true,
       "imdbId": null
@@ -2418,7 +2430,7 @@
       "id": 1749880,
       "title": "Clay",
       "releaseDate": "2028-11-22",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/wn0a5ODRA0wO4QPivspts0gDG5w.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Fawn Veerasunthorn",
