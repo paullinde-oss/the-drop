@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T11:27:32.859Z",
-  "count": 208,
+  "generatedAt": "2026-08-18T11:27:33.045Z",
+  "count": 209,
   "movies": [
     {
       "id": 1291595,
@@ -66,7 +66,7 @@
       "id": 1137844,
       "title": "Mayday",
       "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/hyenJuiOPuyHqASGF8GLiYEfjET.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Jonathan Goldstein, John Francis Daley",
@@ -222,7 +222,7 @@
       "id": 1423191,
       "title": "Resident Evil",
       "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Zach Cregger",
@@ -282,7 +282,7 @@
       "id": 1032863,
       "title": "The Love Hypothesis",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/y3RQhcGjEVj9Q55lQjVDG1bEsgW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mSeGcWakOmhPd1n0QcinqIIUu1B.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Claire Scanlon",
@@ -333,7 +333,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rebeca Diniz, Pedro Waddington",
+      "directorStr": "Pedro Waddington, Rebeca Diniz",
       "studioStr": "Conspiração Filmes / Globo Filmes",
       "prestige": true,
       "imdbId": "tt29580289"
@@ -1323,6 +1323,18 @@
       "imdbId": "tt31339071"
     },
     {
+      "id": 1533611,
+      "title": "The Revenge of La Llorona",
+      "releaseDate": "2027-02-26",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Santiago Menghini",
+      "studioStr": "Atomic Monster / New Line Cinema",
+      "prestige": true,
+      "imdbId": "tt37897207"
+    },
+    {
       "id": 1517333,
       "title": "K-Pop: The Debut",
       "releaseDate": "2027-02-26",
@@ -1345,18 +1357,6 @@
       "studioStr": "Warner Bros. Pictures / Esmail Corp",
       "prestige": true,
       "imdbId": "tt34900169"
-    },
-    {
-      "id": 1533611,
-      "title": "The Revenge of La Llorona",
-      "releaseDate": "2027-02-26",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Santiago Menghini",
-      "studioStr": "Atomic Monster / New Line Cinema",
-      "prestige": true,
-      "imdbId": "tt37897207"
     },
     {
       "id": 1497464,
@@ -1734,7 +1734,7 @@
       "id": 1403836,
       "title": "The Bluey Movie",
       "releaseDate": "2027-08-06",
-      "poster": "https://image.tmdb.org/t/p/w92/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/uTgwBcdFYYYUKpu8DZnOVDEjjxc.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Brumm",
@@ -1945,6 +1945,18 @@
       "studioStr": "Paramount Pictures / Temple Hill Entertainment",
       "prestige": true,
       "imdbId": "tt14014196"
+    },
+    {
+      "id": 1616347,
+      "title": "Please",
+      "releaseDate": "2027-11-18",
+      "poster": "https://image.tmdb.org/t/p/w92/umyZQo2bGqjVED6Fgfm7LHSxtUH.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Halina Reijn",
+      "studioStr": "A24 / Man Up Film",
+      "prestige": true,
+      "imdbId": "tt38078084"
     },
     {
       "id": 1651461,
@@ -2343,6 +2355,18 @@
       "imdbId": "tt38796554"
     },
     {
+      "id": 1738010,
+      "title": "Ghost Rider",
+      "releaseDate": "2028-07-28",
+      "poster": "https://image.tmdb.org/t/p/w92/zgC1zo3lyujoEiIMnUrHltvPmZg.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Shawn Levy",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": true,
+      "imdbId": "tt43711959"
+    },
+    {
       "id": 1529259,
       "title": "The Flood",
       "releaseDate": "2028-08-11",
@@ -2413,18 +2437,6 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt38996949"
-    },
-    {
-      "id": 1750457,
-      "title": "Clay",
-      "releaseDate": "2028-11-22",
-      "poster": "https://image.tmdb.org/t/p/w92/xuD254zctkyYOJMY6kdyAiwXcpv.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Fawn Veerasunthorn",
-      "studioStr": "Walt Disney Pictures / Walt Disney Animation Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1749880,
