@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:27:33.045Z",
+  "generatedAt": "2026-08-19T11:28:11.064Z",
   "count": 209,
   "movies": [
     {
@@ -25,6 +25,18 @@
       "studioStr": "Troll Court Entertainment / Keylight Pictures",
       "prestige": true,
       "imdbId": "tt1756855"
+    },
+    {
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "releaseDate": "2026-08-26",
+      "poster": "https://image.tmdb.org/t/p/w92/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Carlson Young",
+      "studioStr": "Amazon MGM Studios / Ethea Entertainment",
+      "prestige": true,
+      "imdbId": "tt37654096"
     },
     {
       "id": 1731694,
@@ -505,18 +517,6 @@
       "studioStr": "Cross City Films / See-Saw Films",
       "prestige": true,
       "imdbId": "tt6262770"
-    },
-    {
-      "id": 1236045,
-      "title": "Animals",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/pzGIIFt33PHYHb2HJwof0WHrJKR.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Ben Affleck",
-      "studioStr": "Artists Equity / Makeready",
-      "prestige": false,
-      "imdbId": "tt31049299"
     },
     {
       "id": 1381078,
@@ -1121,7 +1121,7 @@
     {
       "id": 1170608,
       "title": "Dune: Part Three",
-      "releaseDate": "2026-12-18",
+      "releaseDate": "2026-12-15",
       "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -1309,6 +1309,18 @@
       "studioStr": "20th Century Animation",
       "prestige": true,
       "imdbId": "tt34512981"
+    },
+    {
+      "id": 1752217,
+      "title": "Leviathan",
+      "releaseDate": "2027-02-11",
+      "poster": "https://image.tmdb.org/t/p/w92/rm22xUGYYINe4NdXFd65CSr8jmW.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Michihito Fujii, Ryohei Shingu",
+      "studioStr": "TOHO",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1480503,
@@ -1734,7 +1746,7 @@
       "id": 1403836,
       "title": "The Bluey Movie",
       "releaseDate": "2027-08-06",
-      "poster": "https://image.tmdb.org/t/p/w92/uTgwBcdFYYYUKpu8DZnOVDEjjxc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Brumm",
@@ -1887,18 +1899,6 @@
       "imdbId": "tt22408968"
     },
     {
-      "id": 1290568,
-      "title": "Margie Claus",
-      "releaseDate": "2027-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/mpWEBwFLlaSBuEshYnWd0Zm6USo.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kirk DeMicco",
-      "studioStr": "Warner Bros. Pictures Animation / On the Day",
-      "prestige": true,
-      "imdbId": "tt7008874"
-    },
-    {
       "id": 1673868,
       "title": "Charlie vs. the Chocolate Factory",
       "releaseDate": "2027-11-05",
@@ -1909,6 +1909,18 @@
       "studioStr": "The Roald Dahl Story Company / Sony Pictures Imageworks",
       "prestige": true,
       "imdbId": "tt11998406"
+    },
+    {
+      "id": 1290568,
+      "title": "Margie Claus",
+      "releaseDate": "2027-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/mpWEBwFLlaSBuEshYnWd0Zm6USo.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Kirk DeMicco",
+      "studioStr": "Warner Bros. Pictures Animation / On the Day",
+      "prestige": true,
+      "imdbId": "tt7008874"
     },
     {
       "id": 1215281,
@@ -1945,18 +1957,6 @@
       "studioStr": "Paramount Pictures / Temple Hill Entertainment",
       "prestige": true,
       "imdbId": "tt14014196"
-    },
-    {
-      "id": 1616347,
-      "title": "Please",
-      "releaseDate": "2027-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/umyZQo2bGqjVED6Fgfm7LHSxtUH.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Halina Reijn",
-      "studioStr": "A24 / Man Up Film",
-      "prestige": true,
-      "imdbId": "tt38078084"
     },
     {
       "id": 1651461,
@@ -2001,7 +2001,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2133,7 +2133,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/yrArRw51BQMIy1y1z3w1XURA7V7.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Trevor Jimenez",
+      "directorStr": "Trevor Jimenez, Jesse Andrews",
       "studioStr": "Pixar",
       "prestige": true,
       "imdbId": "tt40502487"
@@ -2448,11 +2448,11 @@
       "directorStr": "Fawn Veerasunthorn",
       "studioStr": "Walt Disney Animation Studios",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt44125220"
     },
     {
       "id": 1357938,
-      "title": "Jehanne D'arc",
+      "title": "Jehanne d'Arc",
       "releaseDate": "2028-11-22",
       "poster": "https://image.tmdb.org/t/p/w92/2yChN5ssxxUj0tj9e6Js4PDMwGB.jpg",
       "format": "theatrical",
