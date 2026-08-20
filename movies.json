@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-08-19T11:28:11.064Z",
+  "generatedAt": "2026-08-20T11:29:09.163Z",
   "count": 209,
   "movies": [
-    {
-      "id": 1291595,
-      "title": "Insidious: Out of the Further",
-      "releaseDate": "2026-08-19",
-      "poster": "https://image.tmdb.org/t/p/w92/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jacob Chase",
-      "studioStr": "Blumhouse Productions / Screen Gems",
-      "prestige": true,
-      "imdbId": "tt32393988"
-    },
     {
       "id": 1204680,
       "title": "Coyote vs. Acme",
@@ -150,7 +138,7 @@
       "id": 1377237,
       "title": "Runner",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mKEdYG9PxlVDHZYOhSwa9fFykAl.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Scott Waugh",
@@ -222,13 +210,25 @@
       "id": 1319525,
       "title": "Henry's First Dates",
       "releaseDate": "2026-09-17",
-      "poster": "https://image.tmdb.org/t/p/w92/uRLEAJbFOJIyy02dcqoArnKXBSr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qlw9WtySGW6AUdbkwgWUltvIAf3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mez Tharatorn",
       "studioStr": "GDH 559 / Sony Pictures International Productions",
       "prestige": true,
       "imdbId": "tt37846333"
+    },
+    {
+      "id": 1461432,
+      "title": "Adult Supervision",
+      "releaseDate": "2026-09-17",
+      "poster": "https://image.tmdb.org/t/p/w92/4v3uRZDrkhZRV3jjVF2496xUOAJ.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alex Schulman",
+      "studioStr": "Scanbox Production / Warner Bros. International Television Production Sweden",
+      "prestige": true,
+      "imdbId": "tt36462731"
     },
     {
       "id": 1423191,
@@ -306,13 +306,13 @@
       "id": 1750432,
       "title": "Spidey and the Avengers: Halloween Team-Up!",
       "releaseDate": "2026-09-24",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": null,
       "studioStr": "Marvel Studios / Disney Junior",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt44171293"
     },
     {
       "id": 1436369,
@@ -483,18 +483,6 @@
       "imdbId": "tt43738759"
     },
     {
-      "id": 1461432,
-      "title": "Adult Supervision",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/4v3uRZDrkhZRV3jjVF2496xUOAJ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alex Schulman",
-      "studioStr": "Scanbox Production / Warner Bros. International Television Production Sweden",
-      "prestige": true,
-      "imdbId": "tt36462731"
-    },
-    {
       "id": 1381221,
       "title": "Misty Green",
       "releaseDate": "2026-10-09",
@@ -562,7 +550,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Brian Duffield",
-      "studioStr": "Imagine Entertainment / 3 Arts Entertainment",
+      "studioStr": "Imagine Entertainment / 20th Century Studios",
       "prestige": true,
       "imdbId": "tt28535715"
     },
@@ -642,7 +630,7 @@
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/a8licXigYz4zOKhtqVzeA17jHxP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -723,6 +711,18 @@
       "imdbId": "tt31340003"
     },
     {
+      "id": 1447206,
+      "title": "Ghost Song",
+      "releaseDate": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/eVjIFC5boeRwbqC8Dt8cTMGl9vh.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Fatih Akin",
+      "studioStr": "Bombero International / Warner Bros. Film Productions Germany",
+      "prestige": true,
+      "imdbId": "tt36501204"
+    },
+    {
       "id": 1381071,
       "title": "Godzilla Minus Zero",
       "releaseDate": "2026-11-06",
@@ -795,18 +795,6 @@
       "imdbId": "tt15095848"
     },
     {
-      "id": 1567605,
-      "title": "Ebenezer",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ti West",
-      "studioStr": "Paramount Pictures / Domain Entertainment",
-      "prestige": true,
-      "imdbId": "tt38773219"
-    },
-    {
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-11-13",
@@ -817,6 +805,18 @@
       "studioStr": "87North Productions / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt35866986"
+    },
+    {
+      "id": 1567605,
+      "title": "Ebenezer",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ti West",
+      "studioStr": "Paramount Pictures / Domain Entertainment",
+      "prestige": true,
+      "imdbId": "tt38773219"
     },
     {
       "id": 1737072,
@@ -918,7 +918,7 @@
       "id": 1720486,
       "title": "Lilo & Scratch",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/sCqet6JlBUu2YLGdOAJyMwvLM8U.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rfND8uEf8draC83xQVFH6eQkFmA.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Fawn Veerasunthorn, Malcon Pierce",
@@ -1743,18 +1743,6 @@
       "imdbId": "tt41857193"
     },
     {
-      "id": 1403836,
-      "title": "The Bluey Movie",
-      "releaseDate": "2027-08-06",
-      "poster": "https://image.tmdb.org/t/p/w92/6SumSGYgZClqPy8rjhJXRrScGlq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Joe Brumm",
-      "studioStr": "Ludo Studio / BBC Studios",
-      "prestige": true,
-      "imdbId": "tt35050152"
-    },
-    {
       "id": 1477483,
       "title": "Snoop",
       "releaseDate": "2027-08-06",
@@ -2001,7 +1989,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2041,6 +2029,18 @@
       "studioStr": "Warner Bros. Pictures / Waverly Films",
       "prestige": true,
       "imdbId": "tt39570048"
+    },
+    {
+      "id": 1380575,
+      "title": "A Sprinkle of History",
+      "releaseDate": "2027-12-24",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Andrew Ahn",
+      "studioStr": "Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1671441,
