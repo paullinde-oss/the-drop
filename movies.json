@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-08-20T11:29:09.163Z",
-  "count": 209,
+  "generatedAt": "2026-08-21T11:28:33.081Z",
+  "count": 207,
   "movies": [
-    {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "releaseDate": "2026-08-20",
-      "poster": "https://image.tmdb.org/t/p/w92/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Dave Green",
-      "studioStr": "Troll Court Entertainment / Keylight Pictures",
-      "prestige": true,
-      "imdbId": "tt1756855"
-    },
     {
       "id": 1516698,
       "title": "The Last Sunrise",
@@ -183,18 +171,6 @@
       "imdbId": "tt37674760"
     },
     {
-      "id": 1473439,
-      "title": "Bad Lieutenant: Tokyo",
-      "releaseDate": "2026-09-14",
-      "poster": "https://image.tmdb.org/t/p/w92/kE4xwNN2aKLe8thnTH4EJbzc1JO.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takashi Miike",
-      "studioStr": "Pressman Film / Nippon Television Network Corporation",
-      "prestige": true,
-      "imdbId": "tt36753615"
-    },
-    {
       "id": 607833,
       "title": "The Intern",
       "releaseDate": "2026-09-16",
@@ -313,42 +289,6 @@
       "studioStr": "Marvel Studios / Disney Junior",
       "prestige": true,
       "imdbId": "tt44171293"
-    },
-    {
-      "id": 1436369,
-      "title": "The Tailcoat Collector",
-      "releaseDate": "2026-09-24",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tomás Portella",
-      "studioStr": "Ukbar Filmes / Gullane Entretenimento",
-      "prestige": true,
-      "imdbId": "tt36539653"
-    },
-    {
-      "id": 1426805,
-      "title": "Emil and the Detectives",
-      "releaseDate": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w92/kDchcw2Q9JnAzPsABAfKQUVgEdX.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Dietl",
-      "studioStr": "UFA Fiction / Warner Bros. Film Productions Germany",
-      "prestige": true,
-      "imdbId": "tt39381622"
-    },
-    {
-      "id": 1225746,
-      "title": "Fuse",
-      "releaseDate": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w92/y4PyQbVRKLQceFFrbxRBgScdMiD.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Pedro Waddington, Rebeca Diniz",
-      "studioStr": "Conspiração Filmes / Globo Filmes",
-      "prestige": true,
-      "imdbId": "tt29580289"
     },
     {
       "id": 1375441,
@@ -663,6 +603,30 @@
       "imdbId": "tt40311603"
     },
     {
+      "id": 1473439,
+      "title": "Bad Lieutenant: Tokyo",
+      "releaseDate": "2026-10-23",
+      "poster": "https://image.tmdb.org/t/p/w92/kE4xwNN2aKLe8thnTH4EJbzc1JO.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Takashi Miike",
+      "studioStr": "Pressman Film / Nippon Television Network Corporation",
+      "prestige": true,
+      "imdbId": "tt36753615"
+    },
+    {
+      "id": 1534061,
+      "title": "The Young People",
+      "releaseDate": "2026-10-30",
+      "poster": "https://image.tmdb.org/t/p/w92/AgdCv5eXc1FkEKPx2DSKT7ehzGM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Osgood Perkins",
+      "studioStr": "Phobos / NEON",
+      "prestige": true,
+      "imdbId": "tt38066158"
+    },
+    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -681,7 +645,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -817,6 +781,18 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
+    },
+    {
+      "id": 1381273,
+      "title": "Paper Tiger",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "James Gray",
+      "studioStr": "RT Features / Leone Film Group",
+      "prestige": false,
+      "imdbId": "tt34385689"
     },
     {
       "id": 1737072,
@@ -1158,7 +1134,7 @@
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Kasdan",
@@ -1215,18 +1191,6 @@
       "imdbId": null
     },
     {
-      "id": 621304,
-      "title": "Children of Blood and Bone",
-      "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Gina Prince-Bythewood",
-      "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
-      "prestige": true,
-      "imdbId": "tt6779038"
-    },
-    {
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
@@ -1237,6 +1201,18 @@
       "studioStr": "Miramax / Punch Palace Productions",
       "prestige": true,
       "imdbId": "tt35935357"
+    },
+    {
+      "id": 621304,
+      "title": "Children of Blood and Bone",
+      "releaseDate": "2027-01-15",
+      "poster": "https://image.tmdb.org/t/p/w92/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Gina Prince-Bythewood",
+      "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
+      "prestige": true,
+      "imdbId": "tt6779038"
     },
     {
       "id": 1115030,
@@ -1899,18 +1875,6 @@
       "imdbId": "tt11998406"
     },
     {
-      "id": 1290568,
-      "title": "Margie Claus",
-      "releaseDate": "2027-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/mpWEBwFLlaSBuEshYnWd0Zm6USo.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kirk DeMicco",
-      "studioStr": "Warner Bros. Pictures Animation / On the Day",
-      "prestige": true,
-      "imdbId": "tt7008874"
-    },
-    {
       "id": 1215281,
       "title": "Naughty",
       "releaseDate": "2027-11-05",
@@ -1933,6 +1897,18 @@
       "studioStr": "PlayStation Productions / Perfect Storm Entertainment",
       "prestige": true,
       "imdbId": "tt39089420"
+    },
+    {
+      "id": 1290568,
+      "title": "Margie Claus",
+      "releaseDate": "2027-11-12",
+      "poster": "https://image.tmdb.org/t/p/w92/mpWEBwFLlaSBuEshYnWd0Zm6USo.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Kirk DeMicco",
+      "studioStr": "Warner Bros. Pictures Animation / On the Day",
+      "prestige": true,
+      "imdbId": "tt7008874"
     },
     {
       "id": 1284510,
