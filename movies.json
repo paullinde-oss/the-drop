@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T11:28:33.081Z",
-  "count": 207,
+  "generatedAt": "2026-08-22T11:23:49.238Z",
+  "count": 205,
   "movies": [
     {
       "id": 1516698,
@@ -126,7 +126,7 @@
       "id": 1377237,
       "title": "Runner",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/mKEdYG9PxlVDHZYOhSwa9fFykAl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Scott Waugh",
@@ -255,28 +255,28 @@
       "imdbId": null
     },
     {
-      "id": 1507877,
-      "title": "Another Day",
+      "id": 1263337,
+      "title": "Heart of the Beast",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/uVEkYwPFNQUjdPMibPOGHR0fVcV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Jeanne Herry",
-      "studioStr": "Chi-Fou-Mi Productions / Trésor Films",
+      "directorStr": "David Ayer",
+      "studioStr": "Paramount Pictures / Wild Chickens Productions",
       "prestige": true,
-      "imdbId": "tt38584405"
+      "imdbId": "tt7526136"
     },
     {
-      "id": 1032863,
-      "title": "The Love Hypothesis",
+      "id": 1503762,
+      "title": "Sense and Sensibility",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/mSeGcWakOmhPd1n0QcinqIIUu1B.jpg",
-      "format": "streaming",
+      "poster": "https://image.tmdb.org/t/p/w92/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
+      "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Claire Scanlon",
-      "studioStr": "MRC / Amazon MGM Studios",
+      "directorStr": "Georgia Oakley",
+      "studioStr": "Focus Features / Working Title Films",
       "prestige": true,
-      "imdbId": "tt22526100"
+      "imdbId": "tt13609648"
     },
     {
       "id": 1750432,
@@ -313,18 +313,6 @@
       "studioStr": "DreamWorks Animation",
       "prestige": true,
       "imdbId": "tt36583977"
-    },
-    {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Ayer",
-      "studioStr": "Paramount Pictures / Wild Chickens Productions",
-      "prestige": true,
-      "imdbId": "tt7526136"
     },
     {
       "id": 1248832,
@@ -471,22 +459,10 @@
       "imdbId": "tt38805050"
     },
     {
-      "id": 1503762,
-      "title": "Sense and Sensibility",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Georgia Oakley",
-      "studioStr": "Focus Features / Working Title Films",
-      "prestige": true,
-      "imdbId": "tt13609648"
-    },
-    {
       "id": 1255833,
       "title": "Whalefall",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Brian Duffield",
@@ -517,6 +493,18 @@
       "studioStr": "Amazon MGM Studios / Gaumont",
       "prestige": true,
       "imdbId": "tt38672588"
+    },
+    {
+      "id": 1511171,
+      "title": "Flywheel: Ignition of the Soul",
+      "releaseDate": "2026-10-16",
+      "poster": "https://image.tmdb.org/t/p/w92/lwt3hYZ8brDke280XpgvXu2M4kt.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alessandro Barros",
+      "studioStr": "360 WayUp / Affirm Films",
+      "prestige": true,
+      "imdbId": "tt42004484"
     },
     {
       "id": 1729134,
@@ -570,7 +558,7 @@
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/sBuD4emYnXrrAVt4LHEpuf1Q7xG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -615,18 +603,6 @@
       "imdbId": "tt36753615"
     },
     {
-      "id": 1534061,
-      "title": "The Young People",
-      "releaseDate": "2026-10-30",
-      "poster": "https://image.tmdb.org/t/p/w92/AgdCv5eXc1FkEKPx2DSKT7ehzGM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Osgood Perkins",
-      "studioStr": "Phobos / NEON",
-      "prestige": true,
-      "imdbId": "tt38066158"
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -645,7 +621,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -697,6 +673,18 @@
       "studioStr": "TOHO / Robot Communications",
       "prestige": true,
       "imdbId": "tt34384661"
+    },
+    {
+      "id": 1562642,
+      "title": "Ghost Soldier",
+      "releaseDate": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w92/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "William Eubank",
+      "studioStr": "Columbia Pictures / Mandalay Pictures",
+      "prestige": true,
+      "imdbId": "tt38686316"
     },
     {
       "id": 891621,
@@ -781,18 +769,6 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
-    },
-    {
-      "id": 1381273,
-      "title": "Paper Tiger",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "James Gray",
-      "studioStr": "RT Features / Leone Film Group",
-      "prestige": false,
-      "imdbId": "tt34385689"
     },
     {
       "id": 1737072,
@@ -1965,7 +1941,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
