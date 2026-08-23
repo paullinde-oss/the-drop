@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T11:23:49.238Z",
-  "count": 205,
+  "generatedAt": "2026-08-23T11:23:52.352Z",
+  "count": 207,
   "movies": [
     {
       "id": 1516698,
@@ -603,6 +603,18 @@
       "imdbId": "tt36753615"
     },
     {
+      "id": 1753079,
+      "title": "National Theatre at Home: Pride",
+      "releaseDate": "2026-11-01",
+      "poster": "https://image.tmdb.org/t/p/w92/thpTSV0n3SX6oRUZHr96H0Wyf2t.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Matthew Warchus",
+      "studioStr": "National Theatre / P&P Productions",
+      "prestige": true,
+      "imdbId": "tt44568708"
+    },
+    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -621,7 +633,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -771,6 +783,18 @@
       "imdbId": "tt38773219"
     },
     {
+      "id": 1381273,
+      "title": "Paper Tiger",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "James Gray",
+      "studioStr": "RT Features / Leone Film Group",
+      "prestige": false,
+      "imdbId": "tt34385689"
+    },
+    {
       "id": 1737072,
       "title": "Noroi no Smartphone",
       "releaseDate": "2026-11-13",
@@ -798,7 +822,7 @@
       "id": 1625344,
       "title": "The Rainbow Fish",
       "releaseDate": "2026-11-19",
-      "poster": "https://image.tmdb.org/t/p/w92/iXKwt7ifWuy0CMMPjXVCPwoJQr4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/en0YSEqNPCpr5pDrbqgtNrbQC83.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Florian Moch",
@@ -1266,7 +1290,7 @@
       "id": 1752217,
       "title": "Leviathan",
       "releaseDate": "2027-02-11",
-      "poster": "https://image.tmdb.org/t/p/w92/rm22xUGYYINe4NdXFd65CSr8jmW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/71pwVFoF91NLXGgyas9zNGxB9cd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michihito Fujii, Ryohei Shingu",
@@ -1941,7 +1965,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
