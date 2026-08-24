@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T11:23:52.352Z",
-  "count": 207,
+  "generatedAt": "2026-08-24T11:29:41.591Z",
+  "count": 208,
   "movies": [
     {
       "id": 1516698,
@@ -13,6 +13,18 @@
       "studioStr": "Amazon MGM Studios / Ethea Entertainment",
       "prestige": true,
       "imdbId": "tt37654096"
+    },
+    {
+      "id": 1101412,
+      "title": "Fall 2: Deadpoint",
+      "releaseDate": "2026-09-02",
+      "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Michael Spierig, Peter Spierig",
+      "studioStr": "Tea Shop Productions / Capstone Pictures",
+      "prestige": false,
+      "imdbId": "tt31192372"
     },
     {
       "id": 1731694,
