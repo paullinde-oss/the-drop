@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T11:29:41.591Z",
+  "generatedAt": "2026-08-25T11:28:50.041Z",
   "count": 208,
   "movies": [
     {
@@ -13,18 +13,6 @@
       "studioStr": "Amazon MGM Studios / Ethea Entertainment",
       "prestige": true,
       "imdbId": "tt37654096"
-    },
-    {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Michael Spierig, Peter Spierig",
-      "studioStr": "Tea Shop Productions / Capstone Pictures",
-      "prestige": false,
-      "imdbId": "tt31192372"
     },
     {
       "id": 1731694,
@@ -252,7 +240,7 @@
       "directorStr": "Takashi Shimizu",
       "studioStr": "KADOKAWA / Shochiku",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43647979"
     },
     {
       "id": 1693902,
@@ -546,13 +534,13 @@
       "id": 1727734,
       "title": "Ali G: Who Iz I?",
       "releaseDate": "2026-10-23",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/e0hUYHJyLuOQTjTEITPYAbVORd1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sacha Baron Cohen",
       "studioStr": "Four by Two Films / MRC",
       "prestige": true,
-      "imdbId": "tt43702710"
+      "imdbId": "tt43655467"
     },
     {
       "id": 1084409,
@@ -645,7 +633,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -771,18 +759,6 @@
       "imdbId": "tt15095848"
     },
     {
-      "id": 1437511,
-      "title": "How to Rob a Bank",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "87North Productions / Imagine Entertainment",
-      "prestige": true,
-      "imdbId": "tt35866986"
-    },
-    {
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-13",
@@ -795,10 +771,22 @@
       "imdbId": "tt38773219"
     },
     {
+      "id": 1437511,
+      "title": "How to Rob a Bank",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "87North Productions / Imagine Entertainment",
+      "prestige": true,
+      "imdbId": "tt35866986"
+    },
+    {
       "id": 1381273,
       "title": "Paper Tiger",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/gnaxRdgRfwISnosye6WwMj1xpgC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gray",
@@ -1863,6 +1851,18 @@
       "imdbId": "tt43674934"
     },
     {
+      "id": 1755624,
+      "title": "Sleepover",
+      "releaseDate": "2027-10-08",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jacob Chase",
+      "studioStr": "Blumhouse Productions / Atomic Monster",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1574840,
       "title": "Untitled Mummy Sequel",
       "releaseDate": "2027-10-15",
@@ -1878,7 +1878,7 @@
       "id": 1673868,
       "title": "Charlie vs. the Chocolate Factory",
       "releaseDate": "2027-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/kEODxjzUwWAxCh2Sm8lVpkguyiy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/gHa5V7A23CLntW4PwqKeDu66Smf.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Jared Stern, Elaine Bogan",
@@ -1977,7 +1977,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2314,7 +2314,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Charlie Bean",
-      "studioStr": "DreamWorks Animation / Universal Pictures",
+      "studioStr": "DreamWorks Animation",
       "prestige": true,
       "imdbId": "tt43619974"
     },
