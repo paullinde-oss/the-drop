@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T11:28:50.041Z",
+  "generatedAt": "2026-08-26T11:32:09.140Z",
   "count": 208,
   "movies": [
     {
       "id": 1516698,
       "title": "The Last Sunrise",
       "releaseDate": "2026-08-26",
-      "poster": "https://image.tmdb.org/t/p/w92/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Carlson Young",
@@ -66,7 +66,7 @@
       "id": 1284046,
       "title": "Onslaught",
       "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Adam Wingard",
@@ -111,6 +111,18 @@
       "imdbId": "tt31186307"
     },
     {
+      "id": 977942,
+      "title": "The Uprising",
+      "releaseDate": "2026-09-10",
+      "poster": "https://image.tmdb.org/t/p/w92/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Paul Greengrass",
+      "studioStr": "Blumhouse Productions / Supernix",
+      "prestige": true,
+      "imdbId": "tt36983905"
+    },
+    {
       "id": 1302904,
       "title": "Practical Magic 2",
       "releaseDate": "2026-09-11",
@@ -133,18 +145,6 @@
       "studioStr": "Broken Road Productions / AllyCat Entertainment",
       "prestige": true,
       "imdbId": "tt31349844"
-    },
-    {
-      "id": 977942,
-      "title": "The Uprising",
-      "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Paul Greengrass",
-      "studioStr": "Blumhouse Productions / Supernix",
-      "prestige": true,
-      "imdbId": "tt36983905"
     },
     {
       "id": 1747730,
@@ -192,7 +192,7 @@
       "directorStr": "Mez Tharatorn",
       "studioStr": "GDH 559 / Sony Pictures International Productions",
       "prestige": true,
-      "imdbId": "tt37846333"
+      "imdbId": "tt44734424"
     },
     {
       "id": 1461432,
@@ -270,7 +270,7 @@
       "id": 1503762,
       "title": "Sense and Sensibility",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ztypMQi2Ql2NLhfKxIjUHs4o8b7.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Georgia Oakley",
@@ -363,18 +363,6 @@
       "imdbId": "tt28498219"
     },
     {
-      "id": 1281331,
-      "title": "The Social Reckoning",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Aaron Sorkin",
-      "studioStr": "Columbia Pictures / Escape Artists",
-      "prestige": true,
-      "imdbId": "tt37510326"
-    },
-    {
       "id": 1400837,
       "title": "Other Mommy",
       "releaseDate": "2026-10-09",
@@ -385,6 +373,18 @@
       "studioStr": "Blumhouse Productions / Atomic Monster",
       "prestige": true,
       "imdbId": "tt36586020"
+    },
+    {
+      "id": 1281331,
+      "title": "The Social Reckoning",
+      "releaseDate": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Aaron Sorkin",
+      "studioStr": "Columbia Pictures / Escape Artists",
+      "prestige": true,
+      "imdbId": "tt37510326"
     },
     {
       "id": 1669915,
@@ -445,6 +445,18 @@
       "studioStr": "Amazon MGM Studios / Open Invite Entertainment",
       "prestige": true,
       "imdbId": "tt34384900"
+    },
+    {
+      "id": 1623256,
+      "title": "The Storm",
+      "releaseDate": "2026-10-15",
+      "poster": "https://image.tmdb.org/t/p/w92/l8m2A55MJrTPAikyN1p2OPjSNg.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Josephine Bornebusch",
+      "studioStr": "Warner Bros. International Television Production Sweden",
+      "prestige": true,
+      "imdbId": "tt37070354"
     },
     {
       "id": 1477572,
@@ -529,18 +541,6 @@
       "studioStr": "DC Studios / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt34890576"
-    },
-    {
-      "id": 1727734,
-      "title": "Ali G: Who Iz I?",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/e0hUYHJyLuOQTjTEITPYAbVORd1.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sacha Baron Cohen",
-      "studioStr": "Four by Two Films / MRC",
-      "prestige": true,
-      "imdbId": "tt43655467"
     },
     {
       "id": 1084409,
@@ -633,7 +633,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -774,7 +774,7 @@
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8sMzu56Nok5WlEXCRdflEgshYQO.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Leitch",
@@ -1086,7 +1086,7 @@
       "id": 1532610,
       "title": "Ink",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/g9iVG0ugwE0ErdFH4kqjAksj8ps.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Danny Boyle",
@@ -1266,7 +1266,7 @@
       "id": 1466228,
       "title": "The Comeback King",
       "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/eulMF0veRTe7jtDHEqaCAjrO6jY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/37ii02yqhWAbNYS3VxXYPp9wDGD.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Judd Apatow",
@@ -1768,7 +1768,7 @@
     },
     {
       "id": 1554353,
-      "title": "The New Simpsons Movie",
+      "title": "The Simpsons Movie 2",
       "releaseDate": "2027-09-03",
       "poster": "https://image.tmdb.org/t/p/w92/iG1pMw9ufzXXQDTguT2okaZY3xe.jpg",
       "format": "theatrical",
@@ -1977,7 +1977,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2436,7 +2436,7 @@
       "directorStr": "Fawn Veerasunthorn",
       "studioStr": "Walt Disney Animation Studios",
       "prestige": true,
-      "imdbId": "tt44125220"
+      "imdbId": "tt26443626"
     },
     {
       "id": 1357938,
