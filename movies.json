@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-08-26T11:32:09.140Z",
-  "count": 208,
+  "generatedAt": "2026-08-27T21:01:01.417Z",
+  "count": 210,
   "movies": [
-    {
-      "id": 1516698,
-      "title": "The Last Sunrise",
-      "releaseDate": "2026-08-26",
-      "poster": "https://image.tmdb.org/t/p/w92/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Carlson Young",
-      "studioStr": "Amazon MGM Studios / Ethea Entertainment",
-      "prestige": true,
-      "imdbId": "tt37654096"
-    },
     {
       "id": 1731694,
       "title": "LEGO Star Wars: The Mandalorian",
@@ -37,6 +25,18 @@
       "studioStr": "Amazon MGM Studios / Rockwood Pictures",
       "prestige": true,
       "imdbId": "tt34564059"
+    },
+    {
+      "id": 1735952,
+      "title": "I Plant My Hand in the Garden",
+      "releaseDate": "2026-09-03",
+      "poster": "https://image.tmdb.org/t/p/w92/jiipPmc8d2Hce0x95ilObiR3QRd.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Hoda Taheri, Boris Hadžija",
+      "studioStr": "Deutsche Film- und Fernsehakademie Berlin (DFFB) / CRUISING PICTURES",
+      "prestige": false,
+      "imdbId": null
     },
     {
       "id": 1506560,
@@ -126,7 +126,7 @@
       "id": 1302904,
       "title": "Practical Magic 2",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Susanne Bier",
@@ -207,18 +207,6 @@
       "imdbId": "tt36462731"
     },
     {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Zach Cregger",
-      "studioStr": "Constantin Film / Subconscious",
-      "prestige": true,
-      "imdbId": "tt35538033"
-    },
-    {
       "id": 1477104,
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "releaseDate": "2026-09-18",
@@ -229,6 +217,18 @@
       "studioStr": "Aardman / StudioCanal",
       "prestige": true,
       "imdbId": "tt36841161"
+    },
+    {
+      "id": 1423191,
+      "title": "Resident Evil",
+      "releaseDate": "2026-09-18",
+      "poster": "https://image.tmdb.org/t/p/w92/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Zach Cregger",
+      "studioStr": "Constantin Film / Subconscious",
+      "prestige": true,
+      "imdbId": "tt35538033"
     },
     {
       "id": 1716622,
@@ -505,18 +505,6 @@
       "studioStr": "Amazon MGM Studios / Gaumont",
       "prestige": true,
       "imdbId": "tt38672588"
-    },
-    {
-      "id": 1511171,
-      "title": "Flywheel: Ignition of the Soul",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/lwt3hYZ8brDke280XpgvXu2M4kt.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alessandro Barros",
-      "studioStr": "360 WayUp / Affirm Films",
-      "prestige": true,
-      "imdbId": "tt42004484"
     },
     {
       "id": 1729134,
@@ -952,9 +940,9 @@
     },
     {
       "id": 1457866,
-      "title": "The Adventures of Cliff Booth",
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-26",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -964,7 +952,7 @@
     },
     {
       "id": 1739765,
-      "title": "Kimi no Hanashi",
+      "title": "Your Story",
       "releaseDate": "2026-11-27",
       "poster": "https://image.tmdb.org/t/p/w92/8H0YN4J0iuPyC4SjtU5fdooLciH.jpg",
       "format": "theatrical",
@@ -1002,7 +990,7 @@
       "id": 1078446,
       "title": "Violent Night 2",
       "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/wKgTxSjVZBjtTzK1wEXkLffaWC1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Tommy Wirkola",
@@ -1038,7 +1026,7 @@
       "id": 1421967,
       "title": "Violette",
       "releaseDate": "2026-12-09",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/oCTRbUsPCACAWf799j8kXKvhmnk.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jean-Pierre Jeunet",
@@ -1069,6 +1057,18 @@
       "studioStr": "Topic Studios / Fruit Tree",
       "prestige": true,
       "imdbId": "tt34718200"
+    },
+    {
+      "id": 1630464,
+      "title": "Clarissa",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/9qS8heXhQdLoyGsqZHHb3HkrK62.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Chuko Esiri, Arie Esiri",
+      "studioStr": "Per Capita Productions / Invention Studios",
+      "prestige": true,
+      "imdbId": "tt33335610"
     },
     {
       "id": 1566920,
@@ -1131,18 +1131,6 @@
       "imdbId": "tt18270542"
     },
     {
-      "id": 1260649,
-      "title": "Jumanji: Open World",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jake Kasdan",
-      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
-      "prestige": true,
-      "imdbId": "tt26735127"
-    },
-    {
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
@@ -1165,6 +1153,18 @@
       "studioStr": "Skydance Sports / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt30093348"
+    },
+    {
+      "id": 1260649,
+      "title": "Jumanji: Open World",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jake Kasdan",
+      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
+      "prestige": true,
+      "imdbId": "tt26735127"
     },
     {
       "id": 934372,
@@ -1768,7 +1768,7 @@
     },
     {
       "id": 1554353,
-      "title": "The Simpsons Movie 2",
+      "title": "The New Simpsons Movie",
       "releaseDate": "2027-09-03",
       "poster": "https://image.tmdb.org/t/p/w92/iG1pMw9ufzXXQDTguT2okaZY3xe.jpg",
       "format": "theatrical",
@@ -1977,7 +1977,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2463,6 +2463,18 @@
       "imdbId": "tt37884905"
     },
     {
+      "id": 1646437,
+      "title": "Benjamin Gates 3",
+      "releaseDate": "2028-12-20",
+      "poster": "https://image.tmdb.org/t/p/w92/bc1NVxY71CbVCXkx1KA2kEOeFDl.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jon Turteltaub",
+      "studioStr": "Don Simpson/Jerry Bruckheimer Films / Walt Disney Pictures",
+      "prestige": true,
+      "imdbId": "tt1197627"
+    },
+    {
       "id": 1468313,
       "title": "Untitled Sonic Universe Film",
       "releaseDate": "2028-12-22",
@@ -2497,6 +2509,18 @@
       "studioStr": "20th Century Studios / Lightstorm Entertainment",
       "prestige": true,
       "imdbId": "tt3095356"
+    },
+    {
+      "id": 1567021,
+      "title": "The Mitchells vs. the Mitchells",
+      "releaseDate": "2030-04-26",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Guillermo Martinez, JP Sans",
+      "studioStr": "Sony Pictures Animation / Lord Miller",
+      "prestige": true,
+      "imdbId": "tt38765195"
     }
   ]
 }
