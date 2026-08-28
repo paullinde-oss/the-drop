@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T21:01:01.417Z",
+  "generatedAt": "2026-08-28T21:28:25.251Z",
   "count": 210,
   "movies": [
     {
@@ -13,6 +13,18 @@
       "studioStr": "Lucasfilm Ltd. / The LEGO Group",
       "prestige": true,
       "imdbId": "tt43679852"
+    },
+    {
+      "id": 1101412,
+      "title": "Fall 2: Deadpoint",
+      "releaseDate": "2026-09-02",
+      "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Peter Spierig, Michael Spierig",
+      "studioStr": "Tea Shop Productions / Capstone Pictures",
+      "prestige": false,
+      "imdbId": "tt31192372"
     },
     {
       "id": 1386315,
@@ -231,33 +243,9 @@
       "imdbId": "tt35538033"
     },
     {
-      "id": 1716622,
-      "title": "The Village of Eight Gravestones",
-      "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/llfPc2aDY8hvTaqlB7R7iZNdN6t.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takashi Shimizu",
-      "studioStr": "KADOKAWA / Shochiku",
-      "prestige": true,
-      "imdbId": "tt43647979"
-    },
-    {
-      "id": 1693902,
-      "title": "Jhingedaau 2",
-      "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/9GhyuqIrjKRaWeXjGCHGjthUJD8.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Gyanendra Bahadur Deuja",
-      "studioStr": "Kapangadhi Cinema Pvt. Ltd. / Film Crew Nepal Pvt. Ltd.",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1263337,
       "title": "Heart of the Beast",
-      "releaseDate": "2026-09-23",
+      "releaseDate": "2026-09-19",
       "poster": "https://image.tmdb.org/t/p/w92/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -270,7 +258,7 @@
       "id": 1503762,
       "title": "Sense and Sensibility",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/ztypMQi2Ql2NLhfKxIjUHs4o8b7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Georgia Oakley",
@@ -351,6 +339,30 @@
       "imdbId": null
     },
     {
+      "id": 1748780,
+      "title": "Overt Listening",
+      "releaseDate": "2026-10-03",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Tiffany Sia",
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": null
+    },
+    {
+      "id": 1618090,
+      "title": "A Statement",
+      "releaseDate": "2026-10-03",
+      "poster": "https://image.tmdb.org/t/p/w92/6eGKmCHwnwWqaKkoRsrBfCtkHKf.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Tom McCarthy",
+      "studioStr": "Sony Pictures Classics / Anonymous Content",
+      "prestige": true,
+      "imdbId": "tt39373342"
+    },
+    {
       "id": 1148365,
       "title": "Matchbox: The Movie",
       "releaseDate": "2026-10-08",
@@ -378,7 +390,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -507,6 +519,18 @@
       "imdbId": "tt38672588"
     },
     {
+      "id": 1487317,
+      "title": "We'll Leave It Here",
+      "releaseDate": "2026-10-16",
+      "poster": "https://image.tmdb.org/t/p/w92/bk8T4enLxtWgHgVS5iX5yksWlMA.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Hernán Goldfrid",
+      "studioStr": "Kenya Films / Netflix",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1729134,
       "title": "Holiday Touchdown: A Bears Love Story",
       "releaseDate": "2026-10-17",
@@ -534,7 +558,7 @@
       "id": 1084409,
       "title": "A Talent for a Murder",
       "releaseDate": "2026-10-23",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/9NyudoVzIHqVD5p5l9Zrn0iaoba.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Anton Corbijn",
@@ -621,7 +645,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -774,7 +798,7 @@
       "id": 1381273,
       "title": "Paper Tiger",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/gnaxRdgRfwISnosye6WwMj1xpgC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gray",
@@ -861,7 +885,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/7Tgrk6RI6cyRFmmipU325WE3pht.jpg",
       "format": "streaming",
       "reRelease": false,
-      "directorStr": "Alyce Tzue",
+      "directorStr": "Alyce Tzue, Priscilla Wong",
       "studioStr": "Netflix Animation Studios / Paper Kite Productions",
       "prestige": true,
       "imdbId": "tt14413964"
@@ -1045,18 +1069,6 @@
       "studioStr": "Angel Studios / Kasbah Films",
       "prestige": true,
       "imdbId": "tt34491649"
-    },
-    {
-      "id": 1391239,
-      "title": "The Debut",
-      "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jesse Eisenberg",
-      "studioStr": "Topic Studios / Fruit Tree",
-      "prestige": true,
-      "imdbId": "tt34718200"
     },
     {
       "id": 1630464,
@@ -2509,18 +2521,6 @@
       "studioStr": "20th Century Studios / Lightstorm Entertainment",
       "prestige": true,
       "imdbId": "tt3095356"
-    },
-    {
-      "id": 1567021,
-      "title": "The Mitchells vs. the Mitchells",
-      "releaseDate": "2030-04-26",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Guillermo Martinez, JP Sans",
-      "studioStr": "Sony Pictures Animation / Lord Miller",
-      "prestige": true,
-      "imdbId": "tt38765195"
     }
   ]
 }
