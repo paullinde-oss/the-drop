@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T21:28:25.251Z",
-  "count": 210,
+  "generatedAt": "2026-08-29T15:32:17.909Z",
+  "count": 207,
   "movies": [
     {
       "id": 1731694,
@@ -13,18 +13,6 @@
       "studioStr": "Lucasfilm Ltd. / The LEGO Group",
       "prestige": true,
       "imdbId": "tt43679852"
-    },
-    {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Peter Spierig, Michael Spierig",
-      "studioStr": "Tea Shop Productions / Capstone Pictures",
-      "prestige": false,
-      "imdbId": "tt31192372"
     },
     {
       "id": 1386315,
@@ -390,7 +378,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -519,18 +507,6 @@
       "imdbId": "tt38672588"
     },
     {
-      "id": 1487317,
-      "title": "We'll Leave It Here",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/bk8T4enLxtWgHgVS5iX5yksWlMA.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Hernán Goldfrid",
-      "studioStr": "Kenya Films / Netflix",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1729134,
       "title": "Holiday Touchdown: A Bears Love Story",
       "releaseDate": "2026-10-17",
@@ -645,7 +621,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -793,18 +769,6 @@
       "studioStr": "87North Productions / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt35866986"
-    },
-    {
-      "id": 1381273,
-      "title": "Paper Tiger",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "James Gray",
-      "studioStr": "RT Features / Leone Film Group",
-      "prestige": false,
-      "imdbId": "tt34385689"
     },
     {
       "id": 1737072,
@@ -966,7 +930,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ykYf5bcUahZeQC52cP8DJF0MgOs.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -1030,7 +994,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Tony Gilroy",
-      "studioStr": "Searchlight Pictures / TSG Entertainment",
+      "studioStr": "Searchlight Pictures",
       "prestige": true,
       "imdbId": "tt36415529"
     },
@@ -2476,7 +2440,7 @@
     },
     {
       "id": 1646437,
-      "title": "Benjamin Gates 3",
+      "title": "National Treasure 3",
       "releaseDate": "2028-12-20",
       "poster": "https://image.tmdb.org/t/p/w92/bc1NVxY71CbVCXkx1KA2kEOeFDl.jpg",
       "format": "theatrical",
