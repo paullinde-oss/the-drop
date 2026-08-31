@@ -1,7 +1,19 @@
 {
-  "generatedAt": "2026-08-30T15:16:29.856Z",
-  "count": 209,
+  "generatedAt": "2026-08-31T17:56:37.170Z",
+  "count": 208,
   "movies": [
+    {
+      "id": 1101412,
+      "title": "Fall 2: Deadpoint",
+      "releaseDate": "2026-09-02",
+      "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Michael Spierig, Peter Spierig",
+      "studioStr": "Tea Shop Productions / Capstone Pictures",
+      "prestige": false,
+      "imdbId": "tt31192372"
+    },
     {
       "id": 1731694,
       "title": "LEGO Star Wars: The Mandalorian",
@@ -87,18 +99,6 @@
       "imdbId": null
     },
     {
-      "id": 1378537,
-      "title": "Mirzapur: The Movie",
-      "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Gurmmeet Singh",
-      "studioStr": "Excel Entertainment / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt34339725"
-    },
-    {
       "id": 1241907,
       "title": "The Housewife",
       "releaseDate": "2026-09-10",
@@ -147,6 +147,18 @@
       "imdbId": "tt31349844"
     },
     {
+      "id": 1378537,
+      "title": "Mirzapur: The Movie",
+      "releaseDate": "2026-09-11",
+      "poster": "https://image.tmdb.org/t/p/w92/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Gurmmeet Singh",
+      "studioStr": "Excel Entertainment / Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt34339725"
+    },
+    {
       "id": 1747730,
       "title": "Blindspot Berlin",
       "releaseDate": "2026-09-13",
@@ -183,18 +195,6 @@
       "imdbId": "tt43741215"
     },
     {
-      "id": 1319525,
-      "title": "Henry's First Dates",
-      "releaseDate": "2026-09-17",
-      "poster": "https://image.tmdb.org/t/p/w92/qlw9WtySGW6AUdbkwgWUltvIAf3.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Mez Tharatorn",
-      "studioStr": "GDH 559 / Sony Pictures International Productions",
-      "prestige": true,
-      "imdbId": "tt44734424"
-    },
-    {
       "id": 1461432,
       "title": "Adult Supervision",
       "releaseDate": "2026-09-17",
@@ -207,6 +207,18 @@
       "imdbId": "tt36462731"
     },
     {
+      "id": 1477104,
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "releaseDate": "2026-09-17",
+      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Steve Cox, Matthew Walker",
+      "studioStr": "Aardman / StudioCanal",
+      "prestige": true,
+      "imdbId": "tt36841161"
+    },
+    {
       "id": 1423191,
       "title": "Resident Evil",
       "releaseDate": "2026-09-18",
@@ -217,18 +229,6 @@
       "studioStr": "Constantin Film / Subconscious",
       "prestige": true,
       "imdbId": "tt35538033"
-    },
-    {
-      "id": 1477104,
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Steve Cox, Matthew Walker",
-      "studioStr": "Aardman / StudioCanal",
-      "prestige": true,
-      "imdbId": "tt36841161"
     },
     {
       "id": 1263337,
@@ -531,18 +531,6 @@
       "imdbId": "tt34890576"
     },
     {
-      "id": 1084409,
-      "title": "A Talent for a Murder",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Anton Corbijn",
-      "studioStr": "Lunar Pictures / Lucky Red",
-      "prestige": true,
-      "imdbId": "tt14129116"
-    },
-    {
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
@@ -553,6 +541,18 @@
       "studioStr": "LAIKA",
       "prestige": true,
       "imdbId": "tt2056785"
+    },
+    {
+      "id": 1084409,
+      "title": "A Talent for Murder",
+      "releaseDate": "2026-10-23",
+      "poster": "https://image.tmdb.org/t/p/w92/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Anton Corbijn",
+      "studioStr": "Lunar Pictures / Lucky Red",
+      "prestige": true,
+      "imdbId": "tt14129116"
     },
     {
       "id": 1689329,
@@ -1107,6 +1107,18 @@
       "imdbId": "tt18270542"
     },
     {
+      "id": 1260649,
+      "title": "Jumanji: Open World",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jake Kasdan",
+      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
+      "prestige": true,
+      "imdbId": "tt26735127"
+    },
+    {
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
@@ -1129,18 +1141,6 @@
       "studioStr": "Skydance Sports / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt30093348"
-    },
-    {
-      "id": 1260649,
-      "title": "Jumanji: Open World",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jake Kasdan",
-      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
-      "prestige": true,
-      "imdbId": "tt26735127"
     },
     {
       "id": 934372,
@@ -1965,7 +1965,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2226,7 +2226,7 @@
       "id": 1505252,
       "title": "Final Destination 7",
       "releaseDate": "2028-05-12",
-      "poster": "https://image.tmdb.org/t/p/w92/pSyFYidTEa9mCyfXy5EWaPK9IxV.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michiel Blanchart",
@@ -2461,18 +2461,6 @@
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt37884905"
-    },
-    {
-      "id": 1646437,
-      "title": "National Treasure 3",
-      "releaseDate": "2028-12-20",
-      "poster": "https://image.tmdb.org/t/p/w92/bc1NVxY71CbVCXkx1KA2kEOeFDl.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jon Turteltaub",
-      "studioStr": "Don Simpson/Jerry Bruckheimer Films / Walt Disney Pictures",
-      "prestige": true,
-      "imdbId": "tt1197627"
     },
     {
       "id": 1468313,
