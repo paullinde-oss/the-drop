@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T17:56:37.170Z",
-  "count": 208,
+  "generatedAt": "2026-09-01T15:31:10.327Z",
+  "count": 211,
   "movies": [
     {
       "id": 1101412,
@@ -42,13 +42,13 @@
       "id": 1735952,
       "title": "I Plant My Hand in the Garden",
       "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/jiipPmc8d2Hce0x95ilObiR3QRd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/1sOf2zjcQoUdmlkxF5FNUD13e1M.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Hoda Taheri, Boris Hadžija",
       "studioStr": "Deutsche Film- und Fernsehakademie Berlin (DFFB) / CRUISING PICTURES",
       "prestige": false,
-      "imdbId": null
+      "imdbId": "tt43702349"
     },
     {
       "id": 1506560,
@@ -99,6 +99,18 @@
       "imdbId": null
     },
     {
+      "id": 1378537,
+      "title": "Mirzapur: The Movie",
+      "releaseDate": "2026-09-04",
+      "poster": "https://image.tmdb.org/t/p/w92/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Gurmmeet Singh",
+      "studioStr": "Excel Entertainment / Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt34339725"
+    },
+    {
       "id": 1241907,
       "title": "The Housewife",
       "releaseDate": "2026-09-10",
@@ -145,18 +157,6 @@
       "studioStr": "Broken Road Productions / AllyCat Entertainment",
       "prestige": true,
       "imdbId": "tt31349844"
-    },
-    {
-      "id": 1378537,
-      "title": "Mirzapur: The Movie",
-      "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Gurmmeet Singh",
-      "studioStr": "Excel Entertainment / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt34339725"
     },
     {
       "id": 1747730,
@@ -253,6 +253,18 @@
       "studioStr": "Focus Features / Working Title Films",
       "prestige": true,
       "imdbId": "tt13609648"
+    },
+    {
+      "id": 1507877,
+      "title": "Another Day",
+      "releaseDate": "2026-09-23",
+      "poster": "https://image.tmdb.org/t/p/w92/uVEkYwPFNQUjdPMibPOGHR0fVcV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jeanne Herry",
+      "studioStr": "Chi-Fou-Mi Productions / Trésor Films",
+      "prestige": true,
+      "imdbId": "tt38584405"
     },
     {
       "id": 1750432,
@@ -591,6 +603,18 @@
       "imdbId": "tt36753615"
     },
     {
+      "id": 1294189,
+      "title": "The Mongoose",
+      "releaseDate": "2026-10-30",
+      "poster": "https://image.tmdb.org/t/p/w92/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Mark Vanselow",
+      "studioStr": "Code Entertainment / The Solution",
+      "prestige": false,
+      "imdbId": "tt13611778"
+    },
+    {
       "id": 1753079,
       "title": "National Theatre at Home: Pride",
       "releaseDate": "2026-11-01",
@@ -771,6 +795,18 @@
       "imdbId": "tt35866986"
     },
     {
+      "id": 1381273,
+      "title": "Paper Tiger",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "James Gray",
+      "studioStr": "RT Features / Leone Film Group",
+      "prestige": false,
+      "imdbId": "tt34385689"
+    },
+    {
       "id": 1737072,
       "title": "Noroi no Smartphone",
       "releaseDate": "2026-11-13",
@@ -882,7 +918,7 @@
       "id": 1538497,
       "title": "Hexed",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/zO1r0TvdmnUSO1aAtFaVeT5h1KW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jason Hand, Fawn Veerasunthorn",
@@ -904,7 +940,7 @@
     },
     {
       "id": 1430815,
-      "title": "A Good Little Solider",
+      "title": "A Good Little Soldier",
       "releaseDate": "2026-11-25",
       "poster": "https://image.tmdb.org/t/p/w92/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg",
       "format": "theatrical",
@@ -1033,18 +1069,6 @@
       "studioStr": "Angel Studios / Kasbah Films",
       "prestige": true,
       "imdbId": "tt34491649"
-    },
-    {
-      "id": 1630464,
-      "title": "Clarissa",
-      "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/9qS8heXhQdLoyGsqZHHb3HkrK62.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Chuko Esiri, Arie Esiri",
-      "studioStr": "Per Capita Productions / Invention Studios",
-      "prestige": true,
-      "imdbId": "tt33335610"
     },
     {
       "id": 1566920,
@@ -1417,6 +1441,18 @@
       "studioStr": "Lionsgate / Thunder Road",
       "prestige": true,
       "imdbId": "tt18795088"
+    },
+    {
+      "id": 1759839,
+      "title": "Over The Hedge 2",
+      "releaseDate": "2027-03-26",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "DreamWorks Animation",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1208917,
