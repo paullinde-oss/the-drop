@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T15:31:10.327Z",
-  "count": 211,
+  "generatedAt": "2026-09-02T15:01:06.454Z",
+  "count": 212,
   "movies": [
     {
       "id": 1101412,
@@ -13,30 +13,6 @@
       "studioStr": "Tea Shop Productions / Capstone Pictures",
       "prestige": false,
       "imdbId": "tt31192372"
-    },
-    {
-      "id": 1731694,
-      "title": "LEGO Star Wars: The Mandalorian",
-      "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/12lS1NvNItj0Ec5kzxmApZEBTnn.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Chris Buckley",
-      "studioStr": "Lucasfilm Ltd. / The LEGO Group",
-      "prestige": true,
-      "imdbId": "tt43679852"
-    },
-    {
-      "id": 1386315,
-      "title": "The Runner",
-      "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Kevin Macdonald",
-      "studioStr": "Amazon MGM Studios / Rockwood Pictures",
-      "prestige": true,
-      "imdbId": "tt34564059"
     },
     {
       "id": 1735952,
@@ -66,7 +42,7 @@
       "id": 1137844,
       "title": "Mayday",
       "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nUDUgXBr211JP7JNJNztIMuipYE.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Jonathan Goldstein, John Francis Daley",
@@ -183,16 +159,16 @@
       "imdbId": "tt37674760"
     },
     {
-      "id": 607833,
-      "title": "The Intern",
+      "id": 1465063,
+      "title": "Forgotten Island",
       "releaseDate": "2026-09-16",
-      "poster": "https://image.tmdb.org/t/p/w92/kRHjgsICPISgEClloeARkPHP96M.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Kim Do-young",
-      "studioStr": "Anthology Studios / Warner Bros. Korea",
+      "directorStr": "Januel Mercado, Joel Crawford",
+      "studioStr": "DreamWorks Animation",
       "prestige": true,
-      "imdbId": "tt43741215"
+      "imdbId": "tt36583977"
     },
     {
       "id": 1461432,
@@ -219,18 +195,6 @@
       "imdbId": "tt36841161"
     },
     {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "releaseDate": "2026-09-18",
-      "poster": "https://image.tmdb.org/t/p/w92/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Zach Cregger",
-      "studioStr": "Constantin Film / Subconscious",
-      "prestige": true,
-      "imdbId": "tt35538033"
-    },
-    {
       "id": 1263337,
       "title": "Heart of the Beast",
       "releaseDate": "2026-09-19",
@@ -246,25 +210,13 @@
       "id": 1503762,
       "title": "Sense and Sensibility",
       "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Georgia Oakley",
       "studioStr": "Focus Features / Working Title Films",
       "prestige": true,
       "imdbId": "tt13609648"
-    },
-    {
-      "id": 1507877,
-      "title": "Another Day",
-      "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/uVEkYwPFNQUjdPMibPOGHR0fVcV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jeanne Herry",
-      "studioStr": "Chi-Fou-Mi Productions / Trésor Films",
-      "prestige": true,
-      "imdbId": "tt38584405"
     },
     {
       "id": 1750432,
@@ -282,25 +234,13 @@
       "id": 1375441,
       "title": "Primetime",
       "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lance Oppenheim",
       "studioStr": "A24 / Icki Eneo Arlo",
       "prestige": true,
       "imdbId": "tt34206385"
-    },
-    {
-      "id": 1465063,
-      "title": "Forgotten Island",
-      "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Januel Mercado, Joel Crawford",
-      "studioStr": "DreamWorks Animation",
-      "prestige": true,
-      "imdbId": "tt36583977"
     },
     {
       "id": 1248832,
@@ -390,7 +330,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -543,6 +483,18 @@
       "imdbId": "tt34890576"
     },
     {
+      "id": 858035,
+      "title": "Klara and the Sun",
+      "releaseDate": "2026-10-23",
+      "poster": "https://image.tmdb.org/t/p/w92/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Taika Waititi",
+      "studioStr": "3000 Pictures / Heyday Films",
+      "prestige": false,
+      "imdbId": "tt14371256"
+    },
+    {
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
@@ -645,7 +597,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -793,18 +745,6 @@
       "studioStr": "87North Productions / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt35866986"
-    },
-    {
-      "id": 1381273,
-      "title": "Paper Tiger",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/v023L1AFtd3rpy61B5JiEOR1sMF.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "James Gray",
-      "studioStr": "RT Features / Leone Film Group",
-      "prestige": false,
-      "imdbId": "tt34385689"
     },
     {
       "id": 1737072,
@@ -1047,6 +987,18 @@
       "imdbId": "tt29634374"
     },
     {
+      "id": 1379537,
+      "title": "The Gallerist",
+      "releaseDate": "2026-12-04",
+      "poster": "https://image.tmdb.org/t/p/w92/xqqno510An90CfExaIW5Co7m0xY.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Cathy Yan",
+      "studioStr": "Peninsula Films / Concordia Studio",
+      "prestige": false,
+      "imdbId": "tt34382912"
+    },
+    {
       "id": 1421967,
       "title": "Violette",
       "releaseDate": "2026-12-09",
@@ -1071,6 +1023,18 @@
       "imdbId": "tt34491649"
     },
     {
+      "id": 1391239,
+      "title": "The Debut",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jesse Eisenberg",
+      "studioStr": "Topic Studios / Fruit Tree",
+      "prestige": false,
+      "imdbId": "tt34718200"
+    },
+    {
       "id": 1566920,
       "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
       "releaseDate": "2026-12-11",
@@ -1086,7 +1050,7 @@
       "id": 1532610,
       "title": "Ink",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/g9iVG0ugwE0ErdFH4kqjAksj8ps.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/4kjSBoNGvogavR3K47DdRzsDk9c.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Danny Boyle",
@@ -1107,18 +1071,6 @@
       "imdbId": "tt31378509"
     },
     {
-      "id": 1003596,
-      "title": "Avengers: Doomsday",
-      "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
-      "studioStr": "Marvel Studios / Kevin Feige Productions",
-      "prestige": true,
-      "imdbId": "tt21357150"
-    },
-    {
       "id": 940009,
       "title": "Ray Gunn",
       "releaseDate": "2026-12-18",
@@ -1131,6 +1083,18 @@
       "imdbId": "tt18270542"
     },
     {
+      "id": 1003596,
+      "title": "Avengers: Doomsday",
+      "releaseDate": "2026-12-18",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Joe Russo, Anthony Russo",
+      "studioStr": "Marvel Studios / Kevin Feige Productions",
+      "prestige": true,
+      "imdbId": "tt21357150"
+    },
+    {
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
@@ -1141,6 +1105,18 @@
       "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
       "prestige": true,
       "imdbId": "tt26735127"
+    },
+    {
+      "id": 1621673,
+      "title": "Sukiyaki",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/75A08il8gi8ToPCEAFqWdCwoZ1.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Takahisa Zeze",
+      "studioStr": "TOHO",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1421903,
@@ -1218,7 +1194,7 @@
       "id": 1115030,
       "title": "Animal Friends",
       "releaseDate": "2027-01-22",
-      "poster": "https://image.tmdb.org/t/p/w92/I65yQ8p6VqDK96JH5tpNZ0Q3DS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/AfJldsj8a42yeg9Ued3MdgbfWnC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Peter Atencio",
@@ -1273,6 +1249,18 @@
       "studioStr": "Universal Pictures / Apatow Productions",
       "prestige": true,
       "imdbId": "tt36593129"
+    },
+    {
+      "id": 1425859,
+      "title": "Remain",
+      "releaseDate": "2027-02-05",
+      "poster": "https://image.tmdb.org/t/p/w92/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "M. Night Shyamalan",
+      "studioStr": "Blinding Edge Pictures",
+      "prestige": false,
+      "imdbId": "tt35621542"
     },
     {
       "id": 1384758,
@@ -1455,6 +1443,18 @@
       "imdbId": null
     },
     {
+      "id": 1749570,
+      "title": "ENJU",
+      "releaseDate": "2027-03-26",
+      "poster": "https://image.tmdb.org/t/p/w92/2mrblS0C5EH8pTUcVY57brZQwx1.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Shigeaki Kubo",
+      "studioStr": "Bandai Namco Filmworks / Universal Pictures Japan",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1208917,
       "title": "Wings of Freedom",
       "releaseDate": "2027-04-07",
@@ -1590,7 +1590,7 @@
       "id": 1138528,
       "title": "Bad Fairies",
       "releaseDate": "2027-05-21",
-      "poster": "https://image.tmdb.org/t/p/w92/qv5bf7IXmVHpGE0TpYKA8tD2NFi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/h0JbLsPVEJModp73t2Os7a3z8Ay.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Megan Nicole Dong",
@@ -1645,6 +1645,18 @@
       "studioStr": "Columbia Pictures / Sony Pictures Animation",
       "prestige": true,
       "imdbId": "tt16360004"
+    },
+    {
+      "id": 1380780,
+      "title": "The Last Druid",
+      "releaseDate": "2027-06-24",
+      "poster": "https://image.tmdb.org/t/p/w92/xBlpO2hKSUtszLIb1Ink1kaDPn4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "William Eubank",
+      "studioStr": "Range Media Partners / 42",
+      "prestige": false,
+      "imdbId": "tt34581186"
     },
     {
       "id": 1221973,
@@ -1842,25 +1854,13 @@
       "id": 656618,
       "title": "High in the Clouds",
       "releaseDate": "2027-10-07",
-      "poster": "https://image.tmdb.org/t/p/w92/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/cmwYfyY11Ggyt88ceUFmxLTktkA.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Toby Genkel",
       "studioStr": "Gaumont / Gaumont Animation",
       "prestige": true,
       "imdbId": "tt1458167"
-    },
-    {
-      "id": 1615938,
-      "title": "The Haunting of Hotel Transylvania",
-      "releaseDate": "2027-10-08",
-      "poster": "https://image.tmdb.org/t/p/w92/uZcB6w6tph9P4nEw2iRXR6fDZga.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alan Hawkins, Jennifer Kluska",
-      "studioStr": "Sony Pictures Animation / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt43674934"
     },
     {
       "id": 1755624,
@@ -1873,6 +1873,18 @@
       "studioStr": "Blumhouse Productions / Atomic Monster",
       "prestige": true,
       "imdbId": "tt30017708"
+    },
+    {
+      "id": 1615938,
+      "title": "The Haunting of Hotel Transylvania",
+      "releaseDate": "2027-10-08",
+      "poster": "https://image.tmdb.org/t/p/w92/uZcB6w6tph9P4nEw2iRXR6fDZga.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alan Hawkins, Jennifer Kluska",
+      "studioStr": "Sony Pictures Animation / Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt43674934"
     },
     {
       "id": 1574840,
@@ -2166,7 +2178,7 @@
       "id": 748865,
       "title": "Oh, the Places You'll Go!",
       "releaseDate": "2028-03-17",
-      "poster": "https://image.tmdb.org/t/p/w92/vrWq8Yl2CPB6hvVfi8ppxOs0OII.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rf0EFUEN4hV41FjaQsbaB274A3g.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jon M. Chu, Jill Culton",
