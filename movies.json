@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-02T15:01:06.454Z",
-  "count": 212,
+  "generatedAt": "2026-09-03T15:00:37.643Z",
+  "count": 206,
   "movies": [
     {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "releaseDate": "2026-09-02",
-      "poster": "https://image.tmdb.org/t/p/w92/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-      "format": "theatrical",
+      "id": 1137844,
+      "title": "Mayday",
+      "releaseDate": "2026-09-03",
+      "poster": "https://image.tmdb.org/t/p/w92/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
+      "format": "streaming",
       "reRelease": false,
-      "directorStr": "Michael Spierig, Peter Spierig",
-      "studioStr": "Tea Shop Productions / Capstone Pictures",
-      "prestige": false,
-      "imdbId": "tt31192372"
+      "directorStr": "Jonathan Goldstein, John Francis Daley",
+      "studioStr": "Skydance Media / Maximum Effort",
+      "prestige": true,
+      "imdbId": "tt28014327"
     },
     {
       "id": 1735952,
@@ -37,18 +37,6 @@
       "studioStr": "Paramount Television Studios",
       "prestige": true,
       "imdbId": "tt37752275"
-    },
-    {
-      "id": 1137844,
-      "title": "Mayday",
-      "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/nUDUgXBr211JP7JNJNztIMuipYE.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Jonathan Goldstein, John Francis Daley",
-      "studioStr": "Skydance Media / Maximum Effort",
-      "prestige": true,
-      "imdbId": "tt28014327"
     },
     {
       "id": 1284046,
@@ -87,6 +75,18 @@
       "imdbId": "tt34339725"
     },
     {
+      "id": 1760781,
+      "title": "F1® on Apple TV Live in IMAX: Italy Race",
+      "releaseDate": "2026-09-06",
+      "poster": "https://image.tmdb.org/t/p/w92/x0vl8c8ZVwHITI0M2ji3HVRWu1h.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Apple Studios",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1241907,
       "title": "The Housewife",
       "releaseDate": "2026-09-10",
@@ -114,7 +114,7 @@
       "id": 1302904,
       "title": "Practical Magic 2",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/2lSf1aoZA6UpTEBxVGqnJ7QayIP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Susanne Bier",
@@ -145,18 +145,6 @@
       "studioStr": "NEUESUPER / ARD Degeto",
       "prestige": false,
       "imdbId": null
-    },
-    {
-      "id": 1514333,
-      "title": "Wild Wild East",
-      "releaseDate": "2026-09-14",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jan Holoubek",
-      "studioStr": "TVN Warner Bros. Discovery / Grupa Moderator Studio Filmowe",
-      "prestige": true,
-      "imdbId": "tt37674760"
     },
     {
       "id": 1465063,
@@ -330,7 +318,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -438,7 +426,7 @@
       "id": 1153576,
       "title": "Street Fighter",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kitao Sakurai",
@@ -481,18 +469,6 @@
       "studioStr": "DC Studios / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt34890576"
-    },
-    {
-      "id": 858035,
-      "title": "Klara and the Sun",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Taika Waititi",
-      "studioStr": "3000 Pictures / Heyday Films",
-      "prestige": false,
-      "imdbId": "tt14371256"
     },
     {
       "id": 791523,
@@ -699,6 +675,18 @@
       "imdbId": "tt10098420"
     },
     {
+      "id": 1050981,
+      "title": "Being Heumann",
+      "releaseDate": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w92/bPlNdvgyjRUyK6sfms9hGh3Avpa.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Sian Heder",
+      "studioStr": "Permut Presentations / Gravity Squared Entertainment",
+      "prestige": true,
+      "imdbId": "tt15095848"
+    },
+    {
       "id": 1396056,
       "title": "Our Revolution",
       "releaseDate": "2026-11-11",
@@ -711,16 +699,16 @@
       "imdbId": null
     },
     {
-      "id": 1050981,
-      "title": "Being Heumann",
-      "releaseDate": "2026-11-12",
-      "poster": "https://image.tmdb.org/t/p/w92/8MPsdWD8W3cAFzzCbrrlx9FyY6L.jpg",
-      "format": "digital",
+      "id": 1437511,
+      "title": "How to Rob a Bank",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+      "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Sian Heder",
-      "studioStr": "Permut Presentations / Gravity Squared Entertainment",
+      "directorStr": "David Leitch",
+      "studioStr": "87North Productions / Imagine Entertainment",
       "prestige": true,
-      "imdbId": "tt15095848"
+      "imdbId": "tt35866986"
     },
     {
       "id": 1567605,
@@ -733,18 +721,6 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
-    },
-    {
-      "id": 1437511,
-      "title": "How to Rob a Bank",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/8sMzu56Nok5WlEXCRdflEgshYQO.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "87North Productions / Imagine Entertainment",
-      "prestige": true,
-      "imdbId": "tt35866986"
     },
     {
       "id": 1737072,
@@ -987,18 +963,6 @@
       "imdbId": "tt29634374"
     },
     {
-      "id": 1379537,
-      "title": "The Gallerist",
-      "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/xqqno510An90CfExaIW5Co7m0xY.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Cathy Yan",
-      "studioStr": "Peninsula Films / Concordia Studio",
-      "prestige": false,
-      "imdbId": "tt34382912"
-    },
-    {
       "id": 1421967,
       "title": "Violette",
       "releaseDate": "2026-12-09",
@@ -1023,18 +987,6 @@
       "imdbId": "tt34491649"
     },
     {
-      "id": 1391239,
-      "title": "The Debut",
-      "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jesse Eisenberg",
-      "studioStr": "Topic Studios / Fruit Tree",
-      "prestige": false,
-      "imdbId": "tt34718200"
-    },
-    {
       "id": 1566920,
       "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
       "releaseDate": "2026-12-11",
@@ -1048,9 +1000,9 @@
     },
     {
       "id": 1532610,
-      "title": "Ink",
+      "title": "INK",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/4kjSBoNGvogavR3K47DdRzsDk9c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Danny Boyle",
@@ -1170,7 +1122,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/nyIYYYwJmGszmBjAsegoLDszxWJ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -1249,18 +1201,6 @@
       "studioStr": "Universal Pictures / Apatow Productions",
       "prestige": true,
       "imdbId": "tt36593129"
-    },
-    {
-      "id": 1425859,
-      "title": "Remain",
-      "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "M. Night Shyamalan",
-      "studioStr": "Blinding Edge Pictures",
-      "prestige": false,
-      "imdbId": "tt35621542"
     },
     {
       "id": 1384758,
@@ -1645,18 +1585,6 @@
       "studioStr": "Columbia Pictures / Sony Pictures Animation",
       "prestige": true,
       "imdbId": "tt16360004"
-    },
-    {
-      "id": 1380780,
-      "title": "The Last Druid",
-      "releaseDate": "2027-06-24",
-      "poster": "https://image.tmdb.org/t/p/w92/xBlpO2hKSUtszLIb1Ink1kaDPn4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "William Eubank",
-      "studioStr": "Range Media Partners / 42",
-      "prestige": false,
-      "imdbId": "tt34581186"
     },
     {
       "id": 1221973,
