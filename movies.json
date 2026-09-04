@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-09-03T15:00:37.643Z",
-  "count": 206,
+  "generatedAt": "2026-09-04T14:49:16.529Z",
+  "count": 204,
   "movies": [
-    {
-      "id": 1137844,
-      "title": "Mayday",
-      "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Jonathan Goldstein, John Francis Daley",
-      "studioStr": "Skydance Media / Maximum Effort",
-      "prestige": true,
-      "imdbId": "tt28014327"
-    },
-    {
-      "id": 1735952,
-      "title": "I Plant My Hand in the Garden",
-      "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/1sOf2zjcQoUdmlkxF5FNUD13e1M.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Hoda Taheri, Boris Hadžija",
-      "studioStr": "Deutsche Film- und Fernsehakademie Berlin (DFFB) / CRUISING PICTURES",
-      "prestige": false,
-      "imdbId": "tt43702349"
-    },
-    {
-      "id": 1506560,
-      "title": "Clash of the Thundermans",
-      "releaseDate": "2026-09-03",
-      "poster": "https://image.tmdb.org/t/p/w92/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Trevor Kirschner",
-      "studioStr": "Paramount Television Studios",
-      "prestige": true,
-      "imdbId": "tt37752275"
-    },
     {
       "id": 1284046,
       "title": "Onslaught",
@@ -133,18 +97,6 @@
       "studioStr": "Broken Road Productions / AllyCat Entertainment",
       "prestige": true,
       "imdbId": "tt31349844"
-    },
-    {
-      "id": 1747730,
-      "title": "Blindspot Berlin",
-      "releaseDate": "2026-09-13",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Nawrath",
-      "studioStr": "NEUESUPER / ARD Degeto",
-      "prestige": false,
-      "imdbId": null
     },
     {
       "id": 1465063,
@@ -366,7 +318,7 @@
       "id": 1288069,
       "title": "Tenzing",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/btJ6Y8NGMEC5cTyxnIKwa3ugxaB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dX60ICPem0yTmAsxCwtzCsorYPC.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Jennifer Peedom",
@@ -573,7 +525,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -582,7 +534,7 @@
       "id": 1649403,
       "title": "George Michael: The Faith Tour",
       "releaseDate": "2026-11-05",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/ljlmEFINSWawI7KpIFbPyZIWVzM.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Andy Morahan, David Austin",
@@ -699,18 +651,6 @@
       "imdbId": null
     },
     {
-      "id": 1437511,
-      "title": "How to Rob a Bank",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "87North Productions / Imagine Entertainment",
-      "prestige": true,
-      "imdbId": "tt35866986"
-    },
-    {
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-13",
@@ -721,6 +661,18 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
+    },
+    {
+      "id": 1437511,
+      "title": "How to Rob a Bank",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "87North Productions / Imagine Entertainment",
+      "prestige": true,
+      "imdbId": "tt35866986"
     },
     {
       "id": 1737072,
@@ -738,7 +690,7 @@
       "id": 1131943,
       "title": "Madden",
       "releaseDate": "2026-11-18",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/ivqI1eJaY6SwyEqqfEgb4BUB6et.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "David O. Russell",
@@ -1000,7 +952,7 @@
     },
     {
       "id": 1532610,
-      "title": "INK",
+      "title": "Ink",
       "releaseDate": "2026-12-11",
       "poster": "https://image.tmdb.org/t/p/w92/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
       "format": "theatrical",
@@ -1177,6 +1129,18 @@
       "studioStr": "87Eleven / Lionsgate",
       "prestige": true,
       "imdbId": "tt33295857"
+    },
+    {
+      "id": 1739413,
+      "title": "In My Father's Room",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/bgapSeASBoacEvypu6lp7yIqubP.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Maha Harada",
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": "tt43718418"
     },
     {
       "id": 1139422,
@@ -1542,7 +1506,7 @@
       "id": 1273739,
       "title": "The Catch",
       "releaseDate": "2027-05-21",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/p9rZJczpvEYw7j9wytMwLp07EU7.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave McCary",
@@ -1816,7 +1780,7 @@
     },
     {
       "id": 1574840,
-      "title": "Untitled Mummy Sequel",
+      "title": "The Mummy 4",
       "releaseDate": "2027-10-15",
       "poster": "https://image.tmdb.org/t/p/w92/ihR2uqtz5Gn37g5gIZ2SEO2n6N1.jpg",
       "format": "theatrical",
@@ -2389,6 +2353,18 @@
       "studioStr": "Locksmith Animation / Warner Bros. Pictures Animation",
       "prestige": true,
       "imdbId": "tt17423726"
+    },
+    {
+      "id": 1184696,
+      "title": "James Bond 26",
+      "releaseDate": "2028-11-15",
+      "poster": "https://image.tmdb.org/t/p/w92/AqH9lbww9UvHjQNnlKZve6r0iu8.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Denis Villeneuve",
+      "studioStr": "Pascal Pictures / Heyday Films",
+      "prestige": true,
+      "imdbId": "tt13152476"
     },
     {
       "id": 1545226,
