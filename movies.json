@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-09-04T14:49:16.529Z",
-  "count": 204,
+  "generatedAt": "2026-09-05T13:45:36.423Z",
+  "count": 203,
   "movies": [
-    {
-      "id": 1284046,
-      "title": "Onslaught",
-      "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Adam Wingard",
-      "studioStr": "A24 / Ryder Picture Company",
-      "prestige": true,
-      "imdbId": "tt32268691"
-    },
-    {
-      "id": 1621964,
-      "title": "The Swan and the Bat",
-      "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/jIEyBR9gCrDMEQ7UcxWmJVj2zDi.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Yoshiyuki Kishi",
-      "studioStr": "Shochiku / TV Man Union",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
-      "id": 1378537,
-      "title": "Mirzapur: The Movie",
-      "releaseDate": "2026-09-04",
-      "poster": "https://image.tmdb.org/t/p/w92/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Gurmmeet Singh",
-      "studioStr": "Excel Entertainment / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt34339725"
-    },
     {
       "id": 1760781,
       "title": "F1® on Apple TV Live in IMAX: Italy Race",
@@ -525,7 +489,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -1554,7 +1518,7 @@
       "id": 1221973,
       "title": "Untitled Ocean's Prequel",
       "releaseDate": "2027-06-25",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/ktC7pAj9p7R2FU3Pf2emyB2fbbL.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Bradley Cooper",
@@ -1573,6 +1537,18 @@
       "studioStr": "DreamWorks Animation",
       "prestige": true,
       "imdbId": "tt6113186"
+    },
+    {
+      "id": 1760170,
+      "title": "Rode to Ruin",
+      "releaseDate": "2027-07-03",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Michael Keaton",
+      "studioStr": "Revelations Entertainment / George & Leona Productions",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1523140,
@@ -1597,6 +1573,18 @@
       "studioStr": "Sony Pictures / Olive Bridge Entertainment",
       "prestige": true,
       "imdbId": "tt40424282"
+    },
+    {
+      "id": 487560,
+      "title": "Last Friday",
+      "releaseDate": "2027-07-16",
+      "poster": "https://image.tmdb.org/t/p/w92/eGgnsFXAmDXdxdTvw4fntX8dGCM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Cube Vision / New Line Cinema",
+      "prestige": true,
+      "imdbId": "tt6914708"
     },
     {
       "id": 1461519,
