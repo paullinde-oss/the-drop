@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-09-05T13:45:36.423Z",
-  "count": 203,
+  "generatedAt": "2026-09-06T14:00:05.893Z",
+  "count": 200,
   "movies": [
-    {
-      "id": 1760781,
-      "title": "F1® on Apple TV Live in IMAX: Italy Race",
-      "releaseDate": "2026-09-06",
-      "poster": "https://image.tmdb.org/t/p/w92/x0vl8c8ZVwHITI0M2ji3HVRWu1h.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Apple Studios",
-      "prestige": true,
-      "imdbId": null
-    },
     {
       "id": 1241907,
       "title": "The Housewife",
@@ -133,18 +121,6 @@
       "studioStr": "Marvel Studios / Disney Junior",
       "prestige": true,
       "imdbId": "tt44171293"
-    },
-    {
-      "id": 1375441,
-      "title": "Primetime",
-      "releaseDate": "2026-09-25",
-      "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Lance Oppenheim",
-      "studioStr": "A24 / Icki Eneo Arlo",
-      "prestige": true,
-      "imdbId": "tt34206385"
     },
     {
       "id": 1248832,
@@ -489,7 +465,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -942,7 +918,7 @@
       "id": 940009,
       "title": "Ray Gunn",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/qXexEAo999wlEp5rMsFnVSRaTSM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/d5Wt0kWCrcnAcp5nJDVuDwY4QMf.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Brad Bird",
@@ -2010,7 +1986,7 @@
       "id": 806704,
       "title": "The Batman: Part II",
       "releaseDate": "2028-02-18",
-      "poster": "https://image.tmdb.org/t/p/w92/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/r5fl4aMsmTjgc8DdDqQaM84roWp.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Matt Reeves",
@@ -2341,18 +2317,6 @@
       "studioStr": "Locksmith Animation / Warner Bros. Pictures Animation",
       "prestige": true,
       "imdbId": "tt17423726"
-    },
-    {
-      "id": 1184696,
-      "title": "James Bond 26",
-      "releaseDate": "2028-11-15",
-      "poster": "https://image.tmdb.org/t/p/w92/AqH9lbww9UvHjQNnlKZve6r0iu8.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Denis Villeneuve",
-      "studioStr": "Pascal Pictures / Heyday Films",
-      "prestige": true,
-      "imdbId": "tt13152476"
     },
     {
       "id": 1545226,
