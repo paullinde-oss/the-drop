@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T14:00:05.893Z",
-  "count": 200,
+  "generatedAt": "2026-09-07T16:23:14.056Z",
+  "count": 199,
   "movies": [
     {
       "id": 1241907,
@@ -184,7 +184,7 @@
     },
     {
       "id": 1148365,
-      "title": "Matchbox: The Movie",
+      "title": "Matchbox the Movie",
       "releaseDate": "2026-10-08",
       "poster": "https://image.tmdb.org/t/p/w92/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
       "format": "digital",
@@ -465,7 +465,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -510,7 +510,7 @@
       "id": 1381071,
       "title": "Godzilla Minus Zero",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/fy1RecLQ4DeJPRcOBFh03GhDkVo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/xvf82pZhcoiRTktrRYXcgN1sZn6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Yamazaki",
@@ -654,7 +654,7 @@
       "id": 1185542,
       "title": "Agnes & Amir",
       "releaseDate": "2026-11-19",
-      "poster": "https://image.tmdb.org/t/p/w92/iVkuKithMCmlo62NqLeoO7YfSHc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9N9i5QcWnaH3kmMMeXDDU1e0hmV.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Helena Hufnagel",
@@ -918,7 +918,7 @@
       "id": 940009,
       "title": "Ray Gunn",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/d5Wt0kWCrcnAcp5nJDVuDwY4QMf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qXexEAo999wlEp5rMsFnVSRaTSM.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Brad Bird",
@@ -1069,18 +1069,6 @@
       "studioStr": "87Eleven / Lionsgate",
       "prestige": true,
       "imdbId": "tt33295857"
-    },
-    {
-      "id": 1739413,
-      "title": "In My Father's Room",
-      "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/bgapSeASBoacEvypu6lp7yIqubP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Maha Harada",
-      "studioStr": null,
-      "prestige": false,
-      "imdbId": "tt43718418"
     },
     {
       "id": 1139422,
@@ -1530,7 +1518,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/i3N9AKd9KbdrdvTVeXBjC8NIy7f.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
@@ -1755,18 +1743,6 @@
       "imdbId": "tt22408968"
     },
     {
-      "id": 1673868,
-      "title": "Charlie vs. the Chocolate Factory",
-      "releaseDate": "2027-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/gHa5V7A23CLntW4PwqKeDu66Smf.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Jared Stern, Elaine Bogan",
-      "studioStr": "The Roald Dahl Story Company / Sony Pictures Imageworks",
-      "prestige": true,
-      "imdbId": "tt11998406"
-    },
-    {
       "id": 1215281,
       "title": "Naughty",
       "releaseDate": "2027-11-05",
@@ -1777,6 +1753,18 @@
       "studioStr": "LuckyChap Entertainment / Universal Pictures",
       "prestige": true,
       "imdbId": "tt30343245"
+    },
+    {
+      "id": 1673868,
+      "title": "Charlie vs. the Chocolate Factory",
+      "releaseDate": "2027-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/gHa5V7A23CLntW4PwqKeDu66Smf.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Jared Stern, Elaine Bogan",
+      "studioStr": "The Roald Dahl Story Company / Sony Pictures Imageworks",
+      "prestige": true,
+      "imdbId": "tt11998406"
     },
     {
       "id": 1413533,
@@ -1869,7 +1857,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
