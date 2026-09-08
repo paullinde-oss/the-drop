@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T16:23:14.056Z",
-  "count": 199,
+  "generatedAt": "2026-09-08T14:58:53.848Z",
+  "count": 197,
   "movies": [
     {
       "id": 1241907,
@@ -39,18 +39,6 @@
       "imdbId": "tt32588798"
     },
     {
-      "id": 1377237,
-      "title": "Runner",
-      "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Scott Waugh",
-      "studioStr": "Broken Road Productions / AllyCat Entertainment",
-      "prestige": true,
-      "imdbId": "tt31349844"
-    },
-    {
       "id": 1465063,
       "title": "Forgotten Island",
       "releaseDate": "2026-09-16",
@@ -87,18 +75,6 @@
       "imdbId": "tt36841161"
     },
     {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "releaseDate": "2026-09-19",
-      "poster": "https://image.tmdb.org/t/p/w92/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Ayer",
-      "studioStr": "Paramount Pictures / Wild Chickens Productions",
-      "prestige": true,
-      "imdbId": "tt7526136"
-    },
-    {
       "id": 1503762,
       "title": "Sense and Sensibility",
       "releaseDate": "2026-09-23",
@@ -109,6 +85,18 @@
       "studioStr": "Focus Features / Working Title Films",
       "prestige": true,
       "imdbId": "tt13609648"
+    },
+    {
+      "id": 1507877,
+      "title": "Another Day",
+      "releaseDate": "2026-09-23",
+      "poster": "https://image.tmdb.org/t/p/w92/uVEkYwPFNQUjdPMibPOGHR0fVcV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jeanne Herry",
+      "studioStr": "Chi-Fou-Mi Productions / Trésor Films",
+      "prestige": true,
+      "imdbId": "tt38584405"
     },
     {
       "id": 1750432,
@@ -465,22 +453,10 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
-    },
-    {
-      "id": 1649403,
-      "title": "George Michael: The Faith Tour",
-      "releaseDate": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/ljlmEFINSWawI7KpIFbPyZIWVzM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Andy Morahan, David Austin",
-      "studioStr": "Mercury Studios / George Michael Entertainment",
-      "prestige": true,
-      "imdbId": "tt40564737"
     },
     {
       "id": 1481630,
@@ -762,7 +738,7 @@
       "id": 1400336,
       "title": "Focker-in-Law",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John Hamburg",
@@ -1422,7 +1398,7 @@
       "id": 1138528,
       "title": "Bad Fairies",
       "releaseDate": "2027-05-21",
-      "poster": "https://image.tmdb.org/t/p/w92/h0JbLsPVEJModp73t2Os7a3z8Ay.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qv5bf7IXmVHpGE0TpYKA8tD2NFi.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Megan Nicole Dong",
@@ -1636,7 +1612,7 @@
     },
     {
       "id": 1554353,
-      "title": "The New Simpsons Movie",
+      "title": "The Simpsons Movie 2",
       "releaseDate": "2027-09-03",
       "poster": "https://image.tmdb.org/t/p/w92/iG1pMw9ufzXXQDTguT2okaZY3xe.jpg",
       "format": "theatrical",
@@ -1743,18 +1719,6 @@
       "imdbId": "tt22408968"
     },
     {
-      "id": 1215281,
-      "title": "Naughty",
-      "releaseDate": "2027-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/seM81lJJmKyGMOYxWtgLM702TNX.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Olivia Wilde",
-      "studioStr": "LuckyChap Entertainment / Universal Pictures",
-      "prestige": true,
-      "imdbId": "tt30343245"
-    },
-    {
       "id": 1673868,
       "title": "Charlie vs. the Chocolate Factory",
       "releaseDate": "2027-11-05",
@@ -1765,6 +1729,18 @@
       "studioStr": "The Roald Dahl Story Company / Sony Pictures Imageworks",
       "prestige": true,
       "imdbId": "tt11998406"
+    },
+    {
+      "id": 1215281,
+      "title": "Naughty",
+      "releaseDate": "2027-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/seM81lJJmKyGMOYxWtgLM702TNX.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Olivia Wilde",
+      "studioStr": "LuckyChap Entertainment / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt30343245"
     },
     {
       "id": 1413533,
@@ -2022,7 +1998,7 @@
       "id": 748865,
       "title": "Oh, the Places You'll Go!",
       "releaseDate": "2028-03-17",
-      "poster": "https://image.tmdb.org/t/p/w92/rf0EFUEN4hV41FjaQsbaB274A3g.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/vrWq8Yl2CPB6hvVfi8ppxOs0OII.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jon M. Chu, Jill Culton",
