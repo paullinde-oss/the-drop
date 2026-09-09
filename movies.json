@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-09-08T14:58:53.848Z",
+  "generatedAt": "2026-09-09T15:05:17.780Z",
   "count": 197,
   "movies": [
-    {
-      "id": 1241907,
-      "title": "The Housewife",
-      "releaseDate": "2026-09-10",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ben Shirinian",
-      "studioStr": "Wonder Street / NEON",
-      "prestige": true,
-      "imdbId": "tt31186307"
-    },
     {
       "id": 977942,
       "title": "The Uprising",
@@ -30,7 +18,7 @@
       "id": 1302904,
       "title": "Practical Magic 2",
       "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Susanne Bier",
@@ -39,10 +27,22 @@
       "imdbId": "tt32588798"
     },
     {
+      "id": 1318467,
+      "title": "The Last Kiss",
+      "releaseDate": "2026-09-15",
+      "poster": "https://image.tmdb.org/t/p/w92/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Yoko Okumura",
+      "studioStr": "Blumhouse Productions / Man in a Tree Productions",
+      "prestige": true,
+      "imdbId": "tt33253206"
+    },
+    {
       "id": 1465063,
       "title": "Forgotten Island",
       "releaseDate": "2026-09-16",
-      "poster": "https://image.tmdb.org/t/p/w92/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Januel Mercado, Joel Crawford",
@@ -85,18 +85,6 @@
       "studioStr": "Focus Features / Working Title Films",
       "prestige": true,
       "imdbId": "tt13609648"
-    },
-    {
-      "id": 1507877,
-      "title": "Another Day",
-      "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/uVEkYwPFNQUjdPMibPOGHR0fVcV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jeanne Herry",
-      "studioStr": "Chi-Fou-Mi Productions / Trésor Films",
-      "prestige": true,
-      "imdbId": "tt38584405"
     },
     {
       "id": 1750432,
@@ -258,7 +246,7 @@
       "id": 1381078,
       "title": "Love of Your Life",
       "releaseDate": "2026-10-14",
-      "poster": "https://image.tmdb.org/t/p/w92/rcVgv8l2QNRfFgpLcRTxREjXms8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/o7ZCmjeW59yujCcAJjjYSJRoZLe.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rachel Morrison",
@@ -315,6 +303,18 @@
       "imdbId": "tt27419420"
     },
     {
+      "id": 1765072,
+      "title": "You Can See Everything",
+      "releaseDate": "2026-10-16",
+      "poster": "https://image.tmdb.org/t/p/w92/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nathan Fielder, Lance Oppenheim",
+      "studioStr": "Blow Out Productions / To Be Formed",
+      "prestige": false,
+      "imdbId": "tt45368240"
+    },
+    {
       "id": 1561726,
       "title": "Masterplan",
       "releaseDate": "2026-10-16",
@@ -361,6 +361,18 @@
       "studioStr": "LAIKA",
       "prestige": true,
       "imdbId": "tt2056785"
+    },
+    {
+      "id": 1727734,
+      "title": "Ali G: Who Iz I?",
+      "releaseDate": "2026-10-23",
+      "poster": "https://image.tmdb.org/t/p/w92/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sacha Baron Cohen",
+      "studioStr": "Four by Two Films / Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt43655467"
     },
     {
       "id": 1084409,
@@ -453,7 +465,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -486,7 +498,7 @@
       "id": 1381071,
       "title": "Godzilla Minus Zero",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/xvf82pZhcoiRTktrRYXcgN1sZn6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/w5DCWT3YbURosfXPhJopU6enFAp.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Yamazaki",
@@ -625,18 +637,6 @@
       "studioStr": "Claussen+Putz Filmproduktion / StudioCanal",
       "prestige": true,
       "imdbId": "tt43632661"
-    },
-    {
-      "id": 1185542,
-      "title": "Agnes & Amir",
-      "releaseDate": "2026-11-19",
-      "poster": "https://image.tmdb.org/t/p/w92/9N9i5QcWnaH3kmMMeXDDU1e0hmV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Helena Hufnagel",
-      "studioStr": "Nordpolaris / StudioCanal",
-      "prestige": true,
-      "imdbId": "tt43598591"
     },
     {
       "id": 1300968,
@@ -879,18 +879,6 @@
       "imdbId": "tt37967547"
     },
     {
-      "id": 1170608,
-      "title": "Dune: Part Three",
-      "releaseDate": "2026-12-15",
-      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Denis Villeneuve",
-      "studioStr": "Legendary Pictures",
-      "prestige": true,
-      "imdbId": "tt31378509"
-    },
-    {
       "id": 940009,
       "title": "Ray Gunn",
       "releaseDate": "2026-12-18",
@@ -934,7 +922,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takahisa Zeze",
-      "studioStr": "TOHO",
+      "studioStr": "TOHO / AX-ON",
       "prestige": true,
       "imdbId": null
     },
@@ -1045,18 +1033,6 @@
       "studioStr": "87Eleven / Lionsgate",
       "prestige": true,
       "imdbId": "tt33295857"
-    },
-    {
-      "id": 1139422,
-      "title": "The Riders",
-      "releaseDate": "2027-02-04",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Edward Berger",
-      "studioStr": "Nine Hours / Scott Free Productions",
-      "prestige": true,
-      "imdbId": "tt9148786"
     },
     {
       "id": 1466228,
@@ -1335,6 +1311,18 @@
       "imdbId": "tt32659463"
     },
     {
+      "id": 1177369,
+      "title": "The Legend of Zelda",
+      "releaseDate": "2027-04-30",
+      "poster": "https://image.tmdb.org/t/p/w92/4XuaHHQ5eR9czPZPHcaaUjekx5w.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Wes Ball",
+      "studioStr": "Nintendo / Arad Productions",
+      "prestige": true,
+      "imdbId": "tt29873948"
+    },
+    {
       "id": 1559269,
       "title": "Everybody Wants to F*ck Me",
       "releaseDate": "2027-05-06",
@@ -1431,6 +1419,18 @@
       "imdbId": "tt28069611"
     },
     {
+      "id": 1482214,
+      "title": "Skeletons",
+      "releaseDate": "2027-06-04",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "JT Mollner",
+      "studioStr": "Bad Robot / Assemble Media",
+      "prestige": false,
+      "imdbId": "tt36972737"
+    },
+    {
       "id": 1458319,
       "title": "How to Train Your Dragon 2",
       "releaseDate": "2027-06-11",
@@ -1494,7 +1494,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/i3N9AKd9KbdrdvTVeXBjC8NIy7f.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
@@ -1833,7 +1833,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
