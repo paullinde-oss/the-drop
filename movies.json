@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T15:05:17.780Z",
-  "count": 197,
+  "generatedAt": "2026-09-10T14:50:58.613Z",
+  "count": 202,
   "movies": [
     {
       "id": 977942,
@@ -25,18 +25,6 @@
       "studioStr": "Di Novi Pictures / Warner Bros. Pictures",
       "prestige": true,
       "imdbId": "tt32588798"
-    },
-    {
-      "id": 1318467,
-      "title": "The Last Kiss",
-      "releaseDate": "2026-09-15",
-      "poster": "https://image.tmdb.org/t/p/w92/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Yoko Okumura",
-      "studioStr": "Blumhouse Productions / Man in a Tree Productions",
-      "prestige": true,
-      "imdbId": "tt33253206"
     },
     {
       "id": 1465063,
@@ -85,6 +73,18 @@
       "studioStr": "Focus Features / Working Title Films",
       "prestige": true,
       "imdbId": "tt13609648"
+    },
+    {
+      "id": 1507877,
+      "title": "Another Day",
+      "releaseDate": "2026-09-23",
+      "poster": "https://image.tmdb.org/t/p/w92/uVEkYwPFNQUjdPMibPOGHR0fVcV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jeanne Herry",
+      "studioStr": "Chi-Fou-Mi Productions / Trésor Films",
+      "prestige": true,
+      "imdbId": "tt38584405"
     },
     {
       "id": 1750432,
@@ -157,6 +157,18 @@
       "studioStr": "Sony Pictures Classics / Anonymous Content",
       "prestige": true,
       "imdbId": "tt39373342"
+    },
+    {
+      "id": 1381078,
+      "title": "Love of Your Life",
+      "releaseDate": "2026-10-07",
+      "poster": "https://image.tmdb.org/t/p/w92/o7ZCmjeW59yujCcAJjjYSJRoZLe.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Rachel Morrison",
+      "studioStr": "Amazon MGM Studios / Open Invite Entertainment",
+      "prestige": true,
+      "imdbId": "tt34384900"
     },
     {
       "id": 1148365,
@@ -243,18 +255,6 @@
       "imdbId": "tt6262770"
     },
     {
-      "id": 1381078,
-      "title": "Love of Your Life",
-      "releaseDate": "2026-10-14",
-      "poster": "https://image.tmdb.org/t/p/w92/o7ZCmjeW59yujCcAJjjYSJRoZLe.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Rachel Morrison",
-      "studioStr": "Amazon MGM Studios / Open Invite Entertainment",
-      "prestige": true,
-      "imdbId": "tt34384900"
-    },
-    {
       "id": 1623256,
       "title": "The Storm",
       "releaseDate": "2026-10-15",
@@ -303,16 +303,16 @@
       "imdbId": "tt27419420"
     },
     {
-      "id": 1765072,
-      "title": "You Can See Everything",
+      "id": 1687667,
+      "title": "Get Undressed",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/gqvNTLRwgQqp0FHQz5PvoyUbWmx.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Nathan Fielder, Lance Oppenheim",
-      "studioStr": "Blow Out Productions / To Be Formed",
-      "prestige": false,
-      "imdbId": "tt45368240"
+      "directorStr": "Seiji Chiba",
+      "studioStr": "Shochiku / North Cky",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1561726,
@@ -498,7 +498,7 @@
       "id": 1381071,
       "title": "Godzilla Minus Zero",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/w5DCWT3YbURosfXPhJopU6enFAp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Yamazaki",
@@ -730,7 +730,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Stéphane Brizé",
-      "studioStr": "Gaumont",
+      "studioStr": "Gaumont / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt41802342"
     },
@@ -891,6 +891,18 @@
       "imdbId": "tt18270542"
     },
     {
+      "id": 1170608,
+      "title": "Dune: Part Three",
+      "releaseDate": "2026-12-18",
+      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Denis Villeneuve",
+      "studioStr": "Legendary Pictures",
+      "prestige": true,
+      "imdbId": "tt31378509"
+    },
+    {
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
@@ -975,6 +987,18 @@
       "imdbId": null
     },
     {
+      "id": 1566727,
+      "title": "Zac Power",
+      "releaseDate": "2027-01-07",
+      "poster": "https://image.tmdb.org/t/p/w92/z64ZWd9vMKTCWpVH5EfPJBTDWnn.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alexs Stadermann, David Webster",
+      "studioStr": "Flying Bark Productions / Screen Australia",
+      "prestige": true,
+      "imdbId": "tt38681919"
+    },
+    {
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
@@ -1035,6 +1059,18 @@
       "imdbId": "tt33295857"
     },
     {
+      "id": 1739413,
+      "title": "In My Father's Room",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/bgapSeASBoacEvypu6lp7yIqubP.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Maha Harada",
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": "tt43718418"
+    },
+    {
       "id": 1466228,
       "title": "The Comeback King",
       "releaseDate": "2027-02-05",
@@ -1057,6 +1093,18 @@
       "studioStr": "20th Century Animation",
       "prestige": true,
       "imdbId": "tt34512981"
+    },
+    {
+      "id": 1694218,
+      "title": "Summer Of Fire",
+      "releaseDate": "2027-02-10",
+      "poster": "https://image.tmdb.org/t/p/w92/9ATlvj7yHgaDqptna0ZX7Xgh5ts.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "François Ozon",
+      "studioStr": "FOZ / France 2 Cinéma",
+      "prestige": true,
+      "imdbId": "tt43653638"
     },
     {
       "id": 1752217,
@@ -1287,18 +1335,6 @@
       "imdbId": "tt43609247"
     },
     {
-      "id": 1437882,
-      "title": "A Place in Hell",
-      "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Chloe Domont",
-      "studioStr": "T-Street / MRC",
-      "prestige": true,
-      "imdbId": "tt36931184"
-    },
-    {
       "id": 1306322,
       "title": "Spaceballs: The New One",
       "releaseDate": "2027-04-23",
@@ -1309,6 +1345,18 @@
       "studioStr": "Brooksfilms / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt32659463"
+    },
+    {
+      "id": 1437882,
+      "title": "A Place in Hell",
+      "releaseDate": "2027-04-23",
+      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Chloe Domont",
+      "studioStr": "T-Street / MRC",
+      "prestige": true,
+      "imdbId": "tt36931184"
     },
     {
       "id": 1177369,
@@ -1899,6 +1947,18 @@
       "imdbId": "tt41786209"
     },
     {
+      "id": 1683034,
+      "title": "John Doe",
+      "releaseDate": "2028-01-14",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Ayer",
+      "studioStr": "Miramax / Punch Palace Productions",
+      "prestige": true,
+      "imdbId": "tt42171078"
+    },
+    {
       "id": 1571245,
       "title": "Viva la Madness",
       "releaseDate": "2028-01-21",
@@ -2146,7 +2206,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jonathan Levine",
-      "studioStr": "Paramount Pictures / Jerry Bruckheimer Films",
+      "studioStr": "Paramount Pictures / TC Productions",
       "prestige": true,
       "imdbId": "tt34385341"
     },
