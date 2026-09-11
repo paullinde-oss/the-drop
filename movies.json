@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-09-10T14:50:58.613Z",
-  "count": 202,
+  "generatedAt": "2026-09-11T14:53:43.350Z",
+  "count": 204,
   "movies": [
-    {
-      "id": 977942,
-      "title": "The Uprising",
-      "releaseDate": "2026-09-10",
-      "poster": "https://image.tmdb.org/t/p/w92/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Paul Greengrass",
-      "studioStr": "Blumhouse Productions / Supernix",
-      "prestige": true,
-      "imdbId": "tt36983905"
-    },
     {
       "id": 1302904,
       "title": "Practical Magic 2",
@@ -25,6 +13,30 @@
       "studioStr": "Di Novi Pictures / Warner Bros. Pictures",
       "prestige": true,
       "imdbId": "tt32588798"
+    },
+    {
+      "id": 1477104,
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "releaseDate": "2026-09-12",
+      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Steve Cox, Matthew Walker",
+      "studioStr": "Aardman / StudioCanal",
+      "prestige": true,
+      "imdbId": "tt36841161"
+    },
+    {
+      "id": 1318467,
+      "title": "The Last Kiss",
+      "releaseDate": "2026-09-15",
+      "poster": "https://image.tmdb.org/t/p/w92/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Yoko Okumura",
+      "studioStr": "Blumhouse Productions / Man in a Tree Productions",
+      "prestige": true,
+      "imdbId": "tt33253206"
     },
     {
       "id": 1465063,
@@ -42,25 +54,13 @@
       "id": 1461432,
       "title": "Adult Supervision",
       "releaseDate": "2026-09-17",
-      "poster": "https://image.tmdb.org/t/p/w92/4v3uRZDrkhZRV3jjVF2496xUOAJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Alex Schulman",
       "studioStr": "Scanbox Production / Warner Bros. International Television Production Sweden",
       "prestige": true,
       "imdbId": "tt36462731"
-    },
-    {
-      "id": 1477104,
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "releaseDate": "2026-09-17",
-      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Steve Cox, Matthew Walker",
-      "studioStr": "Aardman / StudioCanal",
-      "prestige": true,
-      "imdbId": "tt36841161"
     },
     {
       "id": 1503762,
@@ -73,18 +73,6 @@
       "studioStr": "Focus Features / Working Title Films",
       "prestige": true,
       "imdbId": "tt13609648"
-    },
-    {
-      "id": 1507877,
-      "title": "Another Day",
-      "releaseDate": "2026-09-23",
-      "poster": "https://image.tmdb.org/t/p/w92/uVEkYwPFNQUjdPMibPOGHR0fVcV.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jeanne Herry",
-      "studioStr": "Chi-Fou-Mi Productions / Trésor Films",
-      "prestige": true,
-      "imdbId": "tt38584405"
     },
     {
       "id": 1750432,
@@ -144,7 +132,7 @@
       "directorStr": "Tiffany Sia",
       "studioStr": null,
       "prestige": false,
-      "imdbId": null
+      "imdbId": "tt44121917"
     },
     {
       "id": 1618090,
@@ -174,7 +162,7 @@
       "id": 1148365,
       "title": "Matchbox the Movie",
       "releaseDate": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w92/dR9sg6nwSBq7qpFJqk9znQ42rre.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Sam Hargrave",
@@ -198,7 +186,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -465,7 +453,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -669,7 +657,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/7Tgrk6RI6cyRFmmipU325WE3pht.jpg",
       "format": "streaming",
       "reRelease": false,
-      "directorStr": "Alyce Tzue, Priscilla Wong",
+      "directorStr": "Alyce Tzue",
       "studioStr": "Netflix Animation Studios / Paper Kite Productions",
       "prestige": true,
       "imdbId": "tt14413964"
@@ -726,7 +714,7 @@
       "id": 1430815,
       "title": "A Good Little Soldier",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/2Yisqk4i976FlMuUvWQrlvxC6RJ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Stéphane Brizé",
@@ -990,7 +978,7 @@
       "id": 1566727,
       "title": "Zac Power",
       "releaseDate": "2027-01-07",
-      "poster": "https://image.tmdb.org/t/p/w92/z64ZWd9vMKTCWpVH5EfPJBTDWnn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sFpeasJDDEPEHwXWFSNoPniIdu0.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Alexs Stadermann, David Webster",
@@ -1374,7 +1362,7 @@
       "id": 1559269,
       "title": "Everybody Wants to F*ck Me",
       "releaseDate": "2027-05-06",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jonathan Schey",
@@ -1755,6 +1743,18 @@
       "imdbId": "tt43674934"
     },
     {
+      "id": 1375187,
+      "title": "Dumas: Black Devil",
+      "releaseDate": "2027-10-13",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ladj Ly",
+      "studioStr": "Pathé / Chapter 2",
+      "prestige": false,
+      "imdbId": "tt34374211"
+    },
+    {
       "id": 1574840,
       "title": "The Mummy 4",
       "releaseDate": "2027-10-15",
@@ -1827,6 +1827,18 @@
       "imdbId": "tt14014196"
     },
     {
+      "id": 727389,
+      "title": "Seasons",
+      "releaseDate": "2027-11-12",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Drew Hancock",
+      "studioStr": "21 Laps Entertainment / Atomic Monster",
+      "prestige": true,
+      "imdbId": "tt12850068"
+    },
+    {
       "id": 1616347,
       "title": "Please",
       "releaseDate": "2027-11-18",
@@ -1881,7 +1893,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2173,6 +2185,18 @@
       "studioStr": "Universal Pictures / Dylan Clark Productions",
       "prestige": true,
       "imdbId": "tt36731244"
+    },
+    {
+      "id": 1710881,
+      "title": "Treasure Island",
+      "releaseDate": "2028-05-24",
+      "poster": "https://image.tmdb.org/t/p/w92/tB6KzYZDA9NwrNuWqi7sQry6fLM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ridley Scott",
+      "studioStr": "Scott Free Productions / Sony Pictures",
+      "prestige": true,
+      "imdbId": "tt43438831"
     },
     {
       "id": 1212489,
