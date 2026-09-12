@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-09-11T14:53:43.350Z",
-  "count": 204,
+  "generatedAt": "2026-09-12T13:57:34.493Z",
+  "count": 200,
   "movies": [
-    {
-      "id": 1302904,
-      "title": "Practical Magic 2",
-      "releaseDate": "2026-09-11",
-      "poster": "https://image.tmdb.org/t/p/w92/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Susanne Bier",
-      "studioStr": "Di Novi Pictures / Warner Bros. Pictures",
-      "prestige": true,
-      "imdbId": "tt32588798"
-    },
-    {
-      "id": 1477104,
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "releaseDate": "2026-09-12",
-      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Steve Cox, Matthew Walker",
-      "studioStr": "Aardman / StudioCanal",
-      "prestige": true,
-      "imdbId": "tt36841161"
-    },
     {
       "id": 1318467,
       "title": "The Last Kiss",
@@ -61,6 +37,18 @@
       "studioStr": "Scanbox Production / Warner Bros. International Television Production Sweden",
       "prestige": true,
       "imdbId": "tt36462731"
+    },
+    {
+      "id": 1477104,
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "releaseDate": "2026-09-17",
+      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Steve Cox, Matthew Walker",
+      "studioStr": "Aardman / StudioCanal",
+      "prestige": true,
+      "imdbId": "tt36841161"
     },
     {
       "id": 1503762,
@@ -453,7 +441,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -507,18 +495,6 @@
       "imdbId": "tt38686316"
     },
     {
-      "id": 891621,
-      "title": "Wild Horse Nine",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Martin McDonagh",
-      "studioStr": "Searchlight Pictures / Blueprint Pictures",
-      "prestige": true,
-      "imdbId": "tt15799564"
-    },
-    {
       "id": 1117898,
       "title": "The Cat in the Hat",
       "releaseDate": "2026-11-06",
@@ -531,10 +507,22 @@
       "imdbId": "tt2321555"
     },
     {
+      "id": 891621,
+      "title": "Wild Horse Nine",
+      "releaseDate": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Martin McDonagh",
+      "studioStr": "Searchlight Pictures / Blueprint Pictures",
+      "prestige": true,
+      "imdbId": "tt15799564"
+    },
+    {
       "id": 1697911,
       "title": "Drummer Boy",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/5zCDUxhJ4A1xk53FzAJDbPnfT31.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/gKvAXupChkftLy5YJodD4z9b3NR.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ben Smallbone, Joel Smallbone",
@@ -856,13 +844,13 @@
     },
     {
       "id": 1532610,
-      "title": "Ink",
+      "title": "INK",
       "releaseDate": "2026-12-11",
       "poster": "https://image.tmdb.org/t/p/w92/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Danny Boyle",
-      "studioStr": "StudioCanal UK / Media Res",
+      "studioStr": "Media Res / House Productions",
       "prestige": true,
       "imdbId": "tt37967547"
     },
@@ -1503,18 +1491,6 @@
       "imdbId": "tt20374502"
     },
     {
-      "id": 421892,
-      "title": "Shrek 5",
-      "releaseDate": "2027-06-30",
-      "poster": "https://image.tmdb.org/t/p/w92/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Walt Dohrn, Conrad Vernon",
-      "studioStr": "DreamWorks Animation",
-      "prestige": true,
-      "imdbId": "tt6113186"
-    },
-    {
       "id": 1760170,
       "title": "Rode to Ruin",
       "releaseDate": "2027-07-03",
@@ -1549,18 +1525,6 @@
       "studioStr": "Sony Pictures / Olive Bridge Entertainment",
       "prestige": true,
       "imdbId": "tt40424282"
-    },
-    {
-      "id": 487560,
-      "title": "Last Friday",
-      "releaseDate": "2027-07-16",
-      "poster": "https://image.tmdb.org/t/p/w92/eGgnsFXAmDXdxdTvw4fntX8dGCM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Cube Vision / New Line Cinema",
-      "prestige": true,
-      "imdbId": "tt6914708"
     },
     {
       "id": 1461519,
@@ -1743,18 +1707,6 @@
       "imdbId": "tt43674934"
     },
     {
-      "id": 1375187,
-      "title": "Dumas: Black Devil",
-      "releaseDate": "2027-10-13",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ladj Ly",
-      "studioStr": "Pathé / Chapter 2",
-      "prestige": false,
-      "imdbId": "tt34374211"
-    },
-    {
       "id": 1574840,
       "title": "The Mummy 4",
       "releaseDate": "2027-10-15",
@@ -1893,7 +1845,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
