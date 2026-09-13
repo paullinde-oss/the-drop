@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:57:34.493Z",
+  "generatedAt": "2026-09-13T14:53:30.230Z",
   "count": 200,
   "movies": [
     {
@@ -37,18 +37,6 @@
       "studioStr": "Scanbox Production / Warner Bros. International Television Production Sweden",
       "prestige": true,
       "imdbId": "tt36462731"
-    },
-    {
-      "id": 1477104,
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "releaseDate": "2026-09-17",
-      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Steve Cox, Matthew Walker",
-      "studioStr": "Aardman / StudioCanal",
-      "prestige": true,
-      "imdbId": "tt36841161"
     },
     {
       "id": 1503762,
@@ -441,7 +429,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -726,7 +714,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -1170,7 +1158,7 @@
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/zMD6qOYZYdhJLidlHdhD5a4GtCN.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mike Flanagan",
@@ -1350,7 +1338,7 @@
       "id": 1559269,
       "title": "Everybody Wants to F*ck Me",
       "releaseDate": "2027-05-06",
-      "poster": "https://image.tmdb.org/t/p/w92/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tPrt7qLZTbEKdD2ts7ZTZy44Oit.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jonathan Schey",
@@ -1489,6 +1477,18 @@
       "studioStr": "Warner Bros. Pictures / LuckyChap Entertainment",
       "prestige": true,
       "imdbId": "tt20374502"
+    },
+    {
+      "id": 421892,
+      "title": "Shrek 5",
+      "releaseDate": "2027-06-30",
+      "poster": "https://image.tmdb.org/t/p/w92/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Walt Dohrn, Conrad Vernon",
+      "studioStr": "DreamWorks Animation",
+      "prestige": true,
+      "imdbId": "tt6113186"
     },
     {
       "id": 1760170,
