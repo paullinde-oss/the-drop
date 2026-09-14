@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T14:53:30.230Z",
-  "count": 200,
+  "generatedAt": "2026-09-14T16:51:17.234Z",
+  "count": 199,
   "movies": [
     {
       "id": 1318467,
@@ -832,7 +832,7 @@
     },
     {
       "id": 1532610,
-      "title": "INK",
+      "title": "Ink",
       "releaseDate": "2026-12-11",
       "poster": "https://image.tmdb.org/t/p/w92/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
       "format": "theatrical",
@@ -870,7 +870,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -916,9 +916,9 @@
     },
     {
       "id": 1372443,
-      "title": "Mr. Irrelevant: The John Tuggle Story",
+      "title": "Mr. Irrelevant",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/bmiv4jAEDP1XbUaU4UC4POZIaIs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/7tLnRHfRieR7gwkmeM7lhJurt4x.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jonathan Levine",
@@ -1021,18 +1021,6 @@
       "studioStr": "87Eleven / Lionsgate",
       "prestige": true,
       "imdbId": "tt33295857"
-    },
-    {
-      "id": 1739413,
-      "title": "In My Father's Room",
-      "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/bgapSeASBoacEvypu6lp7yIqubP.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Maha Harada",
-      "studioStr": null,
-      "prestige": false,
-      "imdbId": "tt43718418"
     },
     {
       "id": 1466228,
