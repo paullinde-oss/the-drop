@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T16:51:17.234Z",
-  "count": 199,
+  "generatedAt": "2026-09-15T15:30:06.521Z",
+  "count": 200,
   "movies": [
     {
       "id": 1318467,
@@ -15,18 +15,6 @@
       "imdbId": "tt33253206"
     },
     {
-      "id": 1465063,
-      "title": "Forgotten Island",
-      "releaseDate": "2026-09-16",
-      "poster": "https://image.tmdb.org/t/p/w92/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Januel Mercado, Joel Crawford",
-      "studioStr": "DreamWorks Animation",
-      "prestige": true,
-      "imdbId": "tt36583977"
-    },
-    {
       "id": 1461432,
       "title": "Adult Supervision",
       "releaseDate": "2026-09-17",
@@ -37,6 +25,18 @@
       "studioStr": "Scanbox Production / Warner Bros. International Television Production Sweden",
       "prestige": true,
       "imdbId": "tt36462731"
+    },
+    {
+      "id": 1477104,
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "releaseDate": "2026-09-17",
+      "poster": "https://image.tmdb.org/t/p/w92/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Steve Cox, Matthew Walker",
+      "studioStr": "Aardman / StudioCanal",
+      "prestige": true,
+      "imdbId": "tt36841161"
     },
     {
       "id": 1503762,
@@ -210,7 +210,7 @@
       "id": 1288069,
       "title": "Tenzing",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/dX60ICPem0yTmAsxCwtzCsorYPC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/crTBjs2iQFnHgYeF1KHFV03kbgn.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Jennifer Peedom",
@@ -291,6 +291,18 @@
       "imdbId": "tt38672588"
     },
     {
+      "id": 940009,
+      "title": "Ray Gunn",
+      "releaseDate": "2026-10-17",
+      "poster": "https://image.tmdb.org/t/p/w92/qXexEAo999wlEp5rMsFnVSRaTSM.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Brad Bird",
+      "studioStr": "Skydance Animation / Cinesite Animation",
+      "prestige": true,
+      "imdbId": "tt18270542"
+    },
+    {
       "id": 1729134,
       "title": "Holiday Touchdown: A Bears Love Story",
       "releaseDate": "2026-10-17",
@@ -366,7 +378,7 @@
       "id": 1643567,
       "title": "Ghosts: The Possession of Button House",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/gKrq4tpyIHP2MNU4E1l7lb31PDk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/loK28qvuw0O5TbhO1hMAiEYKIMz.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Simon Hynd",
@@ -471,18 +483,6 @@
       "imdbId": "tt34384661"
     },
     {
-      "id": 1562642,
-      "title": "Ghost Soldier",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "William Eubank",
-      "studioStr": "Columbia Pictures / Mandalay Pictures",
-      "prestige": true,
-      "imdbId": "tt38686316"
-    },
-    {
       "id": 1117898,
       "title": "The Cat in the Hat",
       "releaseDate": "2026-11-06",
@@ -510,7 +510,7 @@
       "id": 1697911,
       "title": "Drummer Boy",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/gKvAXupChkftLy5YJodD4z9b3NR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ben Smallbone, Joel Smallbone",
@@ -529,6 +529,18 @@
       "studioStr": "Permut Presentations / Gravity Squared Entertainment",
       "prestige": true,
       "imdbId": "tt15095848"
+    },
+    {
+      "id": 1562642,
+      "title": "Ghost Soldier",
+      "releaseDate": "2026-11-11",
+      "poster": "https://image.tmdb.org/t/p/w92/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "William Eubank",
+      "studioStr": "Columbia Pictures / Mandalay Pictures",
+      "prestige": true,
+      "imdbId": "tt38686316"
     },
     {
       "id": 1396056,
@@ -841,18 +853,6 @@
       "studioStr": "Media Res / House Productions",
       "prestige": true,
       "imdbId": "tt37967547"
-    },
-    {
-      "id": 940009,
-      "title": "Ray Gunn",
-      "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/qXexEAo999wlEp5rMsFnVSRaTSM.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Brad Bird",
-      "studioStr": "Skydance Animation / Cinesite Animation",
-      "prestige": true,
-      "imdbId": "tt18270542"
     },
     {
       "id": 1170608,
@@ -1600,7 +1600,7 @@
     },
     {
       "id": 1554353,
-      "title": "The Simpsons Movie 2",
+      "title": "The New Simpsons Movie",
       "releaseDate": "2027-09-03",
       "poster": "https://image.tmdb.org/t/p/w92/iG1pMw9ufzXXQDTguT2okaZY3xe.jpg",
       "format": "theatrical",
@@ -1833,7 +1833,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2113,6 +2113,18 @@
       "studioStr": "Practical Pictures / New Line Cinema",
       "prestige": true,
       "imdbId": "tt37855651"
+    },
+    {
+      "id": 1107417,
+      "title": "One Italian Summer",
+      "releaseDate": "2028-05-12",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Harry Bradbeer",
+      "studioStr": "Paramount Pictures / TFC Productions",
+      "prestige": true,
+      "imdbId": "tt27371816"
     },
     {
       "id": 1467853,
