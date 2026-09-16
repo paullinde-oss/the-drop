@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-09-15T15:30:06.521Z",
-  "count": 200,
+  "generatedAt": "2026-09-16T15:23:15.594Z",
+  "count": 198,
   "movies": [
-    {
-      "id": 1318467,
-      "title": "The Last Kiss",
-      "releaseDate": "2026-09-15",
-      "poster": "https://image.tmdb.org/t/p/w92/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Yoko Okumura",
-      "studioStr": "Blumhouse Productions / Man in a Tree Productions",
-      "prestige": true,
-      "imdbId": "tt33253206"
-    },
     {
       "id": 1461432,
       "title": "Adult Supervision",
@@ -46,7 +34,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Georgia Oakley",
-      "studioStr": "Focus Features / Working Title Films",
+      "studioStr": "Focus Features / Working Title",
       "prestige": true,
       "imdbId": "tt13609648"
     },
@@ -73,18 +61,6 @@
       "studioStr": "Warner Bros. Pictures / Legendary Pictures",
       "prestige": true,
       "imdbId": "tt31450459"
-    },
-    {
-      "id": 1633476,
-      "title": "Parpadea",
-      "releaseDate": "2026-10-01",
-      "poster": "https://image.tmdb.org/t/p/w92/A2jIJRUG1ImWBfE1k5BtCQl4WTI.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sofía Martínez",
-      "studioStr": "BBC Studios / Sony Pictures",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1706689,
@@ -150,7 +126,7 @@
       "id": 1400837,
       "title": "Other Mommy",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rob Savage",
@@ -162,7 +138,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -210,7 +186,7 @@
       "id": 1288069,
       "title": "Tenzing",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/crTBjs2iQFnHgYeF1KHFV03kbgn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Jennifer Peedom",
@@ -330,7 +306,7 @@
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -445,6 +421,18 @@
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
+    },
+    {
+      "id": 1654940,
+      "title": "One Year to Live, Buy a Man",
+      "releaseDate": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Hiroki Kazama",
+      "studioStr": "AOI Pro. / Netflix",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1481630,
@@ -570,7 +558,7 @@
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nmB0dUFEBHkXgJYnkybzxyRtpvI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Leitch",
@@ -630,7 +618,7 @@
       "id": 1599230,
       "title": "Elsinore",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/oX1wG1oO5kHnI8T5oxybjpR3prS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sWLwzqjaTDtAjK01erubswLkQwl.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Simon Stone",
@@ -870,7 +858,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -966,7 +954,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/nyIYYYwJmGszmBjAsegoLDszxWJ.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -1419,18 +1407,6 @@
       "imdbId": "tt28069611"
     },
     {
-      "id": 1482214,
-      "title": "Skeletons",
-      "releaseDate": "2027-06-04",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "JT Mollner",
-      "studioStr": "Bad Robot / Assemble Media",
-      "prestige": false,
-      "imdbId": "tt36972737"
-    },
-    {
       "id": 1458319,
       "title": "How to Train Your Dragon 2",
       "releaseDate": "2027-06-11",
@@ -1833,7 +1809,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1885,6 +1861,18 @@
       "studioStr": "Amazon MGM Studios",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1500229,
+      "title": "Alone at Dawn",
+      "releaseDate": "2027-12-25",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ron Howard",
+      "studioStr": "Imagine Entertainment / Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt8483914"
     },
     {
       "id": 1671441,
@@ -2137,18 +2125,6 @@
       "studioStr": "Universal Pictures / Dylan Clark Productions",
       "prestige": true,
       "imdbId": "tt36731244"
-    },
-    {
-      "id": 1710881,
-      "title": "Treasure Island",
-      "releaseDate": "2028-05-24",
-      "poster": "https://image.tmdb.org/t/p/w92/tB6KzYZDA9NwrNuWqi7sQry6fLM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ridley Scott",
-      "studioStr": "Scott Free Productions / Sony Pictures",
-      "prestige": true,
-      "imdbId": "tt43438831"
     },
     {
       "id": 1212489,
