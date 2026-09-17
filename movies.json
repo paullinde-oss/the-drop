@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T15:23:15.594Z",
-  "count": 198,
+  "generatedAt": "2026-09-17T15:30:54.296Z",
+  "count": 196,
   "movies": [
     {
       "id": 1461432,
@@ -375,30 +375,6 @@
       "imdbId": "tt36753615"
     },
     {
-      "id": 1294189,
-      "title": "The Mongoose",
-      "releaseDate": "2026-10-30",
-      "poster": "https://image.tmdb.org/t/p/w92/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Mark Vanselow",
-      "studioStr": "Code Entertainment / The Solution",
-      "prestige": false,
-      "imdbId": "tt13611778"
-    },
-    {
-      "id": 1753079,
-      "title": "National Theatre at Home: Pride",
-      "releaseDate": "2026-11-01",
-      "poster": "https://image.tmdb.org/t/p/w92/thpTSV0n3SX6oRUZHr96H0Wyf2t.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Matthew Warchus",
-      "studioStr": "National Theatre / P&P Productions",
-      "prestige": true,
-      "imdbId": "tt44568708"
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -432,7 +408,7 @@
       "directorStr": "Hiroki Kazama",
       "studioStr": "AOI Pro. / Netflix",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt39400541"
     },
     {
       "id": 1481630,
@@ -630,7 +606,7 @@
       "id": 1595124,
       "title": "Steps",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/7Tgrk6RI6cyRFmmipU325WE3pht.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pu8EfvkLH8LirRTHpj3VNTIVXJH.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Alyce Tzue",
@@ -898,7 +874,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Robert Eggers",
-      "studioStr": "Working Title Films / Maiden Voyage Pictures",
+      "studioStr": "Working Title / Maiden Voyage Pictures",
       "prestige": true,
       "imdbId": "tt35514120"
     },
