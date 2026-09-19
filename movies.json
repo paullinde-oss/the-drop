@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:52:44.337Z",
+  "generatedAt": "2026-09-19T14:13:41.698Z",
   "count": 194,
   "movies": [
     {
@@ -85,6 +85,18 @@
       "studioStr": "Amazon MGM Studios / Open Invite Entertainment",
       "prestige": true,
       "imdbId": "tt34384900"
+    },
+    {
+      "id": 1773508,
+      "title": "Unknown Author",
+      "releaseDate": "2026-10-08",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Daniel Wierman, Paulo Menezes",
+      "studioStr": "B_RN Criações Culturais / Candombá Filmes",
+      "prestige": false,
+      "imdbId": null
     },
     {
       "id": 1148365,
@@ -210,7 +222,7 @@
       "id": 1153576,
       "title": "Street Fighter",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kitao Sakurai",
@@ -315,42 +327,6 @@
       "imdbId": "tt14129116"
     },
     {
-      "id": 1689329,
-      "title": "Lions in Winter",
-      "releaseDate": "2026-10-23",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Albert Pintó",
-      "studioStr": "RTVE / Crea SGR",
-      "prestige": true,
-      "imdbId": "tt39583295"
-    },
-    {
-      "id": 1643567,
-      "title": "Ghosts: The Possession of Button House",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/loK28qvuw0O5TbhO1hMAiEYKIMz.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Simon Hynd",
-      "studioStr": "BBC Film / BBC Studios",
-      "prestige": true,
-      "imdbId": "tt40311603"
-    },
-    {
-      "id": 1473439,
-      "title": "Bad Lieutenant: Tokyo",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/kE4xwNN2aKLe8thnTH4EJbzc1JO.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takashi Miike",
-      "studioStr": "Pressman Film / Nippon Television Network Corporation",
-      "prestige": true,
-      "imdbId": "tt36753615"
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -369,7 +345,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -462,7 +438,7 @@
       "id": 1050981,
       "title": "Being Heumann",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/bPlNdvgyjRUyK6sfms9hGh3Avpa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sp5lI7OwRRCjr0sPUxccyv1ZsGG.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Sian Heder",
@@ -474,7 +450,7 @@
       "id": 1562642,
       "title": "Ghost Soldier",
       "releaseDate": "2026-11-11",
-      "poster": "https://image.tmdb.org/t/p/w92/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "William Eubank",
@@ -589,6 +565,18 @@
       "studioStr": "Netflix Animation Studios / Paper Kite Productions",
       "prestige": true,
       "imdbId": "tt14413964"
+    },
+    {
+      "id": 1568060,
+      "title": "Perfect Liars",
+      "releaseDate": "2026-11-20",
+      "poster": "https://image.tmdb.org/t/p/w92/dej3qkY0uBE9V4HJlSsfgAEI7s7.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jesús Colmenar",
+      "studioStr": "Federation Spain / Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt18351090"
     },
     {
       "id": 1280115,
@@ -1443,6 +1431,18 @@
       "imdbId": "tt40424282"
     },
     {
+      "id": 1327717,
+      "title": "Crawl 2",
+      "releaseDate": "2027-07-16",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alexandre Aja",
+      "studioStr": "Raimi Productions / Paramount Pictures",
+      "prestige": true,
+      "imdbId": "tt33378087"
+    },
+    {
       "id": 1461519,
       "title": "A Minecraft Movie Squared",
       "releaseDate": "2027-07-23",
@@ -1614,7 +1614,7 @@
       "id": 1615938,
       "title": "The Haunting of Hotel Transylvania",
       "releaseDate": "2027-10-08",
-      "poster": "https://image.tmdb.org/t/p/w92/uZcB6w6tph9P4nEw2iRXR6fDZga.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6tZnYPMsRG25A4EdqkuTODNRPMT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Alan Hawkins, Jennifer Kluska",
@@ -1761,7 +1761,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1877,8 +1877,8 @@
     {
       "id": 1625381,
       "title": "Heart Eyes 2",
-      "releaseDate": "2028-02-11",
-      "poster": null,
+      "releaseDate": "2028-02-04",
+      "poster": "https://image.tmdb.org/t/p/w92/sGV1iNinY0hkeHEwKhOxLzaxT3Z.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Josh Ruben",
