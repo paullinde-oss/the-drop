@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T14:13:41.698Z",
-  "count": 194,
+  "generatedAt": "2026-09-20T14:35:00.252Z",
+  "count": 196,
   "movies": [
     {
       "id": 1503762,
@@ -183,6 +183,18 @@
       "imdbId": "tt6262770"
     },
     {
+      "id": 1774182,
+      "title": "VisionQuest",
+      "releaseDate": "2026-10-14",
+      "poster": "https://image.tmdb.org/t/p/w92/ld0GF8nUZr8DWPYfAYXRhxhOjmk.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Christopher J. Byrne, Gandja Monteiro, Vincenzo Natali, Terry Matalas",
+      "studioStr": "Marvel Studios",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1623256,
       "title": "The Storm",
       "releaseDate": "2026-10-15",
@@ -315,18 +327,6 @@
       "imdbId": "tt43655467"
     },
     {
-      "id": 1084409,
-      "title": "A Talent for Murder",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Anton Corbijn",
-      "studioStr": "Lunar Pictures / Lucky Red",
-      "prestige": true,
-      "imdbId": "tt14129116"
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -345,7 +345,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -571,7 +571,7 @@
       "title": "Perfect Liars",
       "releaseDate": "2026-11-20",
       "poster": "https://image.tmdb.org/t/p/w92/dej3qkY0uBE9V4HJlSsfgAEI7s7.jpg",
-      "format": "theatrical",
+      "format": "streaming",
       "reRelease": false,
       "directorStr": "Jesús Colmenar",
       "studioStr": "Federation Spain / Amazon MGM Studios",
@@ -759,18 +759,6 @@
       "imdbId": "tt34491649"
     },
     {
-      "id": 1566920,
-      "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
-      "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/tDFTMv5XT50WpVRWJsGKWslz6LG.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Norihiro Naganuma",
-      "studioStr": "TOHO animation STUDIO / OLM",
-      "prestige": true,
-      "imdbId": "tt39110207"
-    },
-    {
       "id": 1532610,
       "title": "INK",
       "releaseDate": "2026-12-11",
@@ -781,6 +769,30 @@
       "studioStr": "Media Res / House Productions",
       "prestige": true,
       "imdbId": "tt37967547"
+    },
+    {
+      "id": 1391239,
+      "title": "The Debut",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jesse Eisenberg",
+      "studioStr": "Topic Studios / Fruit Tree",
+      "prestige": true,
+      "imdbId": "tt34718200"
+    },
+    {
+      "id": 1566920,
+      "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/tDFTMv5XT50WpVRWJsGKWslz6LG.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Norihiro Naganuma",
+      "studioStr": "TOHO animation STUDIO / OLM",
+      "prestige": true,
+      "imdbId": "tt39110207"
     },
     {
       "id": 1170608,
@@ -913,6 +925,18 @@
       "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
       "prestige": true,
       "imdbId": "tt6779038"
+    },
+    {
+      "id": 1753605,
+      "title": "The Tiger and Her Wings the Movie",
+      "releaseDate": "2027-01-15",
+      "poster": "https://image.tmdb.org/t/p/w92/mRg5WCLGXJ1hsBRIyi8r4Si7H2k.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "TOHO",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1115030,
@@ -1761,7 +1785,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
