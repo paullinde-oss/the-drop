@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T14:35:00.252Z",
-  "count": 196,
+  "generatedAt": "2026-09-21T16:52:41.351Z",
+  "count": 194,
   "movies": [
     {
       "id": 1503762,
@@ -114,7 +114,7 @@
       "id": 1400837,
       "title": "Other Mommy",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mH3eovbLEK38DmVZ4nHSORpzuVI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rob Savage",
@@ -181,18 +181,6 @@
       "studioStr": "Cross City Films / See-Saw Films",
       "prestige": true,
       "imdbId": "tt6262770"
-    },
-    {
-      "id": 1774182,
-      "title": "VisionQuest",
-      "releaseDate": "2026-10-14",
-      "poster": "https://image.tmdb.org/t/p/w92/ld0GF8nUZr8DWPYfAYXRhxhOjmk.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Christopher J. Byrne, Gandja Monteiro, Vincenzo Natali, Terry Matalas",
-      "studioStr": "Marvel Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1623256,
@@ -291,6 +279,18 @@
       "imdbId": "tt43662087"
     },
     {
+      "id": 1430815,
+      "title": "A Good Little Soldier",
+      "releaseDate": "2026-10-18",
+      "poster": "https://image.tmdb.org/t/p/w92/8f44DSQtdo5VBZWLrAuJt4Sp5us.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Stéphane Brizé",
+      "studioStr": "Gaumont / France 3 Cinéma",
+      "prestige": true,
+      "imdbId": "tt41802342"
+    },
+    {
       "id": 1400940,
       "title": "Clayface",
       "releaseDate": "2026-10-23",
@@ -313,18 +313,6 @@
       "studioStr": "LAIKA",
       "prestige": true,
       "imdbId": "tt2056785"
-    },
-    {
-      "id": 1727734,
-      "title": "Ali G: Who Iz I?",
-      "releaseDate": "2026-10-23",
-      "poster": "https://image.tmdb.org/t/p/w92/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sacha Baron Cohen",
-      "studioStr": "Four by Two Films / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt43655467"
     },
     {
       "id": 1687303,
@@ -570,7 +558,7 @@
       "id": 1568060,
       "title": "Perfect Liars",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/dej3qkY0uBE9V4HJlSsfgAEI7s7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6bQ0YqBV61wlBHArIyksxs0FoT6.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Jesús Colmenar",
@@ -627,18 +615,6 @@
       "imdbId": "tt17055444"
     },
     {
-      "id": 1430815,
-      "title": "A Good Little Soldier",
-      "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/8f44DSQtdo5VBZWLrAuJt4Sp5us.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Stéphane Brizé",
-      "studioStr": "Gaumont / France 3 Cinéma",
-      "prestige": true,
-      "imdbId": "tt41802342"
-    },
-    {
       "id": 1400336,
       "title": "Focker-in-Law",
       "releaseDate": "2026-11-25",
@@ -652,7 +628,7 @@
     },
     {
       "id": 1457866,
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "title": "The Further Mis-Adventures of Cliff Booth",
       "releaseDate": "2026-11-26",
       "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
       "format": "streaming",
@@ -933,7 +909,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/mRg5WCLGXJ1hsBRIyi8r4Si7H2k.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
+      "directorStr": "Nagikawa Yoshirou",
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": null
