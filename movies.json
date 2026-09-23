@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:27:36.009Z",
+  "generatedAt": "2026-09-23T15:23:44.935Z",
   "count": 194,
   "movies": [
     {
@@ -87,6 +87,18 @@
       "imdbId": null
     },
     {
+      "id": 1447963,
+      "title": "Found Alive",
+      "releaseDate": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w92/oMHU1fZNyo3vyHm2RQ2HdYi4olz.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Carlota Pereda",
+      "studioStr": "XYZ Films / IPR.VC",
+      "prestige": true,
+      "imdbId": "tt4864632"
+    },
+    {
       "id": 1148365,
       "title": "Matchbox the Movie",
       "releaseDate": "2026-10-08",
@@ -126,7 +138,7 @@
       "id": 1669915,
       "title": "Angel and the Badman",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/igrWgzlxwHLzuNUrL4agCNmRfDi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Julio Quintana",
@@ -210,7 +222,7 @@
       "id": 1153576,
       "title": "Street Fighter",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kitao Sakurai",
@@ -234,7 +246,7 @@
       "id": 1561726,
       "title": "Masterplan",
       "releaseDate": "2026-10-16",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/3x3AfF0qVwSUDDciTaNKcPHZUN8.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Thomas Vincent",
@@ -303,6 +315,18 @@
       "imdbId": "tt2056785"
     },
     {
+      "id": 891621,
+      "title": "Wild Horse Nine",
+      "releaseDate": "2026-10-30",
+      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Martin McDonagh",
+      "studioStr": "Searchlight Pictures / Blueprint Pictures",
+      "prestige": true,
+      "imdbId": "tt15799564"
+    },
+    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -321,7 +345,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -385,18 +409,6 @@
       "studioStr": "DNEG / Dr. Seuss Enterprises",
       "prestige": true,
       "imdbId": "tt2321555"
-    },
-    {
-      "id": 891621,
-      "title": "Wild Horse Nine",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Martin McDonagh",
-      "studioStr": "Searchlight Pictures / Blueprint Pictures",
-      "prestige": true,
-      "imdbId": "tt15799564"
     },
     {
       "id": 1697911,
@@ -474,7 +486,7 @@
       "id": 1737072,
       "title": "Noroi no Smartphone",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/zk66AyIitRdjrUfGiw3jiTsVsBP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qryNJvosIIaltiMQleHPZtCoI1l.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kan Yamamoto",
@@ -510,7 +522,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hDDBRwPOIztAhawTjWWsEA7rDis.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -618,7 +630,7 @@
       "id": 1457866,
       "title": "The Further Mis-Adventures of Cliff Booth",
       "releaseDate": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -1141,18 +1153,6 @@
       "studioStr": "Lionsgate / Thunder Road",
       "prestige": true,
       "imdbId": "tt18795088"
-    },
-    {
-      "id": 1759839,
-      "title": "Over The Hedge 2",
-      "releaseDate": "2027-03-26",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "DreamWorks Animation",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1749570,
@@ -1761,7 +1761,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
