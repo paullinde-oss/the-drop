@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T15:23:44.935Z",
-  "count": 194,
+  "generatedAt": "2026-09-24T15:47:21.308Z",
+  "count": 195,
   "movies": [
     {
       "id": 1750432,
@@ -222,7 +222,7 @@
       "id": 1153576,
       "title": "Street Fighter",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kitao Sakurai",
@@ -241,42 +241,6 @@
       "studioStr": "Shochiku / North Cky",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1561726,
-      "title": "Masterplan",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/3x3AfF0qVwSUDDciTaNKcPHZUN8.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Thomas Vincent",
-      "studioStr": "Amazon MGM Studios / Gaumont",
-      "prestige": true,
-      "imdbId": "tt38672588"
-    },
-    {
-      "id": 940009,
-      "title": "Ray Gunn",
-      "releaseDate": "2026-10-17",
-      "poster": "https://image.tmdb.org/t/p/w92/qXexEAo999wlEp5rMsFnVSRaTSM.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Brad Bird",
-      "studioStr": "Skydance Animation / Cinesite Animation",
-      "prestige": true,
-      "imdbId": "tt18270542"
-    },
-    {
-      "id": 1729134,
-      "title": "Holiday Touchdown: A Bears Love Story",
-      "releaseDate": "2026-10-17",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Dustin Rikert",
-      "studioStr": "Skydance Sports / Synthetic Cinema International",
-      "prestige": true,
-      "imdbId": "tt43662087"
     },
     {
       "id": 1430815,
@@ -315,18 +279,6 @@
       "imdbId": "tt2056785"
     },
     {
-      "id": 891621,
-      "title": "Wild Horse Nine",
-      "releaseDate": "2026-10-30",
-      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Martin McDonagh",
-      "studioStr": "Searchlight Pictures / Blueprint Pictures",
-      "prestige": true,
-      "imdbId": "tt15799564"
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Disappears",
       "releaseDate": "2026-11-03",
@@ -345,7 +297,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -409,6 +361,18 @@
       "studioStr": "DNEG / Dr. Seuss Enterprises",
       "prestige": true,
       "imdbId": "tt2321555"
+    },
+    {
+      "id": 891621,
+      "title": "Wild Horse Nine",
+      "releaseDate": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Martin McDonagh",
+      "studioStr": "Searchlight Pictures / Blueprint Pictures",
+      "prestige": true,
+      "imdbId": "tt15799564"
     },
     {
       "id": 1697911,
@@ -498,7 +462,7 @@
       "id": 1131943,
       "title": "Madden",
       "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/ivqI1eJaY6SwyEqqfEgb4BUB6et.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/xT1F7A6prtLdoCo5MjVQppzvh9j.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "David O. Russell",
@@ -517,6 +481,18 @@
       "studioStr": "Claussen+Putz Filmproduktion / StudioCanal",
       "prestige": true,
       "imdbId": "tt43632661"
+    },
+    {
+      "id": 1587351,
+      "title": "Canned Heat",
+      "releaseDate": "2026-11-19",
+      "poster": "https://image.tmdb.org/t/p/w92/sfisKhq7gMadGapvyj6T3sj4zE6.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Santiago Dellape",
+      "studioStr": "Gancho de Nuvem / A Fábrica",
+      "prestige": true,
+      "imdbId": "tt40423349"
     },
     {
       "id": 1300968,
@@ -628,7 +604,7 @@
     },
     {
       "id": 1457866,
-      "title": "The Further Mis-Adventures of Cliff Booth",
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-26",
       "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
       "format": "streaming",
@@ -709,6 +685,30 @@
       "studioStr": "Future Artists Entertainment / Lionsgate",
       "prestige": true,
       "imdbId": "tt29634374"
+    },
+    {
+      "id": 940009,
+      "title": "Ray Gunn",
+      "releaseDate": "2026-12-04",
+      "poster": "https://image.tmdb.org/t/p/w92/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Brad Bird",
+      "studioStr": "Skydance Animation / Netflix Animation Studios",
+      "prestige": true,
+      "imdbId": "tt18270542"
+    },
+    {
+      "id": 1519780,
+      "title": "Diary of a Wimpy Kid: The Getaway",
+      "releaseDate": "2026-12-04",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Matt Danner",
+      "studioStr": "Bardel Entertainment / Walt Disney Pictures",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1421967,
@@ -961,6 +961,18 @@
       "studioStr": "87Eleven / Lionsgate",
       "prestige": true,
       "imdbId": "tt33295857"
+    },
+    {
+      "id": 1442761,
+      "title": "Slayground",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/85JcCat1n2fizmf5fgAJTn5n49s.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jeremy Saulnier",
+      "studioStr": "A24 / Niteowl Films",
+      "prestige": true,
+      "imdbId": "tt37360759"
     },
     {
       "id": 1466228,
@@ -1386,7 +1398,7 @@
       "id": 421892,
       "title": "Shrek 5",
       "releaseDate": "2027-06-30",
-      "poster": "https://image.tmdb.org/t/p/w92/zVGvsXptUWd1PgptipLNoIQYytW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/m9jLiemA7t2umlXKptDwtIUHU8l.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Walt Dohrn, Conrad Vernon",
@@ -1761,7 +1773,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2151,18 +2163,6 @@
       "imdbId": "tt43619974"
     },
     {
-      "id": 1364797,
-      "title": "Dynamic Duo",
-      "releaseDate": "2028-06-30",
-      "poster": "https://image.tmdb.org/t/p/w92/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Arthur Mintz",
-      "studioStr": "DC Studios / 6th & Idaho Motion Picture Company",
-      "prestige": true,
-      "imdbId": "tt33549695"
-    },
-    {
       "id": 615127,
       "title": "Hello Kitty",
       "releaseDate": "2028-07-21",
@@ -2209,6 +2209,18 @@
       "studioStr": "New Line Cinema / Subconscious",
       "prestige": true,
       "imdbId": "tt38487331"
+    },
+    {
+      "id": 1364797,
+      "title": "Dynamic Duo",
+      "releaseDate": "2028-09-22",
+      "poster": "https://image.tmdb.org/t/p/w92/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Arthur Mintz",
+      "studioStr": "DC Studios / 6th & Idaho Motion Picture Company",
+      "prestige": true,
+      "imdbId": "tt33549695"
     },
     {
       "id": 1719306,
