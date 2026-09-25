@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-09-24T15:47:21.308Z",
-  "count": 195,
+  "generatedAt": "2026-09-25T15:49:38.242Z",
+  "count": 193,
   "movies": [
-    {
-      "id": 1750432,
-      "title": "Spidey and the Avengers: Halloween Team-Up!",
-      "releaseDate": "2026-09-24",
-      "poster": "https://image.tmdb.org/t/p/w92/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Marvel Studios / Disney Junior",
-      "prestige": true,
-      "imdbId": "tt44171293"
-    },
     {
       "id": 1248832,
       "title": "Digger",
@@ -75,18 +63,6 @@
       "imdbId": "tt34384900"
     },
     {
-      "id": 1773508,
-      "title": "Unknown Author",
-      "releaseDate": "2026-10-08",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Daniel Wierman, Paulo Menezes",
-      "studioStr": "B_RN Criações Culturais / Candombá Filmes",
-      "prestige": false,
-      "imdbId": null
-    },
-    {
       "id": 1447963,
       "title": "Found Alive",
       "releaseDate": "2026-10-08",
@@ -126,7 +102,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -166,7 +142,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Chris Rock",
-      "studioStr": "MACRO / Confluential Films",
+      "studioStr": "A24",
       "prestige": true,
       "imdbId": "tt34385184"
     },
@@ -207,18 +183,6 @@
       "imdbId": "tt38805050"
     },
     {
-      "id": 1255833,
-      "title": "Whalefall",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Brian Duffield",
-      "studioStr": "Imagine Entertainment / 20th Century Studios",
-      "prestige": true,
-      "imdbId": "tt28535715"
-    },
-    {
       "id": 1153576,
       "title": "Street Fighter",
       "releaseDate": "2026-10-16",
@@ -229,6 +193,18 @@
       "studioStr": "Capcom / Legendary Pictures",
       "prestige": true,
       "imdbId": "tt27419420"
+    },
+    {
+      "id": 1255833,
+      "title": "Whalefall",
+      "releaseDate": "2026-10-16",
+      "poster": "https://image.tmdb.org/t/p/w92/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Brian Duffield",
+      "studioStr": "Imagine Entertainment / 20th Century Studios",
+      "prestige": true,
+      "imdbId": "tt28535715"
     },
     {
       "id": 1687667,
@@ -297,7 +273,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -423,6 +399,18 @@
       "imdbId": null
     },
     {
+      "id": 1131943,
+      "title": "Madden",
+      "releaseDate": "2026-11-11",
+      "poster": "https://image.tmdb.org/t/p/w92/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "David O. Russell",
+      "studioStr": "Escape Artists / SMAC Entertainment",
+      "prestige": true,
+      "imdbId": "tt24818230"
+    },
+    {
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-13",
@@ -457,18 +445,6 @@
       "studioStr": "LesPros Entertainment / Shochiku",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1131943,
-      "title": "Madden",
-      "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/xT1F7A6prtLdoCo5MjVQppzvh9j.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "David O. Russell",
-      "studioStr": "Escape Artists / SMAC Entertainment",
-      "prestige": true,
-      "imdbId": "tt24818230"
     },
     {
       "id": 1625344,
@@ -663,6 +639,18 @@
       "imdbId": "tt32432428"
     },
     {
+      "id": 940009,
+      "title": "Ray Gunn",
+      "releaseDate": "2026-12-04",
+      "poster": "https://image.tmdb.org/t/p/w92/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Brad Bird",
+      "studioStr": "Skydance Animation / Netflix Animation Studios",
+      "prestige": true,
+      "imdbId": "tt18270542"
+    },
+    {
       "id": 1452168,
       "title": "Behemoth!",
       "releaseDate": "2026-12-04",
@@ -685,18 +673,6 @@
       "studioStr": "Future Artists Entertainment / Lionsgate",
       "prestige": true,
       "imdbId": "tt29634374"
-    },
-    {
-      "id": 940009,
-      "title": "Ray Gunn",
-      "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Brad Bird",
-      "studioStr": "Skydance Animation / Netflix Animation Studios",
-      "prestige": true,
-      "imdbId": "tt18270542"
     },
     {
       "id": 1519780,
@@ -724,7 +700,7 @@
     },
     {
       "id": 1408207,
-      "title": "Zero A.D.",
+      "title": "Zero A.D.: The Birth of Christ",
       "releaseDate": "2026-12-11",
       "poster": "https://image.tmdb.org/t/p/w92/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
       "format": "theatrical",
@@ -942,7 +918,7 @@
       "id": 1425472,
       "title": "The Rescue",
       "releaseDate": "2027-01-29",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/mwo6tgwILwL6bJLjs4NeAxX6kmw.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Potsy Ponciroli",
@@ -1038,7 +1014,7 @@
       "id": 1533611,
       "title": "The Revenge of La Llorona",
       "releaseDate": "2027-02-26",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/5XjRvsQLZd5W7g934C3GHxjyNRj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Santiago Menghini",
@@ -1158,7 +1134,7 @@
       "id": 1266643,
       "title": "Day Drinker",
       "releaseDate": "2027-03-26",
-      "poster": "https://image.tmdb.org/t/p/w92/ztMNpLBbUS3RnFHmc3c9djKA73m.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qzey2ID7YsCjhiTC8BJEfQx1LFm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Marc Webb",
@@ -1446,7 +1422,7 @@
       "id": 1327717,
       "title": "Crawl 2",
       "releaseDate": "2027-07-16",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/ty5k62rPk4lu55uL44K9XhdPitJ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Alexandre Aja",
@@ -1506,7 +1482,7 @@
       "id": 1634942,
       "title": "Jason Statham Stole My Bike",
       "releaseDate": "2027-08-06",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/35Wk3wTrSQ4AazbA9ZZrS711caK.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Leitch",
@@ -1782,7 +1758,7 @@
       "id": 1611116,
       "title": "The Housemaid's Secret",
       "releaseDate": "2027-12-17",
-      "poster": "https://image.tmdb.org/t/p/w92/wN9UPRZ5jbL9n3wIkZSrVov1dC2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kfPnxvVVYKm16xGyUVVQttkJ02Y.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Paul Feig",
