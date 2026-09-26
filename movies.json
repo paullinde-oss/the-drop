@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T15:49:38.242Z",
-  "count": 193,
+  "generatedAt": "2026-09-26T14:58:54.605Z",
+  "count": 192,
   "movies": [
     {
       "id": 1248832,
@@ -106,7 +106,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
-      "studioStr": "Columbia Pictures / Escape Artists",
+      "studioStr": "Columbia Pictures / Alcon Entertainment",
       "prestige": true,
       "imdbId": "tt37510326"
     },
@@ -207,18 +207,6 @@
       "imdbId": "tt28535715"
     },
     {
-      "id": 1687667,
-      "title": "Get Undressed",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/gqvNTLRwgQqp0FHQz5PvoyUbWmx.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Seiji Chiba",
-      "studioStr": "Shochiku / North Cky",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1430815,
       "title": "A Good Little Soldier",
       "releaseDate": "2026-10-18",
@@ -273,7 +261,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -627,6 +615,18 @@
       "imdbId": "tt16995302"
     },
     {
+      "id": 1452168,
+      "title": "Behemoth!",
+      "releaseDate": "2026-12-04",
+      "poster": "https://image.tmdb.org/t/p/w92/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Tony Gilroy",
+      "studioStr": "Searchlight Pictures",
+      "prestige": true,
+      "imdbId": "tt36415529"
+    },
+    {
       "id": 1078446,
       "title": "Violent Night 2",
       "releaseDate": "2026-12-04",
@@ -649,18 +649,6 @@
       "studioStr": "Skydance Animation / Netflix Animation Studios",
       "prestige": true,
       "imdbId": "tt18270542"
-    },
-    {
-      "id": 1452168,
-      "title": "Behemoth!",
-      "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tony Gilroy",
-      "studioStr": "Searchlight Pictures",
-      "prestige": true,
-      "imdbId": "tt36415529"
     },
     {
       "id": 1198746,
@@ -810,7 +798,7 @@
       "id": 1372443,
       "title": "Mr. Irrelevant",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/7tLnRHfRieR7gwkmeM7lhJurt4x.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jonathan Levine",
@@ -918,11 +906,11 @@
       "id": 1425472,
       "title": "The Rescue",
       "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/mwo6tgwILwL6bJLjs4NeAxX6kmw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nb7NUk2fOqeA8FLlRqG2LqKezPW.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Potsy Ponciroli",
-      "studioStr": "Skydance Media / Hideout Pictures",
+      "studioStr": "Hideout Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt35606013"
     },
@@ -1414,7 +1402,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Josh Boone",
-      "studioStr": "Sony Pictures / Olive Bridge Entertainment",
+      "studioStr": "Olive Bridge Entertainment / Columbia Pictures",
       "prestige": true,
       "imdbId": "tt40424282"
     },
@@ -1462,7 +1450,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Marielle Heller",
-      "studioStr": "Sony Pictures / Playtone",
+      "studioStr": "Playtone / Defiant By Nature",
       "prestige": true,
       "imdbId": "tt41857193"
     },
@@ -1978,7 +1966,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sam Mendes",
-      "studioStr": "Sony Pictures / Neal Street Productions",
+      "studioStr": "Neal Street Productions / Apple Corps",
       "prestige": true,
       "imdbId": "tt31419915"
     },
@@ -1990,7 +1978,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sam Mendes",
-      "studioStr": "Sony Pictures / Apple Corps",
+      "studioStr": "Apple Corps / Neal Street Productions",
       "prestige": true,
       "imdbId": "tt31419913"
     },
@@ -2002,7 +1990,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sam Mendes",
-      "studioStr": "Sony Pictures / Neal Street Productions",
+      "studioStr": "Neal Street Productions / Apple Corps",
       "prestige": true,
       "imdbId": "tt31419914"
     },
@@ -2014,7 +2002,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sam Mendes",
-      "studioStr": "Sony Pictures / Apple Corps",
+      "studioStr": "Apple Corps / Neal Street Productions",
       "prestige": true,
       "imdbId": "tt31419912"
     },
@@ -2220,7 +2208,7 @@
       "directorStr": "Matt Duffer, Ross Duffer",
       "studioStr": "Paramount Pictures / Upside Down Pictures",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43589396"
     },
     {
       "id": 1138526,
