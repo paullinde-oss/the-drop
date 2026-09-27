@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T14:58:54.605Z",
+  "generatedAt": "2026-09-27T15:38:13.767Z",
   "count": 192,
   "movies": [
     {
@@ -13,6 +13,18 @@
       "studioStr": "Warner Bros. Pictures / Legendary Pictures",
       "prestige": true,
       "imdbId": "tt31450459"
+    },
+    {
+      "id": 1244523,
+      "title": "Beware Boiúna",
+      "releaseDate": "2026-10-02",
+      "poster": "https://image.tmdb.org/t/p/w92/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Mike P. Nelson",
+      "studioStr": "Constantin Film / JB Pictures",
+      "prestige": true,
+      "imdbId": "tt10377864"
     },
     {
       "id": 1706689,
@@ -171,22 +183,10 @@
       "imdbId": "tt37070354"
     },
     {
-      "id": 1477572,
-      "title": "Visitation",
-      "releaseDate": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w92/1ENAoVhIdfacsHuoqDM8MwR6D4Z.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Volker Schlöndorff",
-      "studioStr": "Ziegler Film / StudioCanal",
-      "prestige": true,
-      "imdbId": "tt38805050"
-    },
-    {
       "id": 1153576,
       "title": "Street Fighter",
       "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kitao Sakurai",
@@ -241,6 +241,18 @@
       "studioStr": "LAIKA",
       "prestige": true,
       "imdbId": "tt2056785"
+    },
+    {
+      "id": 891621,
+      "title": "Wild Horse Nine",
+      "releaseDate": "2026-10-30",
+      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Martin McDonagh",
+      "studioStr": "Searchlight Pictures / Blueprint Pictures",
+      "prestige": true,
+      "imdbId": "tt15799564"
     },
     {
       "id": 1687303,
@@ -325,18 +337,6 @@
       "studioStr": "DNEG / Dr. Seuss Enterprises",
       "prestige": true,
       "imdbId": "tt2321555"
-    },
-    {
-      "id": 891621,
-      "title": "Wild Horse Nine",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Martin McDonagh",
-      "studioStr": "Searchlight Pictures / Blueprint Pictures",
-      "prestige": true,
-      "imdbId": "tt15799564"
     },
     {
       "id": 1697911,
@@ -555,6 +555,18 @@
       "imdbId": "tt17055444"
     },
     {
+      "id": 1457866,
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "releaseDate": "2026-11-25",
+      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "David Fincher",
+      "studioStr": "Heyday Films / Netflix",
+      "prestige": true,
+      "imdbId": "tt36408401"
+    },
+    {
       "id": 1400336,
       "title": "Focker-in-Law",
       "releaseDate": "2026-11-25",
@@ -565,18 +577,6 @@
       "studioStr": "Universal Pictures / Tribeca Productions",
       "prestige": true,
       "imdbId": "tt34966140"
-    },
-    {
-      "id": 1457866,
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "releaseDate": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "David Fincher",
-      "studioStr": "Heyday Films / Netflix",
-      "prestige": true,
-      "imdbId": "tt36408401"
     },
     {
       "id": 1739765,
@@ -661,18 +661,6 @@
       "studioStr": "Future Artists Entertainment / Lionsgate",
       "prestige": true,
       "imdbId": "tt29634374"
-    },
-    {
-      "id": 1519780,
-      "title": "Diary of a Wimpy Kid: The Getaway",
-      "releaseDate": "2026-12-04",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Matt Danner",
-      "studioStr": "Bardel Entertainment / Walt Disney Pictures",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1421967,
@@ -999,6 +987,18 @@
       "imdbId": "tt31339071"
     },
     {
+      "id": 1700881,
+      "title": "The Ballad from Wednesday to Thursday",
+      "releaseDate": "2027-02-24",
+      "poster": "https://image.tmdb.org/t/p/w92/84XOE0B6KWuYiEDZ11QeMl6CGB2.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Christoph Otto",
+      "studioStr": "Monte Kalk Film / aniamariawanda",
+      "prestige": false,
+      "imdbId": "tt43548253"
+    },
+    {
       "id": 1533611,
       "title": "The Revenge of La Llorona",
       "releaseDate": "2027-02-26",
@@ -1122,7 +1122,7 @@
       "id": 1266643,
       "title": "Day Drinker",
       "releaseDate": "2027-03-26",
-      "poster": "https://image.tmdb.org/t/p/w92/qzey2ID7YsCjhiTC8BJEfQx1LFm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5n1ObdUbJH8Irlm48IpPmt1tdVb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Marc Webb",
@@ -1839,18 +1839,6 @@
       "imdbId": "tt38795701"
     },
     {
-      "id": 1188748,
-      "title": "Murder, She Wrote",
-      "releaseDate": "2028-02-04",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jason Moore",
-      "studioStr": "Pascal Pictures / Universal Pictures",
-      "prestige": true,
-      "imdbId": "tt33366208"
-    },
-    {
       "id": 1625381,
       "title": "Heart Eyes 2",
       "releaseDate": "2028-02-04",
@@ -1861,6 +1849,18 @@
       "studioStr": "Paramount Pictures / Spyglass Media Group",
       "prestige": true,
       "imdbId": "tt42004793"
+    },
+    {
+      "id": 1188748,
+      "title": "Murder, She Wrote",
+      "releaseDate": "2028-02-04",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jason Moore",
+      "studioStr": "Pascal Pictures / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt33366208"
     },
     {
       "id": 1388496,
