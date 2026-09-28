@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T15:38:13.767Z",
-  "count": 192,
+  "generatedAt": "2026-09-28T18:29:07.181Z",
+  "count": 193,
   "movies": [
     {
       "id": 1248832,
@@ -154,7 +154,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Chris Rock",
-      "studioStr": "A24",
+      "studioStr": "A24 / MACRO",
       "prestige": true,
       "imdbId": "tt34385184"
     },
@@ -169,18 +169,6 @@
       "studioStr": "Cross City Films / See-Saw Films",
       "prestige": true,
       "imdbId": "tt6262770"
-    },
-    {
-      "id": 1623256,
-      "title": "The Storm",
-      "releaseDate": "2026-10-15",
-      "poster": "https://image.tmdb.org/t/p/w92/l8m2A55MJrTPAikyN1p2OPjSNg.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Josephine Bornebusch",
-      "studioStr": "Warner Bros. International Television Production Sweden",
-      "prestige": true,
-      "imdbId": "tt37070354"
     },
     {
       "id": 1153576,
@@ -270,7 +258,7 @@
       "id": 1003494,
       "title": "Women on Trial",
       "releaseDate": "2026-11-04",
-      "poster": "https://image.tmdb.org/t/p/w92/q539jeQw6RdAvXf2hHqOMvqMEAr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lauriane Escaffre, Yvo Muller",
@@ -306,7 +294,7 @@
       "id": 1447206,
       "title": "Ghost Song",
       "releaseDate": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/eVjIFC5boeRwbqC8Dt8cTMGl9vh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/iSNeCZoujlT9Mh0boHS9GyR6fEX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Fatih Akin",
@@ -569,7 +557,7 @@
     {
       "id": 1400336,
       "title": "Focker-in-Law",
-      "releaseDate": "2026-11-25",
+      "releaseDate": "2026-11-27",
       "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -663,6 +651,18 @@
       "imdbId": "tt29634374"
     },
     {
+      "id": 1389765,
+      "title": "Batman: Knightfall Part 2: Knightquest",
+      "releaseDate": "2026-12-08",
+      "poster": "https://image.tmdb.org/t/p/w92/4zWHei7BJ4dP0DDK4FJ7em9ET7e.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jeff Wamester",
+      "studioStr": "Warner Bros. Animation / DC",
+      "prestige": true,
+      "imdbId": "tt38807532"
+    },
+    {
       "id": 1421967,
       "title": "Violette",
       "releaseDate": "2026-12-09",
@@ -738,7 +738,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -1263,6 +1263,18 @@
       "imdbId": "tt27435653"
     },
     {
+      "id": 1484467,
+      "title": "Sacrifice",
+      "releaseDate": "2027-05-11",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Damien Chazelle",
+      "studioStr": "Paramount Pictures / Wild Chickens Productions",
+      "prestige": true,
+      "imdbId": "tt3833478"
+    },
+    {
       "id": 556682,
       "title": "F.A.S.T.",
       "releaseDate": "2027-05-14",
@@ -1737,7 +1749,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
