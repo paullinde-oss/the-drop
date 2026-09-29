@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-09-28T18:29:07.181Z",
-  "count": 193,
+  "generatedAt": "2026-09-29T16:51:53.040Z",
+  "count": 192,
   "movies": [
-    {
-      "id": 1248832,
-      "title": "Digger",
-      "releaseDate": "2026-09-30",
-      "poster": "https://image.tmdb.org/t/p/w92/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alejandro G. Iñárritu",
-      "studioStr": "Warner Bros. Pictures / Legendary Pictures",
-      "prestige": true,
-      "imdbId": "tt31450459"
-    },
     {
       "id": 1244523,
       "title": "Beware Boiúna",
@@ -25,6 +13,18 @@
       "studioStr": "Constantin Film / JB Pictures",
       "prestige": true,
       "imdbId": "tt10377864"
+    },
+    {
+      "id": 1777750,
+      "title": "Detective Conan: The Counterfeit Case of Ultra 30",
+      "releaseDate": "2026-10-02",
+      "poster": "https://image.tmdb.org/t/p/w92/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nobuharu Kamanaka",
+      "studioStr": "TMS Entertainment / TOHO",
+      "prestige": true,
+      "imdbId": "tt46656123"
     },
     {
       "id": 1706689,
@@ -183,18 +183,6 @@
       "imdbId": "tt27419420"
     },
     {
-      "id": 1255833,
-      "title": "Whalefall",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Brian Duffield",
-      "studioStr": "Imagine Entertainment / 20th Century Studios",
-      "prestige": true,
-      "imdbId": "tt28535715"
-    },
-    {
       "id": 1430815,
       "title": "A Good Little Soldier",
       "releaseDate": "2026-10-18",
@@ -261,7 +249,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -450,7 +438,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/hDDBRwPOIztAhawTjWWsEA7rDis.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -738,7 +726,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -1749,7 +1737,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
