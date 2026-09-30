@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T16:51:53.040Z",
-  "count": 192,
+  "generatedAt": "2026-09-30T16:44:21.204Z",
+  "count": 197,
   "movies": [
     {
       "id": 1244523,
@@ -33,7 +33,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/s0BNmv4jtWp2XClygvzGqPQ0TQp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
+      "directorStr": "Tetsu Maeda",
       "studioStr": "Shochiku",
       "prestige": true,
       "imdbId": null
@@ -114,7 +114,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -249,7 +249,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -450,7 +450,7 @@
       "id": 1599230,
       "title": "Elsinore",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/sWLwzqjaTDtAjK01erubswLkQwl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Simon Stone",
@@ -579,10 +579,22 @@
       "imdbId": "tt43596156"
     },
     {
+      "id": 1660754,
+      "title": "Between Two Lovers",
+      "releaseDate": "2026-11-27",
+      "poster": "https://image.tmdb.org/t/p/w92/734bx47eNXsztG3O7tlQl1kyi5i.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nanako Hirose",
+      "studioStr": "BUN-BUKU / K2 Pictures",
+      "prestige": false,
+      "imdbId": "tt41289860"
+    },
+    {
       "id": 1137888,
       "title": "The Man with the Bag",
       "releaseDate": "2026-12-02",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/kDlTXrvAr1b8et5ZArQsrTwpeUZ.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Adam Shankman",
@@ -637,6 +649,18 @@
       "studioStr": "Future Artists Entertainment / Lionsgate",
       "prestige": true,
       "imdbId": "tt29634374"
+    },
+    {
+      "id": 1519780,
+      "title": "Diary of a Wimpy Kid: The Getaway",
+      "releaseDate": "2026-12-04",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Matt Danner",
+      "studioStr": "Bardel Entertainment / Walt Disney Pictures",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1389765,
@@ -714,7 +738,7 @@
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mbUCNRuNMdPc1HBhS1E30cknCt.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Denis Villeneuve",
@@ -1095,6 +1119,18 @@
       "imdbId": "tt4540534"
     },
     {
+      "id": 1139422,
+      "title": "The Riders",
+      "releaseDate": "2027-03-25",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Edward Berger",
+      "studioStr": "Nine Hours / Plan B Entertainment",
+      "prestige": true,
+      "imdbId": "tt9148786"
+    },
+    {
       "id": 1288438,
       "title": "Godzilla x Kong: Supernova",
       "releaseDate": "2027-03-26",
@@ -1141,6 +1177,18 @@
       "studioStr": "Good Hero / StudioCanal",
       "prestige": true,
       "imdbId": "tt26768234"
+    },
+    {
+      "id": 1559269,
+      "title": "Everybody Wants to F*ck Me",
+      "releaseDate": "2027-04-08",
+      "poster": "https://image.tmdb.org/t/p/w92/tPrt7qLZTbEKdD2ts7ZTZy44Oit.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jonathan Schey",
+      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
+      "prestige": true,
+      "imdbId": "tt38629979"
     },
     {
       "id": 1731801,
@@ -1215,18 +1263,6 @@
       "imdbId": "tt29873948"
     },
     {
-      "id": 1559269,
-      "title": "Everybody Wants to F*ck Me",
-      "releaseDate": "2027-05-06",
-      "poster": "https://image.tmdb.org/t/p/w92/tPrt7qLZTbEKdD2ts7ZTZy44Oit.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jonathan Schey",
-      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
-      "prestige": true,
-      "imdbId": "tt38629979"
-    },
-    {
       "id": 532652,
       "title": "The Resurrection of the Christ: Part One",
       "releaseDate": "2027-05-06",
@@ -1249,6 +1285,18 @@
       "studioStr": "20th Century Studios / Original Film",
       "prestige": true,
       "imdbId": "tt27435653"
+    },
+    {
+      "id": 1540936,
+      "title": "Anything but Ghosts",
+      "releaseDate": "2027-05-07",
+      "poster": "https://image.tmdb.org/t/p/w92/afV0ZsYPWcCEZ1gIx0ndi4rd2jd.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Curry Barker",
+      "studioStr": "Spooky Pictures / Divide / Conquer",
+      "prestige": true,
+      "imdbId": "tt38120758"
     },
     {
       "id": 1484467,
@@ -2281,6 +2329,18 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt39085480"
+    },
+    {
+      "id": 1380804,
+      "title": "Game of Thrones: Aegon's Conquest",
+      "releaseDate": "2029-06-06",
+      "poster": "https://image.tmdb.org/t/p/w92/qynu6SiRgzHHJpkZyKG1f0stqSn.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Owen Harris",
+      "studioStr": "Warner Bros. Pictures",
+      "prestige": true,
+      "imdbId": "tt34382478"
     },
     {
       "id": 1451567,
