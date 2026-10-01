@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:44:21.204Z",
+  "generatedAt": "2026-10-01T17:21:21.705Z",
   "count": 197,
   "movies": [
     {
@@ -19,7 +19,7 @@
       "title": "Detective Conan: The Counterfeit Case of Ultra 30",
       "releaseDate": "2026-10-02",
       "poster": "https://image.tmdb.org/t/p/w92/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
-      "format": "theatrical",
+      "format": "digital",
       "reRelease": false,
       "directorStr": "Nobuharu Kamanaka",
       "studioStr": "TMS Entertainment / TOHO",
@@ -150,7 +150,7 @@
       "id": 1381221,
       "title": "Misty Green",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/qOFIOfZzteCoiOFjXDvqTgBnUTz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Chris Rock",
@@ -169,18 +169,6 @@
       "studioStr": "Cross City Films / See-Saw Films",
       "prestige": true,
       "imdbId": "tt6262770"
-    },
-    {
-      "id": 1153576,
-      "title": "Street Fighter",
-      "releaseDate": "2026-10-16",
-      "poster": "https://image.tmdb.org/t/p/w92/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kitao Sakurai",
-      "studioStr": "Capcom / Legendary Pictures",
-      "prestige": true,
-      "imdbId": "tt27419420"
     },
     {
       "id": 1430815,
@@ -594,7 +582,7 @@
       "id": 1137888,
       "title": "The Man with the Bag",
       "releaseDate": "2026-12-02",
-      "poster": "https://image.tmdb.org/t/p/w92/kDlTXrvAr1b8et5ZArQsrTwpeUZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9cG28CqPloosifAz4w21i0aSOI8.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Adam Shankman",
@@ -780,7 +768,7 @@
       "directorStr": "Takahisa Zeze",
       "studioStr": "TOHO / AX-ON",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt44939485"
     },
     {
       "id": 1421903,
@@ -846,7 +834,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/10jGGKeNxY4j6pvJpWLmBzcMeMH.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -882,7 +870,7 @@
       "id": 1520592,
       "title": "River",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/wnawDK6yicxbRrhsEad4MsMQ7Z8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/d9jqItIaBvvtSWLKvd5oopEan2y.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joshua Giuliano",
@@ -985,6 +973,18 @@
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1495141,
+      "title": "ghost - end of night",
+      "releaseDate": "2027-02-11",
+      "poster": "https://image.tmdb.org/t/p/w92/oKBUwuZiujlKeiEtwZ7GYZCOOxX.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Shingo Natsume",
+      "studioStr": "Madhouse / Bandai Namco Filmworks",
+      "prestige": false,
+      "imdbId": "tt37245656"
     },
     {
       "id": 1480503,
@@ -1119,18 +1119,6 @@
       "imdbId": "tt4540534"
     },
     {
-      "id": 1139422,
-      "title": "The Riders",
-      "releaseDate": "2027-03-25",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Edward Berger",
-      "studioStr": "Nine Hours / Plan B Entertainment",
-      "prestige": true,
-      "imdbId": "tt9148786"
-    },
-    {
       "id": 1288438,
       "title": "Godzilla x Kong: Supernova",
       "releaseDate": "2027-03-26",
@@ -1182,7 +1170,7 @@
       "id": 1559269,
       "title": "Everybody Wants to F*ck Me",
       "releaseDate": "2027-04-08",
-      "poster": "https://image.tmdb.org/t/p/w92/tPrt7qLZTbEKdD2ts7ZTZy44Oit.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jonathan Schey",
@@ -1683,18 +1671,6 @@
       "imdbId": "tt30343245"
     },
     {
-      "id": 1413533,
-      "title": "Helldivers",
-      "releaseDate": "2027-11-10",
-      "poster": "https://image.tmdb.org/t/p/w92/zDRwl5qTqPJgNoc8pkQkDnXRSYF.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Justin Lin",
-      "studioStr": "PlayStation Productions / Perfect Storm Entertainment",
-      "prestige": true,
-      "imdbId": "tt39089420"
-    },
-    {
       "id": 1290568,
       "title": "Margie Claus",
       "releaseDate": "2027-11-12",
@@ -1767,6 +1743,18 @@
       "imdbId": "tt26680923"
     },
     {
+      "id": 1712303,
+      "title": "24 Jump Street",
+      "releaseDate": "2027-12-10",
+      "poster": "https://image.tmdb.org/t/p/w92/kwbctsShSn0Q5QoKc4AU2NIguDN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Rodney Rothman",
+      "studioStr": "Columbia Pictures / Original Film",
+      "prestige": true,
+      "imdbId": "tt32744352"
+    },
+    {
       "id": 1090869,
       "title": "The Lord of the Rings: The Hunt for Gollum",
       "releaseDate": "2027-12-17",
@@ -1785,7 +1773,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1852,7 +1840,7 @@
     },
     {
       "id": 1671441,
-      "title": "Untitled Longlegs Film",
+      "title": "Hexagram",
       "releaseDate": "2028-01-14",
       "poster": "https://image.tmdb.org/t/p/w92/5qfQvRmYCgPXHwmZAWGWgEDVNuZ.jpg",
       "format": "theatrical",
@@ -1875,10 +1863,22 @@
       "imdbId": "tt42171078"
     },
     {
+      "id": 1388496,
+      "title": "Grandgear",
+      "releaseDate": "2028-01-14",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Takashi Yamazaki",
+      "studioStr": "Bad Robot / Zipper Bros Films",
+      "prestige": true,
+      "imdbId": "tt34622084"
+    },
+    {
       "id": 1571245,
       "title": "Viva La Madness",
       "releaseDate": "2028-01-21",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/oPNHKVrrqaLMMEdVIta786Q6d1x.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Guy Ritchie",
@@ -1909,18 +1909,6 @@
       "studioStr": "Pascal Pictures / Universal Pictures",
       "prestige": true,
       "imdbId": "tt33366208"
-    },
-    {
-      "id": 1388496,
-      "title": "Grandgear",
-      "releaseDate": "2028-02-18",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takashi Yamazaki",
-      "studioStr": "Bad Robot / Zipper Bros Films",
-      "prestige": true,
-      "imdbId": "tt34622084"
     },
     {
       "id": 806704,
@@ -2137,6 +2125,18 @@
       "studioStr": "Paramount Pictures / TC Productions",
       "prestige": true,
       "imdbId": "tt34385341"
+    },
+    {
+      "id": 1413533,
+      "title": "Helldivers",
+      "releaseDate": "2028-06-09",
+      "poster": "https://image.tmdb.org/t/p/w92/zDRwl5qTqPJgNoc8pkQkDnXRSYF.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Justin Lin",
+      "studioStr": "PlayStation Productions / Perfect Storm Entertainment",
+      "prestige": true,
+      "imdbId": "tt39089420"
     },
     {
       "id": 1327821,
