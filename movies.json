@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T17:21:21.705Z",
-  "count": 197,
+  "generatedAt": "2026-10-02T16:35:31.164Z",
+  "count": 200,
   "movies": [
     {
       "id": 1244523,
@@ -39,6 +39,18 @@
       "imdbId": null
     },
     {
+      "id": 1786298,
+      "title": "Krypto Saves the Day!: Robo-Pal",
+      "releaseDate": "2026-10-03",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "DC Studios / Warner Bros. Animation",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1748780,
       "title": "Overt Listening",
       "releaseDate": "2026-10-03",
@@ -61,6 +73,18 @@
       "studioStr": "Sony Pictures Classics / Anonymous Content",
       "prestige": true,
       "imdbId": "tt39373342"
+    },
+    {
+      "id": 1786547,
+      "title": "Nios",
+      "releaseDate": "2026-10-04",
+      "poster": "https://image.tmdb.org/t/p/w92/b63TcIfgxsGdAQMtpuaOOZe6b6k.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Odysseas Spyropoulos",
+      "studioStr": "Laika Productions / Punch-Drunk Films",
+      "prestige": true,
+      "imdbId": "tt38519318"
     },
     {
       "id": 1381078,
@@ -97,18 +121,6 @@
       "studioStr": "Mattel Studios / Skydance Media",
       "prestige": true,
       "imdbId": "tt28498219"
-    },
-    {
-      "id": 1400837,
-      "title": "Other Mommy",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Rob Savage",
-      "studioStr": "Blumhouse Productions / Atomic Monster",
-      "prestige": true,
-      "imdbId": "tt36586020"
     },
     {
       "id": 1281331,
@@ -197,7 +209,7 @@
     {
       "id": 791523,
       "title": "Wildwood",
-      "releaseDate": "2026-10-21",
+      "releaseDate": "2026-10-22",
       "poster": "https://image.tmdb.org/t/p/w92/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -366,7 +378,7 @@
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ti West",
@@ -726,7 +738,7 @@
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/mbUCNRuNMdPc1HBhS1E30cknCt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Denis Villeneuve",
@@ -889,6 +901,18 @@
       "studioStr": "Legendary Pictures / Maximum Effort",
       "prestige": true,
       "imdbId": "tt16911616"
+    },
+    {
+      "id": 1560316,
+      "title": "I Won't Give Up!",
+      "releaseDate": "2027-01-22",
+      "poster": "https://image.tmdb.org/t/p/w92/vJ5dpcqly5KjRhFK73WwjLAjWtu.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Akiko Ohku",
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": null
     },
     {
       "id": 1425472,
@@ -1167,18 +1191,6 @@
       "imdbId": "tt26768234"
     },
     {
-      "id": 1559269,
-      "title": "Everybody Wants to F*ck Me",
-      "releaseDate": "2027-04-08",
-      "poster": "https://image.tmdb.org/t/p/w92/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jonathan Schey",
-      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
-      "prestige": true,
-      "imdbId": "tt38629979"
-    },
-    {
       "id": 1731801,
       "title": "Boys for Life",
       "releaseDate": "2027-04-09",
@@ -1249,6 +1261,18 @@
       "studioStr": "Nintendo / Arad Productions",
       "prestige": true,
       "imdbId": "tt29873948"
+    },
+    {
+      "id": 1559269,
+      "title": "Everybody Wants to F*ck Me",
+      "releaseDate": "2027-05-06",
+      "poster": "https://image.tmdb.org/t/p/w92/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jonathan Schey",
+      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
+      "prestige": true,
+      "imdbId": "tt38629979"
     },
     {
       "id": 532652,
@@ -1545,7 +1569,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/iG1pMw9ufzXXQDTguT2okaZY3xe.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
+      "directorStr": "Mike B. Anderson, David Silverman",
       "studioStr": "Gracie Films / 20th Century Animation",
       "prestige": true,
       "imdbId": "tt38561132"
@@ -1773,7 +1797,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2041,6 +2065,18 @@
       "studioStr": "Apple Corps / Neal Street Productions",
       "prestige": true,
       "imdbId": "tt31419912"
+    },
+    {
+      "id": 1015738,
+      "title": "Untitled Community Movie",
+      "releaseDate": "2028-04-07",
+      "poster": "https://image.tmdb.org/t/p/w92/awD5uBurjNT7GKVRgQlp4qTcoQ1.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Sony Pictures Television / Universal Television",
+      "prestige": true,
+      "imdbId": "tt21958386"
     },
     {
       "id": 1293690,
