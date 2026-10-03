@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-10-02T16:35:31.164Z",
-  "count": 200,
+  "generatedAt": "2026-10-03T15:08:44.286Z",
+  "count": 195,
   "movies": [
-    {
-      "id": 1244523,
-      "title": "Beware Boiúna",
-      "releaseDate": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w92/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Mike P. Nelson",
-      "studioStr": "Constantin Film / JB Pictures",
-      "prestige": true,
-      "imdbId": "tt10377864"
-    },
-    {
-      "id": 1777750,
-      "title": "Detective Conan: The Counterfeit Case of Ultra 30",
-      "releaseDate": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w92/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Nobuharu Kamanaka",
-      "studioStr": "TMS Entertainment / TOHO",
-      "prestige": true,
-      "imdbId": "tt46656123"
-    },
-    {
-      "id": 1706689,
-      "title": "First Voice",
-      "releaseDate": "2026-10-02",
-      "poster": "https://image.tmdb.org/t/p/w92/s0BNmv4jtWp2XClygvzGqPQ0TQp.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tetsu Maeda",
-      "studioStr": "Shochiku",
-      "prestige": true,
-      "imdbId": null
-    },
     {
       "id": 1786298,
       "title": "Krypto Saves the Day!: Robo-Pal",
@@ -75,18 +39,6 @@
       "imdbId": "tt39373342"
     },
     {
-      "id": 1786547,
-      "title": "Nios",
-      "releaseDate": "2026-10-04",
-      "poster": "https://image.tmdb.org/t/p/w92/b63TcIfgxsGdAQMtpuaOOZe6b6k.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Odysseas Spyropoulos",
-      "studioStr": "Laika Productions / Punch-Drunk Films",
-      "prestige": true,
-      "imdbId": "tt38519318"
-    },
-    {
       "id": 1381078,
       "title": "Love of Your Life",
       "releaseDate": "2026-10-07",
@@ -121,6 +73,18 @@
       "studioStr": "Mattel Studios / Skydance Media",
       "prestige": true,
       "imdbId": "tt28498219"
+    },
+    {
+      "id": 1400837,
+      "title": "Other Mommy",
+      "releaseDate": "2026-10-09",
+      "poster": "https://image.tmdb.org/t/p/w92/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Rob Savage",
+      "studioStr": "Blumhouse Productions / Atomic Monster",
+      "prestige": true,
+      "imdbId": "tt36586020"
     },
     {
       "id": 1281331,
@@ -951,18 +915,6 @@
       "imdbId": "tt37360759"
     },
     {
-      "id": 1466228,
-      "title": "The Comeback King",
-      "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/37ii02yqhWAbNYS3VxXYPp9wDGD.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Judd Apatow",
-      "studioStr": "Universal Pictures / Apatow Productions",
-      "prestige": true,
-      "imdbId": "tt36593129"
-    },
-    {
       "id": 1384758,
       "title": "Ice Age: Boiling Point",
       "releaseDate": "2027-02-05",
@@ -973,6 +925,18 @@
       "studioStr": "20th Century Animation",
       "prestige": true,
       "imdbId": "tt34512981"
+    },
+    {
+      "id": 1466228,
+      "title": "The Comeback King",
+      "releaseDate": "2027-02-05",
+      "poster": "https://image.tmdb.org/t/p/w92/37ii02yqhWAbNYS3VxXYPp9wDGD.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Judd Apatow",
+      "studioStr": "Universal Pictures / Apatow Productions",
+      "prestige": true,
+      "imdbId": "tt36593129"
     },
     {
       "id": 1694218,
@@ -1309,18 +1273,6 @@
       "studioStr": "Spooky Pictures / Divide / Conquer",
       "prestige": true,
       "imdbId": "tt38120758"
-    },
-    {
-      "id": 1484467,
-      "title": "Sacrifice",
-      "releaseDate": "2027-05-11",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Damien Chazelle",
-      "studioStr": "Paramount Pictures / Wild Chickens Productions",
-      "prestige": true,
-      "imdbId": "tt3833478"
     },
     {
       "id": 556682,
@@ -1797,7 +1749,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1875,18 +1827,6 @@
       "imdbId": "tt41786209"
     },
     {
-      "id": 1683034,
-      "title": "John Doe",
-      "releaseDate": "2028-01-14",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Ayer",
-      "studioStr": "Miramax / Punch Palace Productions",
-      "prestige": true,
-      "imdbId": "tt42171078"
-    },
-    {
       "id": 1388496,
       "title": "Grandgear",
       "releaseDate": "2028-01-14",
@@ -1897,6 +1837,18 @@
       "studioStr": "Bad Robot / Zipper Bros Films",
       "prestige": true,
       "imdbId": "tt34622084"
+    },
+    {
+      "id": 1683034,
+      "title": "John Doe",
+      "releaseDate": "2028-01-14",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Ayer",
+      "studioStr": "Miramax / Punch Palace Productions",
+      "prestige": true,
+      "imdbId": "tt42171078"
     },
     {
       "id": 1571245,
@@ -2065,18 +2017,6 @@
       "studioStr": "Apple Corps / Neal Street Productions",
       "prestige": true,
       "imdbId": "tt31419912"
-    },
-    {
-      "id": 1015738,
-      "title": "Untitled Community Movie",
-      "releaseDate": "2028-04-07",
-      "poster": "https://image.tmdb.org/t/p/w92/awD5uBurjNT7GKVRgQlp4qTcoQ1.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Sony Pictures Television / Universal Television",
-      "prestige": true,
-      "imdbId": "tt21958386"
     },
     {
       "id": 1293690,
