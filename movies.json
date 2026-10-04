@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-10-03T15:08:44.286Z",
-  "count": 195,
+  "generatedAt": "2026-10-04T15:43:38.563Z",
+  "count": 192,
   "movies": [
-    {
-      "id": 1786298,
-      "title": "Krypto Saves the Day!: Robo-Pal",
-      "releaseDate": "2026-10-03",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "DC Studios / Warner Bros. Animation",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
-      "id": 1748780,
-      "title": "Overt Listening",
-      "releaseDate": "2026-10-03",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tiffany Sia",
-      "studioStr": null,
-      "prestige": false,
-      "imdbId": "tt44121917"
-    },
-    {
-      "id": 1618090,
-      "title": "A Statement",
-      "releaseDate": "2026-10-03",
-      "poster": "https://image.tmdb.org/t/p/w92/6eGKmCHwnwWqaKkoRsrBfCtkHKf.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Tom McCarthy",
-      "studioStr": "Sony Pictures Classics / Anonymous Content",
-      "prestige": true,
-      "imdbId": "tt39373342"
-    },
     {
       "id": 1381078,
       "title": "Love of Your Life",
@@ -90,7 +54,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -213,7 +177,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -543,18 +507,6 @@
       "imdbId": "tt43596156"
     },
     {
-      "id": 1660754,
-      "title": "Between Two Lovers",
-      "releaseDate": "2026-11-27",
-      "poster": "https://image.tmdb.org/t/p/w92/734bx47eNXsztG3O7tlQl1kyi5i.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Nanako Hirose",
-      "studioStr": "BUN-BUKU / K2 Pictures",
-      "prestige": false,
-      "imdbId": "tt41289860"
-    },
-    {
       "id": 1137888,
       "title": "The Man with the Bag",
       "releaseDate": "2026-12-02",
@@ -867,6 +819,18 @@
       "imdbId": "tt16911616"
     },
     {
+      "id": 1774278,
+      "title": "10 Things I Want to Do Before I Turn 40 THE MOVIE",
+      "releaseDate": "2027-01-22",
+      "poster": "https://image.tmdb.org/t/p/w92/5AXJPqBetQgYhD2vz4rgTxqP4O1.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Chihiro Ikeda",
+      "studioStr": "TV Tokyo / Stardust Pictures",
+      "prestige": false,
+      "imdbId": null
+    },
+    {
       "id": 1560316,
       "title": "I Won't Give Up!",
       "releaseDate": "2027-01-22",
@@ -901,6 +865,18 @@
       "studioStr": "87Eleven / Lionsgate",
       "prestige": true,
       "imdbId": "tt33295857"
+    },
+    {
+      "id": 1739413,
+      "title": "In My Father's Room",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/bgapSeASBoacEvypu6lp7yIqubP.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Maha Harada",
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": "tt43718418"
     },
     {
       "id": 1442761,
@@ -961,18 +937,6 @@
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1495141,
-      "title": "ghost - end of night",
-      "releaseDate": "2027-02-11",
-      "poster": "https://image.tmdb.org/t/p/w92/oKBUwuZiujlKeiEtwZ7GYZCOOxX.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Shingo Natsume",
-      "studioStr": "Madhouse / Bandai Namco Filmworks",
-      "prestige": false,
-      "imdbId": "tt37245656"
     },
     {
       "id": 1480503,
@@ -1299,18 +1263,6 @@
       "imdbId": "tt39104938"
     },
     {
-      "id": 1138528,
-      "title": "Bad Fairies",
-      "releaseDate": "2027-05-21",
-      "poster": "https://image.tmdb.org/t/p/w92/qv5bf7IXmVHpGE0TpYKA8tD2NFi.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Megan Nicole Dong",
-      "studioStr": "Locksmith Animation / DNEG",
-      "prestige": true,
-      "imdbId": "tt28018076"
-    },
-    {
       "id": 1273739,
       "title": "The Catch",
       "releaseDate": "2027-05-21",
@@ -1321,6 +1273,18 @@
       "studioStr": "Universal Pictures / 21 Laps Entertainment",
       "prestige": true,
       "imdbId": "tt32102935"
+    },
+    {
+      "id": 1138528,
+      "title": "Bad Fairies",
+      "releaseDate": "2027-05-21",
+      "poster": "https://image.tmdb.org/t/p/w92/qv5bf7IXmVHpGE0TpYKA8tD2NFi.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Megan Nicole Dong",
+      "studioStr": "Locksmith Animation / DNEG",
+      "prestige": true,
+      "imdbId": "tt28018076"
     },
     {
       "id": 1417668,
