@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T15:43:38.563Z",
-  "count": 192,
+  "generatedAt": "2026-10-05T19:34:43.780Z",
+  "count": 191,
   "movies": [
     {
       "id": 1381078,
@@ -54,7 +54,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -73,30 +73,6 @@
       "studioStr": "Angel Studios",
       "prestige": true,
       "imdbId": "tt39850240"
-    },
-    {
-      "id": 1590933,
-      "title": "You, Like a Star",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/nRoVOvMPOEM9GuHu5FKGigbXzVT.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Michihito Fujii",
-      "studioStr": "TOHO Studios / Dragonfly Entertainment",
-      "prestige": true,
-      "imdbId": "tt43738759"
-    },
-    {
-      "id": 1381221,
-      "title": "Misty Green",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Chris Rock",
-      "studioStr": "A24 / MACRO",
-      "prestige": true,
-      "imdbId": "tt34385184"
     },
     {
       "id": 1288069,
@@ -177,7 +153,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -565,6 +541,18 @@
       "studioStr": "Future Artists Entertainment / Lionsgate",
       "prestige": true,
       "imdbId": "tt29634374"
+    },
+    {
+      "id": 1596282,
+      "title": "The Friend's House is Here",
+      "releaseDate": "2026-12-04",
+      "poster": "https://image.tmdb.org/t/p/w92/5uRKIfMNcEzS1vWl0l69YUYoW1F.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Hossein Keshavarz, Maryam Ataei",
+      "studioStr": "Alma Linda Films",
+      "prestige": false,
+      "imdbId": "tt38980819"
     },
     {
       "id": 1519780,
@@ -1713,7 +1701,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -2146,7 +2134,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Zach Cregger",
-      "studioStr": "Subconscious / New Line Cinema",
+      "studioStr": "New Line Cinema / Amblin Entertainment",
       "prestige": true,
       "imdbId": "tt38581828"
     },
