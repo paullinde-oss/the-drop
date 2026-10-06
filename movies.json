@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T19:34:43.780Z",
-  "count": 191,
+  "generatedAt": "2026-10-06T17:08:08.738Z",
+  "count": 189,
   "movies": [
     {
       "id": 1381078,
@@ -27,18 +27,6 @@
       "imdbId": "tt4864632"
     },
     {
-      "id": 1148365,
-      "title": "Matchbox the Movie",
-      "releaseDate": "2026-10-08",
-      "poster": "https://image.tmdb.org/t/p/w92/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Sam Hargrave",
-      "studioStr": "Mattel Studios / Skydance Media",
-      "prestige": true,
-      "imdbId": "tt28498219"
-    },
-    {
       "id": 1400837,
       "title": "Other Mommy",
       "releaseDate": "2026-10-09",
@@ -54,25 +42,13 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/hDe0OryfBINwmZDRtQjnh6UKUJf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
       "studioStr": "Columbia Pictures / Alcon Entertainment",
       "prestige": true,
       "imdbId": "tt37510326"
-    },
-    {
-      "id": 1669915,
-      "title": "Angel and the Badman",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Julio Quintana",
-      "studioStr": "Angel Studios",
-      "prestige": true,
-      "imdbId": "tt39850240"
     },
     {
       "id": 1288069,
@@ -133,6 +109,18 @@
       "studioStr": "Searchlight Pictures / Blueprint Pictures",
       "prestige": true,
       "imdbId": "tt15799564"
+    },
+    {
+      "id": 1786298,
+      "title": "Krypto Saves the Day!: Robo-Pal",
+      "releaseDate": "2026-10-31",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "DC Studios / Warner Bros. Animation",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1687303,
@@ -366,7 +354,7 @@
       "id": 1595124,
       "title": "Steps",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Alyce Tzue",
@@ -558,7 +546,7 @@
       "id": 1519780,
       "title": "Diary of a Wimpy Kid: The Getaway",
       "releaseDate": "2026-12-04",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/cAxeNDTbAMcx5er7zRqxtVCCBSM.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Matt Danner",
@@ -592,7 +580,7 @@
     },
     {
       "id": 1408207,
-      "title": "Zero A.D.: The Birth of Christ",
+      "title": "Zero A.D: The Birth of Christ",
       "releaseDate": "2026-12-11",
       "poster": "https://image.tmdb.org/t/p/w92/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
       "format": "theatrical",
@@ -771,18 +759,6 @@
       "imdbId": "tt6779038"
     },
     {
-      "id": 1753605,
-      "title": "The Tiger and Her Wings the Movie",
-      "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/mRg5WCLGXJ1hsBRIyi8r4Si7H2k.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Nagikawa Yoshirou",
-      "studioStr": "TOHO",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1520592,
       "title": "River",
       "releaseDate": "2027-01-15",
@@ -795,6 +771,18 @@
       "imdbId": "tt33085567"
     },
     {
+      "id": 1753605,
+      "title": "The Tiger and Her Wings the Movie",
+      "releaseDate": "2027-01-15",
+      "poster": "https://image.tmdb.org/t/p/w92/mRg5WCLGXJ1hsBRIyi8r4Si7H2k.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nagikawa Yoshirou",
+      "studioStr": "TOHO",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1115030,
       "title": "Animal Friends",
       "releaseDate": "2027-01-22",
@@ -805,18 +793,6 @@
       "studioStr": "Legendary Pictures / Maximum Effort",
       "prestige": true,
       "imdbId": "tt16911616"
-    },
-    {
-      "id": 1774278,
-      "title": "10 Things I Want to Do Before I Turn 40 THE MOVIE",
-      "releaseDate": "2027-01-22",
-      "poster": "https://image.tmdb.org/t/p/w92/5AXJPqBetQgYhD2vz4rgTxqP4O1.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Chihiro Ikeda",
-      "studioStr": "TV Tokyo / Stardust Pictures",
-      "prestige": false,
-      "imdbId": null
     },
     {
       "id": 1560316,
@@ -858,7 +834,7 @@
       "id": 1739413,
       "title": "In My Father's Room",
       "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/bgapSeASBoacEvypu6lp7yIqubP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5ckfbOjUr5Dq1umdoK6aa2fCD34.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Maha Harada",
@@ -964,7 +940,7 @@
     },
     {
       "id": 1517333,
-      "title": "K-Pop: The Debut",
+      "title": "K-POP: The Debut",
       "releaseDate": "2027-02-26",
       "poster": "https://image.tmdb.org/t/p/w92/bGz5IMugwOsoyASG5AwEy0NpZMg.jpg",
       "format": "theatrical",
@@ -1473,7 +1449,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/iG1pMw9ufzXXQDTguT2okaZY3xe.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Mike B. Anderson, David Silverman",
+      "directorStr": "David Silverman",
       "studioStr": "Gracie Films / 20th Century Animation",
       "prestige": true,
       "imdbId": "tt38561132"
@@ -1488,7 +1464,7 @@
       "directorStr": "Rodrigue Huart",
       "studioStr": "New Line Cinema / The Safran Company",
       "prestige": true,
-      "imdbId": "tt39372868"
+      "imdbId": "tt38804736"
     },
     {
       "id": 1122220,
