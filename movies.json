@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-06T17:08:08.738Z",
-  "count": 189,
+  "generatedAt": "2026-10-07T17:44:08.635Z",
+  "count": 192,
   "movies": [
     {
       "id": 1381078,
       "title": "Love of Your Life",
       "releaseDate": "2026-10-07",
-      "poster": "https://image.tmdb.org/t/p/w92/o7ZCmjeW59yujCcAJjjYSJRoZLe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rachel Morrison",
@@ -42,7 +42,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -342,7 +342,7 @@
       "id": 1599230,
       "title": "Elsinore",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/whGi0pbmYnE9mRCg3JRiKpAJON8.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Simon Stone",
@@ -594,8 +594,8 @@
       "id": 1532610,
       "title": "Ink",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
-      "format": "theatrical",
+      "poster": "https://image.tmdb.org/t/p/w92/bTmfOuLiyylwozRwGnV2rtkR6Qi.jpg",
+      "format": "digital",
       "reRelease": false,
       "directorStr": "Danny Boyle",
       "studioStr": "Media Res / House Productions",
@@ -723,6 +723,18 @@
       "imdbId": null
     },
     {
+      "id": 1429574,
+      "title": "Nothing to Lose",
+      "releaseDate": "2027-01-06",
+      "poster": "https://image.tmdb.org/t/p/w92/pJs6gkLtToDtbSiCaq4TGucDnAl.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Louis-Julien Petit",
+      "studioStr": "Gaumont / Pictanovo",
+      "prestige": true,
+      "imdbId": "tt41328385"
+    },
+    {
       "id": 1566727,
       "title": "Zac Power",
       "releaseDate": "2027-01-07",
@@ -795,6 +807,18 @@
       "imdbId": "tt16911616"
     },
     {
+      "id": 1774278,
+      "title": "10 Things I Want to Do Before I Turn 40 THE MOVIE",
+      "releaseDate": "2027-01-22",
+      "poster": "https://image.tmdb.org/t/p/w92/5AXJPqBetQgYhD2vz4rgTxqP4O1.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Chihiro Ikeda",
+      "studioStr": "TV Tokyo / Stardust Pictures",
+      "prestige": false,
+      "imdbId": null
+    },
+    {
       "id": 1560316,
       "title": "I Won't Give Up!",
       "releaseDate": "2027-01-22",
@@ -829,18 +853,6 @@
       "studioStr": "87Eleven / Lionsgate",
       "prestige": true,
       "imdbId": "tt33295857"
-    },
-    {
-      "id": 1739413,
-      "title": "In My Father's Room",
-      "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/5ckfbOjUr5Dq1umdoK6aa2fCD34.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Maha Harada",
-      "studioStr": null,
-      "prestige": false,
-      "imdbId": "tt43718418"
     },
     {
       "id": 1442761,
@@ -990,7 +1002,7 @@
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
-      "poster": "https://image.tmdb.org/t/p/w92/zMD6qOYZYdhJLidlHdhD5a4GtCN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yu4Gm4WEVORMXu7NylWcUhKHBjJ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mike Flanagan",
@@ -1033,6 +1045,18 @@
       "studioStr": "The Cantillon Company / TriStar Pictures",
       "prestige": true,
       "imdbId": "tt4540534"
+    },
+    {
+      "id": 1139422,
+      "title": "The Riders",
+      "releaseDate": "2027-03-25",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Edward Berger",
+      "studioStr": "Nine Hours / Plan B Entertainment",
+      "prestige": true,
+      "imdbId": "tt9148786"
     },
     {
       "id": 1288438,
@@ -1081,6 +1105,18 @@
       "studioStr": "Good Hero / StudioCanal",
       "prestige": true,
       "imdbId": "tt26768234"
+    },
+    {
+      "id": 1559269,
+      "title": "Everybody Wants to F*ck Me",
+      "releaseDate": "2027-04-08",
+      "poster": "https://image.tmdb.org/t/p/w92/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jonathan Schey",
+      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
+      "prestige": true,
+      "imdbId": "tt38629979"
     },
     {
       "id": 1731801,
@@ -1155,16 +1191,16 @@
       "imdbId": "tt29873948"
     },
     {
-      "id": 1559269,
-      "title": "Everybody Wants to F*ck Me",
-      "releaseDate": "2027-05-06",
-      "poster": "https://image.tmdb.org/t/p/w92/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
+      "id": 1218005,
+      "title": "Orphans",
+      "releaseDate": "2027-04-30",
+      "poster": "https://image.tmdb.org/t/p/w92/aUQYvCfd0MGkbXH8KoQfAOCgacQ.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Jonathan Schey",
-      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
+      "directorStr": "William Brent Bell",
+      "studioStr": "Dark Castle Entertainment / Lionsgate",
       "prestige": true,
-      "imdbId": "tt38629979"
+      "imdbId": "tt21965426"
     },
     {
       "id": 532652,
@@ -1677,7 +1713,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1746,7 +1782,7 @@
       "id": 1671441,
       "title": "Hexagram",
       "releaseDate": "2028-01-14",
-      "poster": "https://image.tmdb.org/t/p/w92/5qfQvRmYCgPXHwmZAWGWgEDVNuZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/skIAtJgGJjgiVQvig5QOK2Kz0F8.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Osgood Perkins",
