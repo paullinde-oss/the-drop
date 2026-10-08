@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-10-07T17:44:08.635Z",
+  "generatedAt": "2026-10-08T17:47:07.959Z",
   "count": 192,
   "movies": [
-    {
-      "id": 1381078,
-      "title": "Love of Your Life",
-      "releaseDate": "2026-10-07",
-      "poster": "https://image.tmdb.org/t/p/w92/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Rachel Morrison",
-      "studioStr": "Amazon MGM Studios / Open Invite Entertainment",
-      "prestige": true,
-      "imdbId": "tt34384900"
-    },
     {
       "id": 1447963,
       "title": "Found Alive",
@@ -25,6 +13,18 @@
       "studioStr": "XYZ Films / IPR.VC",
       "prestige": true,
       "imdbId": "tt4864632"
+    },
+    {
+      "id": 1429574,
+      "title": "Nothing to Lose",
+      "releaseDate": "2026-10-08",
+      "poster": "https://image.tmdb.org/t/p/w92/pJs6gkLtToDtbSiCaq4TGucDnAl.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Louis-Julien Petit",
+      "studioStr": "Gaumont / Pictanovo",
+      "prestige": true,
+      "imdbId": "tt41328385"
     },
     {
       "id": 1400837,
@@ -42,7 +42,7 @@
       "id": 1281331,
       "title": "The Social Reckoning",
       "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Aaron Sorkin",
@@ -135,6 +135,18 @@
       "imdbId": null
     },
     {
+      "id": 1381071,
+      "title": "Godzilla Minus Zero",
+      "releaseDate": "2026-11-03",
+      "poster": "https://image.tmdb.org/t/p/w92/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Takashi Yamazaki",
+      "studioStr": "TOHO / Robot Communications",
+      "prestige": true,
+      "imdbId": "tt34384661"
+    },
+    {
       "id": 1003494,
       "title": "Women on Trial",
       "releaseDate": "2026-11-04",
@@ -150,7 +162,7 @@
       "id": 1654940,
       "title": "One Year to Live, Buy a Man",
       "releaseDate": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Hiroki Kazama",
@@ -181,18 +193,6 @@
       "studioStr": "Bombero International / Warner Bros. Film Productions Germany",
       "prestige": true,
       "imdbId": "tt36501204"
-    },
-    {
-      "id": 1381071,
-      "title": "Godzilla Minus Zero",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takashi Yamazaki",
-      "studioStr": "TOHO / Robot Communications",
-      "prestige": true,
-      "imdbId": "tt34384661"
     },
     {
       "id": 1117898,
@@ -342,7 +342,7 @@
       "id": 1599230,
       "title": "Elsinore",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/whGi0pbmYnE9mRCg3JRiKpAJON8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Simon Stone",
@@ -426,7 +426,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6aS1fKh5Z8Vf9n7wWtVAe86BHVG.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -481,6 +481,18 @@
       "studioStr": "Grey Matter Productions / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt16995302"
+    },
+    {
+      "id": 1591961,
+      "title": "My Crazy Feminist Girlfriend",
+      "releaseDate": "2026-12-03",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Keiichi Kobayashi",
+      "studioStr": "AOI Pro. / Netflix",
+      "prestige": true,
+      "imdbId": "tt39107065"
     },
     {
       "id": 1452168,
@@ -544,9 +556,9 @@
     },
     {
       "id": 1519780,
-      "title": "Diary of a Wimpy Kid: The Getaway",
+      "title": "Diary of a Wimpy Kid Christmas: The Getaway",
       "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/cAxeNDTbAMcx5er7zRqxtVCCBSM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/q6SR12TFod8m2izUb3b9eUCn7b.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Matt Danner",
@@ -616,7 +628,7 @@
     },
     {
       "id": 1566920,
-      "title": "The Apothecary Diaries: The Deceased Empress' Treasure",
+      "title": "The Apothecary Diaries: The Late Lady's Treasure",
       "releaseDate": "2026-12-11",
       "poster": "https://image.tmdb.org/t/p/w92/tDFTMv5XT50WpVRWJsGKWslz6LG.jpg",
       "format": "theatrical",
@@ -721,18 +733,6 @@
       "studioStr": "Studio Soi / X Filme Creative Pool",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1429574,
-      "title": "Nothing to Lose",
-      "releaseDate": "2027-01-06",
-      "poster": "https://image.tmdb.org/t/p/w92/pJs6gkLtToDtbSiCaq4TGucDnAl.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Louis-Julien Petit",
-      "studioStr": "Gaumont / Pictanovo",
-      "prestige": true,
-      "imdbId": "tt41328385"
     },
     {
       "id": 1566727,
@@ -1215,18 +1215,6 @@
       "imdbId": "tt5795232"
     },
     {
-      "id": 1109469,
-      "title": "Beach Read",
-      "releaseDate": "2027-05-07",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Yulin Kuang",
-      "studioStr": "20th Century Studios / Original Film",
-      "prestige": true,
-      "imdbId": "tt27435653"
-    },
-    {
       "id": 1540936,
       "title": "Anything but Ghosts",
       "releaseDate": "2027-05-07",
@@ -1237,6 +1225,18 @@
       "studioStr": "Spooky Pictures / Divide / Conquer",
       "prestige": true,
       "imdbId": "tt38120758"
+    },
+    {
+      "id": 1109469,
+      "title": "Beach Read",
+      "releaseDate": "2027-05-07",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Yulin Kuang",
+      "studioStr": "20th Century Studios / Original Film",
+      "prestige": true,
+      "imdbId": "tt27435653"
     },
     {
       "id": 556682,
@@ -1713,7 +1713,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
