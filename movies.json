@@ -1,55 +1,7 @@
 {
-  "generatedAt": "2026-10-09T17:22:08.878Z",
-  "count": 193,
+  "generatedAt": "2026-10-10T16:10:49.841Z",
+  "count": 187,
   "movies": [
-    {
-      "id": 1400837,
-      "title": "Other Mommy",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Rob Savage",
-      "studioStr": "Blumhouse Productions / Atomic Monster",
-      "prestige": true,
-      "imdbId": "tt36586020"
-    },
-    {
-      "id": 1281331,
-      "title": "The Social Reckoning",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Aaron Sorkin",
-      "studioStr": "Columbia Pictures / Alcon Entertainment",
-      "prestige": true,
-      "imdbId": "tt37510326"
-    },
-    {
-      "id": 1669915,
-      "title": "Angel and the Badman",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Julio Quintana",
-      "studioStr": "Angel Studios",
-      "prestige": true,
-      "imdbId": "tt39850240"
-    },
-    {
-      "id": 1288069,
-      "title": "Tenzing",
-      "releaseDate": "2026-10-09",
-      "poster": "https://image.tmdb.org/t/p/w92/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Jennifer Peedom",
-      "studioStr": "Cross City Films / See-Saw Films",
-      "prestige": true,
-      "imdbId": "tt6262770"
-    },
     {
       "id": 1430815,
       "title": "A Good Little Soldier",
@@ -99,18 +51,6 @@
       "imdbId": "tt15799564"
     },
     {
-      "id": 1786298,
-      "title": "Krypto Saves the Day!: Robo-Pal",
-      "releaseDate": "2026-10-31",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "DC Studios / Warner Bros. Animation",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Vanishing",
       "releaseDate": "2026-11-03",
@@ -141,7 +81,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -414,7 +354,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/6aS1fKh5Z8Vf9n7wWtVAe86BHVG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9glmVprB6L0yrNsG5aocW6FYLyL.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -807,6 +747,18 @@
       "imdbId": null
     },
     {
+      "id": 920167,
+      "title": "Witch on the Holy Night",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/xKpYIt7T6nJ8oqzV52yLtZdC0YB.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Hikaru Kondou, Masaru Takeuchi",
+      "studioStr": "ufotable / TYPE-MOON",
+      "prestige": false,
+      "imdbId": "tt31970593"
+    },
+    {
       "id": 1425472,
       "title": "The Rescue",
       "releaseDate": "2027-01-29",
@@ -978,7 +930,7 @@
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
-      "poster": "https://image.tmdb.org/t/p/w92/yu4Gm4WEVORMXu7NylWcUhKHBjJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mike Flanagan",
@@ -1194,7 +1146,7 @@
       "id": 1540936,
       "title": "Anything but Ghosts",
       "releaseDate": "2027-05-07",
-      "poster": "https://image.tmdb.org/t/p/w92/afV0ZsYPWcCEZ1gIx0ndi4rd2jd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/xOIlWYYR3lOJWuMTjAU5U1MDlpS.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Curry Barker",
@@ -1228,7 +1180,7 @@
     },
     {
       "id": 1592452,
-      "title": "Paranormal Activity 8",
+      "title": "Paranormal Activity",
       "releaseDate": "2027-05-21",
       "poster": "https://image.tmdb.org/t/p/w92/5qwFilGZbYaXHLG4I1Kp82bwbGL.jpg",
       "format": "theatrical",
@@ -1332,7 +1284,7 @@
       "directorStr": "Michael Keaton",
       "studioStr": "Revelations Entertainment / George & Leona Productions",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt48479066"
     },
     {
       "id": 1523140,
@@ -1455,6 +1407,18 @@
       "imdbId": "tt31512072"
     },
     {
+      "id": 1380718,
+      "title": "Molepeople",
+      "releaseDate": "2027-08-27",
+      "poster": "https://image.tmdb.org/t/p/w92/2bRAPgnp0xBwPXCX5WfGTEAOs3v.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Rob Savage",
+      "studioStr": "Blumhouse Productions / Atomic Monster",
+      "prestige": true,
+      "imdbId": "tt34381444"
+    },
+    {
       "id": 1554353,
       "title": "The New Simpsons Movie",
       "releaseDate": "2027-09-03",
@@ -1480,7 +1444,7 @@
     },
     {
       "id": 1122220,
-      "title": "Untitled Blair Witch Film",
+      "title": "Blair Witch Project",
       "releaseDate": "2027-09-24",
       "poster": "https://image.tmdb.org/t/p/w92/1mi6QRfUaSoe9pTvSY4L9AHdazh.jpg",
       "format": "theatrical",
@@ -1561,18 +1525,6 @@
       "studioStr": "Universal Pictures / Radio Silence",
       "prestige": true,
       "imdbId": "tt22408968"
-    },
-    {
-      "id": 1792131,
-      "title": "Marvel Zombies: The Winter Soldier",
-      "releaseDate": "2027-10-31",
-      "poster": "https://image.tmdb.org/t/p/w92/c0oRgXpM2MKJNUVDPIvGGfqFkCf.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Marvel Animation / Marvel Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1673868,
@@ -2134,7 +2086,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Zach Cregger",
-      "studioStr": "New Line Cinema / Amblin Entertainment",
+      "studioStr": "Amblin Entertainment / Subconscious",
       "prestige": true,
       "imdbId": "tt38581828"
     },
@@ -2173,18 +2125,6 @@
       "studioStr": "Paramount Animation",
       "prestige": true,
       "imdbId": "tt43610781"
-    },
-    {
-      "id": 1792135,
-      "title": "Marvel Zombies: The Fist of Khonshu",
-      "releaseDate": "2028-10-31",
-      "poster": "https://image.tmdb.org/t/p/w92/okBea4JhKcfhHKgsm7QAKdnApZd.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Marvel Animation / Marvel Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1715249,
@@ -2281,18 +2221,6 @@
       "studioStr": "Warner Bros. Pictures",
       "prestige": true,
       "imdbId": "tt34382478"
-    },
-    {
-      "id": 1792136,
-      "title": "Marvel Zombies: The Last Guardian",
-      "releaseDate": "2029-10-31",
-      "poster": "https://image.tmdb.org/t/p/w92/fnDZonKWZyI1Pb7pD4QzEnOzfVt.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Marvel Animation / Marvel Studios",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1451567,
