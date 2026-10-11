@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T16:10:49.841Z",
-  "count": 187,
+  "generatedAt": "2026-10-11T16:35:06.183Z",
+  "count": 188,
   "movies": [
     {
       "id": 1430815,
@@ -354,7 +354,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/9glmVprB6L0yrNsG5aocW6FYLyL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -534,7 +534,7 @@
       "id": 1532610,
       "title": "Ink",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/bTmfOuLiyylwozRwGnV2rtkR6Qi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Danny Boyle",
@@ -663,6 +663,18 @@
       "imdbId": null
     },
     {
+      "id": 1429574,
+      "title": "Nothing to Lose",
+      "releaseDate": "2027-01-06",
+      "poster": "https://image.tmdb.org/t/p/w92/pJs6gkLtToDtbSiCaq4TGucDnAl.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Louis-Julien Petit",
+      "studioStr": "Gaumont / Pictanovo",
+      "prestige": true,
+      "imdbId": "tt41328385"
+    },
+    {
       "id": 1566727,
       "title": "Zac Power",
       "releaseDate": "2027-01-07",
@@ -747,16 +759,16 @@
       "imdbId": null
     },
     {
-      "id": 920167,
-      "title": "Witch on the Holy Night",
-      "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/xKpYIt7T6nJ8oqzV52yLtZdC0YB.jpg",
+      "id": 1504880,
+      "title": "Wind of Change",
+      "releaseDate": "2027-01-28",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Hikaru Kondou, Masaru Takeuchi",
-      "studioStr": "ufotable / TYPE-MOON",
-      "prestige": false,
-      "imdbId": "tt31970593"
+      "directorStr": "Alex Ranarivelo",
+      "studioStr": "ESX Entertainment / FOX Entertainment",
+      "prestige": true,
+      "imdbId": "tt37458298"
     },
     {
       "id": 1425472,
