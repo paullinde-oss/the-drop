@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T16:35:06.183Z",
-  "count": 188,
+  "generatedAt": "2026-10-12T20:11:49.313Z",
+  "count": 189,
   "movies": [
     {
       "id": 1430815,
@@ -15,6 +15,18 @@
       "imdbId": "tt41802342"
     },
     {
+      "id": 791523,
+      "title": "Wildwood",
+      "releaseDate": "2026-10-19",
+      "poster": "https://image.tmdb.org/t/p/w92/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Travis Knight",
+      "studioStr": "LAIKA",
+      "prestige": true,
+      "imdbId": "tt2056785"
+    },
+    {
       "id": 1400940,
       "title": "Clayface",
       "releaseDate": "2026-10-21",
@@ -27,16 +39,16 @@
       "imdbId": "tt34890576"
     },
     {
-      "id": 791523,
-      "title": "Wildwood",
-      "releaseDate": "2026-10-22",
-      "poster": "https://image.tmdb.org/t/p/w92/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "id": 1621673,
+      "title": "Sukiyaki",
+      "releaseDate": "2026-10-24",
+      "poster": "https://image.tmdb.org/t/p/w92/75A08il8gi8ToPCEAFqWdCwoZ1.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Travis Knight",
-      "studioStr": "LAIKA",
+      "directorStr": "Takahisa Zeze",
+      "studioStr": "TOHO / AX-ON",
       "prestige": true,
-      "imdbId": "tt2056785"
+      "imdbId": "tt44939485"
     },
     {
       "id": 891621,
@@ -220,7 +232,7 @@
     },
     {
       "id": 1737072,
-      "title": "Noroi no Smartphone",
+      "title": "Cursed Meme",
       "releaseDate": "2026-11-13",
       "poster": "https://image.tmdb.org/t/p/w92/qryNJvosIIaltiMQleHPZtCoI1l.jpg",
       "format": "theatrical",
@@ -354,7 +366,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6aS1fKh5Z8Vf9n7wWtVAe86BHVG.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -555,6 +567,18 @@
       "imdbId": "tt34718200"
     },
     {
+      "id": 1785664,
+      "title": "Monster in Sheep's Clothing",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/gqGz9hj8T8p7M5XeFnb5BtKZrHU.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Yang Liping",
+      "studioStr": "Amazon MGM Studios",
+      "prestige": true,
+      "imdbId": "tt61076587"
+    },
+    {
       "id": 1566920,
       "title": "The Apothecary Diaries: The Late Lady's Treasure",
       "releaseDate": "2026-12-11",
@@ -582,7 +606,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -601,18 +625,6 @@
       "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
       "prestige": true,
       "imdbId": "tt26735127"
-    },
-    {
-      "id": 1621673,
-      "title": "Sukiyaki",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/75A08il8gi8ToPCEAFqWdCwoZ1.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takahisa Zeze",
-      "studioStr": "TOHO / AX-ON",
-      "prestige": true,
-      "imdbId": "tt44939485"
     },
     {
       "id": 1421903,
@@ -637,6 +649,18 @@
       "studioStr": "Skydance Sports / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt30093348"
+    },
+    {
+      "id": 1711927,
+      "title": "New Year’s Eve Concert with Berliner Philharmoniker",
+      "releaseDate": "2026-12-31",
+      "poster": "https://image.tmdb.org/t/p/w92/tfYidkyEKTIiVsvQIEnL4CZyOCv.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Kirill Petrenko",
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": null
     },
     {
       "id": 934372,
@@ -745,18 +769,6 @@
       "studioStr": "Legendary Pictures / Maximum Effort",
       "prestige": true,
       "imdbId": "tt16911616"
-    },
-    {
-      "id": 1560316,
-      "title": "I Won't Give Up!",
-      "releaseDate": "2027-01-22",
-      "poster": "https://image.tmdb.org/t/p/w92/vJ5dpcqly5KjRhFK73WwjLAjWtu.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Akiko Ohku",
-      "studioStr": null,
-      "prestige": false,
-      "imdbId": null
     },
     {
       "id": 1504880,
@@ -1426,7 +1438,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rob Savage",
-      "studioStr": "Blumhouse Productions / Atomic Monster",
+      "studioStr": "Paramount Primal / Blumhouse Atomic Monster",
       "prestige": true,
       "imdbId": "tt34381444"
     },
@@ -1510,7 +1522,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jacob Chase",
-      "studioStr": "Blumhouse Productions / Atomic Monster",
+      "studioStr": "Universal Pictures / Cinescape Entertainment",
       "prestige": true,
       "imdbId": "tt30017708"
     },
@@ -1594,7 +1606,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Drew Hancock",
-      "studioStr": "21 Laps Entertainment / Atomic Monster",
+      "studioStr": "21 Laps Entertainment / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt12850068"
     },
@@ -1665,7 +1677,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1974,7 +1986,7 @@
       "id": 1467853,
       "title": "Miami Vice '85",
       "releaseDate": "2028-05-19",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/iMj4HaysrLx4VZr7oQLfIAHUxHo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joseph Kosinski",
