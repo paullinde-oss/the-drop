@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:11:49.313Z",
+  "generatedAt": "2026-10-13T17:59:37.600Z",
   "count": 189,
   "movies": [
     {
@@ -18,7 +18,7 @@
       "id": 791523,
       "title": "Wildwood",
       "releaseDate": "2026-10-19",
-      "poster": "https://image.tmdb.org/t/p/w92/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Travis Knight",
@@ -162,7 +162,7 @@
       "id": 1050981,
       "title": "Being Heumann",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/sp5lI7OwRRCjr0sPUxccyv1ZsGG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Sian Heder",
@@ -241,6 +241,18 @@
       "studioStr": "LesPros Entertainment / Shochiku",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1716604,
+      "title": "A Proud Family Wizmas",
+      "releaseDate": "2026-11-14",
+      "poster": "https://image.tmdb.org/t/p/w92/5BbAPNu3171rAqO5oTJNDg4488Q.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "David H. Brooks",
+      "studioStr": "Disney Branded Television / Disney Television Animation",
+      "prestige": true,
+      "imdbId": "tt43596156"
     },
     {
       "id": 1625344,
@@ -399,18 +411,6 @@
       "imdbId": null
     },
     {
-      "id": 1716604,
-      "title": "A Proud Family Wizmas",
-      "releaseDate": "2026-11-27",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "David H. Brooks",
-      "studioStr": "Disney Branded Television / Disney Television Animation",
-      "prestige": true,
-      "imdbId": "tt43596156"
-    },
-    {
       "id": 1137888,
       "title": "The Man with the Bag",
       "releaseDate": "2026-12-02",
@@ -504,7 +504,7 @@
       "directorStr": "Matt Danner",
       "studioStr": "Bardel Entertainment / Walt Disney Pictures",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt48503221"
     },
     {
       "id": 1389765,
@@ -738,7 +738,7 @@
       "id": 1520592,
       "title": "River",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/d9jqItIaBvvtSWLKvd5oopEan2y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hs1Kr6iNODOQaOqCs63yZXF3GKJ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joshua Giuliano",
@@ -958,7 +958,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mike Flanagan",
-      "studioStr": "Red Room Pictures / Blumhouse Productions",
+      "studioStr": "Red Room Pictures / Morgan Creek Entertainment",
       "prestige": true,
       "imdbId": "tt32492552"
     },
@@ -1062,7 +1062,7 @@
       "id": 1559269,
       "title": "Everybody Wants to F*ck Me",
       "releaseDate": "2027-04-08",
-      "poster": "https://image.tmdb.org/t/p/w92/6odKHNxNoEeJrQHDfdLMPnsR4KX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/drBcCBZv8oYaqlKoFMoAKg17KVq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jonathan Schey",
@@ -1210,7 +1210,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ian Tuason",
-      "studioStr": "Atomic Monster / Blumhouse Productions",
+      "studioStr": "Paramount Pictures / Solana Films",
       "prestige": true,
       "imdbId": "tt39104938"
     },
@@ -1474,7 +1474,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dylan Clark",
-      "studioStr": "Blumhouse Productions / Lionsgate",
+      "studioStr": "Lionsgate / Divide / Conquer",
       "prestige": true,
       "imdbId": "tt32082826"
     },
@@ -1986,7 +1986,7 @@
       "id": 1467853,
       "title": "Miami Vice '85",
       "releaseDate": "2028-05-19",
-      "poster": "https://image.tmdb.org/t/p/w92/iMj4HaysrLx4VZr7oQLfIAHUxHo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jSnejFSSzjZHI3JPVT9wohRvWMb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joseph Kosinski",
