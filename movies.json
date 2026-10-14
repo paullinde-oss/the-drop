@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T17:59:37.600Z",
-  "count": 189,
+  "generatedAt": "2026-10-14T15:46:11.839Z",
+  "count": 190,
   "movies": [
     {
       "id": 1430815,
@@ -85,6 +85,18 @@
       "studioStr": "TOHO / Robot Communications",
       "prestige": true,
       "imdbId": "tt34384661"
+    },
+    {
+      "id": 1797146,
+      "title": "Louder Than the Odds: The Mr. Smalls Story",
+      "releaseDate": "2026-11-04",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": null,
+      "prestige": false,
+      "imdbId": null
     },
     {
       "id": 1003494,
@@ -192,7 +204,7 @@
       "directorStr": "Piotr Domalewski",
       "studioStr": "Next Film / TVN Warner Bros. Discovery",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt35571123"
     },
     {
       "id": 1131943,
@@ -246,11 +258,11 @@
       "id": 1716604,
       "title": "A Proud Family Wizmas",
       "releaseDate": "2026-11-14",
-      "poster": "https://image.tmdb.org/t/p/w92/5BbAPNu3171rAqO5oTJNDg4488Q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "David H. Brooks",
-      "studioStr": "Disney Branded Television / Disney Television Animation",
+      "studioStr": "Disney Television Animation / BaR Productions",
       "prestige": true,
       "imdbId": "tt43596156"
     },
@@ -408,7 +420,7 @@
       "directorStr": "Ryutaro Nakagawa",
       "studioStr": "Shochiku",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt48499816"
     },
     {
       "id": 1137888,
@@ -522,7 +534,7 @@
       "id": 1421967,
       "title": "Violette",
       "releaseDate": "2026-12-09",
-      "poster": "https://image.tmdb.org/t/p/w92/oCTRbUsPCACAWf799j8kXKvhmnk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nXCS8xCMx4VRIZV1LAqHqWDdu7E.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jean-Pierre Jeunet",
@@ -606,7 +618,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -714,7 +726,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/10jGGKeNxY4j6pvJpWLmBzcMeMH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/teSxpDktlZSZ1jsi9OlbaxZamge.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -738,7 +750,7 @@
       "id": 1520592,
       "title": "River",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/hs1Kr6iNODOQaOqCs63yZXF3GKJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/d9jqItIaBvvtSWLKvd5oopEan2y.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joshua Giuliano",
