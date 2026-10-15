@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T15:46:11.839Z",
-  "count": 190,
+  "generatedAt": "2026-10-15T15:33:00.387Z",
+  "count": 191,
   "movies": [
     {
       "id": 1430815,
@@ -93,7 +93,7 @@
       "poster": null,
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": null,
+      "directorStr": "Liz Berlin, Evan Edelist",
       "studioStr": null,
       "prestige": false,
       "imdbId": null
@@ -253,6 +253,18 @@
       "studioStr": "LesPros Entertainment / Shochiku",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1381273,
+      "title": "Paper Tiger",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "James Gray",
+      "studioStr": "RT Features / Leone Film Group",
+      "prestige": false,
+      "imdbId": "tt34385689"
     },
     {
       "id": 1716604,
@@ -618,7 +630,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -726,7 +738,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/teSxpDktlZSZ1jsi9OlbaxZamge.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mzepO3crKkX4Mhyj9Lrix3yn2sT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -750,7 +762,7 @@
       "id": 1520592,
       "title": "River",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/d9jqItIaBvvtSWLKvd5oopEan2y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/xe9V5utoUjyb92g5eBWbro1MSKd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joshua Giuliano",
@@ -966,7 +978,7 @@
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
-      "poster": "https://image.tmdb.org/t/p/w92/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/i3kvS445sWWIhuxgXywPuUcsoP0.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mike Flanagan",
@@ -1689,7 +1701,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1840,7 +1852,7 @@
     },
     {
       "id": 1485839,
-      "title": "Elden Ring",
+      "title": "The Elden Ring",
       "releaseDate": "2028-03-03",
       "poster": "https://image.tmdb.org/t/p/w92/3ApvUAl0aw6TKKLkJH3IrEzPpIf.jpg",
       "format": "theatrical",
