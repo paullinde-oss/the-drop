@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:33:00.387Z",
+  "generatedAt": "2026-10-16T15:12:49.773Z",
   "count": 191,
   "movies": [
     {
@@ -243,18 +243,6 @@
       "imdbId": "tt35866986"
     },
     {
-      "id": 1737072,
-      "title": "Cursed Meme",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/qryNJvosIIaltiMQleHPZtCoI1l.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kan Yamamoto",
-      "studioStr": "LesPros Entertainment / Shochiku",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1381273,
       "title": "Paper Tiger",
       "releaseDate": "2026-11-13",
@@ -325,18 +313,6 @@
       "studioStr": "Lucky Red / LD Entertainment",
       "prestige": true,
       "imdbId": "tt37363222"
-    },
-    {
-      "id": 1595124,
-      "title": "Steps",
-      "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/8Kj6Fsgdsdr7XsxrgHwIlSFF1fz.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Alyce Tzue",
-      "studioStr": "Netflix Animation Studios / Paper Kite Productions",
-      "prestige": true,
-      "imdbId": "tt14413964"
     },
     {
       "id": 1568060,
@@ -433,6 +409,18 @@
       "studioStr": "Shochiku",
       "prestige": true,
       "imdbId": "tt48499816"
+    },
+    {
+      "id": 1715686,
+      "title": "Mickey's Home Alone",
+      "releaseDate": "2026-11-27",
+      "poster": "https://image.tmdb.org/t/p/w92/mxfOMsknN6ihwCHS7leiQ4OnUeY.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Shane Prigmore",
+      "studioStr": "Disney Branded Television / Wild Canary",
+      "prestige": true,
+      "imdbId": "tt43589736"
     },
     {
       "id": 1137888,
@@ -630,7 +618,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -738,7 +726,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/mzepO3crKkX4Mhyj9Lrix3yn2sT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kYr0WsY1SEGfpUrLKSpvNmtoXQ3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -831,6 +819,18 @@
       "imdbId": "tt33295857"
     },
     {
+      "id": 1707078,
+      "title": "The Confidant",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/gemvJWkMRl1S41SGjK57Z2Tppqn.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Daniel Calparsoro",
+      "studioStr": "Bowfinger / Esto También Pasará",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1442761,
       "title": "Slayground",
       "releaseDate": "2027-01-29",
@@ -918,7 +918,7 @@
       "id": 1533611,
       "title": "The Revenge of La Llorona",
       "releaseDate": "2027-02-26",
-      "poster": "https://image.tmdb.org/t/p/w92/5XjRvsQLZd5W7g934C3GHxjyNRj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yh8s5PZKLFRNkCiUID7WODvxH9S.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Santiago Menghini",
@@ -1482,7 +1482,7 @@
       "id": 1544162,
       "title": "The Conjuring: First Communion",
       "releaseDate": "2027-09-10",
-      "poster": "https://image.tmdb.org/t/p/w92/dgyJySF7AETucMIxl8dyEsE9oWy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lUtIsmzLLWKkaP8QOTwVeA9geBG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rodrigue Huart",
@@ -1564,9 +1564,9 @@
     },
     {
       "id": 1574840,
-      "title": "The Mummy 4",
+      "title": "The Mummy: Book of the Dead",
       "releaseDate": "2027-10-15",
-      "poster": "https://image.tmdb.org/t/p/w92/ihR2uqtz5Gn37g5gIZ2SEO2n6N1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/pTr2Y0uGQeNEUdCgffbXeWk7fNk.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Matt Bettinelli-Olpin, Tyler Gillett",
@@ -1701,7 +1701,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1852,7 +1852,7 @@
     },
     {
       "id": 1485839,
-      "title": "The Elden Ring",
+      "title": "Elden Ring",
       "releaseDate": "2028-03-03",
       "poster": "https://image.tmdb.org/t/p/w92/3ApvUAl0aw6TKKLkJH3IrEzPpIf.jpg",
       "format": "theatrical",
@@ -2262,7 +2262,7 @@
       "id": 1380804,
       "title": "Game of Thrones: Aegon's Conquest",
       "releaseDate": "2029-06-06",
-      "poster": "https://image.tmdb.org/t/p/w92/qynu6SiRgzHHJpkZyKG1f0stqSn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tmAqB4Tm1I8IxK1OX7mEBlMfNGI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Owen Harris",
