@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T15:12:49.773Z",
-  "count": 191,
+  "generatedAt": "2026-10-17T14:07:03.975Z",
+  "count": 192,
   "movies": [
     {
       "id": 1430815,
@@ -234,13 +234,25 @@
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fC7om9keWj3U0vJvZ0XiDQmlLVe.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Leitch",
       "studioStr": "87North Productions / Imagine Entertainment",
       "prestige": true,
       "imdbId": "tt35866986"
+    },
+    {
+      "id": 1707955,
+      "title": "Cursed Meme",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/7ZsxOt6MnEf2Z67sEMJoEPKMPe4.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Kan Yamamoto",
+      "studioStr": "Shochiku / LesPros Entertainment",
+      "prestige": true,
+      "imdbId": "tt45556743"
     },
     {
       "id": 1381273,
@@ -277,18 +289,6 @@
       "studioStr": "Claussen+Putz Filmproduktion / StudioCanal",
       "prestige": true,
       "imdbId": "tt43632661"
-    },
-    {
-      "id": 1587351,
-      "title": "Canned Heat",
-      "releaseDate": "2026-11-19",
-      "poster": "https://image.tmdb.org/t/p/w92/sfisKhq7gMadGapvyj6T3sj4zE6.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Santiago Dellape",
-      "studioStr": "Gancho de Nuvem / A Fábrica",
-      "prestige": true,
-      "imdbId": "tt40423349"
     },
     {
       "id": 1300968,
@@ -378,7 +378,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/6aS1fKh5Z8Vf9n7wWtVAe86BHVG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -415,7 +415,7 @@
       "title": "Mickey's Home Alone",
       "releaseDate": "2026-11-27",
       "poster": "https://image.tmdb.org/t/p/w92/mxfOMsknN6ihwCHS7leiQ4OnUeY.jpg",
-      "format": "theatrical",
+      "format": "digital",
       "reRelease": false,
       "directorStr": "Shane Prigmore",
       "studioStr": "Disney Branded Television / Wild Canary",
@@ -493,18 +493,6 @@
       "studioStr": "Future Artists Entertainment / Lionsgate",
       "prestige": true,
       "imdbId": "tt29634374"
-    },
-    {
-      "id": 1596282,
-      "title": "The Friend's House is Here",
-      "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/5uRKIfMNcEzS1vWl0l69YUYoW1F.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Hossein Keshavarz, Maryam Ataei",
-      "studioStr": "Alma Linda Films",
-      "prestige": false,
-      "imdbId": "tt38980819"
     },
     {
       "id": 1519780,
@@ -687,6 +675,18 @@
       "imdbId": "tt14658038"
     },
     {
+      "id": 1799141,
+      "title": "Paige Prater The Movie",
+      "releaseDate": "2027-01-01",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Lionsgate / Entertainment One",
+      "prestige": true,
+      "imdbId": "tt34345656"
+    },
+    {
       "id": 1619903,
       "title": "The Unicorn That Said No",
       "releaseDate": "2027-01-01",
@@ -714,7 +714,7 @@
       "id": 1566727,
       "title": "Zac Power",
       "releaseDate": "2027-01-07",
-      "poster": "https://image.tmdb.org/t/p/w92/sFpeasJDDEPEHwXWFSNoPniIdu0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rDQjjGi6sFi9vqw8PNq87A3xGk5.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Alexs Stadermann, David Webster",
@@ -918,7 +918,7 @@
       "id": 1533611,
       "title": "The Revenge of La Llorona",
       "releaseDate": "2027-02-26",
-      "poster": "https://image.tmdb.org/t/p/w92/yh8s5PZKLFRNkCiUID7WODvxH9S.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5XjRvsQLZd5W7g934C3GHxjyNRj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Santiago Menghini",
@@ -1597,6 +1597,18 @@
       "studioStr": "LuckyChap Entertainment / Universal Pictures",
       "prestige": true,
       "imdbId": "tt30343245"
+    },
+    {
+      "id": 1710881,
+      "title": "Treasure Island",
+      "releaseDate": "2027-11-11",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ridley Scott",
+      "studioStr": "Columbia Pictures / Scott Free Productions",
+      "prestige": true,
+      "imdbId": "tt43438831"
     },
     {
       "id": 1290568,
