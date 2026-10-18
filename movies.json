@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T14:07:03.975Z",
+  "generatedAt": "2026-10-18T14:20:11.684Z",
   "count": 192,
   "movies": [
     {
@@ -255,18 +255,6 @@
       "imdbId": "tt45556743"
     },
     {
-      "id": 1381273,
-      "title": "Paper Tiger",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "James Gray",
-      "studioStr": "RT Features / Leone Film Group",
-      "prestige": false,
-      "imdbId": "tt34385689"
-    },
-    {
       "id": 1716604,
       "title": "A Proud Family Wizmas",
       "releaseDate": "2026-11-14",
@@ -378,7 +366,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wWJJMvBduAsH26MVkwsnssCh1WZ.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -726,7 +714,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/kYr0WsY1SEGfpUrLKSpvNmtoXQ3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mzepO3crKkX4Mhyj9Lrix3yn2sT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -901,6 +889,18 @@
       "studioStr": "Moonbug Entertainment / Flywheel Media",
       "prestige": true,
       "imdbId": "tt31339071"
+    },
+    {
+      "id": 1677235,
+      "title": "The Gate of Murder",
+      "releaseDate": "2027-02-19",
+      "poster": "https://image.tmdb.org/t/p/w92/reKfPJre09EH3ori1G7hmIK62cV.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ko Kanai",
+      "studioStr": "KADOKAWA / Fuji Television Network",
+      "prestige": true,
+      "imdbId": "tt43673873"
     },
     {
       "id": 1700881,
@@ -1455,10 +1455,22 @@
       "imdbId": "tt31512072"
     },
     {
+      "id": 656618,
+      "title": "High in the Clouds",
+      "releaseDate": "2027-08-19",
+      "poster": "https://image.tmdb.org/t/p/w92/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Toby Genkel",
+      "studioStr": "Gaumont / Gaumont Animation",
+      "prestige": true,
+      "imdbId": "tt1458167"
+    },
+    {
       "id": 1380718,
       "title": "Molepeople",
       "releaseDate": "2027-08-27",
-      "poster": "https://image.tmdb.org/t/p/w92/2bRAPgnp0xBwPXCX5WfGTEAOs3v.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8ttdAKCtQl3eyABda89NQH7Iebm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Rob Savage",
@@ -1525,18 +1537,6 @@
       "studioStr": "Warner Bros. Pictures / Bad Robot",
       "prestige": true,
       "imdbId": "tt33075482"
-    },
-    {
-      "id": 656618,
-      "title": "High in the Clouds",
-      "releaseDate": "2027-10-07",
-      "poster": "https://image.tmdb.org/t/p/w92/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Toby Genkel",
-      "studioStr": "Gaumont / Gaumont Animation",
-      "prestige": true,
-      "imdbId": "tt1458167"
     },
     {
       "id": 1755624,
@@ -1713,7 +1713,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
