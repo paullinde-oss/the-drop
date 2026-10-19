@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-10-18T14:20:11.684Z",
-  "count": 192,
+  "generatedAt": "2026-10-19T17:24:30.352Z",
+  "count": 194,
   "movies": [
-    {
-      "id": 1430815,
-      "title": "A Good Little Soldier",
-      "releaseDate": "2026-10-18",
-      "poster": "https://image.tmdb.org/t/p/w92/8f44DSQtdo5VBZWLrAuJt4Sp5us.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Stéphane Brizé",
-      "studioStr": "Gaumont / France 3 Cinéma",
-      "prestige": true,
-      "imdbId": "tt41802342"
-    },
     {
       "id": 791523,
       "title": "Wildwood",
@@ -105,7 +93,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -234,7 +222,7 @@
       "id": 1437511,
       "title": "How to Rob a Bank",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/fC7om9keWj3U0vJvZ0XiDQmlLVe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "David Leitch",
@@ -253,6 +241,18 @@
       "studioStr": "Shochiku / LesPros Entertainment",
       "prestige": true,
       "imdbId": "tt45556743"
+    },
+    {
+      "id": 1381273,
+      "title": "Paper Tiger",
+      "releaseDate": "2026-11-13",
+      "poster": "https://image.tmdb.org/t/p/w92/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "James Gray",
+      "studioStr": "RT Features / Leone Film Group",
+      "prestige": false,
+      "imdbId": "tt34385689"
     },
     {
       "id": 1716604,
@@ -342,7 +342,7 @@
       "id": 1538497,
       "title": "Hexed",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dZVHrtaZa5MsuPc4gW72e3S9bii.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jason Hand, Fawn Veerasunthorn",
@@ -373,6 +373,18 @@
       "studioStr": "Heyday Films / Netflix",
       "prestige": true,
       "imdbId": "tt36408401"
+    },
+    {
+      "id": 1433854,
+      "title": "Brute 1986",
+      "releaseDate": "2026-11-26",
+      "poster": "https://image.tmdb.org/t/p/w92/bO3lrWJV0TQi8s3xSUeDCPaNxhy.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Marcel Walz",
+      "studioStr": "Neon Noir",
+      "prestige": true,
+      "imdbId": "tt35716526"
     },
     {
       "id": 1400336,
@@ -606,7 +618,7 @@
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/Vql0GLUnLtf0oQo2VQsTFqjXEo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Kasdan",
@@ -714,7 +726,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/mzepO3crKkX4Mhyj9Lrix3yn2sT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -822,7 +834,7 @@
       "id": 1442761,
       "title": "Slayground",
       "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/85JcCat1n2fizmf5fgAJTn5n49s.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rCCVBCKr3SsS1RYZJte7LdyIyVB.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jeremy Saulnier",
@@ -913,6 +925,18 @@
       "studioStr": "Monte Kalk Film / aniamariawanda",
       "prestige": false,
       "imdbId": "tt43548253"
+    },
+    {
+      "id": 1534061,
+      "title": "The Young People",
+      "releaseDate": "2027-02-25",
+      "poster": "https://image.tmdb.org/t/p/w92/AgdCv5eXc1FkEKPx2DSKT7ehzGM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Osgood Perkins",
+      "studioStr": "Phobos / NEON",
+      "prestige": true,
+      "imdbId": "tt38066158"
     },
     {
       "id": 1533611,
