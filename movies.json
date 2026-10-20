@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-10-19T17:24:30.352Z",
-  "count": 194,
+  "generatedAt": "2026-10-20T15:38:36.132Z",
+  "count": 193,
   "movies": [
-    {
-      "id": 791523,
-      "title": "Wildwood",
-      "releaseDate": "2026-10-19",
-      "poster": "https://image.tmdb.org/t/p/w92/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Travis Knight",
-      "studioStr": "LAIKA",
-      "prestige": true,
-      "imdbId": "tt2056785"
-    },
-    {
-      "id": 1400940,
-      "title": "Clayface",
-      "releaseDate": "2026-10-21",
-      "poster": "https://image.tmdb.org/t/p/w92/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "James Watkins",
-      "studioStr": "DC Studios / Domain Entertainment",
-      "prestige": true,
-      "imdbId": "tt34890576"
-    },
     {
       "id": 1621673,
       "title": "Sukiyaki",
@@ -93,7 +69,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -133,6 +109,18 @@
       "studioStr": "Bombero International / Warner Bros. Film Productions Germany",
       "prestige": true,
       "imdbId": "tt36501204"
+    },
+    {
+      "id": 656908,
+      "title": "Ramayana: Rise of a Legend",
+      "releaseDate": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nitesh Tiwari",
+      "studioStr": "Monster Mind Creations / Prime Focus Studios",
+      "prestige": false,
+      "imdbId": "tt27988879"
     },
     {
       "id": 1117898,
@@ -243,18 +231,6 @@
       "imdbId": "tt45556743"
     },
     {
-      "id": 1381273,
-      "title": "Paper Tiger",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "James Gray",
-      "studioStr": "RT Features / Leone Film Group",
-      "prestige": false,
-      "imdbId": "tt34385689"
-    },
-    {
       "id": 1716604,
       "title": "A Proud Family Wizmas",
       "releaseDate": "2026-11-14",
@@ -265,6 +241,18 @@
       "studioStr": "Disney Television Animation / BaR Productions",
       "prestige": true,
       "imdbId": "tt43596156"
+    },
+    {
+      "id": 1619818,
+      "title": "Where To?",
+      "releaseDate": "2026-11-14",
+      "poster": "https://image.tmdb.org/t/p/w92/hWcCe1lqdpQ0fCccBx5KqG5acSr.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Assaf Machnes",
+      "studioStr": "2-Team Productions / Rogovin Brothers",
+      "prestige": false,
+      "imdbId": "tt35253781"
     },
     {
       "id": 1625344,
@@ -366,7 +354,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/wWJJMvBduAsH26MVkwsnssCh1WZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -486,7 +474,7 @@
       "id": 1198746,
       "title": "Above the Below",
       "releaseDate": "2026-12-04",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/ytUoQYt0m7vbpnNqMrDJ7Prp0Aj.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Martin Owen, Idris Elba",
@@ -563,7 +551,7 @@
       "reRelease": false,
       "directorStr": "Jesse Eisenberg",
       "studioStr": "Topic Studios / Fruit Tree",
-      "prestige": true,
+      "prestige": false,
       "imdbId": "tt34718200"
     },
     {
@@ -795,6 +783,18 @@
       "imdbId": "tt37458298"
     },
     {
+      "id": 1442761,
+      "title": "Slayground",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/rCCVBCKr3SsS1RYZJte7LdyIyVB.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jeremy Saulnier",
+      "studioStr": "A24 / Niteowl Films",
+      "prestige": true,
+      "imdbId": "tt37360759"
+    },
+    {
       "id": 1425472,
       "title": "The Rescue",
       "releaseDate": "2027-01-29",
@@ -829,18 +829,6 @@
       "studioStr": "Bowfinger / Esto También Pasará",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1442761,
-      "title": "Slayground",
-      "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/rCCVBCKr3SsS1RYZJte7LdyIyVB.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jeremy Saulnier",
-      "studioStr": "A24 / Niteowl Films",
-      "prestige": true,
-      "imdbId": "tt37360759"
     },
     {
       "id": 1384758,
@@ -889,6 +877,18 @@
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1147572,
+      "title": "Narnia: The Magician's Nephew",
+      "releaseDate": "2027-02-12",
+      "poster": "https://image.tmdb.org/t/p/w92/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Greta Gerwig",
+      "studioStr": "Pascal Pictures / C.S. Lewis Company",
+      "prestige": true,
+      "imdbId": "tt9077514"
     },
     {
       "id": 1480503,
@@ -1191,18 +1191,6 @@
       "imdbId": "tt29873948"
     },
     {
-      "id": 1218005,
-      "title": "Orphans",
-      "releaseDate": "2027-04-30",
-      "poster": "https://image.tmdb.org/t/p/w92/aUQYvCfd0MGkbXH8KoQfAOCgacQ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "William Brent Bell",
-      "studioStr": "Dark Castle Entertainment / Lionsgate",
-      "prestige": true,
-      "imdbId": "tt21965426"
-    },
-    {
       "id": 532652,
       "title": "The Resurrection of the Christ: Part One",
       "releaseDate": "2027-05-06",
@@ -1266,7 +1254,7 @@
       "id": 1273739,
       "title": "The Catch",
       "releaseDate": "2027-05-21",
-      "poster": "https://image.tmdb.org/t/p/w92/p9rZJczpvEYw7j9wytMwLp07EU7.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Dave McCary",
@@ -1737,7 +1725,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
