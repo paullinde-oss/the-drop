@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T15:38:36.132Z",
-  "count": 193,
+  "generatedAt": "2026-10-21T15:54:33.700Z",
+  "count": 197,
   "movies": [
     {
       "id": 1621673,
@@ -69,7 +69,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -198,7 +198,7 @@
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bmemRcNQgljyRNNM9kPeqmt8HNO.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ti West",
@@ -363,6 +363,18 @@
       "imdbId": "tt36408401"
     },
     {
+      "id": 1653298,
+      "title": "Prasert",
+      "releaseDate": "2026-11-26",
+      "poster": "https://image.tmdb.org/t/p/w92/dW9B1Wcv4CSrg1GrW7HkUmU7kSp.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Kongkiat Khomsiri",
+      "studioStr": "Shinesaeng Ad.Venture",
+      "prestige": false,
+      "imdbId": null
+    },
+    {
       "id": 1433854,
       "title": "Brute 1986",
       "releaseDate": "2026-11-26",
@@ -471,18 +483,6 @@
       "imdbId": "tt18270542"
     },
     {
-      "id": 1198746,
-      "title": "Above the Below",
-      "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/ytUoQYt0m7vbpnNqMrDJ7Prp0Aj.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Martin Owen, Idris Elba",
-      "studioStr": "Future Artists Entertainment / Lionsgate",
-      "prestige": true,
-      "imdbId": "tt29634374"
-    },
-    {
       "id": 1519780,
       "title": "Diary of a Wimpy Kid Christmas: The Getaway",
       "releaseDate": "2026-12-04",
@@ -520,7 +520,7 @@
     },
     {
       "id": 1408207,
-      "title": "Zero A.D: The Birth of Christ",
+      "title": "Zero A.D.: The Birth of Christ",
       "releaseDate": "2026-12-11",
       "poster": "https://image.tmdb.org/t/p/w92/dUeEofJFpp04OjRr2hatZGCFrlR.jpg",
       "format": "theatrical",
@@ -582,7 +582,7 @@
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/xKCdkfKmEqS0mKpWgHTeWuISHS3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Denis Villeneuve",
@@ -759,6 +759,18 @@
       "imdbId": null
     },
     {
+      "id": 1418967,
+      "title": "Televil",
+      "releaseDate": "2027-01-21",
+      "poster": "https://image.tmdb.org/t/p/w92/2jNlrlqiEbBxSPSb98kMF5gJZsG.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Lertsiri Boonmee, Wuttichai Wongnoppadon, Sathanapong Limwongthong",
+      "studioStr": "Night Edge Pictures / Nob Productions",
+      "prestige": false,
+      "imdbId": "tt37578116"
+    },
+    {
       "id": 1115030,
       "title": "Animal Friends",
       "releaseDate": "2027-01-22",
@@ -786,7 +798,7 @@
       "id": 1442761,
       "title": "Slayground",
       "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/rCCVBCKr3SsS1RYZJte7LdyIyVB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tWeXlQQAQ9GQkZsOW8qxVv6Ki4M.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jeremy Saulnier",
@@ -1045,18 +1057,6 @@
       "studioStr": "The Cantillon Company / TriStar Pictures",
       "prestige": true,
       "imdbId": "tt4540534"
-    },
-    {
-      "id": 1139422,
-      "title": "The Riders",
-      "releaseDate": "2027-03-25",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Edward Berger",
-      "studioStr": "Nine Hours / Plan B Entertainment",
-      "prestige": true,
-      "imdbId": "tt9148786"
     },
     {
       "id": 1288438,
@@ -1359,6 +1359,30 @@
       "imdbId": "tt37833661"
     },
     {
+      "id": 1802753,
+      "title": "Eddie and the Beanstalk",
+      "releaseDate": "2027-07-09",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Rich Moore",
+      "studioStr": "Skydance Animation / Skydance Animation",
+      "prestige": true,
+      "imdbId": "tt29598202"
+    },
+    {
+      "id": 1691538,
+      "title": "Eddie and the Beanstalk",
+      "releaseDate": "2027-07-09",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Rich Moore",
+      "studioStr": "Skydance Animation / Cinesite Animation",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1646360,
       "title": "Fake Skating",
       "releaseDate": "2027-07-16",
@@ -1585,6 +1609,18 @@
       "studioStr": "Universal Pictures / Radio Silence",
       "prestige": true,
       "imdbId": "tt22408968"
+    },
+    {
+      "id": 1785785,
+      "title": "Ghost Soldiers",
+      "releaseDate": "2027-10-20",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Puttipong Nakthong",
+      "studioStr": "Kum Kub Nang Co.,Ltd.",
+      "prestige": false,
+      "imdbId": null
     },
     {
       "id": 1673868,
@@ -1861,6 +1897,18 @@
       "studioStr": "Pascal Pictures / Universal Pictures",
       "prestige": true,
       "imdbId": "tt33366208"
+    },
+    {
+      "id": 1550284,
+      "title": "Cher",
+      "releaseDate": "2028-02-04",
+      "poster": "https://image.tmdb.org/t/p/w92/tnJXwpS4mEdRAfbB30t3eQ7RYGv.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Songsak Mongkolthong",
+      "studioStr": "Fearfolks",
+      "prestige": false,
+      "imdbId": "tt42599192"
     },
     {
       "id": 806704,
