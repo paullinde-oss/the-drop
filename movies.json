@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T15:54:33.700Z",
-  "count": 197,
+  "generatedAt": "2026-10-22T15:53:06.849Z",
+  "count": 189,
   "movies": [
     {
       "id": 1621673,
@@ -198,7 +198,7 @@
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/bmemRcNQgljyRNNM9kPeqmt8HNO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ti West",
@@ -246,7 +246,7 @@
       "id": 1619818,
       "title": "Where To?",
       "releaseDate": "2026-11-14",
-      "poster": "https://image.tmdb.org/t/p/w92/hWcCe1lqdpQ0fCccBx5KqG5acSr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/lVEnFQcNYZPG5AVLhy1VMk9BYhb.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Assaf Machnes",
@@ -327,6 +327,18 @@
       "imdbId": "tt43621069"
     },
     {
+      "id": 1611767,
+      "title": "Clashing Through the Snow",
+      "releaseDate": "2026-11-25",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Carlson Young",
+      "studioStr": "Amazon MGM Studios / Industry Entertainment Partners",
+      "prestige": true,
+      "imdbId": "tt39316936"
+    },
+    {
       "id": 1538497,
       "title": "Hexed",
       "releaseDate": "2026-11-25",
@@ -363,18 +375,6 @@
       "imdbId": "tt36408401"
     },
     {
-      "id": 1653298,
-      "title": "Prasert",
-      "releaseDate": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/dW9B1Wcv4CSrg1GrW7HkUmU7kSp.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kongkiat Khomsiri",
-      "studioStr": "Shinesaeng Ad.Venture",
-      "prestige": false,
-      "imdbId": null
-    },
-    {
       "id": 1433854,
       "title": "Brute 1986",
       "releaseDate": "2026-11-26",
@@ -397,30 +397,6 @@
       "studioStr": "Universal Pictures / Tribeca Productions",
       "prestige": true,
       "imdbId": "tt34966140"
-    },
-    {
-      "id": 1739765,
-      "title": "Your Story",
-      "releaseDate": "2026-11-27",
-      "poster": "https://image.tmdb.org/t/p/w92/8H0YN4J0iuPyC4SjtU5fdooLciH.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ryutaro Nakagawa",
-      "studioStr": "Shochiku",
-      "prestige": true,
-      "imdbId": "tt48499816"
-    },
-    {
-      "id": 1715686,
-      "title": "Mickey's Home Alone",
-      "releaseDate": "2026-11-27",
-      "poster": "https://image.tmdb.org/t/p/w92/mxfOMsknN6ihwCHS7leiQ4OnUeY.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Shane Prigmore",
-      "studioStr": "Disney Branded Television / Wild Canary",
-      "prestige": true,
-      "imdbId": "tt43589736"
     },
     {
       "id": 1137888,
@@ -499,7 +475,7 @@
       "title": "Batman: Knightfall Part 2: Knightquest",
       "releaseDate": "2026-12-08",
       "poster": "https://image.tmdb.org/t/p/w92/4zWHei7BJ4dP0DDK4FJ7em9ET7e.jpg",
-      "format": "theatrical",
+      "format": "digital",
       "reRelease": false,
       "directorStr": "Jeff Wamester",
       "studioStr": "Warner Bros. Animation / DC",
@@ -543,18 +519,6 @@
       "imdbId": "tt37967547"
     },
     {
-      "id": 1391239,
-      "title": "The Debut",
-      "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jesse Eisenberg",
-      "studioStr": "Topic Studios / Fruit Tree",
-      "prestige": false,
-      "imdbId": "tt34718200"
-    },
-    {
       "id": 1785664,
       "title": "Monster in Sheep's Clothing",
       "releaseDate": "2026-12-11",
@@ -564,13 +528,13 @@
       "directorStr": "Yang Liping",
       "studioStr": "Amazon MGM Studios",
       "prestige": true,
-      "imdbId": "tt61076587"
+      "imdbId": "tt47906552"
     },
     {
       "id": 1566920,
       "title": "The Apothecary Diaries: The Late Lady's Treasure",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/tDFTMv5XT50WpVRWJsGKWslz6LG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tNIbQ3yERsDXUabqFjSlJtQFFYf.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Norihiro Naganuma",
@@ -757,18 +721,6 @@
       "studioStr": "TOHO",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1418967,
-      "title": "Televil",
-      "releaseDate": "2027-01-21",
-      "poster": "https://image.tmdb.org/t/p/w92/2jNlrlqiEbBxSPSb98kMF5gJZsG.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Lertsiri Boonmee, Wuttichai Wongnoppadon, Sathanapong Limwongthong",
-      "studioStr": "Night Edge Pictures / Nob Productions",
-      "prestige": false,
-      "imdbId": "tt37578116"
     },
     {
       "id": 1115030,
@@ -1014,7 +966,7 @@
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
-      "poster": "https://image.tmdb.org/t/p/w92/i3kvS445sWWIhuxgXywPuUcsoP0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fmY0TIy7xCn99ug0oYefj6RLaKn.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mike Flanagan",
@@ -1455,18 +1407,6 @@
       "imdbId": "tt30094801"
     },
     {
-      "id": 1634942,
-      "title": "Jason Statham Stole My Bike",
-      "releaseDate": "2027-08-06",
-      "poster": "https://image.tmdb.org/t/p/w92/35Wk3wTrSQ4AazbA9ZZrS711caK.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "Black Bear Pictures / 87North Productions",
-      "prestige": false,
-      "imdbId": "tt39848323"
-    },
-    {
       "id": 1572400,
       "title": "Shiver",
       "releaseDate": "2027-08-13",
@@ -1609,18 +1549,6 @@
       "studioStr": "Universal Pictures / Radio Silence",
       "prestige": true,
       "imdbId": "tt22408968"
-    },
-    {
-      "id": 1785785,
-      "title": "Ghost Soldiers",
-      "releaseDate": "2027-10-20",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Puttipong Nakthong",
-      "studioStr": "Kum Kub Nang Co.,Ltd.",
-      "prestige": false,
-      "imdbId": null
     },
     {
       "id": 1673868,
@@ -1863,18 +1791,6 @@
       "imdbId": "tt42171078"
     },
     {
-      "id": 1571245,
-      "title": "Viva La Madness",
-      "releaseDate": "2028-01-21",
-      "poster": "https://image.tmdb.org/t/p/w92/oPNHKVrrqaLMMEdVIta786Q6d1x.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Guy Ritchie",
-      "studioStr": "Black Bear Pictures / Lumina Studios",
-      "prestige": false,
-      "imdbId": "tt38795701"
-    },
-    {
       "id": 1625381,
       "title": "Heart Eyes 2",
       "releaseDate": "2028-02-04",
@@ -1897,18 +1813,6 @@
       "studioStr": "Pascal Pictures / Universal Pictures",
       "prestige": true,
       "imdbId": "tt33366208"
-    },
-    {
-      "id": 1550284,
-      "title": "Cher",
-      "releaseDate": "2028-02-04",
-      "poster": "https://image.tmdb.org/t/p/w92/tnJXwpS4mEdRAfbB30t3eQ7RYGv.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Songsak Mongkolthong",
-      "studioStr": "Fearfolks",
-      "prestige": false,
-      "imdbId": "tt42599192"
     },
     {
       "id": 806704,
