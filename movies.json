@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T15:53:06.849Z",
-  "count": 189,
+  "generatedAt": "2026-10-23T15:43:36.887Z",
+  "count": 191,
   "movies": [
     {
       "id": 1621673,
@@ -25,6 +25,18 @@
       "studioStr": "Searchlight Pictures / Blueprint Pictures",
       "prestige": true,
       "imdbId": "tt15799564"
+    },
+    {
+      "id": 1804941,
+      "title": "Mike Tyson: Return of the Mike",
+      "releaseDate": "2026-11-03",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Kiki Tyson",
+      "studioStr": "Netflix",
+      "prestige": true,
+      "imdbId": "tt46068179"
     },
     {
       "id": 1687303,
@@ -270,7 +282,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -373,18 +385,6 @@
       "studioStr": "Heyday Films / Netflix",
       "prestige": true,
       "imdbId": "tt36408401"
-    },
-    {
-      "id": 1433854,
-      "title": "Brute 1986",
-      "releaseDate": "2026-11-26",
-      "poster": "https://image.tmdb.org/t/p/w92/bO3lrWJV0TQi8s3xSUeDCPaNxhy.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Marcel Walz",
-      "studioStr": "Neon Noir",
-      "prestige": true,
-      "imdbId": "tt35716526"
     },
     {
       "id": 1400336,
@@ -546,7 +546,7 @@
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/xKCdkfKmEqS0mKpWgHTeWuISHS3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Denis Villeneuve",
@@ -966,7 +966,7 @@
       "id": 1297467,
       "title": "The Exorcist: Martyrs",
       "releaseDate": "2027-03-12",
-      "poster": "https://image.tmdb.org/t/p/w92/fmY0TIy7xCn99ug0oYefj6RLaKn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Mike Flanagan",
@@ -1407,6 +1407,18 @@
       "imdbId": "tt30094801"
     },
     {
+      "id": 1634942,
+      "title": "Jason Statham Stole My Bike",
+      "releaseDate": "2027-08-06",
+      "poster": "https://image.tmdb.org/t/p/w92/35Wk3wTrSQ4AazbA9ZZrS711caK.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Leitch",
+      "studioStr": "Black Bear Pictures / 87North Productions",
+      "prestige": false,
+      "imdbId": "tt39848323"
+    },
+    {
       "id": 1572400,
       "title": "Shiver",
       "releaseDate": "2027-08-13",
@@ -1689,7 +1701,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1789,6 +1801,18 @@
       "studioStr": "Miramax / Punch Palace Productions",
       "prestige": true,
       "imdbId": "tt42171078"
+    },
+    {
+      "id": 1571245,
+      "title": "Viva La Madness",
+      "releaseDate": "2028-01-21",
+      "poster": "https://image.tmdb.org/t/p/w92/oPNHKVrrqaLMMEdVIta786Q6d1x.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Guy Ritchie",
+      "studioStr": "Black Bear Pictures / Lumina Studios",
+      "prestige": false,
+      "imdbId": "tt38795701"
     },
     {
       "id": 1625381,
