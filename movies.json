@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T15:43:36.887Z",
-  "count": 191,
+  "generatedAt": "2026-10-24T14:19:00.280Z",
+  "count": 183,
   "movies": [
     {
       "id": 1621673,
@@ -25,18 +25,6 @@
       "studioStr": "Searchlight Pictures / Blueprint Pictures",
       "prestige": true,
       "imdbId": "tt15799564"
-    },
-    {
-      "id": 1804941,
-      "title": "Mike Tyson: Return of the Mike",
-      "releaseDate": "2026-11-03",
-      "poster": null,
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Kiki Tyson",
-      "studioStr": "Netflix",
-      "prestige": true,
-      "imdbId": "tt46068179"
     },
     {
       "id": 1687303,
@@ -121,18 +109,6 @@
       "studioStr": "Bombero International / Warner Bros. Film Productions Germany",
       "prestige": true,
       "imdbId": "tt36501204"
-    },
-    {
-      "id": 656908,
-      "title": "Ramayana: Rise of a Legend",
-      "releaseDate": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/hX94xNPYwazKOVGGqL1GiwMSNuY.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Nitesh Tiwari",
-      "studioStr": "Monster Mind Creations / Prime Focus Studios",
-      "prestige": false,
-      "imdbId": "tt27988879"
     },
     {
       "id": 1117898,
@@ -282,7 +258,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -363,16 +339,16 @@
       "imdbId": "tt38077943"
     },
     {
-      "id": 1461490,
-      "title": "Hershey",
+      "id": 1400336,
+      "title": "Focker-in-Law",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/ojd8Gu2bPsOzdMz6Ip5AYDu4Vki.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Mark Waters",
-      "studioStr": "Dandelion Media / Hershey Entities",
+      "directorStr": "John Hamburg",
+      "studioStr": "Universal Pictures / Tribeca Productions",
       "prestige": true,
-      "imdbId": "tt17055444"
+      "imdbId": "tt34966140"
     },
     {
       "id": 1457866,
@@ -385,18 +361,6 @@
       "studioStr": "Heyday Films / Netflix",
       "prestige": true,
       "imdbId": "tt36408401"
-    },
-    {
-      "id": 1400336,
-      "title": "Focker-in-Law",
-      "releaseDate": "2026-11-27",
-      "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "John Hamburg",
-      "studioStr": "Universal Pictures / Tribeca Productions",
-      "prestige": true,
-      "imdbId": "tt34966140"
     },
     {
       "id": 1137888,
@@ -570,7 +534,7 @@
       "id": 1260649,
       "title": "Jumanji: Open World",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/Vql0GLUnLtf0oQo2VQsTFqjXEo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/qGFuvcXqQdXS5ZNblDlVTOmK6mq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jake Kasdan",
@@ -625,18 +589,6 @@
       "studioStr": "XYZ Films / Lithium Studios",
       "prestige": true,
       "imdbId": "tt14658038"
-    },
-    {
-      "id": 1799141,
-      "title": "Paige Prater The Movie",
-      "releaseDate": "2027-01-01",
-      "poster": null,
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Lionsgate / Entertainment One",
-      "prestige": true,
-      "imdbId": "tt34345656"
     },
     {
       "id": 1619903,
@@ -718,7 +670,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Nagikawa Yoshirou",
-      "studioStr": "TOHO",
+      "studioStr": "TOHO / TOHO Studios",
       "prestige": true,
       "imdbId": null
     },
@@ -1311,30 +1263,6 @@
       "imdbId": "tt37833661"
     },
     {
-      "id": 1802753,
-      "title": "Eddie and the Beanstalk",
-      "releaseDate": "2027-07-09",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Rich Moore",
-      "studioStr": "Skydance Animation / Skydance Animation",
-      "prestige": true,
-      "imdbId": "tt29598202"
-    },
-    {
-      "id": 1691538,
-      "title": "Eddie and the Beanstalk",
-      "releaseDate": "2027-07-09",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Rich Moore",
-      "studioStr": "Skydance Animation / Cinesite Animation",
-      "prestige": true,
-      "imdbId": null
-    },
-    {
       "id": 1646360,
       "title": "Fake Skating",
       "releaseDate": "2027-07-16",
@@ -1405,18 +1333,6 @@
       "studioStr": "Death Row Pictures / Universal Pictures",
       "prestige": true,
       "imdbId": "tt30094801"
-    },
-    {
-      "id": 1634942,
-      "title": "Jason Statham Stole My Bike",
-      "releaseDate": "2027-08-06",
-      "poster": "https://image.tmdb.org/t/p/w92/35Wk3wTrSQ4AazbA9ZZrS711caK.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "Black Bear Pictures / 87North Productions",
-      "prestige": false,
-      "imdbId": "tt39848323"
     },
     {
       "id": 1572400,
@@ -1801,18 +1717,6 @@
       "studioStr": "Miramax / Punch Palace Productions",
       "prestige": true,
       "imdbId": "tt42171078"
-    },
-    {
-      "id": 1571245,
-      "title": "Viva La Madness",
-      "releaseDate": "2028-01-21",
-      "poster": "https://image.tmdb.org/t/p/w92/oPNHKVrrqaLMMEdVIta786Q6d1x.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Guy Ritchie",
-      "studioStr": "Black Bear Pictures / Lumina Studios",
-      "prestige": false,
-      "imdbId": "tt38795701"
     },
     {
       "id": 1625381,
