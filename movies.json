@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-10-24T14:19:00.280Z",
-  "count": 183,
+  "generatedAt": "2026-10-25T14:51:45.625Z",
+  "count": 176,
   "movies": [
-    {
-      "id": 1621673,
-      "title": "Sukiyaki",
-      "releaseDate": "2026-10-24",
-      "poster": "https://image.tmdb.org/t/p/w92/75A08il8gi8ToPCEAFqWdCwoZ1.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takahisa Zeze",
-      "studioStr": "TOHO / AX-ON",
-      "prestige": true,
-      "imdbId": "tt44939485"
-    },
     {
       "id": 891621,
       "title": "Wild Horse Nine",
@@ -69,7 +57,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -258,37 +246,13 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
       "studioStr": "Lionsgate / Color Force",
       "prestige": true,
       "imdbId": "tt32558705"
-    },
-    {
-      "id": 1599230,
-      "title": "Elsinore",
-      "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Simon Stone",
-      "studioStr": "Lucky Red / LD Entertainment",
-      "prestige": true,
-      "imdbId": "tt37363222"
-    },
-    {
-      "id": 1568060,
-      "title": "Perfect Liars",
-      "releaseDate": "2026-11-20",
-      "poster": "https://image.tmdb.org/t/p/w92/6bQ0YqBV61wlBHArIyksxs0FoT6.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Jesús Colmenar",
-      "studioStr": "Federation Spain / Amazon MGM Studios",
-      "prestige": true,
-      "imdbId": "tt18351090"
     },
     {
       "id": 1280115,
@@ -301,42 +265,6 @@
       "studioStr": "Skydance Media / Indivisible Productions",
       "prestige": true,
       "imdbId": "tt32213169"
-    },
-    {
-      "id": 1720486,
-      "title": "Lilo & Scratch",
-      "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/rfND8uEf8draC83xQVFH6eQkFmA.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Fawn Veerasunthorn, Malcon Pierce",
-      "studioStr": "Walt Disney Animation Studios",
-      "prestige": true,
-      "imdbId": "tt43621069"
-    },
-    {
-      "id": 1611767,
-      "title": "Clashing Through the Snow",
-      "releaseDate": "2026-11-25",
-      "poster": null,
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Carlson Young",
-      "studioStr": "Amazon MGM Studios / Industry Entertainment Partners",
-      "prestige": true,
-      "imdbId": "tt39316936"
-    },
-    {
-      "id": 1538497,
-      "title": "Hexed",
-      "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/dZVHrtaZa5MsuPc4gW72e3S9bii.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jason Hand, Fawn Veerasunthorn",
-      "studioStr": "Walt Disney Animation Studios",
-      "prestige": true,
-      "imdbId": "tt38077943"
     },
     {
       "id": 1400336,
@@ -586,8 +514,8 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michiel ten Horn",
-      "studioStr": "XYZ Films / Lithium Studios",
-      "prestige": true,
+      "studioStr": "Lithium Studios / One Two Films",
+      "prestige": false,
       "imdbId": "tt14658038"
     },
     {
@@ -654,7 +582,7 @@
       "id": 1520592,
       "title": "River",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/xe9V5utoUjyb92g5eBWbro1MSKd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wtb8gbOPUv1TjnOSf9LpO6Vx3Jz.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joshua Giuliano",
@@ -841,18 +769,6 @@
       "studioStr": "Monte Kalk Film / aniamariawanda",
       "prestige": false,
       "imdbId": "tt43548253"
-    },
-    {
-      "id": 1534061,
-      "title": "The Young People",
-      "releaseDate": "2027-02-25",
-      "poster": "https://image.tmdb.org/t/p/w92/AgdCv5eXc1FkEKPx2DSKT7ehzGM.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Osgood Perkins",
-      "studioStr": "Phobos / NEON",
-      "prestige": true,
-      "imdbId": "tt38066158"
     },
     {
       "id": 1533611,
