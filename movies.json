@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T14:51:45.625Z",
-  "count": 176,
+  "generatedAt": "2026-10-26T17:13:30.322Z",
+  "count": 177,
   "movies": [
     {
       "id": 891621,
@@ -54,7 +54,7 @@
       "id": 1003494,
       "title": "Women on Trial",
       "releaseDate": "2026-11-04",
-      "poster": "https://image.tmdb.org/t/p/w92/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fArOu0NgRfth0zH5YqRu1os478v.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Lauriane Escaffre, Yvo Muller",
@@ -258,7 +258,7 @@
       "id": 1280115,
       "title": "Way of the Warrior Kid",
       "releaseDate": "2026-11-24",
-      "poster": "https://image.tmdb.org/t/p/w92/onZIFslULiG6aKgGFMZkAAWy2QV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "McG",
@@ -282,7 +282,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/nuNOKDt0mVWhwq2HZ9ytczuUFSf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mHWSlvyAJRiEkCyqT91HuENbVaZ.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -450,7 +450,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -528,7 +528,7 @@
       "directorStr": "Marc-Uwe Kling",
       "studioStr": "Studio Soi / X Filme Creative Pool",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt43686286"
     },
     {
       "id": 1429574,
@@ -582,7 +582,7 @@
       "id": 1520592,
       "title": "River",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/wtb8gbOPUv1TjnOSf9LpO6Vx3Jz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/xe9V5utoUjyb92g5eBWbro1MSKd.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joshua Giuliano",
@@ -733,6 +733,18 @@
       "studioStr": "Pascal Pictures / C.S. Lewis Company",
       "prestige": true,
       "imdbId": "tt9077514"
+    },
+    {
+      "id": 1337446,
+      "title": "The Last Resort",
+      "releaseDate": "2027-02-12",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Donald Petrie",
+      "studioStr": "Asia Pacific Films / Vertical",
+      "prestige": true,
+      "imdbId": "tt33143737"
     },
     {
       "id": 1480503,
@@ -1533,7 +1545,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
