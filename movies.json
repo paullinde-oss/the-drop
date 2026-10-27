@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T17:13:30.322Z",
-  "count": 177,
+  "generatedAt": "2026-10-27T16:16:30.110Z",
+  "count": 176,
   "movies": [
     {
       "id": 891621,
@@ -231,18 +231,6 @@
       "imdbId": "tt35253781"
     },
     {
-      "id": 1625344,
-      "title": "The Rainbow Fish",
-      "releaseDate": "2026-11-19",
-      "poster": "https://image.tmdb.org/t/p/w92/en0YSEqNPCpr5pDrbqgtNrbQC83.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Florian Moch",
-      "studioStr": "Claussen+Putz Filmproduktion / StudioCanal",
-      "prestige": true,
-      "imdbId": "tt43632661"
-    },
-    {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-20",
@@ -282,7 +270,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/mHWSlvyAJRiEkCyqT91HuENbVaZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -306,7 +294,7 @@
       "id": 1591961,
       "title": "My Crazy Feminist Girlfriend",
       "releaseDate": "2026-12-03",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/skIMvDKu43EQ6NcV6KXCClPllG7.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Keiichi Kobayashi",
