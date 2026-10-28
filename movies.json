@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T16:16:30.110Z",
+  "generatedAt": "2026-10-28T17:04:04.062Z",
   "count": 176,
   "movies": [
     {
@@ -57,7 +57,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/fArOu0NgRfth0zH5YqRu1os478v.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -233,7 +233,7 @@
     {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
-      "releaseDate": "2026-11-20",
+      "releaseDate": "2026-11-18",
       "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "format": "theatrical",
       "reRelease": false,
@@ -426,7 +426,7 @@
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Denis Villeneuve",
