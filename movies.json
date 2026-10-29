@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T17:04:04.062Z",
+  "generatedAt": "2026-10-29T17:22:27.530Z",
   "count": 176,
   "movies": [
     {
@@ -57,7 +57,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/fArOu0NgRfth0zH5YqRu1os478v.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
+      "directorStr": "Lauriane Escaffre, Yvo Muller",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -234,7 +234,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -270,7 +270,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/skSMOTFYcWyHZqFNPfz0f3Jsyc5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/8jSyV5i8aFYPiO3c3B9YUu14hN2.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -349,18 +349,6 @@
       "studioStr": "Bardel Entertainment / Walt Disney Pictures",
       "prestige": true,
       "imdbId": "tt48503221"
-    },
-    {
-      "id": 1389765,
-      "title": "Batman: Knightfall Part 2: Knightquest",
-      "releaseDate": "2026-12-08",
-      "poster": "https://image.tmdb.org/t/p/w92/4zWHei7BJ4dP0DDK4FJ7em9ET7e.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Jeff Wamester",
-      "studioStr": "Warner Bros. Animation / DC",
-      "prestige": true,
-      "imdbId": "tt38807532"
     },
     {
       "id": 1421967,
@@ -1293,7 +1281,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/8ttdAKCtQl3eyABda89NQH7Iebm.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Rob Savage",
+      "directorStr": "Ben Wheatley",
       "studioStr": "Paramount Primal / Blumhouse Atomic Monster",
       "prestige": true,
       "imdbId": "tt34381444"
@@ -1305,7 +1293,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/iG1pMw9ufzXXQDTguT2okaZY3xe.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "David Silverman",
+      "directorStr": "David Silverman, Rob Oliver",
       "studioStr": "Gracie Films / 20th Century Animation",
       "prestige": true,
       "imdbId": "tt38561132"
@@ -1491,6 +1479,18 @@
       "imdbId": "tt31637517"
     },
     {
+      "id": 1584324,
+      "title": "The Families Stone",
+      "releaseDate": "2027-11-19",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Thomas Bezucha",
+      "studioStr": "Searchlight Pictures / Groundswell Productions",
+      "prestige": true,
+      "imdbId": "tt38987011"
+    },
+    {
       "id": 1024604,
       "title": "Frozen III",
       "releaseDate": "2027-11-24",
@@ -1533,7 +1533,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
