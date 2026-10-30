@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T17:22:27.530Z",
-  "count": 176,
+  "generatedAt": "2026-10-30T17:03:14.375Z",
+  "count": 175,
   "movies": [
     {
       "id": 891621,
@@ -426,25 +426,13 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21357150"
-    },
-    {
-      "id": 1260649,
-      "title": "Jumanji: Open World",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/qGFuvcXqQdXS5ZNblDlVTOmK6mq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jake Kasdan",
-      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
-      "prestige": true,
-      "imdbId": "tt26735127"
     },
     {
       "id": 1421903,
@@ -627,18 +615,6 @@
       "imdbId": "tt35606013"
     },
     {
-      "id": 1340208,
-      "title": "Karoshi",
-      "releaseDate": "2027-01-29",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takashi Doscher",
-      "studioStr": "87Eleven / Lionsgate",
-      "prestige": true,
-      "imdbId": "tt33295857"
-    },
-    {
       "id": 1707078,
       "title": "The Confidant",
       "releaseDate": "2027-01-29",
@@ -661,6 +637,18 @@
       "studioStr": "20th Century Animation",
       "prestige": true,
       "imdbId": "tt34512981"
+    },
+    {
+      "id": 1340208,
+      "title": "Karoshi",
+      "releaseDate": "2027-02-05",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Takashi Doscher",
+      "studioStr": "87Eleven / Lionsgate",
+      "prestige": true,
+      "imdbId": "tt33295857"
     },
     {
       "id": 1466228,
@@ -1533,7 +1521,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
