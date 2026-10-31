@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-10-30T17:03:14.375Z",
-  "count": 175,
+  "generatedAt": "2026-10-31T16:03:22.254Z",
+  "count": 173,
   "movies": [
-    {
-      "id": 891621,
-      "title": "Wild Horse Nine",
-      "releaseDate": "2026-10-30",
-      "poster": "https://image.tmdb.org/t/p/w92/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Martin McDonagh",
-      "studioStr": "Searchlight Pictures / Blueprint Pictures",
-      "prestige": true,
-      "imdbId": "tt15799564"
-    },
     {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Vanishing",
@@ -102,7 +90,7 @@
       "id": 1117898,
       "title": "The Cat in the Hat",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Erica Rivinoja, Alessandro Carloni",
@@ -219,22 +207,10 @@
       "imdbId": "tt43596156"
     },
     {
-      "id": 1619818,
-      "title": "Where To?",
-      "releaseDate": "2026-11-14",
-      "poster": "https://image.tmdb.org/t/p/w92/lVEnFQcNYZPG5AVLhy1VMk9BYhb.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Assaf Machnes",
-      "studioStr": "2-Team Productions / Rogovin Brothers",
-      "prestige": false,
-      "imdbId": "tt35253781"
-    },
-    {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -426,7 +402,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -1146,7 +1122,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/sPypqBGhwKuJgN7DDinOz9aKNCs.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
