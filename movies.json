@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T16:03:22.254Z",
-  "count": 173,
+  "generatedAt": "2026-11-01T17:06:48.347Z",
+  "count": 172,
   "movies": [
     {
       "id": 1687303,
@@ -193,18 +193,6 @@
       "studioStr": "Shochiku / LesPros Entertainment",
       "prestige": true,
       "imdbId": "tt45556743"
-    },
-    {
-      "id": 1716604,
-      "title": "A Proud Family Wizmas",
-      "releaseDate": "2026-11-14",
-      "poster": "https://image.tmdb.org/t/p/w92/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "David H. Brooks",
-      "studioStr": "Disney Television Animation / BaR Productions",
-      "prestige": true,
-      "imdbId": "tt43596156"
     },
     {
       "id": 1300968,
@@ -402,7 +390,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -1122,7 +1110,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/sPypqBGhwKuJgN7DDinOz9aKNCs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
