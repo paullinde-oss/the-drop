@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T17:06:48.347Z",
-  "count": 172,
+  "generatedAt": "2026-11-02T20:44:15.312Z",
+  "count": 173,
   "movies": [
     {
       "id": 1687303,
@@ -111,6 +111,18 @@
       "imdbId": "tt10098420"
     },
     {
+      "id": 1600653,
+      "title": "The Twelve Dates of Christmas",
+      "releaseDate": "2026-11-06",
+      "poster": "https://image.tmdb.org/t/p/w92/iw4MEC36w17WWLQ6vrhzCXZZSHN.jpg",
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "David Lipper",
+      "studioStr": "Applewood Studios / BuzzFeed Studios",
+      "prestige": true,
+      "imdbId": "tt39219651"
+    },
+    {
       "id": 1050981,
       "title": "Being Heumann",
       "releaseDate": "2026-11-06",
@@ -183,18 +195,6 @@
       "imdbId": "tt35866986"
     },
     {
-      "id": 1707955,
-      "title": "Cursed Meme",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/7ZsxOt6MnEf2Z67sEMJoEPKMPe4.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Kan Yamamoto",
-      "studioStr": "Shochiku / LesPros Entertainment",
-      "prestige": true,
-      "imdbId": "tt45556743"
-    },
-    {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-18",
@@ -234,7 +234,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/8jSyV5i8aFYPiO3c3B9YUu14hN2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/44iyquHYfSInzp7rYYQyRV1Ndtk.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -246,7 +246,7 @@
       "id": 1137888,
       "title": "The Man with the Bag",
       "releaseDate": "2026-12-02",
-      "poster": "https://image.tmdb.org/t/p/w92/9cG28CqPloosifAz4w21i0aSOI8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/s5nq2q5tB9N0nUYsZE9LR1BuQw6.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Adam Shankman",
@@ -313,6 +313,18 @@
       "studioStr": "Bardel Entertainment / Walt Disney Pictures",
       "prestige": true,
       "imdbId": "tt48503221"
+    },
+    {
+      "id": 1389765,
+      "title": "Batman: Knightfall Part 2: Knightquest",
+      "releaseDate": "2026-12-08",
+      "poster": "https://image.tmdb.org/t/p/w92/4zWHei7BJ4dP0DDK4FJ7em9ET7e.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Jeff Wamester",
+      "studioStr": "Warner Bros. Animation / DC",
+      "prestige": true,
+      "imdbId": "tt38807532"
     },
     {
       "id": 1421967,
@@ -1110,7 +1122,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ms7BhVucvjxV74HkX8JLmFlQ6p2.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
@@ -1485,7 +1497,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1989,7 +2001,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/wn0a5ODRA0wO4QPivspts0gDG5w.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Fawn Veerasunthorn",
+      "directorStr": "Fawn Veerasunthorn, Ryan Green",
       "studioStr": "Walt Disney Animation Studios",
       "prestige": true,
       "imdbId": "tt26443626"
