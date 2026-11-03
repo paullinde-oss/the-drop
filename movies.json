@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-02T20:44:15.312Z",
-  "count": 173,
+  "generatedAt": "2026-11-03T18:18:35.263Z",
+  "count": 178,
   "movies": [
     {
       "id": 1687303,
       "title": "Fest Godzilla II: Tokyo Vanishing",
       "releaseDate": "2026-11-03",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/he2zqhQJqMxh6CslPtiFcL7js7w.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Kazuhiro Nakagawa",
       "studioStr": "TOHO / EPISCOPE",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt48623292"
     },
     {
       "id": 1381071,
@@ -112,7 +112,7 @@
     },
     {
       "id": 1600653,
-      "title": "The Twelve Dates of Christmas",
+      "title": "The 12 Dates of Christmas",
       "releaseDate": "2026-11-06",
       "poster": "https://image.tmdb.org/t/p/w92/iw4MEC36w17WWLQ6vrhzCXZZSHN.jpg",
       "format": "streaming",
@@ -145,6 +145,18 @@
       "studioStr": "Columbia Pictures / Mandalay Pictures",
       "prestige": true,
       "imdbId": "tt38686316"
+    },
+    {
+      "id": 1559980,
+      "title": "The Gospel of Christmas",
+      "releaseDate": "2026-11-11",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Tyler Perry",
+      "studioStr": "Tyler Perry Studios / Netflix",
+      "prestige": true,
+      "imdbId": "tt38420997"
     },
     {
       "id": 1396056,
@@ -234,11 +246,11 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/44iyquHYfSInzp7rYYQyRV1Ndtk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5jiz8gmp2PtPsRxAR1Cm05UzqnL.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
-      "studioStr": "Heyday Films / Netflix",
+      "studioStr": "Netflix / Plan B Entertainment",
       "prestige": true,
       "imdbId": "tt36408401"
     },
@@ -301,6 +313,18 @@
       "studioStr": "Skydance Animation / Netflix Animation Studios",
       "prestige": true,
       "imdbId": "tt18270542"
+    },
+    {
+      "id": 1572423,
+      "title": "Games We Play",
+      "releaseDate": "2026-12-04",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Rachael Dahl",
+      "studioStr": "Blue Fox Entertainment / Vertical",
+      "prestige": true,
+      "imdbId": "tt38643318"
     },
     {
       "id": 1519780,
@@ -378,7 +402,7 @@
       "id": 1566920,
       "title": "The Apothecary Diaries: The Late Lady's Treasure",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/tNIbQ3yERsDXUabqFjSlJtQFFYf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/2EqHHvFwcJLG1cxJTTLwefO3dfT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Norihiro Naganuma",
@@ -402,13 +426,25 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21357150"
+    },
+    {
+      "id": 1260649,
+      "title": "Jumanji: Open World",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jake Kasdan",
+      "studioStr": "Matt Tolmach Productions / Seven Bucks Productions",
+      "prestige": true,
+      "imdbId": "tt26735127"
     },
     {
       "id": 1421903,
@@ -483,18 +519,6 @@
       "imdbId": "tt41328385"
     },
     {
-      "id": 1566727,
-      "title": "Zac Power",
-      "releaseDate": "2027-01-07",
-      "poster": "https://image.tmdb.org/t/p/w92/rDQjjGi6sFi9vqw8PNq87A3xGk5.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Alexs Stadermann, David Webster",
-      "studioStr": "Flying Bark Productions / Screen Australia",
-      "prestige": true,
-      "imdbId": "tt38681919"
-    },
-    {
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
@@ -531,6 +555,18 @@
       "imdbId": "tt33085567"
     },
     {
+      "id": 1761856,
+      "title": "Storm",
+      "releaseDate": "2027-01-15",
+      "poster": null,
+      "format": "streaming",
+      "reRelease": false,
+      "directorStr": "Edouard Salier",
+      "studioStr": "Amazon MGM Studios / uMedia",
+      "prestige": true,
+      "imdbId": "tt40639469"
+    },
+    {
       "id": 1753605,
       "title": "The Tiger and Her Wings the Movie",
       "releaseDate": "2027-01-15",
@@ -553,6 +589,18 @@
       "studioStr": "Legendary Pictures / Maximum Effort",
       "prestige": true,
       "imdbId": "tt16911616"
+    },
+    {
+      "id": 1247047,
+      "title": "Bollywoof",
+      "releaseDate": "2027-01-22",
+      "poster": "https://image.tmdb.org/t/p/w92/r6iFygGBInvQx55JdqYCXLlcTcc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Frederik Du Chau",
+      "studioStr": "Embankment Films / La Parti Production",
+      "prestige": false,
+      "imdbId": "tt34753359"
     },
     {
       "id": 1504880,
@@ -1057,6 +1105,18 @@
       "studioStr": "Lucasfilm Ltd. / 21 Laps Entertainment",
       "prestige": true,
       "imdbId": "tt28069611"
+    },
+    {
+      "id": 1566727,
+      "title": "Zac Power",
+      "releaseDate": "2027-06-04",
+      "poster": "https://image.tmdb.org/t/p/w92/rDQjjGi6sFi9vqw8PNq87A3xGk5.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Alexs Stadermann, David Webster",
+      "studioStr": "Flying Bark Productions / Screen Australia",
+      "prestige": true,
+      "imdbId": "tt38681919"
     },
     {
       "id": 1458319,
