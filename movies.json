@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-11-03T18:18:35.263Z",
-  "count": 178,
+  "generatedAt": "2026-11-04T18:29:30.422Z",
+  "count": 177,
   "movies": [
-    {
-      "id": 1687303,
-      "title": "Fest Godzilla II: Tokyo Vanishing",
-      "releaseDate": "2026-11-03",
-      "poster": "https://image.tmdb.org/t/p/w92/he2zqhQJqMxh6CslPtiFcL7js7w.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Kazuhiro Nakagawa",
-      "studioStr": "TOHO / EPISCOPE",
-      "prestige": true,
-      "imdbId": "tt48623292"
-    },
-    {
-      "id": 1381071,
-      "title": "Godzilla Minus Zero",
-      "releaseDate": "2026-11-03",
-      "poster": "https://image.tmdb.org/t/p/w92/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Takashi Yamazaki",
-      "studioStr": "TOHO / Robot Communications",
-      "prestige": true,
-      "imdbId": "tt34384661"
-    },
     {
       "id": 1797146,
       "title": "Louder Than the Odds: The Mr. Smalls Story",
@@ -45,7 +21,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/fArOu0NgRfth0zH5YqRu1os478v.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Lauriane Escaffre, Yvo Muller",
+      "directorStr": "Yvo Muller, Lauriane Escaffre",
       "studioStr": "Quad Films / France 3 Cinéma",
       "prestige": true,
       "imdbId": "tt35494574"
@@ -85,6 +61,18 @@
       "studioStr": "Bombero International / Warner Bros. Film Productions Germany",
       "prestige": true,
       "imdbId": "tt36501204"
+    },
+    {
+      "id": 656908,
+      "title": "Ramayana: Rise of a Legend",
+      "releaseDate": "2026-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nitesh Tiwari",
+      "studioStr": "Monster Mind Creations / Prime Focus Studios",
+      "prestige": false,
+      "imdbId": "tt27988879"
     },
     {
       "id": 1117898,
@@ -339,18 +327,6 @@
       "imdbId": "tt48503221"
     },
     {
-      "id": 1389765,
-      "title": "Batman: Knightfall Part 2: Knightquest",
-      "releaseDate": "2026-12-08",
-      "poster": "https://image.tmdb.org/t/p/w92/4zWHei7BJ4dP0DDK4FJ7em9ET7e.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Jeff Wamester",
-      "studioStr": "Warner Bros. Animation / DC",
-      "prestige": true,
-      "imdbId": "tt38807532"
-    },
-    {
       "id": 1421967,
       "title": "Violette",
       "releaseDate": "2026-12-09",
@@ -409,6 +385,18 @@
       "studioStr": "TOHO animation STUDIO / OLM",
       "prestige": true,
       "imdbId": "tt39110207"
+    },
+    {
+      "id": 1389765,
+      "title": "Batman: Knightfall Part 2: Knightquest",
+      "releaseDate": "2026-12-15",
+      "poster": "https://image.tmdb.org/t/p/w92/dVQprZjK7IRPcjhFp5awf4PWCCx.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Jeff Wamester",
+      "studioStr": "Warner Bros. Animation / DC",
+      "prestige": true,
+      "imdbId": "tt38807532"
     },
     {
       "id": 1170608,
@@ -778,7 +766,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Santiago Menghini",
-      "studioStr": "Atomic Monster / New Line Cinema",
+      "studioStr": "New Line Cinema / Coin Operated",
       "prestige": true,
       "imdbId": "tt37897207"
     },
@@ -1090,7 +1078,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Megan Nicole Dong",
-      "studioStr": "Locksmith Animation / DNEG",
+      "studioStr": "Locksmith Animation / Warner Bros. Pictures Animation",
       "prestige": true,
       "imdbId": "tt28018076"
     },
@@ -1306,7 +1294,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ben Wheatley",
-      "studioStr": "Paramount Primal / Blumhouse Atomic Monster",
+      "studioStr": "Paramount Primal / Blumhouse Atomic",
       "prestige": true,
       "imdbId": "tt34381444"
     },
@@ -1557,7 +1545,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
