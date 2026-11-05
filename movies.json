@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-11-04T18:29:30.422Z",
-  "count": 177,
+  "generatedAt": "2026-11-05T18:33:47.351Z",
+  "count": 174,
   "movies": [
-    {
-      "id": 1797146,
-      "title": "Louder Than the Odds: The Mr. Smalls Story",
-      "releaseDate": "2026-11-04",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Liz Berlin, Evan Edelist",
-      "studioStr": null,
-      "prestige": false,
-      "imdbId": null
-    },
-    {
-      "id": 1003494,
-      "title": "Women on Trial",
-      "releaseDate": "2026-11-04",
-      "poster": "https://image.tmdb.org/t/p/w92/fArOu0NgRfth0zH5YqRu1os478v.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Yvo Muller, Lauriane Escaffre",
-      "studioStr": "Quad Films / France 3 Cinéma",
-      "prestige": true,
-      "imdbId": "tt35494574"
-    },
     {
       "id": 1654940,
       "title": "One Year to Live, Buy a Man",
@@ -75,18 +51,6 @@
       "imdbId": "tt27988879"
     },
     {
-      "id": 1117898,
-      "title": "The Cat in the Hat",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Erica Rivinoja, Alessandro Carloni",
-      "studioStr": "DNEG / Dr. Seuss Enterprises",
-      "prestige": true,
-      "imdbId": "tt2321555"
-    },
-    {
       "id": 1697911,
       "title": "Drummer Boy",
       "releaseDate": "2026-11-06",
@@ -102,7 +66,7 @@
       "id": 1600653,
       "title": "The 12 Dates of Christmas",
       "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/iw4MEC36w17WWLQ6vrhzCXZZSHN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/eccnvOqoGmQHCjFcqANHWdPEWQJ.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Lipper",
@@ -147,30 +111,6 @@
       "imdbId": "tt38420997"
     },
     {
-      "id": 1396056,
-      "title": "Our Revolution",
-      "releaseDate": "2026-11-11",
-      "poster": "https://image.tmdb.org/t/p/w92/xKy9qtcumqXJqCv0Kzx3JiM5C90.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Piotr Domalewski",
-      "studioStr": "Next Film / TVN Warner Bros. Discovery",
-      "prestige": true,
-      "imdbId": "tt35571123"
-    },
-    {
-      "id": 1131943,
-      "title": "Madden",
-      "releaseDate": "2026-11-11",
-      "poster": "https://image.tmdb.org/t/p/w92/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "David O. Russell",
-      "studioStr": "Escape Artists / SMAC Entertainment",
-      "prestige": true,
-      "imdbId": "tt24818230"
-    },
-    {
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-13",
@@ -181,18 +121,6 @@
       "studioStr": "Paramount Pictures / Domain Entertainment",
       "prestige": true,
       "imdbId": "tt38773219"
-    },
-    {
-      "id": 1437511,
-      "title": "How to Rob a Bank",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Leitch",
-      "studioStr": "87North Productions / Imagine Entertainment",
-      "prestige": true,
-      "imdbId": "tt35866986"
     },
     {
       "id": 1300968,
@@ -234,7 +162,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/5jiz8gmp2PtPsRxAR1Cm05UzqnL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -330,13 +258,25 @@
       "id": 1421967,
       "title": "Violette",
       "releaseDate": "2026-12-09",
-      "poster": "https://image.tmdb.org/t/p/w92/nXCS8xCMx4VRIZV1LAqHqWDdu7E.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/nZA3tHRA40ZeV33g7JuqaqW04Vm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jean-Pierre Jeunet",
       "studioStr": "24 25 Films / Palomar",
       "prestige": true,
       "imdbId": "tt29122074"
+    },
+    {
+      "id": 1649403,
+      "title": "George Michael: The Faith Tour",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Andy Morahan, David Austin",
+      "studioStr": "Mercury Studios / George Michael Entertainment",
+      "prestige": true,
+      "imdbId": "tt40564737"
     },
     {
       "id": 1408207,
@@ -391,7 +331,7 @@
       "title": "Batman: Knightfall Part 2: Knightquest",
       "releaseDate": "2026-12-15",
       "poster": "https://image.tmdb.org/t/p/w92/dVQprZjK7IRPcjhFp5awf4PWCCx.jpg",
-      "format": "digital",
+      "format": "physical",
       "reRelease": false,
       "directorStr": "Jeff Wamester",
       "studioStr": "Warner Bros. Animation / DC",
@@ -652,9 +592,9 @@
     },
     {
       "id": 1340208,
-      "title": "Karoshi",
+      "title": "Karōshi",
       "releaseDate": "2027-02-05",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/uqoAVeeWEixiKe7iiyHYP46yiSs.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Doscher",
@@ -865,6 +805,30 @@
       "studioStr": "The Cantillon Company / TriStar Pictures",
       "prestige": true,
       "imdbId": "tt4540534"
+    },
+    {
+      "id": 1817330,
+      "title": "Mashle",
+      "releaseDate": "2027-03-19",
+      "poster": "https://image.tmdb.org/t/p/w92/zvF6xYjM0bU8nTYANu9ulTuWY35.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Yuichi Fukuda",
+      "studioStr": "CREDEUS / TOHO",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
+      "id": 1139422,
+      "title": "The Riders",
+      "releaseDate": "2027-03-25",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Edward Berger",
+      "studioStr": "Nine Hours / Plan B Entertainment",
+      "prestige": true,
+      "imdbId": "tt9148786"
     },
     {
       "id": 1288438,
@@ -1545,7 +1509,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
