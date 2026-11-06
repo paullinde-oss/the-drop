@@ -1,55 +1,7 @@
 {
-  "generatedAt": "2026-11-05T18:33:47.351Z",
-  "count": 174,
+  "generatedAt": "2026-11-06T17:53:16.318Z",
+  "count": 171,
   "movies": [
-    {
-      "id": 1654940,
-      "title": "One Year to Live, Buy a Man",
-      "releaseDate": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "Hiroki Kazama",
-      "studioStr": "AOI Pro. / Netflix",
-      "prestige": true,
-      "imdbId": "tt39400541"
-    },
-    {
-      "id": 1481630,
-      "title": "New Eden",
-      "releaseDate": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/h3d9arm0yLdBbAlYUtBxDLXDDI6.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Aly Muritiba",
-      "studioStr": "Muritiba Filmes / Grafo Audiovisual",
-      "prestige": true,
-      "imdbId": "tt31340003"
-    },
-    {
-      "id": 1447206,
-      "title": "Ghost Song",
-      "releaseDate": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/iSNeCZoujlT9Mh0boHS9GyR6fEX.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Fatih Akin",
-      "studioStr": "Bombero International / Warner Bros. Film Productions Germany",
-      "prestige": true,
-      "imdbId": "tt36501204"
-    },
-    {
-      "id": 656908,
-      "title": "Ramayana: Rise of a Legend",
-      "releaseDate": "2026-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Nitesh Tiwari",
-      "studioStr": "Monster Mind Creations / Prime Focus Studios",
-      "prestige": false,
-      "imdbId": "tt27988879"
-    },
     {
       "id": 1697911,
       "title": "Drummer Boy",
@@ -99,6 +51,18 @@
       "imdbId": "tt38686316"
     },
     {
+      "id": 1567605,
+      "title": "Ebenezer",
+      "releaseDate": "2026-11-11",
+      "poster": "https://image.tmdb.org/t/p/w92/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ti West",
+      "studioStr": "Paramount Pictures / Domain Entertainment",
+      "prestige": true,
+      "imdbId": "tt38773219"
+    },
+    {
       "id": 1559980,
       "title": "The Gospel of Christmas",
       "releaseDate": "2026-11-11",
@@ -109,18 +73,6 @@
       "studioStr": "Tyler Perry Studios / Netflix",
       "prestige": true,
       "imdbId": "tt38420997"
-    },
-    {
-      "id": 1567605,
-      "title": "Ebenezer",
-      "releaseDate": "2026-11-13",
-      "poster": "https://image.tmdb.org/t/p/w92/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ti West",
-      "studioStr": "Paramount Pictures / Domain Entertainment",
-      "prestige": true,
-      "imdbId": "tt38773219"
     },
     {
       "id": 1300968,
@@ -438,7 +390,7 @@
       "id": 1429574,
       "title": "Nothing to Lose",
       "releaseDate": "2027-01-06",
-      "poster": "https://image.tmdb.org/t/p/w92/pJs6gkLtToDtbSiCaq4TGucDnAl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/mKGleSRpjnFhnzU2vSvZwxJEuPc.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Louis-Julien Petit",
@@ -594,7 +546,7 @@
       "id": 1340208,
       "title": "Karōshi",
       "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/uqoAVeeWEixiKe7iiyHYP46yiSs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/xOwetUoCyca3yYlqZ5rlElgXiTV.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Takashi Doscher",
@@ -723,18 +675,6 @@
       "imdbId": "tt8992304"
     },
     {
-      "id": 1397972,
-      "title": "Panic Carefully",
-      "releaseDate": "2027-02-26",
-      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Sam Esmail",
-      "studioStr": "Warner Bros. Pictures / Esmail Corp",
-      "prestige": true,
-      "imdbId": "tt34900169"
-    },
-    {
       "id": 1497464,
       "title": "Gatto",
       "releaseDate": "2027-03-05",
@@ -816,7 +756,7 @@
       "directorStr": "Yuichi Fukuda",
       "studioStr": "CREDEUS / TOHO",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt50585222"
     },
     {
       "id": 1139422,
@@ -901,6 +841,18 @@
       "studioStr": "Almost Friday Media / Paramount Primal",
       "prestige": true,
       "imdbId": "tt43677673"
+    },
+    {
+      "id": 1397972,
+      "title": "Panic Carefully",
+      "releaseDate": "2027-04-09",
+      "poster": "https://image.tmdb.org/t/p/w92/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Sam Esmail",
+      "studioStr": "Warner Bros. Pictures / Esmail Corp",
+      "prestige": true,
+      "imdbId": "tt34900169"
     },
     {
       "id": 1263022,
@@ -1345,6 +1297,18 @@
       "studioStr": "Sony Pictures Animation / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt43674934"
+    },
+    {
+      "id": 1714034,
+      "title": "Jurassic World Liberation",
+      "releaseDate": "2027-10-08",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Universal Pictures / Amblin Entertainment",
+      "prestige": true,
+      "imdbId": "tt43750523"
     },
     {
       "id": 1574840,
