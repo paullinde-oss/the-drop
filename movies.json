@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-11-06T17:53:16.318Z",
+  "generatedAt": "2026-11-07T16:49:16.989Z",
   "count": 171,
   "movies": [
-    {
-      "id": 1697911,
-      "title": "Drummer Boy",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ben Smallbone, Joel Smallbone",
-      "studioStr": "Angel Studios / Radiate Films",
-      "prestige": true,
-      "imdbId": "tt10098420"
-    },
-    {
-      "id": 1600653,
-      "title": "The 12 Dates of Christmas",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/eccnvOqoGmQHCjFcqANHWdPEWQJ.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "David Lipper",
-      "studioStr": "Applewood Studios / BuzzFeed Studios",
-      "prestige": true,
-      "imdbId": "tt39219651"
-    },
-    {
-      "id": 1050981,
-      "title": "Being Heumann",
-      "releaseDate": "2026-11-06",
-      "poster": "https://image.tmdb.org/t/p/w92/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "Sian Heder",
-      "studioStr": "Permut Presentations / Gravity Squared Entertainment",
-      "prestige": true,
-      "imdbId": "tt15095848"
-    },
     {
       "id": 1562642,
       "title": "Ghost Soldier",
@@ -114,7 +78,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/5jO6rhfethzH7xdWl6KCOxCNCzQ.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -282,7 +246,7 @@
       "id": 1389765,
       "title": "Batman: Knightfall Part 2: Knightquest",
       "releaseDate": "2026-12-15",
-      "poster": "https://image.tmdb.org/t/p/w92/dVQprZjK7IRPcjhFp5awf4PWCCx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9jGwTCEYaOg3xxnKFaL5ukVexLp.jpg",
       "format": "physical",
       "reRelease": false,
       "directorStr": "Jeff Wamester",
@@ -963,18 +927,6 @@
       "imdbId": "tt9198366"
     },
     {
-      "id": 1592452,
-      "title": "Paranormal Activity",
-      "releaseDate": "2027-05-21",
-      "poster": "https://image.tmdb.org/t/p/w92/5qwFilGZbYaXHLG4I1Kp82bwbGL.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Ian Tuason",
-      "studioStr": "Paramount Pictures / Solana Films",
-      "prestige": true,
-      "imdbId": "tt39104938"
-    },
-    {
       "id": 1273739,
       "title": "The Catch",
       "releaseDate": "2027-05-21",
@@ -1086,7 +1038,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/ms7BhVucvjxV74HkX8JLmFlQ6p2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
@@ -1323,6 +1275,18 @@
       "imdbId": "tt22408968"
     },
     {
+      "id": 1592452,
+      "title": "Paranormal Activity",
+      "releaseDate": "2027-10-22",
+      "poster": "https://image.tmdb.org/t/p/w92/5qwFilGZbYaXHLG4I1Kp82bwbGL.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ian Tuason",
+      "studioStr": "Paramount Pictures / Solana Films",
+      "prestige": true,
+      "imdbId": "tt39104938"
+    },
+    {
       "id": 1673868,
       "title": "Charlie vs. the Chocolate Factory",
       "releaseDate": "2027-11-05",
@@ -1473,7 +1437,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1654,7 +1618,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jon M. Chu, Jill Culton",
-      "studioStr": "Bad Robot / Dr. Seuss Enterprises",
+      "studioStr": "Bad Robot / Warner Bros. Pictures Animation",
       "prestige": true,
       "imdbId": "tt13397896"
     },
@@ -1770,7 +1734,7 @@
       "id": 1467853,
       "title": "Miami Vice '85",
       "releaseDate": "2028-05-19",
-      "poster": "https://image.tmdb.org/t/p/w92/jSnejFSSzjZHI3JPVT9wohRvWMb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/arOmq7ILCNPZDTc2wloGUS0QCmG.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joseph Kosinski",
@@ -1935,6 +1899,18 @@
       "imdbId": "tt43610781"
     },
     {
+      "id": 1643755,
+      "title": "Untitled Danny McBride G.I. Joe Film",
+      "releaseDate": "2028-10-20",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Danny McBride",
+      "studioStr": "Paramount Pictures / di Bonaventura Pictures",
+      "prestige": true,
+      "imdbId": "tt43679963"
+    },
+    {
       "id": 1715249,
       "title": "Untitled Duffer Brothers Film",
       "releaseDate": "2028-11-03",
@@ -2017,6 +1993,30 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt39085480"
+    },
+    {
+      "id": 1820141,
+      "title": "The Super Mario Odyssey Movie",
+      "releaseDate": "2029-04-09",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Nintendo / Illumination",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
+      "id": 1694257,
+      "title": "The Super Mario Odyssey Movie",
+      "releaseDate": "2029-04-09",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Illumination / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt43520505"
     },
     {
       "id": 1380804,
