@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T16:49:16.989Z",
-  "count": 171,
+  "generatedAt": "2026-11-08T16:59:06.935Z",
+  "count": 170,
   "movies": [
     {
       "id": 1562642,
@@ -270,7 +270,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -493,6 +493,18 @@
       "studioStr": "Bowfinger / Esto También Pasará",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1378746,
+      "title": "The Night of Broken Glass",
+      "releaseDate": "2027-01-29",
+      "poster": "https://image.tmdb.org/t/p/w92/48rgedy0EC8ysHHltGlwygmuVhL.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Stefan Ruzowitzky",
+      "studioStr": "Benaroya Pictures / Dor Film",
+      "prestige": false,
+      "imdbId": "tt8382400"
     },
     {
       "id": 1384758,
@@ -726,7 +738,7 @@
       "id": 1139422,
       "title": "The Riders",
       "releaseDate": "2027-03-25",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/uPvni8LDxBnN7CeGavZV1Sp3cxf.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Edward Berger",
@@ -1002,7 +1014,7 @@
       "id": 1221973,
       "title": "Untitled Ocean's Prequel",
       "releaseDate": "2027-06-25",
-      "poster": "https://image.tmdb.org/t/p/w92/ktC7pAj9p7R2FU3Pf2emyB2fbbL.jpg",
+      "poster": null,
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Bradley Cooper",
@@ -1249,18 +1261,6 @@
       "studioStr": "Sony Pictures Animation / Amazon MGM Studios",
       "prestige": true,
       "imdbId": "tt43674934"
-    },
-    {
-      "id": 1714034,
-      "title": "Jurassic World Liberation",
-      "releaseDate": "2027-10-08",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Universal Pictures / Amblin Entertainment",
-      "prestige": true,
-      "imdbId": "tt43750523"
     },
     {
       "id": 1574840,
@@ -1995,7 +1995,7 @@
       "imdbId": "tt39085480"
     },
     {
-      "id": 1820141,
+      "id": 1820848,
       "title": "The Super Mario Odyssey Movie",
       "releaseDate": "2029-04-09",
       "poster": null,
@@ -2005,18 +2005,6 @@
       "studioStr": "Nintendo / Illumination",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1694257,
-      "title": "The Super Mario Odyssey Movie",
-      "releaseDate": "2029-04-09",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Illumination / Universal Pictures",
-      "prestige": true,
-      "imdbId": "tt43520505"
     },
     {
       "id": 1380804,
