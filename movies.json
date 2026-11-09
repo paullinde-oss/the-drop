@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T16:59:06.935Z",
-  "count": 170,
+  "generatedAt": "2026-11-09T21:20:22.227Z",
+  "count": 169,
   "movies": [
     {
       "id": 1562642,
@@ -51,6 +51,18 @@
       "imdbId": "tt32558705"
     },
     {
+      "id": 1400336,
+      "title": "Focker-in-Law",
+      "releaseDate": "2026-11-21",
+      "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "John Hamburg",
+      "studioStr": "Universal Pictures / Tribeca Productions",
+      "prestige": true,
+      "imdbId": "tt34966140"
+    },
+    {
       "id": 1280115,
       "title": "Way of the Warrior Kid",
       "releaseDate": "2026-11-24",
@@ -61,18 +73,6 @@
       "studioStr": "Skydance Media / Indivisible Productions",
       "prestige": true,
       "imdbId": "tt32213169"
-    },
-    {
-      "id": 1400336,
-      "title": "Focker-in-Law",
-      "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "John Hamburg",
-      "studioStr": "Universal Pictures / Tribeca Productions",
-      "prestige": true,
-      "imdbId": "tt34966140"
     },
     {
       "id": 1457866,
@@ -270,7 +270,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -435,18 +435,6 @@
       "imdbId": "tt16911616"
     },
     {
-      "id": 1247047,
-      "title": "Bollywoof",
-      "releaseDate": "2027-01-22",
-      "poster": "https://image.tmdb.org/t/p/w92/r6iFygGBInvQx55JdqYCXLlcTcc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Frederik Du Chau",
-      "studioStr": "Embankment Films / La Parti Production",
-      "prestige": false,
-      "imdbId": "tt34753359"
-    },
-    {
       "id": 1504880,
       "title": "Wind of Change",
       "releaseDate": "2027-01-28",
@@ -594,7 +582,7 @@
       "id": 1480503,
       "title": "CoComelon: The Movie",
       "releaseDate": "2027-02-19",
-      "poster": "https://image.tmdb.org/t/p/w92/dDYSKF9VWmcgOy2sruIJkHs5DDG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/hLkIFdfDq0LuHDfRUzSU2DRiPW4.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Kathleen Good",
