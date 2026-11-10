@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:20:22.227Z",
+  "generatedAt": "2026-11-10T18:29:56.540Z",
   "count": 169,
   "movies": [
     {
@@ -42,7 +42,7 @@
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -1227,6 +1227,18 @@
       "imdbId": "tt33075482"
     },
     {
+      "id": 1802866,
+      "title": "Compassionate Release",
+      "releaseDate": "2027-10-01",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Christopher McQuarrie",
+      "studioStr": "United Artists / Hungry Bull Productions",
+      "prestige": true,
+      "imdbId": "tt49657624"
+    },
+    {
       "id": 1755624,
       "title": "Sleepover",
       "releaseDate": "2027-10-08",
@@ -1425,7 +1437,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1722,7 +1734,7 @@
       "id": 1467853,
       "title": "Miami Vice '85",
       "releaseDate": "2028-05-19",
-      "poster": "https://image.tmdb.org/t/p/w92/arOmq7ILCNPZDTc2wloGUS0QCmG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/iMj4HaysrLx4VZr7oQLfIAHUxHo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joseph Kosinski",
@@ -1981,18 +1993,6 @@
       "studioStr": "Paramount Pictures / Original Film",
       "prestige": true,
       "imdbId": "tt39085480"
-    },
-    {
-      "id": 1820848,
-      "title": "The Super Mario Odyssey Movie",
-      "releaseDate": "2029-04-09",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "Nintendo / Illumination",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1380804,
