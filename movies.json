@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T18:29:56.540Z",
-  "count": 169,
+  "generatedAt": "2026-11-11T18:22:36.253Z",
+  "count": 170,
   "movies": [
     {
       "id": 1562642,
@@ -18,7 +18,7 @@
       "id": 1567605,
       "title": "Ebenezer",
       "releaseDate": "2026-11-11",
-      "poster": "https://image.tmdb.org/t/p/w92/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wbTHJ5VzOjEq02PYHkLAL7yhhBn.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Ti West",
@@ -30,7 +30,7 @@
       "id": 1559980,
       "title": "The Gospel of Christmas",
       "releaseDate": "2026-11-11",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Tyler Perry",
@@ -270,7 +270,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -769,6 +769,18 @@
       "studioStr": "Bandai Namco Filmworks / Universal Pictures Japan",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 1573054,
+      "title": "Play House",
+      "releaseDate": "2027-04-02",
+      "poster": "https://image.tmdb.org/t/p/w92/xklRbyVyO7itKSfC1jONLvGb4lM.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Nicolas Curcio",
+      "studioStr": "CHROMA / Skinny Ghost",
+      "prestige": true,
+      "imdbId": "tt38492840"
     },
     {
       "id": 1208917,
@@ -1710,7 +1722,7 @@
       "id": 1505252,
       "title": "Final Destination 7",
       "releaseDate": "2028-05-12",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/svpS0J2wEhqMxZUNzyLAvK9owRQ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michiel Blanchart",
