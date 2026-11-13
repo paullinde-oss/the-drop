@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T18:45:23.945Z",
-  "count": 168,
+  "generatedAt": "2026-11-13T18:25:55.303Z",
+  "count": 170,
   "movies": [
     {
       "id": 1300968,
@@ -18,7 +18,7 @@
       "id": 1400336,
       "title": "Focker-in-Law",
       "releaseDate": "2026-11-21",
-      "poster": "https://image.tmdb.org/t/p/w92/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John Hamburg",
@@ -66,7 +66,7 @@
       "id": 1591961,
       "title": "My Crazy Feminist Girlfriend",
       "releaseDate": "2026-12-03",
-      "poster": "https://image.tmdb.org/t/p/w92/skIMvDKu43EQ6NcV6KXCClPllG7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/wifnHZrBBmCdV3qlnFNQVoOV2su.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Keiichi Kobayashi",
@@ -637,6 +637,18 @@
       "studioStr": "Outlier Society / AGBO",
       "prestige": true,
       "imdbId": "tt5500064"
+    },
+    {
+      "id": 1680650,
+      "title": "Loving Dory",
+      "releaseDate": "2027-03-05",
+      "poster": "https://image.tmdb.org/t/p/w92/ew56ndWFPG2VdVmbd2Dsi2mZhuv.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Lou Hamou-Lhadj",
+      "studioStr": "Pixar",
+      "prestige": true,
+      "imdbId": "tt43621603"
     },
     {
       "id": 1297467,
@@ -1261,6 +1273,18 @@
       "studioStr": "Universal Pictures / Radio Silence",
       "prestige": true,
       "imdbId": "tt22408968"
+    },
+    {
+      "id": 1489678,
+      "title": "Supermax",
+      "releaseDate": "2027-10-15",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "David Gordon Green",
+      "studioStr": "Miramax / The Picture Company",
+      "prestige": true,
+      "imdbId": "tt37090816"
     },
     {
       "id": 1592452,
