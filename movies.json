@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T18:25:55.303Z",
-  "count": 170,
+  "generatedAt": "2026-11-14T16:54:47.228Z",
+  "count": 173,
   "movies": [
     {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -73,6 +73,18 @@
       "studioStr": "AOI Pro. / Netflix",
       "prestige": true,
       "imdbId": "tt39107065"
+    },
+    {
+      "id": 1587351,
+      "title": "Summer High",
+      "releaseDate": "2026-12-03",
+      "poster": "https://image.tmdb.org/t/p/w92/sfisKhq7gMadGapvyj6T3sj4zE6.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Santiago Dellape",
+      "studioStr": "Gancho de Nuvem / A Fábrica",
+      "prestige": true,
+      "imdbId": "tt40423349"
     },
     {
       "id": 1452168,
@@ -255,6 +267,18 @@
       "imdbId": "tt26735127"
     },
     {
+      "id": 1824966,
+      "title": "Disney Parks Magical Christmas Day Parade",
+      "releaseDate": "2026-12-25",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "Disney Parks Programming",
+      "prestige": true,
+      "imdbId": null
+    },
+    {
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
@@ -339,18 +363,6 @@
       "imdbId": "tt35935357"
     },
     {
-      "id": 621304,
-      "title": "Children of Blood and Bone",
-      "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Gina Prince-Bythewood",
-      "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
-      "prestige": true,
-      "imdbId": "tt6779038"
-    },
-    {
       "id": 1520592,
       "title": "River",
       "releaseDate": "2027-01-15",
@@ -361,6 +373,18 @@
       "studioStr": "Spooky Pictures / Eat the Cat",
       "prestige": true,
       "imdbId": "tt33085567"
+    },
+    {
+      "id": 621304,
+      "title": "Children of Blood and Bone",
+      "releaseDate": "2027-01-15",
+      "poster": "https://image.tmdb.org/t/p/w92/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Gina Prince-Bythewood",
+      "studioStr": "Temple Hill Entertainment / Sunswept Entertainment",
+      "prestige": true,
+      "imdbId": "tt6779038"
     },
     {
       "id": 1761856,
@@ -730,7 +754,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Grant Sputore",
-      "studioStr": "Legendary Pictures",
+      "studioStr": "Legendary Pictures / Warner Bros. Pictures",
       "prestige": true,
       "imdbId": "tt32561550"
     },
@@ -843,18 +867,6 @@
       "imdbId": "tt43609247"
     },
     {
-      "id": 1306322,
-      "title": "Spaceballs: The New One",
-      "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Josh Greenbaum",
-      "studioStr": "Brooksfilms / Imagine Entertainment",
-      "prestige": true,
-      "imdbId": "tt32659463"
-    },
-    {
       "id": 1437882,
       "title": "A Place in Hell",
       "releaseDate": "2027-04-23",
@@ -865,6 +877,18 @@
       "studioStr": "T-Street / MRC",
       "prestige": true,
       "imdbId": "tt36931184"
+    },
+    {
+      "id": 1306322,
+      "title": "Spaceballs: The New One",
+      "releaseDate": "2027-04-23",
+      "poster": "https://image.tmdb.org/t/p/w92/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Josh Greenbaum",
+      "studioStr": "Brooksfilms / Imagine Entertainment",
+      "prestige": true,
+      "imdbId": "tt32659463"
     },
     {
       "id": 1177369,
@@ -1717,6 +1741,18 @@
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt29347085"
+    },
+    {
+      "id": 1176953,
+      "title": "Children of the Sun",
+      "releaseDate": "2028-05-10",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Leonie Krippendorff",
+      "studioStr": "Kineo Filmproduktion / StudioBauhaus",
+      "prestige": false,
+      "imdbId": "tt26914946"
     },
     {
       "id": 1505252,
