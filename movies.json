@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:54:47.228Z",
+  "generatedAt": "2026-11-15T17:36:40.588Z",
   "count": 173,
   "movies": [
     {
@@ -138,7 +138,7 @@
       "id": 1519780,
       "title": "Diary of a Wimpy Kid Christmas: The Getaway",
       "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/q6SR12TFod8m2izUb3b9eUCn7b.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/3yqKz67ZbcqYNJcjz7ZqGcnggyc.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Matt Danner",
@@ -246,7 +246,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -735,18 +735,6 @@
       "imdbId": "tt50585222"
     },
     {
-      "id": 1139422,
-      "title": "The Riders",
-      "releaseDate": "2027-03-25",
-      "poster": "https://image.tmdb.org/t/p/w92/uPvni8LDxBnN7CeGavZV1Sp3cxf.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Edward Berger",
-      "studioStr": "Nine Hours / Plan B Entertainment",
-      "prestige": true,
-      "imdbId": "tt9148786"
-    },
-    {
       "id": 1288438,
       "title": "Godzilla x Kong: Supernova",
       "releaseDate": "2027-03-26",
@@ -1213,6 +1201,18 @@
       "studioStr": "New Line Cinema / The Safran Company",
       "prestige": true,
       "imdbId": "tt38804736"
+    },
+    {
+      "id": 1426936,
+      "title": "Nico Bravo",
+      "releaseDate": "2027-09-24",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": null,
+      "studioStr": "DreamWorks Animation",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1122220,
