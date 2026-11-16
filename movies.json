@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T17:36:40.588Z",
-  "count": 173,
+  "generatedAt": "2026-11-16T20:52:41.733Z",
+  "count": 174,
   "movies": [
     {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -217,6 +217,18 @@
       "studioStr": "TOHO animation STUDIO / OLM",
       "prestige": true,
       "imdbId": "tt39110207"
+    },
+    {
+      "id": 1213643,
+      "title": "Killing Castro",
+      "releaseDate": "2026-12-11",
+      "poster": "https://image.tmdb.org/t/p/w92/5pNmqh1lcCGfuXZTWLjMI1wQpVa.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Eif Rivera",
+      "studioStr": "CaliWood Pictures / Romulus Entertainment",
+      "prestige": true,
+      "imdbId": "tt30057115"
     },
     {
       "id": 1389765,
@@ -1473,7 +1485,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
@@ -1698,7 +1710,7 @@
       "id": 1247605,
       "title": "The Beatles: Paul",
       "releaseDate": "2028-04-07",
-      "poster": "https://image.tmdb.org/t/p/w92/zsTGu317CLzXIuK7UrZIs9hzSG3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/rsNVPk0LVLAdQWitUyNOs6CnxU3.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sam Mendes",
@@ -1710,7 +1722,7 @@
       "id": 1247603,
       "title": "The Beatles: George",
       "releaseDate": "2028-04-07",
-      "poster": "https://image.tmdb.org/t/p/w92/o0q6VkhLIJ61jEAgICMuiyJnkU4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/u8gHlhqnAYihvCPgIZj6cGxp78Z.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sam Mendes",
@@ -1722,7 +1734,7 @@
       "id": 1247601,
       "title": "The Beatles: John",
       "releaseDate": "2028-04-07",
-      "poster": "https://image.tmdb.org/t/p/w92/8D43huy0a5P8TcfQIvVfW35XD9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/i81oHo6rIHrN6noQ0b7Z29diw90.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Sam Mendes",
@@ -1870,7 +1882,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Charlie Bean",
-      "studioStr": "DreamWorks Animation",
+      "studioStr": "DreamWorks Animation / Universal Pictures",
       "prestige": true,
       "imdbId": "tt43619974"
     },
