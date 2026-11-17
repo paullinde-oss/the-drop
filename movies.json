@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T20:52:41.733Z",
-  "count": 174,
+  "generatedAt": "2026-11-17T19:36:09.620Z",
+  "count": 177,
   "movies": [
     {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -18,13 +18,25 @@
       "id": 1400336,
       "title": "Focker-in-Law",
       "releaseDate": "2026-11-21",
-      "poster": "https://image.tmdb.org/t/p/w92/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "John Hamburg",
       "studioStr": "Universal Pictures / Tribeca Productions",
       "prestige": true,
       "imdbId": "tt34966140"
+    },
+    {
+      "id": 1828101,
+      "title": "The Lord of the Rings: The Rings of Power – Forging the One Ring",
+      "releaseDate": "2026-11-23",
+      "poster": "https://image.tmdb.org/t/p/w92/d9moHIig8e21mN1RCk8zu80ld3k.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Stefan Schwartz",
+      "studioStr": "Amazon Studios / New Line Cinema",
+      "prestige": true,
+      "imdbId": "tt41902195"
     },
     {
       "id": 1280115,
@@ -42,7 +54,7 @@
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
       "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/yQggulnRAvssNRGpxOMf8CfVim6.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -246,7 +258,7 @@
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Denis Villeneuve",
@@ -421,6 +433,18 @@
       "studioStr": "TOHO / TOHO Studios",
       "prestige": true,
       "imdbId": null
+    },
+    {
+      "id": 701244,
+      "title": "The Take",
+      "releaseDate": "2027-01-15",
+      "poster": "https://image.tmdb.org/t/p/w92/1ra8PqdnBCdYC2Cq5thIDaXJl2a.jpg",
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Fernando Meirelles",
+      "studioStr": "Genre Films",
+      "prestige": false,
+      "imdbId": "tt12455636"
     },
     {
       "id": 1298205,
@@ -627,6 +651,18 @@
       "imdbId": "tt43548253"
     },
     {
+      "id": 1323717,
+      "title": "Confessions of a Brazilian Call Girl 2",
+      "releaseDate": "2027-02-25",
+      "poster": "https://image.tmdb.org/t/p/w92/d6Mq47QP3mzI4PFZ0BIpjqBYpy9.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Marcus Baldini",
+      "studioStr": "TvZERO / Paramount Pictures Brasil",
+      "prestige": true,
+      "imdbId": "tt33055902"
+    },
+    {
       "id": 1533611,
       "title": "The Revenge of La Llorona",
       "releaseDate": "2027-02-26",
@@ -726,7 +762,7 @@
       "id": 458896,
       "title": "The Nightingale",
       "releaseDate": "2027-03-19",
-      "poster": "https://image.tmdb.org/t/p/w92/ghcC57Zl7qmOZWFqvc6aPBUC2fA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michael Morris",
@@ -1485,7 +1521,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
