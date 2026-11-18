@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T19:36:09.620Z",
-  "count": 177,
+  "generatedAt": "2026-11-18T19:19:57.131Z",
+  "count": 178,
   "movies": [
     {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Francis Lawrence",
@@ -53,8 +53,8 @@
     {
       "id": 1457866,
       "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "releaseDate": "2026-11-25",
-      "poster": "https://image.tmdb.org/t/p/w92/yQggulnRAvssNRGpxOMf8CfVim6.jpg",
+      "releaseDate": "2026-11-24",
+      "poster": "https://image.tmdb.org/t/p/w92/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "David Fincher",
@@ -150,7 +150,7 @@
       "id": 1519780,
       "title": "Diary of a Wimpy Kid Christmas: The Getaway",
       "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/3yqKz67ZbcqYNJcjz7ZqGcnggyc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/aHHIMSaXLnHZlWW15cZx9bBc0kq.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Matt Danner",
@@ -270,7 +270,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -474,7 +474,7 @@
       "id": 1504880,
       "title": "Wind of Change",
       "releaseDate": "2027-01-28",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/qqdsyNxwFr5OCvTZ0PFAjzT3quH.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Alex Ranarivelo",
@@ -486,7 +486,7 @@
       "id": 1442761,
       "title": "Slayground",
       "releaseDate": "2027-01-29",
-      "poster": "https://image.tmdb.org/t/p/w92/tWeXlQQAQ9GQkZsOW8qxVv6Ki4M.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tddu1x7RGU4GVWCsnGIeo7UHYL.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Jeremy Saulnier",
@@ -762,7 +762,7 @@
       "id": 458896,
       "title": "The Nightingale",
       "releaseDate": "2027-03-19",
-      "poster": "https://image.tmdb.org/t/p/w92/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6xyB5QJz2o3XJGJPCaXz3fkYZBo.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michael Morris",
@@ -781,6 +781,18 @@
       "studioStr": "CREDEUS / TOHO",
       "prestige": true,
       "imdbId": "tt50585222"
+    },
+    {
+      "id": 1139422,
+      "title": "The Riders",
+      "releaseDate": "2027-03-25",
+      "poster": "https://image.tmdb.org/t/p/w92/uPvni8LDxBnN7CeGavZV1Sp3cxf.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Edward Berger",
+      "studioStr": "Nine Hours / Plan B Entertainment",
+      "prestige": true,
+      "imdbId": "tt9148786"
     },
     {
       "id": 1288438,
@@ -841,18 +853,6 @@
       "studioStr": "Good Hero / StudioCanal",
       "prestige": true,
       "imdbId": "tt26768234"
-    },
-    {
-      "id": 1559269,
-      "title": "Everybody Wants to F*ck Me",
-      "releaseDate": "2027-04-08",
-      "poster": "https://image.tmdb.org/t/p/w92/drBcCBZv8oYaqlKoFMoAKg17KVq.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Jonathan Schey",
-      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
-      "prestige": true,
-      "imdbId": "tt38629979"
     },
     {
       "id": 1731801,
@@ -937,6 +937,18 @@
       "studioStr": "Nintendo / Arad Productions",
       "prestige": true,
       "imdbId": "tt29873948"
+    },
+    {
+      "id": 1559269,
+      "title": "Everybody Wants to F*ck Me",
+      "releaseDate": "2027-05-06",
+      "poster": "https://image.tmdb.org/t/p/w92/drBcCBZv8oYaqlKoFMoAKg17KVq.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Jonathan Schey",
+      "studioStr": "StudioCanal UK / LuckyChap Entertainment",
+      "prestige": true,
+      "imdbId": "tt38629979"
     },
     {
       "id": 532652,
