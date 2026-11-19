@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-11-18T19:19:57.131Z",
-  "count": 178,
+  "generatedAt": "2026-11-19T19:24:28.492Z",
+  "count": 177,
   "movies": [
-    {
-      "id": 1300968,
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "releaseDate": "2026-11-18",
-      "poster": "https://image.tmdb.org/t/p/w92/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Francis Lawrence",
-      "studioStr": "Lionsgate / Color Force",
-      "prestige": true,
-      "imdbId": "tt32558705"
-    },
     {
       "id": 1400336,
       "title": "Focker-in-Law",
@@ -234,7 +222,7 @@
       "id": 1213643,
       "title": "Killing Castro",
       "releaseDate": "2026-12-11",
-      "poster": "https://image.tmdb.org/t/p/w92/5pNmqh1lcCGfuXZTWLjMI1wQpVa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/fagy0gsiGr6HdrDs59pptyBic5F.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Eif Rivera",
@@ -270,7 +258,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -558,7 +546,7 @@
       "id": 1466228,
       "title": "The Comeback King",
       "releaseDate": "2027-02-05",
-      "poster": "https://image.tmdb.org/t/p/w92/37ii02yqhWAbNYS3VxXYPp9wDGD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/dHMQSBUsIh3epsx9MbFzG6RfsGK.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Judd Apatow",
@@ -588,7 +576,7 @@
       "directorStr": "Michihito Fujii, Ryohei Shingu",
       "studioStr": "TOHO",
       "prestige": true,
-      "imdbId": null
+      "imdbId": "tt50489195"
     },
     {
       "id": 1147572,
@@ -762,7 +750,7 @@
       "id": 458896,
       "title": "The Nightingale",
       "releaseDate": "2027-03-19",
-      "poster": "https://image.tmdb.org/t/p/w92/6xyB5QJz2o3XJGJPCaXz3fkYZBo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Michael Morris",
@@ -802,7 +790,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Grant Sputore",
-      "studioStr": "Legendary Pictures / Warner Bros. Pictures",
+      "studioStr": "Legendary Pictures",
       "prestige": true,
       "imdbId": "tt32561550"
     },
