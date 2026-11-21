@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T19:03:01.869Z",
-  "count": 177,
+  "generatedAt": "2026-11-21T17:57:55.501Z",
+  "count": 174,
   "movies": [
     {
       "id": 1400336,
@@ -13,18 +13,6 @@
       "studioStr": "Universal Pictures / Tribeca Productions",
       "prestige": true,
       "imdbId": "tt34966140"
-    },
-    {
-      "id": 1828101,
-      "title": "The Lord of the Rings: The Rings of Power – Forging the One Ring",
-      "releaseDate": "2026-11-23",
-      "poster": "https://image.tmdb.org/t/p/w92/d9moHIig8e21mN1RCk8zu80ld3k.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Stefan Schwartz",
-      "studioStr": "Amazon Studios / New Line Cinema",
-      "prestige": true,
-      "imdbId": "tt41902195"
     },
     {
       "id": 1280115,
@@ -246,7 +234,7 @@
       "id": 1170608,
       "title": "Dune: Part Three",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/6ODf9xMLsaOSK9tC4Ter8H1Bjsq.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Denis Villeneuve",
@@ -258,7 +246,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -433,18 +421,6 @@
       "studioStr": "Genre Films",
       "prestige": false,
       "imdbId": "tt12455636"
-    },
-    {
-      "id": 1298205,
-      "title": "Kung Fu Panda 5",
-      "releaseDate": "2027-01-21",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": null,
-      "studioStr": "DreamWorks Animation",
-      "prestige": true,
-      "imdbId": null
     },
     {
       "id": 1115030,
@@ -1609,18 +1585,6 @@
       "studioStr": "Bad Robot / Zipper Bros Films",
       "prestige": true,
       "imdbId": "tt34622084"
-    },
-    {
-      "id": 1683034,
-      "title": "John Doe",
-      "releaseDate": "2028-01-14",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "David Ayer",
-      "studioStr": "Miramax / Punch Palace Productions",
-      "prestige": true,
-      "imdbId": "tt42171078"
     },
     {
       "id": 1625381,
