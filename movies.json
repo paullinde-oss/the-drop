@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:17:32.980Z",
+  "generatedAt": "2026-11-23T22:30:23.066Z",
   "count": 175,
   "movies": [
     {
@@ -234,7 +234,7 @@
       "id": 1003596,
       "title": "Avengers: Doomsday",
       "releaseDate": "2026-12-18",
-      "poster": "https://image.tmdb.org/t/p/w92/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Joe Russo, Anthony Russo",
@@ -642,7 +642,7 @@
       "id": 1517333,
       "title": "K-POP: The Debut",
       "releaseDate": "2027-02-26",
-      "poster": "https://image.tmdb.org/t/p/w92/bGz5IMugwOsoyASG5AwEy0NpZMg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/k6p8n5fILMdPYEHZBj7bIb6pbwB.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Benson Lee",
