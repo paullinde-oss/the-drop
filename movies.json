@@ -1,31 +1,7 @@
 {
-  "generatedAt": "2026-11-24T21:05:01.094Z",
-  "count": 175,
+  "generatedAt": "2026-11-25T20:26:21.706Z",
+  "count": 172,
   "movies": [
-    {
-      "id": 1280115,
-      "title": "Way of the Warrior Kid",
-      "releaseDate": "2026-11-24",
-      "poster": "https://image.tmdb.org/t/p/w92/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
-      "format": "digital",
-      "reRelease": false,
-      "directorStr": "McG",
-      "studioStr": "Skydance Media / Indivisible Productions",
-      "prestige": true,
-      "imdbId": "tt32213169"
-    },
-    {
-      "id": 1457866,
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "releaseDate": "2026-11-24",
-      "poster": "https://image.tmdb.org/t/p/w92/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
-      "format": "streaming",
-      "reRelease": false,
-      "directorStr": "David Fincher",
-      "studioStr": "Netflix / Plan B Entertainment",
-      "prestige": true,
-      "imdbId": "tt36408401"
-    },
     {
       "id": 1137888,
       "title": "The Man with the Bag",
@@ -102,7 +78,7 @@
       "id": 1572423,
       "title": "Games We Play",
       "releaseDate": "2026-12-04",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/s817qPF555GM6eUZrx2y7dV7Av6.jpg",
       "format": "digital",
       "reRelease": false,
       "directorStr": "Rachael Dahl",
@@ -390,7 +366,7 @@
       "id": 1761856,
       "title": "Storm",
       "releaseDate": "2027-01-15",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w92/7A50MxZcU19YOsFGDsB2pBgHOG9.jpg",
       "format": "streaming",
       "reRelease": false,
       "directorStr": "Edouard Salier",
@@ -1359,18 +1335,6 @@
       "imdbId": "tt11998406"
     },
     {
-      "id": 1215281,
-      "title": "Naughty",
-      "releaseDate": "2027-11-05",
-      "poster": "https://image.tmdb.org/t/p/w92/seM81lJJmKyGMOYxWtgLM702TNX.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Olivia Wilde",
-      "studioStr": "LuckyChap Entertainment / Universal Pictures",
-      "prestige": true,
-      "imdbId": "tt30343245"
-    },
-    {
       "id": 1710881,
       "title": "Treasure Island",
       "releaseDate": "2027-11-11",
@@ -1497,7 +1461,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Joe Russo, Anthony Russo",
+      "directorStr": "Anthony Russo, Joe Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
