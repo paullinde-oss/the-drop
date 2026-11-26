@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T20:26:21.706Z",
-  "count": 172,
+  "generatedAt": "2026-11-26T20:03:06.713Z",
+  "count": 173,
   "movies": [
     {
       "id": 1137888,
@@ -243,6 +243,18 @@
       "imdbId": "tt26735127"
     },
     {
+      "id": 1421903,
+      "title": "Werwulf",
+      "releaseDate": "2026-12-25",
+      "poster": "https://image.tmdb.org/t/p/w92/whdGCRa5giUYXPJy7wzUvxllM6i.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Robert Eggers",
+      "studioStr": "Working Title / Maiden Voyage Pictures",
+      "prestige": true,
+      "imdbId": "tt35514120"
+    },
+    {
       "id": 1824966,
       "title": "Disney Parks Magical Christmas Day Parade",
       "releaseDate": "2026-12-25",
@@ -253,18 +265,6 @@
       "studioStr": "Disney Parks Programming",
       "prestige": true,
       "imdbId": null
-    },
-    {
-      "id": 1421903,
-      "title": "Werwulf",
-      "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Robert Eggers",
-      "studioStr": "Working Title / Maiden Voyage Pictures",
-      "prestige": true,
-      "imdbId": "tt35514120"
     },
     {
       "id": 1372443,
@@ -1050,7 +1050,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/4YdKfBsvEpRSq3BxAJL46xlAVZe.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
@@ -1177,6 +1177,18 @@
       "studioStr": "Paramount Primal / Blumhouse Atomic",
       "prestige": true,
       "imdbId": "tt34381444"
+    },
+    {
+      "id": 1847156,
+      "title": "Spinoza's Clinic",
+      "releaseDate": "2027-08-27",
+      "poster": "https://image.tmdb.org/t/p/w92/scfjA3XaagZQTIEPkVACB5JmfYI.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Ryota Nakano",
+      "studioStr": "Shochiku",
+      "prestige": true,
+      "imdbId": null
     },
     {
       "id": 1554353,
@@ -1461,7 +1473,7 @@
       "poster": "https://image.tmdb.org/t/p/w92/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
       "format": "theatrical",
       "reRelease": false,
-      "directorStr": "Anthony Russo, Joe Russo",
+      "directorStr": "Joe Russo, Anthony Russo",
       "studioStr": "Marvel Studios / Kevin Feige Productions",
       "prestige": true,
       "imdbId": "tt21361444"
