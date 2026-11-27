@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T20:03:06.713Z",
-  "count": 173,
+  "generatedAt": "2026-11-27T19:53:27.578Z",
+  "count": 175,
   "movies": [
     {
       "id": 1137888,
@@ -42,7 +42,7 @@
       "id": 1452168,
       "title": "Behemoth!",
       "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/tlP9FKIJV4goEKH5160Hz8Gc32i.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Tony Gilroy",
@@ -330,7 +330,7 @@
       "id": 1440769,
       "title": "The Beekeeper 2",
       "releaseDate": "2027-01-15",
-      "poster": "https://image.tmdb.org/t/p/w92/8abow3kX8t5TPythvnL3L5FVxNK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/kY4QnQsyjAKltT18raxf5YOGsH0.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Timo Tjahjanto",
@@ -409,6 +409,18 @@
       "studioStr": "Legendary Pictures / Maximum Effort",
       "prestige": true,
       "imdbId": "tt16911616"
+    },
+    {
+      "id": 1477319,
+      "title": "Our Fault: London",
+      "releaseDate": "2027-01-22",
+      "poster": null,
+      "format": "digital",
+      "reRelease": false,
+      "directorStr": "Chanya Button",
+      "studioStr": "Pokeepsie Films / 42",
+      "prestige": true,
+      "imdbId": "tt36958375"
     },
     {
       "id": 1504880,
@@ -819,18 +831,6 @@
       "imdbId": "tt34900169"
     },
     {
-      "id": 1263022,
-      "title": "Get Lite",
-      "releaseDate": "2027-04-09",
-      "poster": null,
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "Teyana Taylor",
-      "studioStr": "A Seed & Wings Production (US) / Khalabo Ink Society",
-      "prestige": true,
-      "imdbId": "tt13655056"
-    },
-    {
       "id": 1718699,
       "title": "Not Alone",
       "releaseDate": "2027-04-16",
@@ -846,7 +846,7 @@
       "id": 1437882,
       "title": "A Place in Hell",
       "releaseDate": "2027-04-23",
-      "poster": "https://image.tmdb.org/t/p/w92/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bvHeEGtiPK2xDEwTsFQ9c9I1JW.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Chloe Domont",
@@ -1050,7 +1050,7 @@
       "id": 1523140,
       "title": "Man of Tomorrow",
       "releaseDate": "2027-07-09",
-      "poster": "https://image.tmdb.org/t/p/w92/4YdKfBsvEpRSq3BxAJL46xlAVZe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/ddGvmGaA2HSIEL9uqVCKcTMBQBE.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "James Gunn",
@@ -1119,6 +1119,18 @@
       "imdbId": "tt41857193"
     },
     {
+      "id": 1707175,
+      "title": "War Machine: A New Troublemakers",
+      "releaseDate": "2027-08-02",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Michael Jackson",
+      "studioStr": "Universal Studios",
+      "prestige": true,
+      "imdbId": "tt40502780"
+    },
+    {
       "id": 1477483,
       "title": "Snoop",
       "releaseDate": "2027-08-06",
@@ -1165,6 +1177,18 @@
       "studioStr": "Gaumont / Gaumont Animation",
       "prestige": true,
       "imdbId": "tt1458167"
+    },
+    {
+      "id": 1263022,
+      "title": "Get Lite",
+      "releaseDate": "2027-08-20",
+      "poster": null,
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Teyana Taylor",
+      "studioStr": "A Seed & Wings Production (US) / Khalabo Ink Society",
+      "prestige": true,
+      "imdbId": "tt13655056"
     },
     {
       "id": 1380718,
