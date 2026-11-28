@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T19:53:27.578Z",
-  "count": 175,
+  "generatedAt": "2026-11-28T18:45:47.566Z",
+  "count": 176,
   "movies": [
     {
       "id": 1137888,
@@ -42,7 +42,7 @@
       "id": 1452168,
       "title": "Behemoth!",
       "releaseDate": "2026-12-04",
-      "poster": "https://image.tmdb.org/t/p/w92/tlP9FKIJV4goEKH5160Hz8Gc32i.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Tony Gilroy",
@@ -246,7 +246,7 @@
       "id": 1421903,
       "title": "Werwulf",
       "releaseDate": "2026-12-25",
-      "poster": "https://image.tmdb.org/t/p/w92/whdGCRa5giUYXPJy7wzUvxllM6i.jpg",
+      "poster": "https://image.tmdb.org/t/p/w92/jRG1yzGvN0OC0Umon2mzLrFRVll.jpg",
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Robert Eggers",
@@ -519,18 +519,6 @@
       "imdbId": "tt36593129"
     },
     {
-      "id": 1694218,
-      "title": "Summer Of Fire",
-      "releaseDate": "2027-02-10",
-      "poster": "https://image.tmdb.org/t/p/w92/9ATlvj7yHgaDqptna0ZX7Xgh5ts.jpg",
-      "format": "theatrical",
-      "reRelease": false,
-      "directorStr": "François Ozon",
-      "studioStr": "FOZ / France 2 Cinéma",
-      "prestige": true,
-      "imdbId": "tt43653638"
-    },
-    {
       "id": 1752217,
       "title": "Leviathan",
       "releaseDate": "2027-02-11",
@@ -673,6 +661,18 @@
       "studioStr": "Pixar",
       "prestige": true,
       "imdbId": "tt43621603"
+    },
+    {
+      "id": 1694218,
+      "title": "Summer Of Fire",
+      "releaseDate": "2027-03-10",
+      "poster": "https://image.tmdb.org/t/p/w92/9ATlvj7yHgaDqptna0ZX7Xgh5ts.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "François Ozon",
+      "studioStr": "FOZ / France 2 Cinéma",
+      "prestige": true,
+      "imdbId": "tt43653638"
     },
     {
       "id": 1297467,
@@ -850,7 +850,7 @@
       "format": "theatrical",
       "reRelease": false,
       "directorStr": "Chloe Domont",
-      "studioStr": "T-Street / MRC",
+      "studioStr": "NEON / Republic Pictures",
       "prestige": true,
       "imdbId": "tt36931184"
     },
@@ -1369,6 +1369,18 @@
       "studioStr": "The Roald Dahl Story Company / Sony Pictures Imageworks",
       "prestige": true,
       "imdbId": "tt11998406"
+    },
+    {
+      "id": 1215281,
+      "title": "Naughty",
+      "releaseDate": "2027-11-05",
+      "poster": "https://image.tmdb.org/t/p/w92/seM81lJJmKyGMOYxWtgLM702TNX.jpg",
+      "format": "theatrical",
+      "reRelease": false,
+      "directorStr": "Olivia Wilde",
+      "studioStr": "LuckyChap Entertainment / Universal Pictures",
+      "prestige": true,
+      "imdbId": "tt30343245"
     },
     {
       "id": 1710881,
